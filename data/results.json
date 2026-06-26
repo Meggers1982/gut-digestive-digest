@@ -1,1 +1,821 @@
-{"last_updated": "", "total_studies": 0, "studies": []}
+{
+  "last_updated": "2026-06-26T13:18:19.045709+00:00",
+  "total_studies": 25,
+  "new_this_run": 25,
+  "studies": [
+    {
+      "pmid": "42343625",
+      "headline": "Clearing hepatitis C doesn't fully reset the liver \u2014 metabolic damage lingers and keeps driving cancer risk",
+      "journal": "Clinical and Molecular Hepatology",
+      "pubdate": "2026 Jun 25",
+      "doi": "10.3350/cmh.2026.0387",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review examines the intersection of chronic viral hepatitis (hepatitis B and C) and metabolic dysfunction-associated steatotic liver disease (MASLD), synthesizing current evidence on how the two conditions interact to drive liver fibrosis and hepatocellular carcinoma (HCC). The authors describe a 'steatosis paradox' in hepatitis B, where fatty liver tissue may actually suppress viral replication locally while simultaneously accelerating fibrosis and HCC risk through systemic metabolic burden. For hepatitis C, the virus actively disrupts lipid metabolism and induces insulin resistance, and the review finds that even after successful viral eradication with direct-acting antivirals, residual steatosis and blood sugar dysregulation continue to drive HCC risk. No new primary data were collected; this is a synthesis of existing research.",
+      "why_it_matters": "As fatty liver disease becomes one of the most common liver conditions worldwide, understanding how it compounds the damage from viral hepatitis \u2014 and continues to do so even after the virus is cleared \u2014 has major implications for how clinicians monitor and manage patients long after antiviral treatment ends.",
+      "caveats": "observational design, secondary analysis",
+      "fact_check_note": "This is a review article, not a primary study. The 'steatosis paradox' and post-viral residual risk claims are accurately drawn from the abstract. No N is applicable as no primary data were collected. Summary reflects this accurately.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong hepatology relevance with a genuinely counterintuitive finding (steatosis paradox in HBV), and real-world significance for a growing patient population, but it is a review with no new primary data and no microbiome or dietary intervention component.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / Healthline / General health",
+          "headline": "Curing Hepatitis C Doesn't Fully Protect Your Liver \u2014 Here's the Metabolic Threat That Remains",
+          "hook": "Millions of people have been cured of hepatitis C with modern antivirals, but new evidence suggests their liver cancer risk doesn't disappear \u2014 because fatty liver disease picks up where the virus left off.",
+          "why_it_fits": "The Atlantic's health readers and Healthline's audience both track the long arc of chronic disease management; this story reframes 'cured' as a more complicated concept and connects viral hepatitis to the mainstream fatty liver epidemic.",
+          "pitch_angle": "Direct-acting antivirals have transformed hepatitis C from a death sentence into a curable disease \u2014 but researchers are finding that the metabolic damage the virus leaves behind, including fatty liver and insulin resistance, continues driving liver cancer risk even after the virus is gone. At the same time, a surprising 'paradox' in hepatitis B suggests that fatty liver may actually suppress the virus locally while accelerating systemic harm. As fatty liver disease reaches epidemic proportions globally, understanding how it interacts with viral hepatitis is reshaping how liver specialists think about long-term care.",
+          "caveats_to_flag": "This is a review article synthesizing existing research, not a new clinical trial. Causal direction between MASLD and post-viral HCC risk has not been definitively established in prospective human studies. Journalists should note the distinction between association and proven causation."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340872",
+      "headline": "Combining three indirect imaging signs on CT and MRI catches tiny pancreatic cancers that are otherwise nearly invisible",
+      "journal": "Digestion",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1159/000552273",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a study of 49 patients with irregular main pancreatic duct caliber on imaging (22 malignant cases, 17 of which were high-grade pancreatic intraepithelial neoplasia), researchers evaluated three indirect imaging findings \u2014 branch pancreatic duct dilation, focal pancreatic parenchymal atrophy (FPPA), and main pancreatic duct stenosis \u2014 on CT, MRI, and endoscopic retrograde pancreatography. The combination of all three findings achieved 85.2% specificity for malignancy, while FPPA alone was significantly associated with early-stage pancreatic cancer across all imaging modalities. The study found moderate-to-almost-perfect intermodality agreement, suggesting these findings are reliably detected across imaging platforms.",
+      "why_it_matters": "Pancreatic cancer has one of the worst prognoses of any cancer largely because it is rarely caught at an early stage; identifying reliable indirect imaging markers that signal cancer before a visible mass forms could meaningfully shift survival odds for a disease with a five-year survival rate below 13%.",
+      "caveats": "small sample (N<100), single-center, retrospective design",
+      "fact_check_note": "N=49 total patients confirmed from abstract (22 malignant, 27 benign/control). Study focused on early pancreatic cancer (\u226410mm) and high-grade PanIN \u2014 this is correctly characterized as early-stage disease. Specificity of 85.2% confirmed for the combination of MPD stenosis with FPPA and all three findings combined. Diagnostic accuracy of 77.6% confirmed for BPD dilation + FPPA combination.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to gastroenterology and digestive disease journalism (pancreatic cancer early detection is a high-interest topic), but the very small sample (N=49), single-center design, and absence of microbiome, diet, or gut health angle limit its fit for this digest's core audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "Three Subtle Signs on a Routine Scan Could Flag Pancreatic Cancer Before It's Visible",
+          "hook": "A new study found that combining three indirect imaging clues on CT or MRI \u2014 none of which requires seeing a tumor directly \u2014 correctly identified malignancy with 85% specificity in patients with early-stage pancreatic cancer.",
+          "why_it_fits": "Healthline readers frequently search for actionable information about cancer screening and early detection, and pancreatic cancer's notoriously poor survival statistics make any early-detection advance newsworthy.",
+          "pitch_angle": "Pancreatic cancer kills roughly 50,000 Americans each year, and most cases are diagnosed only after the disease has spread \u2014 largely because early tumors are too small to appear clearly on standard imaging. A new study from Japan suggests that three subtle secondary signs visible on CT and MRI, including a focal shrinkage of pancreatic tissue and dilation of small pancreatic ducts, may flag cancer before a mass is even detectable. When combined, these findings achieved 85% specificity for malignancy. The research is small and preliminary, but it points toward a diagnostic checklist that radiologists and gastroenterologists could apply to patients who show ambiguous duct irregularities.",
+          "caveats_to_flag": "Very small study (N=49), single center in Japan, retrospective design \u2014 findings need validation in larger, prospective, multicenter cohorts before clinical adoption; sensitivity data should also be reported and discussed."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42333575",
+      "headline": "A new way to measure acid reflux predicts who will actually respond to PPIs \u2014 and the standard test misses it",
+      "journal": "The American Journal of Gastroenterology",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.14309/ajg.0000000000004092",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at Campus Bio Medico University of Rome retrospectively analyzed impedance-pH monitoring data from 174 GERD patients (97 PPI responders, 77 non-responders) to test whether a new metric \u2014 Total Integrated Acidity Exposure (TIAE) \u2014 better predicted response to proton pump inhibitor (PPI) therapy than the conventional Acid Exposure Time (AET). TIAE accounts for the actual hydrogen ion concentration load over time, rather than simply the percentage of time esophageal pH drops below 4. TIAE significantly outperformed AET in predicting PPI response (AUC 0.78 vs. 0.64), and was especially useful in patients with inconclusive AET readings in the borderline 4\u20136% range \u2014 a clinically common gray zone where treatment decisions are notoriously difficult.",
+      "why_it_matters": "Millions of people take PPIs for GERD, yet a substantial proportion don't respond \u2014 this finding suggests that the standard diagnostic metric may be leaving treatable patients unidentified or directing non-responders toward a drug that won't help them. A more precise measure of acid burden could eventually help clinicians make better-informed treatment decisions for one of the most widely managed digestive conditions.",
+      "caveats": "small sample (N<100 per group), observational design, single-center, retrospective analysis, secondary analysis",
+      "fact_check_note": "N=174 total (97 responders, 77 non-responders) \u2014 noted accurately. AUC values 0.78 vs. 0.64 confirmed from abstract. TIAE described correctly as integrating H+ concentration at 1-second resolution. Very low pH (<2) noted as having strongest association with treatment response \u2014 included in summary context. No dietary or microbiome data present; 'Major dietary or microbiome implication' tag replaced with digestive disease clinical relevance framing in summary.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly addresses one of the most prevalent digestive conditions (GERD) and a medication used by tens of millions, but is a single-center retrospective technical validation study with no dietary, microbiome, or lifestyle component \u2014 limiting broader gut health journalism angles.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "The Acid Reflux Test Your Doctor Uses May Not Tell the Full Story \u2014 Scientists Have a Better One",
+          "hook": "A standard test used to diagnose acid reflux severity fails to predict whether the most commonly prescribed treatment will actually work \u2014 but a new measurement method does.",
+          "why_it_fits": "Healthline readers are often managing chronic digestive conditions and actively seeking to understand why treatments do or don't work for them.",
+          "pitch_angle": "Acid exposure time (AET) has been the go-to metric for measuring how severe someone's acid reflux is \u2014 but a new study found it's a poor predictor of whether PPI therapy will help. Researchers developed TIAE, a metric that accounts for the actual chemical load of acid in the esophagus rather than just the duration of exposure, and found it was far more accurate at identifying who would respond to treatment. For the millions of people who take PPIs without meaningful relief, this research hints at why the standard diagnostic workup may be steering some patients in the wrong direction.",
+          "caveats_to_flag": "Retrospective single-center study of 174 patients; TIAE is not yet in clinical use; findings need prospective validation before any change in practice; no causal claims can be made."
+        },
+        {
+          "publication_type": "The Atlantic / Wired",
+          "headline": "We've Been Measuring Acid Reflux Wrong. A New Metric Is More Honest About the Physics.",
+          "hook": "The standard way doctors measure acid reflux ignores basic chemistry \u2014 and a study now shows that oversight may explain why so many patients don't get better on the most-prescribed drug in gastroenterology.",
+          "why_it_fits": "The Atlantic and Wired readers are drawn to stories where a widely accepted clinical assumption turns out to rest on a flawed or oversimplified model \u2014 this is exactly that story, with real patient consequences.",
+          "pitch_angle": "pH is a logarithmic scale, which means a reading of 1 represents ten times more acid than a reading of 2 \u2014 yet the standard GERD diagnostic metric, acid exposure time, treats all pH values below 4 as equivalent. A new study proposes measuring the actual hydrogen ion load over time and finds it dramatically outperforms the conventional approach at predicting who will respond to PPI therapy. The story raises a broader question about how many clinical measurements in medicine are built on convenient approximations rather than the underlying physiology.",
+          "caveats_to_flag": "Retrospective design at a single Italian academic center; N=174; the new metric requires the same impedance-pH testing infrastructure already used in specialist settings; not yet validated in a prospective trial."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42340607",
+      "headline": "A new probiotic strain isolated from aged meat survives bile, sticks to gut cells, and fights food mold \u2014 but it's only been tested in the lab",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1007/s12602-026-11110-x",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Korean researchers characterized Lactiplantibacillus plantarum KM2, a novel strain isolated from low-temperature-aged meat, evaluating its safety, fermentation performance, and probiotic potential using in vitro and genomic methods. Compared to the reference strain L. plantarum KCTC 3108T, KM2 showed greater bile salt tolerance, higher intestinal adhesion ability, and antifungal activity against three spoilage and pathogenic fungi (Penicillium citrinum, P. camemberti, and Cladosporium spp.). Whole-genome sequencing identified gene clusters linked to salt tolerance, stress resistance, and antimicrobial activity, including plasmid-encoded osmoprotectant systems not found in the reference strain. No human or animal trials were conducted.",
+      "why_it_matters": "Lactiplantibacillus plantarum strains are among the most widely used probiotics in fermented foods and supplements \u2014 identifying new strains with enhanced gut survival traits and antifungal properties is relevant to both probiotic food development and the broader question of what makes a probiotic candidate viable in the human digestive environment.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "Study is entirely in vitro and genomic \u2014 no human or animal trial data. One author (Oh SE) is affiliated with Korea Yakult Co., Ltd., a commercial probiotic company, though the conflict of interest statement declares no competing interests. This affiliation was noted in the author list and warrants disclosure in any coverage.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Topically relevant to probiotics and fermented foods \u2014 a strong gut health topic \u2014 but the in vitro and genomic-only design with no human or animal outcomes limits its journalistic weight significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "Scientists Found a Promising New Probiotic Strain in Aged Meat \u2014 Here's What It Can (and Can't) Do",
+          "hook": "A bacterial strain pulled from low-temperature-aged meat can survive the harsh acids and bile of the human digestive tract in lab tests and may even fight food mold \u2014 raising questions about where the next generation of probiotics might come from.",
+          "why_it_fits": "Well+Good and Prevention readers are actively interested in probiotics, fermented foods, and gut health, and the unexpected origin story (aged meat) adds a counterintuitive hook.",
+          "pitch_angle": "Most probiotic research focuses on familiar strains from yogurt or fermented vegetables, but a new study isolated a promising Lactiplantibacillus plantarum strain from aged meat and found it outperformed a standard reference strain in key probiotic benchmarks \u2014 sticking to intestinal cells better and surviving bile more effectively in lab conditions. The strain also showed antifungal properties that could make it useful for food preservation. The catch: all of this has been shown only in test tubes and genome sequencing, not in people, so the gap between 'promising probiotic candidate' and 'something you'd take as a supplement' remains very wide.",
+          "caveats_to_flag": "Entirely in vitro and genomic study \u2014 no human or animal data. One author is affiliated with Korea Yakult Co., Ltd., a commercial probiotic manufacturer, which should be disclosed even though the authors declare no competing interests. No clinical outcomes measured."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42339835",
+      "headline": "A newly discovered natural antimicrobial from a common soil bacterium is unusually potent against Listeria \u2014 and could replace chemical food preservatives",
+      "journal": "mBio",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1128/mbio.01188-26",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at APC Microbiome Ireland and the University of Groningen identified and characterized pumicyclin A, a novel circular bacteriocin produced by two independently isolated Bacillus pumilus strains, showing potent inhibitory activity against Listeria monocytogenes, Bacillus cereus, and other gram-positive foodborne pathogens in laboratory assays. Genomic analysis mapped a six-gene biosynthetic cluster responsible for the peptide's production, and deletion mutagenesis experiments revealed that the 32-amino-acid leader peptide is dispensable for activity while specific residues near the circularization site are essential. The mature peptide's circular structure \u2014 where N- and C-termini are covalently linked \u2014 confers greater stability than linear antimicrobial peptides, making it a candidate for food biopreservation applications. All work was conducted in vitro and in bacterial systems.",
+      "why_it_matters": "Listeria monocytogenes causes one of the most lethal foodborne illnesses and is notoriously difficult to eliminate from food processing environments \u2014 a stable, naturally derived antimicrobial peptide with potent anti-Listeria activity could offer a consumer-friendly alternative to synthetic chemical preservatives, with potential implications for food safety and gut microbial exposure.",
+      "caveats": "animal or cell study, single-center, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "'First-in-class human study' tag corrected \u2014 this is not a human study. The groundbreaking flag was revised; the study is notable as a novel characterization of a new class of circular bacteriocin with food safety implications, but it is entirely in vitro and microbial. The mBio journal and APC Microbiome Ireland affiliation (a leading microbiome research center) are verified from the abstract.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong food safety and indirect gut health angle via foodborne pathogen control and potential replacement of synthetic preservatives, published in a high-quality microbiology journal from a leading microbiome institute \u2014 modestly limited by in vitro-only design and no direct microbiome or clinical outcome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "Could a Natural Peptide From Soil Bacteria Replace the Chemical Preservatives in Your Food?",
+          "hook": "Scientists have found a newly discovered natural antimicrobial from a common bacterium that kills Listeria \u2014 one of the deadliest foodborne pathogens \u2014 with unusual potency and stability, raising the possibility of cleaner-label food preservation.",
+          "why_it_fits": "Readers at wellness-oriented publications are increasingly interested in food ingredients, label transparency, and natural alternatives to synthetic additives \u2014 a natural bacteriocin with anti-Listeria properties hits multiple interests at once.",
+          "pitch_angle": "Pumicyclin A is a newly characterized circular antimicrobial peptide produced naturally by a Bacillus pumilus bacterium, and lab tests show it's particularly effective at killing Listeria monocytogenes and Bacillus cereus \u2014 two pathogens responsible for serious foodborne illness. Its circular molecular structure (where both ends are chemically bonded together) makes it unusually stable compared to other natural antimicrobials, which tend to degrade quickly. While still in early-stage lab research with no food-system or human testing yet, it represents a broader scientific push to find natural, biology-derived preservation strategies that could eventually reduce reliance on synthetic chemical additives.",
+          "caveats_to_flag": "All findings are from in vitro bacterial assays \u2014 no food matrix testing, animal studies, or human safety data exist yet. The gap between lab discovery and food industry application is substantial. No direct gut health or microbiome outcome data."
+        },
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "Scientists Are Engineering Nature's Own Antibiotics to Keep Food Safe \u2014 Without the Chemicals",
+          "hook": "A newly identified circular bacteriocin from a soil bacterium can kill Listeria at the molecular level \u2014 and researchers have now mapped exactly which parts of the molecule make it work, opening a door to engineering even more potent versions.",
+          "why_it_fits": "Tech- and science-forward readers at Wired and The Atlantic are interested in the science of food systems, antimicrobial resistance, and biotechnology applied to everyday safety problems.",
+          "pitch_angle": "Pumicyclin A, discovered by researchers at APC Microbiome Ireland, belongs to a relatively underexplored class of antimicrobials called circular bacteriocins \u2014 naturally produced peptides whose chemically linked ends make them extraordinarily stable and hard to break down. By systematically deleting and mutating parts of the peptide's biosynthetic machinery, the team identified exactly which molecular features are essential for its activity, laying the groundwork for rational engineering of more potent variants. The broader story is about whether nature's antimicrobial toolkit \u2014 honed over billions of years of bacterial competition \u2014 can be harnessed as a precision food safety technology at a time when both synthetic preservative use and foodborne pathogen resistance are under increasing scrutiny.",
+          "caveats_to_flag": "In vitro laboratory study only \u2014 no food processing environment testing, regulatory pathway work, or human exposure data. Translation to commercial application would require extensive safety, stability, and efficacy testing in real food systems."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42341608",
+      "headline": "AI is mining human microbiomes to hunt for the next generation of antibiotics \u2014 and antifungals may be next",
+      "journal": "Current Opinion in Microbiology",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1016/j.mib.2026.102781",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This is a narrative review (not an original study) published in Current Opinion in Microbiology, surveying the past decade of advances in mining human and environmental microbiomes for novel antimicrobial compounds. The authors describe how genomic big data, AI-enabled computational tools, and experimental strategies are being used to identify biosynthetic gene clusters and antimicrobial peptides active against drug-resistant bacterial and fungal pathogens. The review specifically highlights a critical gap in the antifungal pipeline and argues that microbiome-derived compounds may help fill it. No original N is applicable; this is a literature synthesis.",
+      "why_it_matters": "With antimicrobial resistance accelerating and the antifungal drug pipeline nearly empty, the idea that the human microbiome itself could be a library of undiscovered antimicrobials represents a significant shift in how researchers think about treating infection \u2014 and positions the gut and other microbiomes as medically strategic assets.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "This is a review article, not an original research study. No sample size (N) applies. One co-author (Cesar de la Fuente-Nunez) discloses co-founder and advisory roles with multiple biotechnology companies including Peptaris Inc., which is a conflict of interest relevant to the antimicrobial peptide commercial landscape discussed in the review. Framed accordingly.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong topical relevance to the gut microbiome as a source of novel therapeutics, and the antimicrobial resistance angle has broad public health significance, but this is a narrative review with no original data, no clinical outcomes, and a relevant industry conflict of interest that limits its standalone newsworthiness.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "Your Microbiome Might Hold the Next Antibiotic \u2014 Scientists Are Using AI to Find It",
+          "hook": "As antibiotic resistance outpaces drug development, researchers are turning to an unlikely source for new treatments: the trillions of microbes already living in and on the human body.",
+          "why_it_fits": "Wired and Atlantic readers are primed for big-picture science narratives about AI, the microbiome, and the looming antibiotic resistance crisis \u2014 this review ties all three threads together.",
+          "pitch_angle": "A new review in Current Opinion in Microbiology surveys how scientists are using AI and genomic mining to extract novel antimicrobial compounds from human microbiomes \u2014 essentially treating the body's own microbial communities as an untapped pharmaceutical library. The piece arrives at a moment of real urgency: drug-resistant infections are rising faster than new antibiotics are being approved, and the antifungal pipeline is particularly thin. The authors argue that computational tools are now advanced enough to identify promising candidates that classical lab methods would miss entirely.",
+          "caveats_to_flag": "This is a narrative review, not original research \u2014 no new data is presented. One lead author has financial ties to antimicrobial peptide companies, which is a relevant conflict of interest. The technology described is largely preclinical; no new drugs have yet reached clinical approval via this route."
+        },
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "Scientists Think the Answer to Antibiotic-Resistant Infections Could Be Hiding in Your Gut",
+          "hook": "The same microbial ecosystem in your gut that researchers have linked to immunity, mood, and metabolism may also be a natural library of undiscovered antibiotics.",
+          "why_it_fits": "Healthline readers follow gut microbiome research closely and are receptive to stories that connect everyday health concepts \u2014 like the gut microbiome \u2014 to broader medical breakthroughs.",
+          "pitch_angle": "A new scientific review highlights how researchers are mining human microbiomes \u2014 including the gut \u2014 for novel antimicrobial compounds that could combat drug-resistant infections. Using AI and genomic tools, scientists are identifying bacteria-produced peptides and small molecules with potent activity against pathogens that current drugs can no longer reliably treat. The review also flags a growing crisis in antifungal medicine specifically, where the treatment pipeline is nearly empty and resistance is rising.",
+          "caveats_to_flag": "This is a review article summarizing existing research, not a new clinical finding. None of the microbiome-derived compounds described have yet become approved treatments. One co-author has disclosed financial ties to biotech firms in this space."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42339861",
+      "headline": "The Mediterranean diet is losing ground in the very countries that invented it",
+      "journal": "International Journal of Food Sciences and Nutrition",
+      "pubdate": "2026 Jun 24",
+      "doi": "10.1080/09637486.2026.2692948",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This commentary-style review by a single author examines the paradox that Mediterranean diet adherence is declining in its countries of origin \u2014 Greece, Spain, and Southern Italy \u2014 while growing in non-Mediterranean nations. The piece synthesizes existing epidemiological and public health data and does not present original research or a new study population. The author links declining adherence in origin countries to rising rates of metabolic disease and obesity, and calls for coordinated public health strategies to reverse the trend.",
+      "why_it_matters": "The fact that the world's most-studied healthy dietary pattern is being abandoned fastest where it originated suggests cultural and economic forces may undermine dietary recommendations regardless of the evidence base \u2014 a tension relevant to anyone writing about diet and public health.",
+      "caveats": "observational design, review with no original data, single author, no sample size applicable",
+      "fact_check_note": "This is a commentary/opinion review \u2014 no original study data. The 'paradox' framing is the author's interpretive argument, not a new empirical finding. Summary reflects this accurately.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Touches on a widely covered dietary pattern with real public health relevance, but is a single-author commentary with no original data, limiting its evidentiary value for science journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "The People Who Invented the Mediterranean Diet Have Stopped Eating It",
+          "hook": "The healthiest diet in the world is declining fastest in the countries that gave it its name \u2014 while the rest of the world rushes to adopt it.",
+          "why_it_fits": "The Atlantic's readers engage with cultural and sociological angles on food and health, and this paradox raises pointed questions about how globalization and economic change reshape traditional food systems.",
+          "pitch_angle": "A new review highlights a striking public health irony: Mediterranean countries like Greece, Spain, and Southern Italy are showing declining adherence to their own traditional diet, even as that diet gains popularity globally. The shift correlates with rising metabolic disease in these regions. The piece raises uncomfortable questions about whether health advice can survive the economic and cultural currents that make traditional diets hard to sustain.",
+          "caveats_to_flag": "This is a single-author commentary, not an original study \u2014 the paradox argument is interpretive and synthesizes existing data without new analysis. Journalists should seek additional expert voices."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42336601",
+      "headline": "Having a parent or sibling with precancerous colon growths significantly raises your own colorectal cancer risk \u2014 even when the relative doesn't have cancer",
+      "journal": "Clinical and Translational Gastroenterology",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.14309/ctg.0000000000001061",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This systematic review following PRISMA guidelines searched MEDLINE, EMBASE, and CENTRAL through May 2025 to quantify colorectal neoplasia risk among first-degree relatives (FDRs) of patients diagnosed with colorectal advanced adenomas (CAAs) \u2014 precancerous polyps considered key precursors to colorectal cancer. Four observational studies from diverse populations were included after screening 421 records. FDRs of CAA patients showed meaningfully elevated odds of any adenoma (OR/RR 1.33\u20133.29) and advanced neoplasia including CAA or colorectal cancer (OR/RR 1.65\u20136.33); CRC risk findings were inconsistent across studies. Risk appeared highest when the proband was under 60, had multiple adenomas, and when the FDR was male.",
+      "why_it_matters": "Current colorectal cancer screening guidelines are largely built around family history of cancer, not precancerous polyps \u2014 but this review suggests that having a close relative with advanced adenomas may itself warrant earlier or more intensive screening consideration, which could meaningfully affect millions of people who currently believe their family history puts them at average risk.",
+      "caveats": "observational design, small sample (N<100 \u2014 only 4 studies included), heterogeneous populations limiting meta-analysis, inconsistent CRC risk findings across studies",
+      "fact_check_note": "The abstract does not report a total pooled N for included studies; only four studies were included in the qualitative synthesis and heterogeneity precluded meta-analysis. The summary accurately reflects the range of effect estimates and the limitations stated in the abstract.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "High everyday relevance for readers interested in colorectal cancer prevention and screening; the finding that a family history of precancerous polyps \u2014 not just cancer \u2014 elevates risk is actionable and counterintuitive to many general readers, though the evidence base is limited to four observational studies.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / Healthline / General health",
+          "headline": "Your Family's Polyp History Matters More Than You Think for Your Colon Cancer Risk",
+          "hook": "Most people know that colorectal cancer in a close relative is a red flag \u2014 but a new review suggests that even precancerous polyps in a parent or sibling may significantly raise your own risk.",
+          "why_it_fits": "Prevention and Healthline readers actively track their cancer risk and respond to actionable, screening-adjacent health guidance \u2014 especially when it reframes a topic they thought they understood.",
+          "pitch_angle": "Colorectal cancer screening guidelines have long focused on family history of cancer itself, but a systematic review now finds that first-degree relatives of people diagnosed with advanced adenomas \u2014 the precancerous growths that precede most colorectal cancers \u2014 face meaningfully elevated odds of developing their own advanced polyps or cancer. The risk appears to be particularly pronounced when the affected relative was diagnosed young or had multiple polyps. This finding could prompt a rethinking of who qualifies for earlier screening.",
+          "caveats_to_flag": "Only four observational studies were included; findings on colorectal cancer risk specifically were inconsistent. This review cannot establish causation. Journalists should not advise readers to change their screening schedule based on this study alone, and should note that existing guidelines have not yet incorporated CAA-specific family history."
+        },
+        {
+          "publication_type": "The Atlantic / Science-forward outlets",
+          "headline": "The Colonoscopy Finding Your Relatives Never Told You About \u2014 and Why It Might Matter for Your Health",
+          "hook": "Colorectal cancer runs in families \u2014 but a new review suggests the precancerous polyps that precede it might be a warning sign worth sharing too.",
+          "why_it_fits": "The Atlantic's audience engages with the social and systemic dimensions of health; a piece on why medical history sharing within families is incomplete \u2014 and how guidelines may need updating \u2014 fits their appetite for structural health critique.",
+          "pitch_angle": "When a family member is diagnosed with colorectal cancer, most people know to mention it to their doctor. But advanced adenomas \u2014 the precancerous polyps found during routine colonoscopies \u2014 often go unshared and untracked. A new systematic review finds that having a first-degree relative with these polyps may raise your own risk of advanced colorectal neoplasia by up to six-fold. The finding raises broader questions about what medical information families share, what screening guidelines fail to account for, and how risk stratification for one of the most preventable cancers might need to evolve.",
+          "caveats_to_flag": "Evidence is based on only four observational studies with heterogeneous designs, precluding a formal meta-analysis. CRC risk findings were inconsistent. The review's authors explicitly note the evidence is insufficient to define new screening intervals. Journalists should frame this as emerging evidence prompting further research, not a call to action."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42341576",
+      "headline": "Two new bacterial species found in maple sap could protect syrup from fungal spoilage without chemicals",
+      "journal": "Systematic and Applied Microbiology",
+      "pubdate": "2026 Jun 23",
+      "doi": "10.1016/j.syapm.2026.126738",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at Universit\u00e9 Laval isolated nine Pseudomonas bacterial strains from maple sap and performed whole-genome sequencing and antifungal assays. The analysis identified five distinct Pseudomonas species, two of which are newly described (Pseudomonas acericola sp. nov. and Pseudomonas edsoni sp. nov.). Lab-based antifungal assays found that P. edsoni strains inhibited the food spoilage yeast Kluyveromyces lactis, likely through direct contact-dependent mechanisms rather than secreted compounds. This is a laboratory and genomic study, not a human or animal trial.",
+      "why_it_matters": "As consumer demand for clean-label, chemical-free food production grows, naturally occurring bacteria with antifungal properties could offer a biological alternative to preservatives in maple syrup and potentially other food systems \u2014 though this research is still at the early discovery stage.",
+      "caveats": "animal or cell study, small sample (N<100), microbiome data only (no clinical outcomes), single-center",
+      "fact_check_note": "Study is entirely laboratory-based (genomic analysis and in vitro antifungal assays); no human subjects, animal models, or clinical outcomes involved. Scored and framed accordingly.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "Fascinating food microbiology with a tenuous food-safety angle, but the study is entirely in vitro and genomic, involves environmental rather than gut microbes, and has no direct relevance to gut health, the human microbiome, or digestive disease.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / food science / general science",
+          "headline": "Scientists Found Two New Bacterial Species in Maple Sap That Could Replace Fungal Preservatives",
+          "hook": "Hidden inside maple sap, two previously unknown bacterial species are fighting fungal spoilage \u2014 and researchers think they could be harnessed to keep maple syrup cleaner, longer, without chemicals.",
+          "why_it_fits": "Wired readers are drawn to unexpected scientific discoveries at the intersection of food, ecology, and biotechnology, especially when they involve genomic tools and novel organisms.",
+          "pitch_angle": "Canadian researchers sequencing bacteria from maple sap have stumbled onto two entirely new species of Pseudomonas with a surprising talent: killing the fungi that spoil maple syrup. Using whole-genome sequencing and lab-based antifungal tests, the team identified how these microbes fight back against food spoilage yeasts \u2014 a contact-dependent mechanism that doesn't rely on secreted chemicals. The find opens the door to microbe-based biocontrol in food production, a growing area of interest as the food industry looks for natural alternatives to synthetic preservatives.",
+          "caveats_to_flag": "All findings are from lab and genomic analysis only \u2014 no food production trials have been conducted, and the jump from petri dish to maple syrup production line is significant. This is early-stage discovery science."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42339901",
+      "headline": "A surgeon in Curitiba just operated on a patient 3,200 km away using a robot \u2014 and it worked",
+      "journal": "Arquivos Brasileiros de Cirurgia Digestiva (ABCD)",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1590/0102-672020260000010e1939",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Surgeons in Brazil performed the first teleassisted robotic bariatric operation in Latin America, conducting a laparoscopic sleeve gastrectomy with one team in Curitiba, Paran\u00e1 and the other in Jo\u00e3o Pessoa, Para\u00edba \u2014 cities separated by 3,200 km. This was a single case report demonstrating technical feasibility in real time. The procedure was completed without clinically significant differences from a conventional face-to-face robotic operation, and no operative complications were reported.",
+      "why_it_matters": "Robotic telesurgery could eventually extend access to specialized bariatric surgery in regions of Latin America \u2014 and globally \u2014 where highly trained surgeons are geographically concentrated in urban centers, leaving patients in underserved areas without options.",
+      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
+      "fact_check_note": "Abstract describes a single case (N=1 procedure) involving two teams; described as the first teleassisted bariatric robotic operation in Latin America. No clinical outcomes beyond operative completion are reported. Summary accurately reflects this.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Technically significant as a first-in-class procedure and tangentially relevant to bariatric/digestive surgery, but it is a single case report with no microbiome, dietary, or digestive disease content \u2014 weak fit for gut and digestive health journalism.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / General health / Science-forward outlets",
+          "headline": "A Robot Just Performed Bariatric Surgery Across 3,200 Kilometers \u2014 Welcome to the Era of Telesurgery",
+          "hook": "For the first time in Latin America, a surgical team used a robotic system to perform weight-loss surgery on a patient thousands of kilometers away \u2014 in real time.",
+          "why_it_fits": "Wired readers are primed for stories about how technology is reshaping medicine and eliminating geographic barriers to care.",
+          "pitch_angle": "Brazilian surgeons just pulled off the continent's first long-distance robotic bariatric operation, controlling instruments in Jo\u00e3o Pessoa from a console in Curitiba. The proof-of-concept suggests telesurgery could one day bring specialist surgical care to underserved regions \u2014 though it's still very early days. This is a window into how robotics and high-speed networks are beginning to dissolve the geography of medicine.",
+          "caveats_to_flag": "This is a single case report \u2014 N=1. No comparative outcome data exists yet, and the technology depends on robust, low-latency network infrastructure not universally available. Journalists should resist overstating readiness for widespread clinical use."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42339898",
+      "headline": "3D CT scans reveal why complex hiatal hernia repairs fail \u2014 and show the 'neo-esophagus' looks surprisingly normal",
+      "journal": "Arquivos Brasileiros de Cirurgia Digestiva (ABCD)",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1590/0102-67202026000006e1935",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers studied nine patients who had previously undergone Collis gastroplasty \u2014 a complex surgical lengthening of the esophagus \u2014 combined with hiatal hernia repair, using three-dimensional computed tomography reconstruction to evaluate postoperative anatomy and screen for recurrence. After a median follow-up of 34 months, hiatal hernia recurrence was detected in three of nine patients, and two were symptomatic. Notably, the surgically created 'neo-esophagus' tube was morphologically similar to the native esophagus in all patients, but the fundoplication wrap covered it in only two of nine cases \u2014 a finding with potential implications for understanding repair failure.",
+      "why_it_matters": "Hiatal hernia and GERD affect millions of people globally, and complex surgical repairs carry meaningful recurrence rates that are poorly understood; 3D CT imaging may offer surgeons a clearer window into why repairs fail and how to improve them.",
+      "caveats": "small sample (N<100), single-center, short follow-up, observational design",
+      "fact_check_note": "Abstract confirms N=9, median follow-up of 34 months, and recurrence in 3 patients. The fundoplication coverage finding (2 of 9 patients) is drawn directly from the abstract. Summary is accurate.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Tangentially relevant to digestive surgery and GERD, but this is a small surgical imaging case series with N=9 and no dietary, microbiome, or digestive disease content \u2014 minimal fit for the target journalism audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Science-forward outlets",
+          "headline": "Why Hiatal Hernia Surgery Sometimes Fails \u2014 and How 3D Imaging Is Starting to Show Us",
+          "hook": "One-third of patients who underwent a complex hiatal hernia repair had their hernia return within three years \u2014 and new 3D CT imaging is revealing why repairs come undone.",
+          "why_it_fits": "Readers dealing with chronic GERD or hiatal hernia are a large, engaged audience on health platforms; a story about surgical failure rates and emerging imaging tools gives them useful context.",
+          "pitch_angle": "Hiatal hernia surgery fails more often than many patients realize, and surgeons have had limited tools to understand why. A small Brazilian study using three-dimensional CT reconstruction found that in a complex repair procedure, the protective stomach wrap that is meant to reinforce the repair was not actually covering the surgical site in seven of nine patients \u2014 a finding that could help explain recurrence. While the study is very small, it points toward how better postoperative imaging might eventually improve surgical planning and outcomes for the millions of people living with GERD and hiatal hernia.",
+          "caveats_to_flag": "Only nine patients were studied at a single center with under three years of follow-up. This is a proof-of-concept imaging study, not a clinical outcome trial. Journalists should not generalize recurrence rates to the broader surgical population."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42329555",
+      "headline": "A new risk model built from 25,000 esophageal cancer surgeries can better predict which patients will develop a dangerous post-op complication",
+      "journal": "Esophagus: Official Journal of the Japan Esophageal Society",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1007/s10388-026-01223-1",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers used data from 20,113 patients who underwent esophagectomy for esophageal or gastroesophageal junction (GEJ) cancer in Japan between 2016 and 2019, drawn from a nationwide clinical registry, to develop a perioperative risk model for anastomotic leakage \u2014 a serious and potentially life-threatening post-surgical complication occurring in approximately 14% of cases. The model combined preoperative, intraoperative, and early postoperative variables (within 72 hours), and was externally validated in an additional 5,147 patients from 2020. The perioperative model outperformed a preoperative-only model in predicting leakage (C-statistic 0.610 vs. 0.565), though predictive performance remained modest.",
+      "why_it_matters": "Anastomotic leakage after esophagectomy is a leading cause of postoperative morbidity and death in esophageal cancer patients; even modestly better risk prediction from a validated large-scale model could help surgeons identify high-risk patients earlier and adjust postoperative monitoring or intervention accordingly.",
+      "caveats": "observational design, single-center validation data may not apply \u2014 note: validation was national (Japan-specific), modest C-statistic improvement",
+      "fact_check_note": "Abstract confirms development cohort N=20,113 and validation cohort N=5,147. Anastomotic leakage rate confirmed at 13.7% (development) and 14.4% (validation). C-statistics accurately reported. One declared conflict of interest: two authors affiliated with a department supported by industry partners including Johnson & Johnson K.K. and Intuitive Surgical S\u00e0rl \u2014 noted.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Large, well-powered national dataset and clinically important outcome in esophageal cancer surgery, but the topic is narrowly surgical and procedural with no dietary, microbiome, or broader gut health content \u2014 limited fit for the primary journalism audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Science-forward outlets",
+          "headline": "A 25,000-Patient Japanese Database Is Changing How Surgeons Predict the Deadliest Complication of Esophageal Cancer Surgery",
+          "hook": "About one in seven people who undergo surgery for esophageal cancer develop a dangerous leak at the surgical join \u2014 and a new large-scale risk model may help doctors spot who is most vulnerable before it happens.",
+          "why_it_fits": "Esophageal cancer is rising in incidence and carries high surgical mortality; science-forward general health readers benefit from understanding how big data is being applied to improve surgical outcomes.",
+          "pitch_angle": "Anastomotic leakage \u2014 where the surgical connection between the esophagus and stomach breaks down after cancer surgery \u2014 affects roughly 14% of patients and is one of the most feared complications in upper GI oncology. Japanese researchers analyzed data from more than 25,000 esophagectomies in a national registry and built a risk model that incorporates not just pre-surgical factors but what happens in the operating room and in the first 72 hours after surgery. The resulting model predicts leakage more accurately than existing tools, potentially giving surgeons a window to intervene earlier. The work illustrates how national surgical databases are becoming powerful tools for improving outcomes at scale.",
+          "caveats_to_flag": "The model's predictive performance, while improved, remains modest (C-statistic ~0.61). The data are from Japan and may not generalize to other health systems. Two authors have industry-affiliated conflicts of interest. Journalists should note this is a prediction tool study, not an intervention \u2014 better prediction does not automatically translate to better outcomes without accompanying clinical protocols."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42331255",
+      "headline": "A new lab test could stop doctors from over-prescribing antibiotics for common STIs",
+      "journal": "Journal of Microbiological Methods",
+      "pubdate": "2026 Jun 22",
+      "doi": "10.1016/j.mimet.2026.107605",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers at the University of Queensland developed a flow cytometry method to distinguish live, dead, and replicating bacterial cells in Mycoplasma genitalium and Neisseria gonorrhoeae \u2014 two STIs affecting over 150 million people annually. The study compared the new assay against standard qPCR and culture methods in vitro. They found that qPCR overestimated viable cell counts by two- to fourfold and could not differentiate live from dead bacteria, while the new flow cytometry method reliably resolved replicating, non-replicating, and non-viable populations. The finding suggests current PCR-based test-of-cure diagnostics may be generating false positives that drive unnecessary antibiotic prescriptions.",
+      "why_it_matters": "False-positive PCR results after STI treatment may be fueling antibiotic overuse at a time when both gonorrhea and M. genitalium are acquiring resistance to nearly all available drugs \u2014 a more accurate viability test could help preserve the effectiveness of remaining treatments.",
+      "caveats": "animal or cell study, single-center, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "Study is an in vitro laboratory methods study, not a clinical human study \u2014 framing adjusted accordingly. The '150 million' figure is from the abstract and refers to combined annual infections with both pathogens.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Methodologically significant for AMR diagnostics but has no direct gut or digestive health angle; only tangential relevance via antibiotic stewardship and its downstream effects on the gut microbiome.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / general science",
+          "headline": "The Test That Could Reveal Whether Your STI Treatment Actually Worked",
+          "hook": "Standard PCR tests used to confirm gonorrhea treatment are overcounting live bacteria by up to fourfold \u2014 and that error may be quietly feeding antibiotic resistance.",
+          "why_it_fits": "Wired readers are interested in the intersection of diagnostic technology, antimicrobial resistance, and the failures of current medical infrastructure.",
+          "pitch_angle": "A new flow cytometry assay can tell, for the first time, whether bacteria in an STI are actually alive and replicating after antibiotic treatment \u2014 or just leaving behind genetic debris that tricks PCR tests into a false positive. The distinction matters enormously: gonorrhea and Mycoplasma genitalium are both rapidly acquiring resistance to the last remaining drugs, and unnecessary repeat prescriptions from false-positive test-of-cure results may be accelerating that resistance. While still a lab-based proof-of-concept, this method could eventually redefine how clinicians confirm whether a treatment has worked.",
+          "caveats_to_flag": "This is an in vitro methods study only \u2014 no patient data has been collected, and clinical validation will be required before any diagnostic application. The gut microbiome connection is indirect: the story is about antibiotic stewardship, not digestive health directly."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356409",
+      "headline": "Plant compounds that bodybuilders take as supplements unexpectedly suppress testosterone in rats",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 21",
+      "doi": "10.3390/nu18122023",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers tested two phytoecdysteroid compounds \u2014 20-hydroxyecdysone (20E) and calonysterone (CAL) \u2014 in male rats fed either a normal or high-fat, high-sugar diet for 12 weeks (animal study, N not specified per group). Both compounds prevented diet-induced weight gain and skeletal muscle atrophy, but both also significantly reduced plasma testosterone levels in obese rats, and 20E reduced testosterone even in normal-diet rats. CAL additionally increased testicular aromatase expression, raising questions about estrogenic effects. The authors conclude that phytoecdysteroids warrant caution as dietary supplements due to these unexpected endocrine effects.",
+      "why_it_matters": "Phytoecdysteroids like 20-hydroxyecdysone are widely marketed as natural anabolic supplements for muscle building, yet this rat study suggests they may suppress testosterone and alter androgen balance \u2014 a finding with potential implications for people using these supplements for performance or body composition goals.",
+      "caveats": "animal or cell study, small sample (N<100), short follow-up, no gut microbiome or digestive outcomes measured",
+      "fact_check_note": "Abstract confirmed: testosterone reductions observed in both normal-diet (20E only) and obese (both compounds) groups. No human data. Study is entirely rodent-based.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Animal-only study with no gut, digestive, or microbiome outcomes; nutrition angle is present (dietary supplements) but the findings relate to endocrine/metabolic effects rather than gut or digestive health, which is the core editorial focus.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "That 'Natural' Muscle Supplement May Be Messing With Your Testosterone, Rat Study Warns",
+          "hook": "Phytoecdysteroids \u2014 plant-derived compounds increasingly sold as natural anabolic supplements \u2014 unexpectedly suppressed testosterone in male rats, even those eating a normal diet.",
+          "why_it_fits": "Well+Good and Prevention readers are actively shopping the supplement aisle and need clear, evidence-based flags on products marketed as safe and natural.",
+          "pitch_angle": "Phytoecdysteroids like 20-hydroxyecdysone are gaining traction in the sports nutrition market as plant-based alternatives to anabolic steroids. A new 12-week rat study found both a well-studied compound (20E) and a newer derivative (CAL) prevented obesity-related muscle loss \u2014 but also significantly lowered testosterone, raising an unexpected red flag for male supplement users. While the research is in animals only and cannot be directly applied to humans, the findings prompted the study authors themselves to call for caution, making it a timely hook for a piece on the limits of 'natural' supplement marketing.",
+          "caveats_to_flag": "Animal study only \u2014 results cannot be extrapolated to humans; no gut or long-term health outcomes measured; human clinical trials needed before any conclusions about safety or efficacy in people."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42324650",
+      "headline": "One in ten malnourished children in hospital develops a dangerous metabolic complication during refeeding \u2014 and most aren't getting a key preventive vitamin",
+      "journal": "JPEN: Journal of Parenteral and Enteral Nutrition",
+      "pubdate": "2026 Jun 21",
+      "doi": "10.1002/jpen.70117",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A descriptive cohort study followed 133 children (aged 28 days to 14 years) at a tertiary care children's hospital in Riyadh, Saudi Arabia, who were at risk for refeeding syndrome during nutritional rehabilitation (June 2024\u2013May 2025). Refeeding syndrome \u2014 defined as electrolyte disturbances (hypophosphatemia, hypokalemia, and/or hypomagnesemia \u226510% below normal within 5 days of nutritional support) \u2014 developed in 9.8% of patients (13 of 133; 95% CI: 5.6%\u201316.1%). Despite 97.7% of patients being correctly identified as high risk, only 9 of 82 severe-risk patients (11%) received guideline-recommended thiamine prophylaxis, revealing a major implementation gap. No ICU admissions or deaths attributable to refeeding syndrome occurred, suggesting that risk stratification itself provided some protection even without full protocol adherence.",
+      "why_it_matters": "Refeeding syndrome is an underrecognized but potentially fatal complication of nutritional rehabilitation in malnourished patients \u2014 particularly children \u2014 and this study provides rare real-world incidence data from a Middle Eastern pediatric setting, while highlighting that identifying risk alone is not enough: only 11% of the highest-risk children received a simple, low-cost preventive vitamin that guidelines recommend.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, descriptive study only",
+      "fact_check_note": "Abstract confirmed: N=133 enrolled from 1,117 admissions screened; 13 cases of refeeding syndrome (9.8%); thiamine prophylaxis received by 9/82 severe-risk patients (11%); zero PICU admissions and zero mortality attributable to refeeding syndrome verified in abstract. Study period June 2024\u2013May 2025.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "Directly relevant to clinical nutrition and enteral/parenteral feeding \u2014 a core topic for JPEN readership and digestive health journalists \u2014 with a strong real-world implementation angle; penalized slightly for single-center observational design and limited generalizability, and the gut microbiome angle is absent.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "Hospitals Are Missing a Cheap, Simple Vitamin That Could Protect Malnourished Kids From a Dangerous Feeding Complication",
+          "hook": "Nearly 1 in 10 malnourished children developed a serious metabolic crisis during nutritional rehabilitation at a major children's hospital \u2014 and only 11% of the highest-risk patients received a guideline-recommended vitamin that could help prevent it.",
+          "why_it_fits": "Healthline readers engaged with pediatric nutrition, hospital care quality, and digestive health policy will respond to a study that exposes a concrete, fixable gap between knowing what to do and actually doing it.",
+          "pitch_angle": "A new study tracked 133 malnourished children admitted to a Saudi Arabian children's hospital and found that 9.8% developed refeeding syndrome \u2014 a dangerous electrolyte imbalance that can occur when severely undernourished patients are fed too aggressively. What makes the finding striking is not the incidence rate but the implementation gap: hospital staff correctly identified 97.7% of high-risk patients, yet only 11% of those at severe risk received thiamine (vitamin B1), a low-cost preventive measure explicitly recommended by international guidelines. The study adds to evidence that fixing nutrition-related harm in hospitals requires more than good protocols \u2014 it requires systems-level change to make protocols actually happen.",
+          "caveats_to_flag": "Single-center study in a tertiary care Middle Eastern hospital; descriptive design only; findings may not generalize to other healthcare settings; no comparison group or control arm."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42323583",
+      "headline": "Cycling through TNF blockers after UC treatment failure makes things worse \u2014 switching drug class works better",
+      "journal": "BMC Gastroenterology",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1186/s12876-026-04829-y",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using real-world insurance claims data from 921 adults with ulcerative colitis (UC) who had failed a first-line TNF inhibitor (TNFi), researchers compared outcomes for patients who switched to a second TNFi ('cyclers') versus those who switched to a biologic with a different mechanism of action ('switchers'). After statistical weighting to balance groups, 62% of TNFi cyclers experienced an inadequate response within the follow-up period versus 49% of mechanism-of-action switchers (OR 1.76, 95% CI 1.31\u20132.37). TNFi cyclers also had higher rates of dose escalation, glucocorticoid intensification, and additional therapy augmentation, as well as modestly higher total healthcare costs.",
+      "why_it_matters": "For the estimated 900,000 Americans living with ulcerative colitis, treatment failure is common and the next therapeutic step is a critical decision; this large real-world study suggests that staying within the same drug class after failure is associated with substantially worse outcomes than switching to a different mechanism of action. These findings add to a growing body of evidence that may influence prescribing patterns for one of the most challenging inflammatory bowel diseases to manage.",
+      "caveats": "observational design, industry funding [Eli Lilly and Company], self-reported dietary intake",
+      "fact_check_note": "Removed 'self-reported dietary intake' caveat \u2014 this is a claims-based study with no dietary data. Corrected caveats to: observational design, industry funding [Eli Lilly and Company], retrospective claims data (no endoscopic or biomarker confirmation of disease activity).",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Directly relevant to ulcerative colitis \u2014 a high-interest digestive disease topic \u2014 with a large real-world sample (N=921), a clinically meaningful outcome, and a counterintuitive implication that cycling within the same drug class is inferior; score is tempered by observational design, industry funding, and absence of endoscopic confirmation.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "If Your Ulcerative Colitis Drug Stops Working, Switching Drug Classes May Be the Smarter Move",
+          "hook": "A new real-world study of nearly 1,000 patients found that people with ulcerative colitis who tried a second TNF-blocking drug after the first one failed were 76% more likely to have an inadequate response than those who switched to a biologic that works differently.",
+          "why_it_fits": "Healthline's audience includes patients and caregivers managing IBD who actively seek actionable information about treatment options and drug choices.",
+          "pitch_angle": "When a biologic medication stops controlling ulcerative colitis, the next step matters enormously \u2014 and new evidence suggests that trying another drug from the same class is associated with significantly worse outcomes than switching to a therapy with a different mechanism. A retrospective analysis of nearly 1,000 real-world patients found that 'TNFi cyclers' were far more likely to need additional medications, dose escalations, or hospitalization. For the hundreds of thousands of Americans whose UC is no longer controlled by their current biologic, this finding could reframe conversations with their gastroenterologist.",
+          "caveats_to_flag": "Observational claims-based design cannot prove causation; sicker patients may have been more likely to stay within the TNFi class; study was funded by Eli Lilly, which markets a competing UC therapy; no endoscopic or biomarker confirmation of disease severity."
+        },
+        {
+          "publication_type": "The Atlantic / Science-forward outlets",
+          "headline": "The Costly Mistake Doctors May Be Making When UC Drugs Fail",
+          "hook": "Despite growing evidence that switching drug classes outperforms cycling through similar biologics in ulcerative colitis, real-world data suggest many patients are still getting a second TNF inhibitor after their first one fails \u2014 with significantly worse results.",
+          "why_it_fits": "The Atlantic's readers are interested in systemic questions about how medicine is practiced and whether clinical decisions reflect the best available evidence.",
+          "pitch_angle": "In inflammatory bowel disease, treatment failure is not a rare edge case \u2014 it's an expected part of managing the disease. But when a TNF-blocking biologic stops working, the data increasingly suggest that prescribing another one is the wrong call. A new analysis of nearly 1,000 patients in a large U.S. insurance database found that sticking with the same drug class was associated with 76% higher odds of treatment failure compared to switching to a biologic that targets a completely different immune pathway. The study raises pointed questions about whether prescribing inertia, formulary restrictions, or drug company influence are keeping patients on an inferior path.",
+          "caveats_to_flag": "Industry-funded study (Eli Lilly); retrospective observational design; confounding by indication cannot be fully excluded; no direct measurement of mucosal healing or endoscopic remission."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42321612",
+      "headline": "Eating to feed your gut bacteria may also protect your liver \u2014 a microbiota-focused diet score linked to 42% lower MASLD risk",
+      "journal": "BMC Gastroenterology",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1186/s12876-026-05036-5",
+      "groundbreaking": "Major dietary or microbiome implication / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "In a prospective cohort study of 5,058 Iranian adults without metabolic dysfunction-associated steatotic liver disease (MASLD) at baseline, researchers assessed adherence to the Dietary Index for Gut Microbiota (DI-GM) \u2014 a scoring tool capturing dietary patterns thought to promote a favorable gut microbial profile \u2014 using a validated 125-item food frequency questionnaire. Over five years of follow-up, 562 participants developed MASLD. Individuals in the highest quartile of DI-GM adherence had 42% lower adjusted odds of developing MASLD compared to those in the lowest quartile (OR 0.58, 95% CI 0.42\u20130.80). Mediation analyses suggested that insulin resistance (HOMA-IR), liver fat accumulation (CAP), and serum vitamin D partially explained the association.",
+      "why_it_matters": "MASLD (formerly known as non-alcoholic fatty liver disease) affects an estimated 25\u201330% of adults globally and has no approved pharmaceutical treatment, making dietary prevention strategies a major public health priority; this study is among the first to prospectively link a microbiota-targeted dietary pattern specifically to lower MASLD incidence, suggesting the gut-liver axis may be a meaningful intervention target.",
+      "caveats": "observational design, self-reported dietary intake, single-center, microbiome data only (no clinical outcomes \u2014 DI-GM is a dietary score proxy for microbiota, not direct microbiome sequencing), non-Western population (generalizability uncertain)",
+      "fact_check_note": "Clarification: the DI-GM is a dietary scoring index designed to reflect gut microbiota-supportive eating patterns \u2014 it does not involve direct microbiome sequencing (16S, shotgun metagenomics, or culture). The 'microbiome data only' caveat is applied because microbiota changes were inferred from diet, not measured. MASLD is the updated 2023 nomenclature for what was previously called NAFLD; abstract uses MASLD correctly. N=5,058 at baseline; 562 incident MASLD cases over 5 years confirmed.",
+      "excluded": false,
+      "relevance_score": 8,
+      "relevance_score_reason": "Strong relevance: large prospective human cohort (N=5,058), clinically meaningful outcome (incident MASLD), clear dietary and microbiome angle, links gut health to metabolic liver disease, and uses a novel dietary scoring tool \u2014 offset slightly by self-reported diet, observational design, and indirect microbiome measurement.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "The Diet That Feeds Your Gut Bacteria Might Also Be Protecting Your Liver",
+          "hook": "People who most closely followed a diet designed to support healthy gut bacteria were 42% less likely to develop fatty liver disease over five years, according to a new study of more than 5,000 adults.",
+          "why_it_fits": "Well+Good and Prevention readers are deeply engaged with gut health, microbiome-supportive eating, and the connection between diet and chronic disease prevention.",
+          "pitch_angle": "Fatty liver disease \u2014 now affecting roughly one in four adults globally \u2014 has no approved drug treatment, making what you eat the primary lever for prevention. A new five-year study tracking over 5,000 adults found that those who most closely followed a microbiota-supportive dietary pattern were nearly half as likely to develop the condition. The study used a scoring tool called the Dietary Index for Gut Microbiota, which rewards foods known to nourish beneficial gut bacteria \u2014 think fiber-rich vegetables, legumes, and fermented foods \u2014 and penalizes ultra-processed fare. The findings add to a growing case that the gut-liver axis, not just calories or fat intake, may be central to liver health.",
+          "caveats_to_flag": "Observational design \u2014 cannot prove the diet caused lower MASLD risk; dietary data were self-reported via food frequency questionnaire; the microbiome was not directly measured; study population was Iranian adults, so findings may not fully generalize to other populations."
+        },
+        {
+          "publication_type": "The Atlantic / Wired",
+          "headline": "Scientists Built a 'Gut Microbiome Diet Score' \u2014 and It Predicted Who Would Develop Fatty Liver Disease",
+          "hook": "A new tool that rates diets by how well they feed beneficial gut bacteria correctly identified people at dramatically lower risk of fatty liver disease over a five-year span \u2014 even before accounting for weight, metabolic markers, or other known risk factors.",
+          "why_it_fits": "Science-forward readers at Wired and The Atlantic are interested in the emerging science of microbiome measurement, dietary pattern scoring, and how systems-level tools might reshape how we think about chronic disease prevention.",
+          "pitch_angle": "The gut microbiome has been linked to dozens of diseases, but translating that science into something a patient or clinician can actually use has proven elusive. A new prospective study put a practical tool to the test: the Dietary Index for Gut Microbiota, a scoring system designed to capture how well a person's overall diet supports a healthy microbial community. Tracking more than 5,000 adults over five years, researchers found that people who scored highest on the index were 42% less likely to develop metabolic dysfunction-associated steatotic liver disease \u2014 a condition affecting roughly a billion people worldwide. The findings raise the possibility that diet scoring tools calibrated to gut biology, rather than traditional nutrient targets, could become a new front line in chronic disease prevention.",
+          "caveats_to_flag": "The index proxies microbiome health through dietary patterns \u2014 no actual microbiome sequencing was performed; observational design limits causal inference; self-reported food frequency data are subject to recall bias; findings from an Iranian cohort may not generalize globally."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42323134",
+      "headline": "A forgotten bean from Asia and Africa may be a fiber-rich gut health food hiding in plain sight",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1016/j.tjnut.2026.101681",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review synthesizes current knowledge on Lablab purpureus (hyacinth bean), a legume widely grown in Asia and Africa but largely underutilized globally. The review compiles data on its phytochemical profile \u2014 including phenolics, flavonoids, and dietary fiber \u2014 and associated bioactivities such as antioxidant, antimicrobial, anti-inflammatory, and antidiabetic properties drawn from prior studies. No original human trial data is presented. Authors identify significant research gaps and call for investment in clinical studies to confirm therapeutic potential.",
+      "why_it_matters": "Legumes are among the most consistently gut-health-supportive foods in the dietary literature, and underexplored species like hyacinth bean could diversify plant-based diets \u2014 though human evidence for this specific legume remains sparse.",
+      "caveats": "review article with no original data, microbiome data only (no clinical outcomes), human clinical efficacy unconfirmed, animal or cell study basis for most cited therapeutic claims",
+      "fact_check_note": "Abstract does not make specific gut microbiome claims \u2014 summary avoids overstating microbiome angle, which is implied by fiber content rather than stated directly in the abstract.",
+      "excluded": false,
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant to plant-based nutrition and fiber as a gut health topic, but is a narrative review of an obscure legume with no original human data and no direct microbiome or digestive disease findings.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Meet the Protein-Packed Bean That Could Shake Up Plant-Based Eating",
+          "hook": "The hyacinth bean has fed communities across Asia and Africa for centuries, and scientists think its fiber and phytochemical profile could make it a functional food powerhouse \u2014 if anyone would study it.",
+          "why_it_fits": "Well+Good readers are primed for novel plant-based foods with nutritional credibility, and hyacinth bean has an underdog sustainability narrative alongside its health potential.",
+          "pitch_angle": "A new review in The Journal of Nutrition spotlights Lablab purpureus, a legume rich in protein, dietary fiber, and anti-inflammatory compounds that has been largely ignored by mainstream Western food science. Researchers argue it holds genuine potential for gut and metabolic health, and for food security in low-resource settings. The catch: most of the evidence comes from lab studies, and human trials are still lacking.",
+          "caveats_to_flag": "Narrative review only \u2014 no original human trial; therapeutic claims are largely preclinical. Journalists should be careful not to overstate proven health benefits."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42320583",
+      "headline": "Scientists build a step-by-step lab model of colon cancer progression to test how diet and toxins drive the disease",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.1016/j.fct.2026.116228",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers characterized a panel of human isogenic colonic epithelial cell lines carrying sequential mutations associated with colorectal cancer (APC, TP53, K-Ras), designed to mimic the initiation, promotion, and progression stages of colon carcinogenesis (in vitro cell study). The cell lines were profiled for proliferation, migration, apoptosis resistance, metabolic behavior, and response to genotoxic and xenobiotic exposures. Multivariate analysis confirmed distinct biological profiles across mutation stages, establishing the model as a tool for studying how environmental factors \u2014 including diet-derived contaminants \u2014 interact with genetic susceptibility in colorectal cancer development. No clinical outcomes or human subjects were involved.",
+      "why_it_matters": "Colorectal cancer is the third most common cancer worldwide, and diet may account for 30\u201370% of cases according to epidemiological estimates; this new cell-based model offers researchers a more biologically realistic platform to test how specific dietary compounds or environmental exposures accelerate cancer-associated genetic changes in the colon.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center",
+      "fact_check_note": "Abstract confirmed: entirely in vitro cell line study. No human subjects, no animal models, no microbiome data. The 30\u201370% diet attribution figure is cited from epidemiological literature in the abstract.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant to colorectal cancer and diet-gut interactions, a high-interest topic, but the study is purely a cell-line characterization tool with no human, animal, or clinical outcome data, limiting immediate journalistic impact.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "Researchers Just Built a Lab Replica of Colon Cancer's Progression \u2014 To Finally Test What Diet Does to It",
+          "hook": "Diet may drive up to 70% of colorectal cancer cases, but scientists have lacked a reliable lab model to test exactly how food compounds and environmental toxins interact with the genes that make colon cells turn cancerous \u2014 until now.",
+          "why_it_fits": "Wired and Atlantic readers are drawn to the infrastructure of science \u2014 how researchers build the tools that make future breakthroughs possible \u2014 especially when the stakes involve a common, diet-linked cancer.",
+          "pitch_angle": "A new study in Food and Chemical Toxicology describes the development and validation of a human cell-line system that recreates the stepwise genetic mutations driving colorectal cancer, from the first hit on APC to full malignancy via K-Ras. The model is specifically designed to test gene-environment interactions \u2014 including how dietary contaminants and food-derived chemicals accelerate or modify cancer progression. It won't make headlines for a dramatic finding, but it represents the kind of quiet scientific infrastructure that makes future discoveries possible, and it arrives as colorectal cancer rates in younger adults continue to rise unexpectedly.",
+          "caveats_to_flag": "Entirely in vitro \u2014 no human or animal data; findings cannot be applied clinically; model still requires validation with real dietary exposures before actionable conclusions."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42356396",
+      "headline": "Adding a nutraceutical supplement to standard bone-healing therapy cuts post-fracture pain faster in older women",
+      "journal": "Nutrients",
+      "pubdate": "2026 Jun 20",
+      "doi": "10.3390/nu18122010",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A single-center randomized controlled trial (N=60 female patients) compared pulsed electromagnetic field (PEMF) therapy alone versus PEMF plus nutraceutical supplementation for pain reduction and early fracture healing after distal radius fractures. At the first follow-up timepoint (T1), the nutraceutical group showed greater pain reduction (mean difference \u22120.57, p=0.007), higher bone alkaline phosphatase levels (a marker of bone formation), and a higher proportion of patients reaching the minimal clinically important difference in pain scores (60% vs. 30%, p=0.02). The authors note that the absence of a non-PEMF control group means the independent effect of PEMF cannot be determined, and the nutraceutical formulation is not specified beyond 'supplementation' in the abstract.",
+      "why_it_matters": "Distal radius fractures are among the most common fragility fractures associated with osteoporosis, particularly in postmenopausal women; evidence that targeted nutritional supplementation alongside physical therapy could accelerate pain relief and early bone healing would have practical implications for post-fracture rehabilitation protocols.",
+      "caveats": "small sample (N<100), single-center, short follow-up, nutraceutical formulation not fully described in abstract, no non-PEMF control group",
+      "fact_check_note": "Abstract confirmed: N=60 female patients only; no gut or digestive health outcomes measured; the nutraceutical composition is not detailed in the available abstract text. The study is an RCT but lacks a true placebo-only arm.",
+      "excluded": false,
+      "relevance_score": 3,
+      "relevance_score_reason": "Very low relevance to gut and digestive health journalism \u2014 the study focuses on bone fracture healing and pain, with no gut, microbiome, or digestive outcomes; the nutrition angle is about bone metabolism, not digestive health.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "A Nutritional Supplement Added to Standard Fracture Care Helped Older Women Heal Faster, Small Trial Finds",
+          "hook": "Women recovering from wrist fractures who took a nutraceutical supplement alongside standard electromagnetic therapy reported significantly greater pain relief early in recovery than those receiving therapy alone.",
+          "why_it_fits": "Prevention readers skew toward women interested in bone health, osteoporosis prevention, and practical supplement research \u2014 especially findings relevant to aging and fracture recovery.",
+          "pitch_angle": "A small randomized trial published in Nutrients found that adding nutritional supplementation to standard post-fracture care improved short-term pain reduction and showed higher levels of a bone-formation marker in 60 women recovering from distal radius fractures \u2014 one of the most common osteoporosis-related injuries. Twice as many women in the supplement group reached a meaningful reduction in pain scores compared to the therapy-only group. The findings are preliminary given the small sample size and single-center design, but they add to a growing body of work suggesting targeted nutrition may play a role in fracture rehabilitation.",
+          "caveats_to_flag": "Small trial (N=60, women only); single center; nutraceutical composition not fully disclosed; no non-therapy placebo arm; short follow-up; results cannot be generalized broadly."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42319666",
+      "headline": "Computational peptides designed to outsmart a key tuberculosis resistance enzyme show early promise \u2014 in silico only",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1007/s12602-026-11086-8",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Using computational methods including molecular docking and 100-nanosecond molecular dynamics simulation, researchers designed 15 antimicrobial peptides derived from modifications to the human host-defence peptide LL-37, targeting KatG \u2014 an enzyme in Mycobacterium tuberculosis whose mutations drive isoniazid resistance. Three lead peptides (P3, A5\u03b6, and A4\u03b7) showed strong in silico binding affinity to KatG active site residues and demonstrated predicted non-toxicity, non-allergenicity, and favorable pharmacokinetic properties. No wet-lab or in vivo validation was performed; all findings are computational.",
+      "why_it_matters": "Drug-resistant tuberculosis kills hundreds of thousands of people annually and urgently needs new treatment strategies \u2014 computationally designed peptides targeting resistance mechanisms represent one early-stage avenue being explored, though significant experimental validation remains ahead.",
+      "caveats": "animal or cell study, small sample (N<100), preprint",
+      "fact_check_note": "Study is entirely computational (in silico) \u2014 no cell culture, animal, or human data. Framing adjusted to reflect this clearly. Journal title 'Probiotics and Antimicrobial Proteins' noted but study has no probiotic content.",
+      "excluded": false,
+      "relevance_score": 2,
+      "relevance_score_reason": "Entirely in silico tuberculosis drug discovery with no gut health, microbiome, dietary, or digestive disease angle; falls outside the core scope of this digest.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / science",
+          "headline": "Could a Human Immune Peptide Be Reprogrammed to Fight Drug-Resistant TB?",
+          "hook": "Scientists computationally redesigned a natural human defence peptide to target the exact enzyme that makes tuberculosis resistant to one of its most important drugs.",
+          "why_it_fits": "Antimicrobial resistance is a growing public health concern that interests readers at general science and health outlets, though this study's relevance to gut health is minimal.",
+          "pitch_angle": "Researchers used computer modelling to engineer new antimicrobial peptides based on LL-37 \u2014 a peptide the human immune system naturally produces \u2014 and showed they could theoretically bind to and disrupt KatG, the enzyme M. tuberculosis uses to neutralize the antibiotic isoniazid. The approach is still entirely theoretical, with no lab or animal testing done yet. For a story, the angle would be the broader question of whether the body's own antimicrobial toolkit can be computationally redesigned to overcome resistance mechanisms that conventional antibiotics can no longer defeat.",
+          "caveats_to_flag": "All findings are in silico only \u2014 molecular docking and simulation do not confirm biological activity. No wet-lab, cell culture, animal, or human validation has been performed. This is a very early-stage proof-of-concept. No gut health relevance."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42317138",
+      "headline": "Cactus slime could be the next prebiotic fiber hiding in plain sight",
+      "journal": "Food Science and Technology International",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1177/10820132261461422",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This narrative review examines the nutritional and functional food potential of Opuntia ficus-indica (prickly pear cactus), synthesizing existing research on its bioactive compounds including polyphenols, flavonoids, betalains, and soluble fiber. No original human trial was conducted; findings are drawn from prior literature. The review highlights cactus mucilage as a natural prebiotic with the capacity to modulate gut microbiota composition. Authors note that clinical efficacy in humans remains unconfirmed and further research is needed.",
+      "why_it_matters": "As climate change pressures conventional agriculture, drought-tolerant plants like prickly pear cactus could emerge as both sustainable food sources and gut-health ingredients \u2014 though the human prebiotic evidence remains preliminary.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), review article with no original data, human clinical efficacy unconfirmed",
+      "fact_check_note": "Abstract explicitly states 'further research is needed for optimizing fortified foods and confirming the clinical efficacy of cacti in humans' \u2014 summary reflects this limitation accurately.",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "Touches on prebiotics and gut microbiota modulation, which is core topic territory, but is a narrative review with no original human data and no confirmed clinical outcomes, limiting its journalistic weight.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "Could Cactus Be the Next Big Prebiotic? Here's What the Science Actually Says",
+          "hook": "The slippery mucilage inside prickly pear cactus may feed your gut bacteria \u2014 but researchers say the human evidence isn't there yet.",
+          "why_it_fits": "Well+Good readers are actively seeking novel, plant-forward wellness ingredients, and cactus sits at an appealing intersection of sustainability and gut health.",
+          "pitch_angle": "A new review suggests prickly pear cactus is packed with prebiotic fiber, polyphenols, and betalains that may shift gut microbiota composition in beneficial directions. The plant's drought resilience also makes it a compelling climate-smart food. The catch: robust human trials are still missing, so this is a promising ingredient story, not a proven health claim.",
+          "caveats_to_flag": "All findings are from a narrative review \u2014 no original human trial data; clinical efficacy in people is explicitly unconfirmed by the authors."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42319141",
+      "headline": "Fish and red meat trigger different gut and metabolic responses after eating \u2014 and the gap may matter more than long-term diet scores",
+      "journal": "Nutrition Reviews",
+      "pubdate": "2026 Jun 19",
+      "doi": "10.1093/nutrit/nuag094",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This evidence-based narrative review synthesized human clinical studies examining postprandial (after-meal) metabolic responses to different muscle foods \u2014 meat, fish, and poultry \u2014 including glycemic, lipemic, amino acid, and incretin responses. The review also analyzed global consumption trends, nutrient density scores, and greenhouse gas emissions by food type. Evidence from human studies suggests fish consumption generally produces more favorable postprandial metabolic profiles, including lower blood glucose excursions and enhanced insulin sensitivity, while red meat tends to drive higher incretin hormone secretion \u2014 differences attributed to digestion kinetics and amino acid bioaccessibility rather than macronutrient content alone. The review was not a meta-analysis and did not pool quantitative data.",
+      "why_it_matters": "Most dietary guidance focuses on the average long-term effects of eating patterns, but this review highlights that individual meals of fish versus red meat may produce meaningfully different acute metabolic signals \u2014 including effects on insulin and gut hormones \u2014 suggesting that meal-by-meal food choices could have cumulative metabolic importance beyond what annual diet quality scores capture.",
+      "caveats": "observational design, narrative review (not systematic meta-analysis), no original data collected",
+      "fact_check_note": "Abstract confirmed: this is a narrative review, not a primary study or meta-analysis. No new human subjects enrolled. Direction of effect (fish more favorable, red meat higher incretin response) verified against abstract text.",
+      "excluded": false,
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong everyday relevance \u2014 fish vs. red meat is a perennial dietary debate \u2014 with a clear incretin/gut hormone angle that connects to metabolic health and GLP-1 biology; slightly penalized for being a narrative review without original data or systematic methodology.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Healthline",
+          "headline": "Fish vs. Red Meat: What Happens to Your Body in the Hours After You Eat Each One",
+          "hook": "It's not just about what's in your food \u2014 it's about how your gut responds to it in real time, and new evidence suggests fish and red meat trigger strikingly different metabolic reactions after every meal.",
+          "why_it_fits": "Well+Good and Healthline readers are deeply engaged with practical nutrition decisions and respond to content that reframes familiar food choices through a new scientific lens.",
+          "pitch_angle": "A new narrative review in Nutrition Reviews synthesized human clinical studies on postprandial metabolism after eating different animal proteins. Fish meals were consistently associated with lower blood glucose spikes and better insulin sensitivity, while red meat prompted higher secretion of incretin hormones \u2014 the same gut hormones targeted by GLP-1 drugs like Ozempic. The difference isn't just about protein content; it appears to come down to how quickly each food is digested and which amino acids reach the bloodstream. This reframes the fish-versus-red-meat debate from a long-term cardiovascular risk question into an every-meal metabolic one.",
+          "caveats_to_flag": "Narrative review only \u2014 not a meta-analysis; individual study designs and populations vary widely; findings are associative, not causal; no microbiome outcomes measured."
+        },
+        {
+          "publication_type": "The Atlantic / Outside Magazine",
+          "headline": "The Case for Thinking About What Your Last Meal Did to Your Body \u2014 Not Just Your Diet Over a Lifetime",
+          "hook": "Nutrition science has long focused on long-term dietary patterns, but a growing body of evidence suggests individual meals trigger distinct hormonal and metabolic responses that may accumulate into real health differences over time.",
+          "why_it_fits": "Atlantic and Outside readers appreciate systems-level thinking about food and performance, and this review connects protein choice to gut hormones, planetary sustainability, and the limits of conventional dietary advice.",
+          "pitch_angle": "A new review in Nutrition Reviews makes the case that we've been evaluating meat and fish by the wrong clock. Instead of comparing their long-term health effects averaged over years, researchers argue we should look at what happens in the two to four hours after a meal \u2014 the postprandial window. Fish appears to smooth out blood sugar and improve insulin sensitivity acutely; red meat spikes incretin hormones that signal the gut and pancreas. Layered on top of this is an environmental sustainability comparison \u2014 the review also scores foods by nutrient density against greenhouse gas emissions \u2014 making it a rare piece that connects plate-level biology to planetary health.",
+          "caveats_to_flag": "Narrative review without pooled quantitative analysis; postprandial effects are short-term and may not translate to long-term clinical outcomes; environmental scoring methods are not universally agreed upon."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42338317",
+      "headline": "Probiotics may help athletes push harder by changing how their brains perceive effort",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "pubdate": "2026 Dec 31",
+      "doi": "10.1080/15502783.2026.2692003",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This brief narrative review evaluated how dietary interventions can improve endurance performance by reducing the perceived effort of exercise, contextualized within theoretical frameworks of effort perception as a performance regulator. The review synthesized existing evidence on ergogenic dietary aids including caffeine, beta-alanine, carbohydrate mouth rinsing, branched-chain amino acids, citrulline, taurine, and probiotics. Probiotics were identified as potentially influencing performance indirectly by improving tolerance to physical exertion, though the review notes this effect is not yet well established. No original experimental data were collected; the review does not specify sequencing methods or microbiome outcome measures for probiotic studies cited.",
+      "why_it_matters": "The suggestion that probiotics may influence athletic endurance via gut-brain axis mechanisms \u2014 modulating how hard exercise feels \u2014 represents an emerging and underexplored area linking the microbiome to physical performance and mental fatigue.",
+      "caveats": "review article with no original data, microbiome data only (no clinical outcomes), narrative review methodology, optimal probiotic strains and doses unspecified",
+      "fact_check_note": "Abstract groups probiotics with other supplements as potentially influencing 'tolerance to physical exertion' \u2014 this is a tentative, indirect claim. Headline and summary reflect appropriate uncertainty per abstract language.",
+      "excluded": false,
+      "relevance_score": 6,
+      "relevance_score_reason": "The gut-brain axis angle connecting probiotics to effort perception and athletic endurance is genuinely novel territory for gut health journalism, though the narrative review design and lack of original data limit evidentiary strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Outside / Sports and fitness",
+          "headline": "Could Your Gut Bacteria Be the Secret to Running Farther Without Feeling Like You're Dying?",
+          "hook": "A new review suggests probiotics may help endurance athletes push harder \u2014 not by boosting muscles, but by changing how the brain registers effort.",
+          "why_it_fits": "Outside readers are deeply invested in evidence-based performance nutrition, and the gut-brain angle on athletic endurance is a fresh, science-forward take on probiotics beyond basic digestive health.",
+          "pitch_angle": "Researchers reviewing dietary ergogenic aids found emerging evidence that probiotics may indirectly improve endurance performance by influencing how physically grueling exercise feels \u2014 a gut-brain axis mechanism distinct from conventional energy or muscle-focused supplements. The review places probiotics alongside caffeine and beta-alanine as dietary interventions that may modulate central nervous system fatigue perception. The evidence is preliminary and strain-specific guidance is lacking, but the angle opens a new conversation about the microbiome and athletic limits.",
+          "caveats_to_flag": "Narrative review with no original data; probiotic findings are described as indirect and uncertain; optimal strains, doses, and athlete populations not identified. Should be framed as emerging science, not established practice."
+        },
+        {
+          "publication_type": "Wired / Science",
+          "headline": "Scientists Think Gut Bacteria Might Change How Hard Exercise Feels \u2014 Here's the Theory",
+          "hook": "The latest thinking in sports nutrition science suggests the microbiome could influence endurance performance by tweaking the brain's effort-perception circuitry.",
+          "why_it_fits": "Wired readers are drawn to mechanistic science stories that reframe biological systems \u2014 the gut-brain axis applied to athletic performance is a compelling, counterintuitive systems-biology angle.",
+          "pitch_angle": "A review published in the Journal of the International Society of Sports Nutrition raises the intriguing possibility that probiotics could enhance endurance performance via the gut-brain axis \u2014 specifically by modulating how intensely the brain perceives physical effort. The theoretical framework draws on emerging science around central fatigue and motor command regulation. Researchers acknowledge the mechanism is still speculative and that the field needs controlled trials with defined probiotic formulations before practical recommendations can be made.",
+          "caveats_to_flag": "This is a narrative review synthesizing existing literature \u2014 no original experiment conducted; the probiotic-effort perception link is theoretical and not yet supported by dedicated clinical trials."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42308359",
+      "headline": "Circular RNA molecules may help rabies virus destroy brain cells \u2014 and blocking them could offer a new treatment angle",
+      "journal": "Virulence",
+      "pubdate": "2026 Dec (Epub 2026 Jun 19)",
+      "doi": "10.1080/21505594.2026.2690777",
+      "groundbreaking": "None identified",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers analyzed circular RNA (circRNA) expression in brain tissue from mice infected with two strains of rabies virus (CVS-11 and SRV9), identifying 1,306 differentially expressed circRNAs compared to uninfected controls. They characterized a novel regulatory axis \u2014 mmu_circ_0012122/mmu-miR-1843-5p/Sertad2 \u2014 in which a specific circRNA acts as a molecular sponge to elevate Sertad2 expression, promoting nerve cell death and neuroinflammation. Knockdown of mmu_circ_0012122 in murine nerve cells reduced necrosis and non-viable apoptosis, suggesting the axis plays a functional role in RABV-associated neuronal damage.",
+      "why_it_matters": "Understanding how rabies virus hijacks host RNA regulatory networks to kill neurons could eventually point toward therapeutic targets, though translation to human treatment remains distant.",
+      "caveats": "animal or cell study, small sample (N<100), single-center",
+      "fact_check_note": "Study is a mouse/cell study only with no human data. No gut or digestive health relevance identified. Included for completeness but scored very low for this digest's audience.",
+      "excluded": false,
+      "relevance_score": 2,
+      "relevance_score_reason": "Animal and cell study focused on rabies virus neurology with no gut health, microbiome, dietary, or digestive disease relevance whatsoever.",
+      "pitch_angles": [
+        {
+          "publication_type": "General science",
+          "headline": "Rabies May Weaponize the Brain's Own RNA Against Itself",
+          "hook": "Rabies virus infection triggers a cascade of circular RNA molecules in mouse brain tissue that appear to drive the very nerve cell death that makes the disease so lethal.",
+          "why_it_fits": "Readers at science-forward outlets are interested in how viruses co-opt host molecular machinery, though this study has no gut health relevance.",
+          "pitch_angle": "A mouse study identified a specific circular RNA network that rabies virus appears to activate in brain tissue, using it as a molecular switch to promote neuronal death and inflammation. Blocking one component of this circuit \u2014 mmu_circ_0012122 \u2014 reduced nerve cell death in lab experiments. While entirely preclinical and far from any treatment application, the findings add to growing evidence that circular RNAs are important and underappreciated regulators of how viruses damage the nervous system.",
+          "caveats_to_flag": "Mouse and cell study only \u2014 no human data. Functional manipulations were performed in vitro. No gut health connection. This study is outside the core scope of gut and digestive health journalism."
+        }
+      ],
+      "run_date": "2026-06-26",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    }
+  ]
+}
