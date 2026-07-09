@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-09T13:56:52.835163+00:00",
-  "total_studies": 173,
+  "total_studies": 105,
   "new_this_run": 19,
   "studies": [
     {
@@ -91,33 +91,6 @@
       "status": "new"
     },
     {
-      "pmid": "42419643",
-      "headline": "Two newer antibiotics show promise against Korea's most drug-resistant hospital bacteria, but resistance mechanisms remain complex",
-      "journal": "Journal of Global Antimicrobial Resistance",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.jgar.2026.06.023",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed 43 carbapenem-resistant Pseudomonas aeruginosa (CRPA) clinical isolates collected in South Korea between 2015 and 2025, testing susceptibility to 14 antibiotics in vitro and characterizing resistance genes and clonal types. Aztreonam-avibactam and cefiderocol showed the highest susceptibility rates (88.4% each), far outperforming ceftolozane-tazobactam (46.5%) and ceftazidime-avibactam (39.5%). The blaNDM carbapenemase gene was the dominant resistance mechanism, found in 41.9% of isolates, and was carried predominantly by two clonal lineages, ST773 and ST644.",
-      "why_it_matters": "Understanding which newer antibiotics retain activity against the most resistant hospital pathogens is critical for guiding treatment decisions as options narrow globally.",
-      "caveats": "small sample (N<100), single-center, in vitro susceptibility data only (no clinical outcomes), animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Antimicrobial resistance study; minimal gut health or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "As Antibiotic Resistance Spreads in Hospitals, Two Drugs Are Holding the Line \u2014 For Now",
-          "hook": "Two newer antibiotics still worked against nearly 90% of the most treatment-resistant bacterial strains collected from Korean hospitals over the past decade.",
-          "pitch_angle": "A new analysis of 43 carbapenem-resistant Pseudomonas aeruginosa isolates found that aztreonam-avibactam and cefiderocol outperformed other last-resort antibiotics, though the dominant resistance gene \u2014 blaNDM \u2014 is spreading globally and could erode these gains. The findings underscore the urgency of antibiotic stewardship before even these newer options are compromised."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42294673",
       "headline": "A drug originally developed for Alzheimer's kills antibiotic-resistant H. pylori \u2014 and resistance didn't emerge after 30 days of exposure",
       "journal": "mBio",
@@ -151,33 +124,6 @@
       "status": "new"
     },
     {
-      "pmid": "42419267",
-      "headline": "Deadly fungal infections are becoming untreatable \u2014 and we're running out of drugs to fight them",
-      "journal": "Cell Host & Microbe",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.chom.2026.05.018",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This perspective piece from University of Toronto researchers reviews the mechanisms driving antifungal drug resistance in human fungal pathogens and outlines emerging therapeutic strategies to counter resistance evolution. The authors highlight the critically small number of clinically available antifungal drug classes and the accelerating emergence of multidrug-resistant fungi. No new primary data are presented; the article synthesizes current knowledge and points toward future directions in the field.",
-      "why_it_matters": "With antifungal treatment options already limited and resistance rising, understanding how fungi evolve resistance is increasingly relevant for immunocompromised patients and for anticipating the next wave of hard-to-treat infections.",
-      "caveats": "review article (no primary data), no clinical outcomes, no microbiome data",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Antimicrobial resistance perspective; limited direct gut or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "We Have Almost No Drugs Left to Treat Deadly Fungal Infections. Scientists Are Racing to Change That.",
-          "hook": "Unlike bacterial antibiotic resistance, the antifungal crisis receives little public attention \u2014 but drug-resistant fungi are spreading and our treatment toolkit is nearly empty.",
-          "pitch_angle": "A new review in Cell Host & Microbe lays out why antifungal resistance is a uniquely difficult problem: fungi share many biological features with human cells, making it hard to target them without causing harm to the host, and the handful of existing drug classes are losing ground to rapidly evolving pathogens. Researchers argue that understanding the evolutionary pathways fungi use to develop resistance is the essential first step toward building new drugs that can stay ahead of them."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42294674",
       "headline": "Scientists find a new cellular gatekeeper that keeps HIV permanently silenced \u2014 and a drug that unlocks it",
       "journal": "mBio",
@@ -197,33 +143,6 @@
           "headline": "A Newly Discovered Protein Is Keeping HIV Permanently Hidden \u2014 and Scientists Just Found a Drug That Exposes It",
           "hook": "HIV's ability to hide indefinitely in human cells depends partly on a protein no one knew was involved \u2014 and a small molecule that blocks it could help flush the virus out of hiding.",
           "pitch_angle": "Using a chemical screen and CRISPR, researchers identified TAF1 as a key molecular lock that keeps HIV in its dormant, untreatable state \u2014 and showed that a compound targeting TAF1 can selectively reawaken the virus without broadly disrupting the host cell. This matters because eliminating the latent HIV reservoir remains the central unsolved challenge in curing the disease."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42419642",
-      "headline": "New drug compound revives a last-resort antibiotic against some of the world's most dangerous drug-resistant bacteria",
-      "journal": "Journal of Global Antimicrobial Resistance",
-      "pubdate": "2026 Jul 8",
-      "doi": "10.1016/j.jgar.2026.06.022",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers tested FPI-1523, a novel \u03b2-lactamase inhibitor, in combination with imipenem against 28 carbapenem-resistant Enterobacterales (CRE) strains in vitro and in a Galleria mellonella (waxworm) infection model. When combined with FPI-1523, 75% of CRE strains regained susceptibility to imipenem, including those producing KPC, NDM, and IMP carbapenemases. Safety testing showed low toxicity, suggesting the combination could be a promising candidate against some of the hardest-to-treat bacterial infections.",
-      "why_it_matters": "Carbapenem-resistant bacteria are among the leading causes of untreatable hospital infections worldwide, and a compound that restores antibiotic susceptibility could represent a meaningful step toward new treatment options.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Antimicrobial resistance topic; no gut health, diet, or microbiome angle; in vitro/animal only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / general science",
-          "headline": "A New Drug Compound Could Resurrect One of Medicine's Last-Resort Antibiotics",
-          "hook": "Some of the world's most dangerous drug-resistant bacteria may have met their match \u2014 a novel compound that makes them vulnerable to an antibiotic they'd learned to destroy.",
-          "pitch_angle": "FPI-1523 restores imipenem's killing power against carbapenem-resistant Enterobacterales in lab and animal tests, offering early evidence of a new strategy against infections that are increasingly untreatable. While human trials are still far off, the finding adds urgency to the antibiotic resistance pipeline story."
         }
       ],
       "run_date": "2026-07-09",
@@ -261,33 +180,6 @@
       ],
       "run_date": "2026-07-09",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412142",
-      "headline": "Surgeons perform complex esophageal cancer removal without opening the chest \u2014 through the neck alone",
-      "journal": "Esophagus",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1007/s10388-026-01231-1",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This technical case report describes a novel surgical procedure \u2014 right-first bilateral transcervical and transhiatal robotic esophagectomy \u2014 performed using the da Vinci SP single-port robotic system in a patient with esophageal cancer. The approach removes the esophagus entirely through neck and abdominal incisions, avoiding the need to open the chest, which may benefit patients with poor lung function. The report covers surgical technique only; no comparative outcomes or cohort data are provided.",
-      "why_it_matters": "For esophageal cancer patients who cannot tolerate conventional chest-opening surgery due to lung disease, a minimally invasive robotic approach through the neck could eventually offer a safer surgical path.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "This is a single-patient technical case report describing surgical technique, not a cohort or outcomes study. No comparative efficacy data are available.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Surgical technique report, single case, no diet or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Wired",
-          "headline": "Surgeons Used a Single-Port Robot to Remove an Esophagus Through the Neck \u2014 No Chest Opening Required",
-          "hook": "A new robotic surgical technique lets surgeons remove the esophagus entirely through small incisions in the neck and abdomen, bypassing the lungs entirely.",
-          "pitch_angle": "The da Vinci SP system \u2014 a single-port robotic platform \u2014 allowed surgeons to thread three articulated instruments through one access point to perform a full esophagectomy without opening the chest. While this is a single case report and far from standard practice, it illustrates how robotics is pushing the boundaries of what minimally invasive GI surgery can achieve."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Gastroenterology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -375,33 +267,6 @@
       ],
       "run_date": "2026-07-09",
       "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412894",
-      "headline": "A duck virus protein sabotages a CoQ10 enzyme to trigger explosive cell death \u2014 and CoQ10 supplements may limit the damage",
-      "journal": "PLoS Pathogens",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1371/journal.ppat.1014392",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers studying a highly virulent novel duck reovirus (NDRV) found that the viral capsid protein \u03c3C binds to and blocks the mitochondrial import of COQ6, an enzyme required for coenzyme Q10 (CoQ10) biosynthesis, causing mitochondrial dysfunction and NLRP3-dependent pyroptosis (inflammatory cell death). The study used infected cell cultures and a duck animal model (in vitro and in vivo). CoQ10 supplementation restored mitochondrial homeostasis and reduced inflammatory tissue damage without lowering viral loads, suggesting a host-directed disease tolerance mechanism rather than direct antiviral action.",
-      "why_it_matters": "This early-stage animal and cell study suggests that CoQ10 \u2014 already widely sold as a supplement \u2014 may help limit virus-driven inflammatory tissue damage through a newly identified metabolic pathway, a finding with potential implications for understanding human viral immunopathology.",
-      "caveats": "animal or cell study, no human data, avian virus model with uncertain relevance to human disease",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Avian virus, animal/cell study only; minimal gut health or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-forward general interest",
-          "headline": "A Duck Virus Protein Steals Your Cells' Energy Currency \u2014 And a Common Supplement Might Fight Back",
-          "hook": "A viral protein that hijacks a key CoQ10 enzyme could reveal why some infections cause catastrophic inflammation \u2014 and why a popular supplement might unexpectedly help.",
-          "pitch_angle": "Scientists discovered that a duck reovirus protein blocks CoQ10 production inside mitochondria, triggering a violent form of cell death called pyroptosis. While the research is in ducks and cells \u2014 not humans \u2014 it maps a previously unknown molecular pathway that could have broad implications for understanding how viruses cause inflammatory organ damage."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
       "chunk": "1/2",
       "status": "new"
     },
@@ -514,87 +379,6 @@
       "status": "new"
     },
     {
-      "pmid": "42410728",
-      "headline": "Oregano oil packaging kills E. coli on chicken \u2014 but can't touch certain gut-relevant bacteria",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1002/jsfa.70877",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers formulated biodegradable extruded sheets combining acetylated tapioca starch, chitosan, and oregano essential oil, then tested their antimicrobial performance against four microorganisms on chicken meat in a lab setting (no human subjects, in vitro/food-contact study). The packaging completely suppressed the yeast Zygosaccharomyces bailii and substantially reduced E. coli, but was significantly less effective against Listeria innocua and Enterococcus faecium. Two optimal formulations were identified balancing mechanical strength and antimicrobial activity.",
-      "why_it_matters": "This suggests that oregano-based active packaging could reduce foodborne pathogen load on meat products, though its effectiveness varies considerably by microorganism type \u2014 a meaningful distinction for food safety.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Food packaging/food safety study; minimal direct gut health or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Food safety",
-          "headline": "Could Oregano-Infused Packaging Be the Next Frontier in Food Safety?",
-          "hook": "A new biodegradable packaging material laced with oregano essential oil wiped out E. coli on chicken \u2014 but left some common bacteria untouched.",
-          "pitch_angle": "Researchers found that oregano oil embedded in a starch-chitosan film could suppress certain foodborne pathogens on raw chicken, though its effectiveness was highly organism-specific. The finding raises questions about what 'antimicrobial packaging' can and can't promise consumers at the supermarket."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42410152",
-      "headline": "Bacteria that naturally live in mushroom soil can fight fungal crop disease in the lab \u2014 but fail to hold their ground in real growing conditions",
-      "journal": "Applied Microbiology and Biotechnology",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1007/s00253-026-13938-3",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers isolated multiple strains of Bacillus velezensis from button mushroom (Agaricus bisporus) casing material and basidiomes, showing strong antifungal activity against mushroom mycoparasites in vitro, likely linked to the lipopeptide fengycin. In growth chamber crop trials with Lecanicillium fungicola (dry bubble disease), however, the strains did not significantly reduce disease incidence compared to a chemical fungicide, apparently because bacterial populations declined rapidly after application. No negative effects on mushroom yield were observed.",
-      "why_it_matters": "The gap between impressive lab results and failed field performance highlights a core challenge for replacing agricultural fungicides with microbial biocontrol agents \u2014 a gap with implications for sustainable food production.",
-      "caveats": "animal or cell study, in vitro antifungal results did not translate to crop trial efficacy, no human health outcomes, environmental microbiology study",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Agricultural microbiology; no gut health, microbiome, or human dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / food systems journalism",
-          "headline": "The Bacteria That Could Replace Mushroom Fungicides \u2014 If Only They Would Survive Long Enough",
-          "hook": "Naturally occurring soil bacteria can destroy mushroom crop pathogens in a petri dish \u2014 but they keep disappearing before they can do the same in the field.",
-          "pitch_angle": "A new study found that Bacillus bacteria isolated from mushroom growing substrate produce potent antifungal compounds, but collapse in population too quickly to protect crops in real conditions. The finding underscores how far the science of microbial biocontrol still needs to travel before it can reliably replace chemical fungicides in food production."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42406275",
-      "headline": "Scientists engineer a gut bacterium to break down plastic-linked chemicals polluting food and water",
-      "journal": "World Journal of Microbiology & Biotechnology",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1007/s11274-026-05125-3",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers discovered a novel aerobic metabolic pathway for degrading phthalic acid \u2014 a key breakdown product of phthalate ester plasticizers \u2014 in the soil and gut-associated bacterium Klebsiella variicola SY1, and engineered it to degrade multiple phthalate esters at rates exceeding 90%. The study identified a previously unknown bypass pathway initiated by monooxygenation rather than the classical dioxygenase route, expanding understanding of bacterial phthalate metabolism. By introducing an esterase gene into the strain, researchers broadened its substrate range to include dimethyl, diethyl, and dibutyl phthalate \u2014 common plasticizer compounds found in food packaging and consumer products.",
-      "why_it_matters": "Phthalates are ubiquitous endocrine-disrupting chemicals found in food packaging and consumer goods that enter the human gut and have been linked to microbiome disruption, so engineering bacteria that efficiently degrade them has potential implications for environmental and gut health.",
-      "caveats": "animal or cell study, in vitro/environmental microbiology only, no human or clinical data",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Environmental microbiology; indirect gut relevance via phthalate exposure, no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "The Bacteria That Could Help Clean Up the Plastic Chemicals Hiding in Your Food",
-          "hook": "Phthalates \u2014 plasticizers leaching from food packaging into your body \u2014 may have a microbial nemesis, and scientists just made it more powerful.",
-          "pitch_angle": "Researchers engineered a bacterium to break down multiple types of phthalate esters, the plastic-linked chemicals found in food packaging that are widely detected in human urine and have been associated with hormonal and microbiome disruption. While the work is in lab conditions only, it opens a potential avenue for bioremediation strategies that could reduce human exposure to these pervasive compounds."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42405790",
       "headline": "Standard DNA test routinely misidentifies two dangerous mold species, raising clinical diagnostic concerns",
       "journal": "Microbiology Spectrum",
@@ -646,33 +430,6 @@
       "run_date": "2026-07-09",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42303231",
-      "headline": "Antidepressants and anti-inflammatory drugs might double as weapons against catheter-related urinary infections \u2014 but only in the lab so far",
-      "journal": "Journal of Applied Microbiology",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1093/jambio/lxag139",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This preclinical review evaluates published evidence for repurposing existing licensed drugs \u2014 including SSRIs, phenothiazines, NSAIDs, and urease inhibitors \u2014 as antibiofilm agents to prevent catheter-associated urinary tract infections (CAUTIs), the most common healthcare-acquired infection worldwide. No new experimental data are presented; the authors synthesize preclinical (in vitro and animal model) literature. Key finding is that several drug classes show antibiofilm or antimicrobial activity against catheter biofilms in preclinical settings, but significant challenges remain for translating this to clinical delivery in the catheterized urinary tract.",
-      "why_it_matters": "CAUTIs affect millions of catheterized patients annually and are increasingly antibiotic-resistant, so identifying existing approved drugs with antibiofilm activity could accelerate safer treatment options without the cost and timeline of developing new drugs from scratch.",
-      "caveats": "review article only, no original data, all evidence preclinical (animal or cell study), no human clinical trial data, single-condition focus (CAUTI)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Urinary tract infection focus; limited gut health or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Healthline",
-          "headline": "Your Antidepressant Might Also Fight One of the Most Common Hospital Infections \u2014 Scientists Are Finding Out How",
-          "hook": "Common drugs already sitting in medicine cabinets \u2014 including SSRIs and anti-inflammatories \u2014 show surprising ability to break up the bacterial slime that causes catheter urinary infections.",
-          "pitch_angle": "A new review of preclinical evidence finds that repurposing licensed drugs like SSRIs and NSAIDs could offer a faster, cheaper path to preventing catheter-associated urinary tract infections than developing new antibiotics. While none of this has been tested in humans yet, the approach could bypass the decade-long timelines of traditional drug discovery for a condition that affects millions of hospital patients each year."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -763,33 +520,6 @@
       "status": "new"
     },
     {
-      "pmid": "42401834",
-      "headline": "A 30-second, 35-cent test for syphilis bacteria could transform research on a disease that's surging globally",
-      "journal": "BMC Microbiology",
-      "pubdate": "2026 Jul 4",
-      "doi": "10.1186/s12866-026-05366-0",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed a novel flow cytometric assay using an automated urine analyzer (Sysmex UF-5000) to rapidly quantify Treponema pallidum, the bacterium that causes syphilis, validated against qPCR and dark-field microscopy. The assay detected T. pallidum at concentrations as low as 7,020 organisms/mL, delivered results in 30 seconds per sample at approximately $0.35 per test, and showed near-perfect correlation with qPCR (r = 0.9967) with far lower variability than dark-field microscopy. The study was conducted in vitro and in an animal model (New Zealand White rabbits), with no direct human clinical samples tested.",
-      "why_it_matters": "Syphilis cases are at multi-decade highs in many countries, and a rapid, low-cost, reproducible quantification tool for T. pallidum could accelerate research into treatment response, pathogenesis, and vaccine development.",
-      "caveats": "animal or cell study, no human clinical samples, single-center, in vitro validation only",
-      "fact_check_note": "The abstract specifies this is a research/laboratory tool for T. pallidum quantification, validated in animal models and in vitro \u2014 not a clinical diagnostic test for patients. No human clinical samples were tested.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Syphilis diagnostics methodology; no gut health, microbiome, or nutrition relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-forward outlet",
-          "headline": "A 30-Second, 35-Cent Lab Test Could Supercharge Syphilis Research at a Critical Moment",
-          "hook": "Syphilis is surging globally, but scientists studying it have been stuck using century-old microscopy or expensive molecular tests \u2014 a new automated assay could change that.",
-          "pitch_angle": "A new flow cytometry-based method quantifies the syphilis bacterium in 30 seconds for under $0.35 per test, matching the precision of qPCR while being far faster and cheaper. Though currently validated only in lab and animal settings, it could accelerate research into how T. pallidum causes disease and how the body responds to treatment \u2014 critical gaps as syphilis rates climb worldwide."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42400638",
       "headline": "The next wave of probiotics won't come in a yogurt \u2014 they're pharmaceutical-grade gut bacteria that most people have never heard of",
       "journal": "Current Microbiology",
@@ -820,26 +550,6 @@
       "run_date": "2026-07-09",
       "category": "Microbiology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42401983",
-      "headline": "Industry influence and overlapping roles are quietly corrupting Iran's health technology decision-making",
-      "journal": "Journal of Health, Population, and Nutrition",
-      "pubdate": "2026 Jul 4",
-      "doi": "10.1186/s41043-026-01383-x",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using purposive sampling and 28 semi-structured interviews with Iranian policymakers, academics, healthcare professionals, and regulators, this qualitative study examined how conflicts of interest (COI) undermine Health Technology Assessment (HTA) in Iran. Participants identified personal, institutional, and systemic COI \u2014 including industry influence, overlapping decision-maker roles, and absence of formal disclosure mechanisms \u2014 as distorting priority-setting and delaying adoption of cost-effective technologies. The authors call for stronger governance, institutional independence, and interdisciplinary approaches drawing on legal and organizational management frameworks.",
-      "why_it_matters": "This study is not relevant to gut health, the microbiome, digestive disease, or nutrition science and falls outside the editorial scope of this digest.",
-      "caveats": "small sample (N<100), qualitative design, single-center, observational design, not relevant to gut/digestive/nutrition scope",
-      "fact_check_note": "",
-      "relevance_score": 1,
-      "relevance_score_reason": "No relevance to gut health, microbiome, nutrition, or digestive disease.",
-      "pitch_angles": [],
-      "run_date": "2026-07-09",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -996,60 +706,6 @@
       "status": "new"
     },
     {
-      "pmid": "42387129",
-      "headline": "Bloodstream infections are getting harder to treat \u2014 and AI-powered diagnostics may be the only way to keep up",
-      "journal": "European Journal of Clinical Microbiology & Infectious Diseases",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1007/s10096-026-05577-3",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This comprehensive literature review synthesized evidence from peer-reviewed publications and clinical guidelines (2010\u2013mid-2026) on the epidemiology, pathogenesis, diagnosis, and treatment of bloodstream infections (BSIs) caused by bacterial, fungal, viral, and parasitic pathogens. The review found that antimicrobial resistance, delayed diagnosis, and diverse virulence mechanisms continue to drive high BSI mortality globally. Advances in metagenomic sequencing, AI-assisted pathogen detection, and precision medicine were identified as the most promising directions for improving outcomes.",
-      "why_it_matters": "Bloodstream infections remain one of the leading causes of hospital mortality worldwide, and rising antimicrobial resistance means current treatment options are narrowing at a critical moment.",
-      "caveats": "review article (no primary data), no clinical outcomes measured",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "General infectious disease review; no gut health, microbiome, or diet relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-forward outlet",
-          "headline": "Sepsis Is Outpacing Our Antibiotics. Can AI Diagnose It Fast Enough to Save Lives?",
-          "hook": "Bloodstream infections kill within hours, but drug-resistant pathogens are making treatment guesswork \u2014 AI and metagenomic sequencing could change that.",
-          "pitch_angle": "A sweeping new review finds that antimicrobial resistance is rapidly eroding the standard toolkit for treating bloodstream infections, which can escalate to septic shock and death in hours. Next-generation tools \u2014 including AI-assisted pathogen identification and whole-genome sequencing \u2014 may be the only way to stay ahead of evolving resistance."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42390463",
-      "headline": "Tick-borne rickettsial diseases are surging worldwide \u2014 and most doctors can't reliably diagnose them",
-      "journal": "Clinical Microbiology Reviews",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1128/cmr.00020-26",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review evaluated the current diagnostic landscape for rickettsial diseases (scrub typhus, spotted fever, typhus group) \u2014 tick- and mite-borne infections re-emerging globally, especially in Asia-Pacific and sub-Saharan Africa. The review found that standard tools like the Weil-Felix test lack specificity, while the gold-standard immunofluorescence assay is often retrospective due to delayed antibody response. Emerging molecular platforms including multiplex PCR, CRISPR-based point-of-care tests, and AI-assisted syndromic panels show promise for early, accurate diagnosis.",
-      "why_it_matters": "As tick-borne diseases expand geographically due to climate change, the diagnostic gap for rickettsial infections could mean delayed treatment and preventable deaths in endemic and newly affected regions.",
-      "caveats": "review article (no primary data), no clinical outcomes measured",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Infectious disease diagnostics review; minimal gut/microbiome/diet relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-forward outlet",
-          "headline": "CRISPR and AI Could Finally Crack the Diagnosis of a Deadly Tick Disease Doctors Keep Missing",
-          "hook": "Rickettsial infections kill if untreated, yet the standard diagnostic test has been outdated for decades.",
-          "pitch_angle": "Emerging CRISPR-based point-of-care tools and AI-assisted molecular panels may finally close the diagnostic gap for rickettsial diseases, which mimic dengue and malaria and are notoriously missed. As tick ranges expand with climate change, faster, cheaper diagnostics could prevent thousands of deaths annually."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42061939",
       "headline": "A natural plant-derived acid could keep a dangerous food pathogen from taking hold in meat \u2014 without antibiotics",
       "journal": "International Journal of Food Microbiology",
@@ -1102,33 +758,6 @@
           "headline": "The Surprising Wild Animal That Could Be Contaminating Your Salad with a Gut-Wrecking Bacteria",
           "hook": "A new study found that virtually every wild boar tested in Germany carried Yersinia, a zoonotic pathogen linked to severe stomach and intestinal illness in humans.",
           "pitch_angle": "Researchers isolated Yersinia from 100% of 81 wild boars tested, and note the bacteria can spread to vegetables like carrots and lettuce through direct animal contact or fecal runoff. While the study is observational and based in Germany, it underscores ongoing food safety concerns about wildlife reservoirs of GI pathogens."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42390247",
-      "headline": "A compound from a fungus living inside kudzu root kills antibiotic-resistant staph by hijacking the host cell's own self-destruction pathway",
-      "journal": "Microbiology Spectrum",
-      "pubdate": "2026 Jul 2",
-      "doi": "10.1128/spectrum.03923-25",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers isolated a bioactive compound from Aspergillus aureoles GGNSJ001, an endophytic fungus found in kudzu root, and tested it against Staphylococcus aureus in vitro and in infected macrophage cell cultures. The compound inhibited S. aureus biofilm formation and reduced bacterial invasion of immune cells by triggering ferroptosis \u2014 an iron-dependent form of programmed cell death \u2014 via the NCOA4-FTH1 ferritinophagy pathway. The study is cell-based only; no animal or human data were reported.",
-      "why_it_matters": "Rather than targeting the bacteria directly, this approach exploits the host cell's own death machinery to clear infection \u2014 a strategy that could sidestep the antibiotic resistance problem entirely if it translates beyond the lab.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Innovative antimicrobial mechanism; no gut health, human, or dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / general science",
-          "headline": "Scientists Found a Way to Fight Drug-Resistant Staph by Turning the Immune Cell Against Itself",
-          "hook": "Instead of trying to kill antibiotic-resistant staph directly, researchers found a compound from an obscure root fungus that tricks infected immune cells into self-destructing \u2014 and taking the bacteria with them.",
-          "pitch_angle": "A compound from a kudzu root fungus triggers ferroptosis in S. aureus-infected macrophages, clearing the infection through host-directed rather than bacteria-directed killing. The early cell-study findings hint at a new paradigm for fighting drug-resistant infections, though human evidence is a long way off."
         }
       ],
       "run_date": "2026-07-09",
@@ -1203,33 +832,6 @@
       "status": "new"
     },
     {
-      "pmid": "42412629",
-      "headline": "A single viral enzyme shared by all seven human coronaviruses could be the key to a broad antiviral drug",
-      "journal": "Virulence",
-      "pubdate": "2026 Dec",
-      "doi": "10.1080/21505594.2026.2696653",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a narrative review summarizing current knowledge about NSP13, a helicase enzyme essential for replication in all seven human-infecting coronaviruses, including SARS-CoV-2. The authors describe NSP13's structural and enzymatic features, its cooperation with other viral proteins, its potential links to G-quadruplex DNA/RNA structures, and the current pipeline of small-molecule inhibitors targeting it. No new experimental data were generated; the review synthesizes existing preclinical and structural research.",
-      "why_it_matters": "If NSP13 inhibitors can be developed into viable drugs, they could theoretically work against future coronavirus outbreaks \u2014 not just COVID-19 \u2014 because the enzyme is highly conserved across the coronavirus family.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "This is a review article, not an original study. No human subjects, clinical data, or new experimental findings are presented.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Virology review; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / General science",
-          "headline": "Scientists Have a New Target for a Universal Coronavirus Drug \u2014 and It's Been There All Along",
-          "hook": "Every coronavirus that infects humans relies on the same enzyme to copy itself, and researchers are now zeroing in on it as the basis for a one-drug-fits-all antiviral.",
-          "pitch_angle": "A new review maps what's known about NSP13, a helicase enzyme so structurally conserved across all seven human coronaviruses that inhibiting it could theoretically block any of them. The challenge is translating promising preclinical compounds into drugs that work safely in people \u2014 a gap the review argues is worth urgently closing before the next coronavirus emerges."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "40314247",
       "headline": "A 3-session virtual group therapy outperforms go-it-alone self-help for binge-eating disorder in a clinical trial",
       "journal": "Eating Disorders",
@@ -1254,33 +856,6 @@
       "run_date": "2026-07-08",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42386077",
-      "headline": "Surgeons devise a new internal stitching method to reconnect the gut after full stomach removal",
-      "journal": "Journal of Gastrointestinal Surgery",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1016/j.gassur.2026.102507",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Surgeons in India describe a novel intracorporeal wide V-shaped esophagojejunostomy technique performed entirely inside the body during minimally invasive total gastrectomy \u2014 a procedure used to remove the stomach, typically for gastric cancer. No patient sample size or outcome data are provided in the abstract; this appears to be a technical description report. The V-shaped anastomosis design aims to improve the connection between the esophagus and small intestine while avoiding external incisions for reconstruction.",
-      "why_it_matters": "Refinements to how the digestive tract is reconnected after stomach removal may reduce postoperative complications like leaks and strictures that significantly affect quality of life for gastric cancer survivors.",
-      "caveats": "small sample (N<100), single-center, no comparative outcome data, no sample size reported in abstract \u2014 technical report only",
-      "fact_check_note": "Abstract contains no patient outcome data or sample size; summary reflects what is verifiable from the abstract.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Surgical technique report; limited fit for gut health, diet, or microbiome audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / medical news",
-          "headline": "A New Minimally Invasive Technique Could Make Stomach Removal Surgery Safer",
-          "hook": "Surgeons have developed a novel way to reconnect the esophagus and small intestine after removing the stomach \u2014 entirely through small laparoscopic incisions.",
-          "pitch_angle": "The technique, described by a team in India, performs the delicate intestinal join inside the body rather than through a larger external incision, potentially reducing the risk of surgical complications \u2014 though clinical outcome data have not yet been reported."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -1506,60 +1081,6 @@
       "status": "new"
     },
     {
-      "pmid": "41937282",
-      "headline": "New lab material detects toxic compounds in rice and vegetables with high sensitivity",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Jul",
-      "doi": "10.1002/jsfa.70635",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Chinese researchers synthesized a series of modified metal-organic framework (MOF) materials to improve detection of aromatic amines \u2014 toxic and potentially carcinogenic compounds that can accumulate in soil and food \u2014 in agricultural products including rice and cabbage. The optimized material (DMIL-101(Cr)-1) showed 1.29\u20132.06 times higher adsorption capacity for four aromatic amines compared to the standard material, and was combined with gas chromatography-mass spectrometry for trace-level detection in food matrices. This is a laboratory chemistry study with no human subjects or dietary intervention.",
-      "why_it_matters": "Improving the sensitivity of detection methods for carcinogenic compounds in staple foods like rice could eventually support stronger food safety monitoring systems.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Analytical chemistry study; minimal direct gut health or dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Built a New Material That Can Sniff Out Carcinogens in Your Rice",
-          "hook": "A new lab-synthesized material can detect trace levels of toxic aromatic amines in rice and vegetables far more sensitively than existing methods.",
-          "pitch_angle": "Chinese researchers engineered a modified metal-organic framework that significantly outperforms standard materials at capturing and detecting carcinogenic aromatic amines in agricultural staples. The work is early-stage analytical chemistry, but better detection tools are a prerequisite for stronger food safety standards around compounds linked to cancer risk."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41906201",
-      "headline": "Tulip petal extract turns food packaging into a real-time color-changing freshness meter for shrimp",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Jul",
-      "doi": "10.1002/jsfa.70618",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers incorporated anthocyanin-rich extract from purple tulip petals (Tulipa gesneriana) into polyvinyl alcohol (PVA) films to create a pH-sensitive colorimetric packaging that changes color as shrimp spoils during refrigerated storage. The films were tested in a lab setting, not in a human or clinical study, evaluating color transitions, mechanical properties, and responsiveness to ammonia and total volatile basic nitrogen released during shrimp decomposition. Films visibly shifted from red to yellow-brown as spoilage progressed, correlating with rising bacterial metabolite levels, suggesting utility as a visual freshness indicator without specialized equipment.",
-      "why_it_matters": "A low-cost, visually intuitive freshness indicator made from floral waste could help consumers and retailers reduce seafood waste and foodborne illness risk without relying on expiration dates alone.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Innovative food packaging concept; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / General health",
-          "headline": "Tulip Petals Could Turn Your Shrimp Packaging Into a Freshness Detector",
-          "hook": "Lab-made films embedded with purple tulip petal extract change color from red to yellow-brown as shrimp spoils \u2014 no lab equipment needed.",
-          "pitch_angle": "Researchers found that anthocyanins from ornamental tulip waste, embedded in flexible packaging films, responded visually to ammonia released as shrimp decomposed in the fridge. While still an early-stage lab study, the concept points toward affordable, sustainable smart packaging that could help reduce seafood waste and foodborne illness from eating spoiled fish."
-        }
-      ],
-      "run_date": "2026-07-08",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "41546540",
       "headline": "FMT is being explored as a treatment for anorexia nervosa \u2014 but the science is still in its infancy",
       "journal": "European Eating Disorders Review",
@@ -1583,141 +1104,6 @@
       ],
       "run_date": "2026-07-08",
       "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42402030",
-      "headline": "Penguins' gut viromes are surprisingly species-specific \u2014 and packed with viruses science has never seen before",
-      "journal": "mSphere",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1128/msphere.00848-25",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using viral metagenomics, researchers characterized the cloacal gut viromes of four penguin species \u2014 Spheniscus humboldti, Pygoscelis papua, Pygoscelis adeliae, and Aptenodytes forsteri \u2014 housed at a wildlife park in China. They identified 219 viral sequences representing potentially novel viral lineages, with more than 94% sharing less than 80% amino acid similarity to any previously known virus. Marked species-specific differences in virome composition were found, with distinct viral families dominating in different penguin species, suggesting host biology or diet shapes gut viral communities.",
-      "why_it_matters": "Mapping the hidden viral universe inside wild bird guts \u2014 where most sequences are entirely unknown to science \u2014 advances our understanding of how viromes are shaped by host species and diet, with implications for wildlife health surveillance and zoonotic spillover risk.",
-      "caveats": "animal or cell study, small sample (N<100), microbiome data only (no clinical outcomes), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Wildlife virome; minimal direct human gut health or dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic / Outside",
-          "headline": "Scientists Just Mapped the Mysterious Viral Universe Living Inside Penguins' Guts",
-          "hook": "More than 94% of the viruses found in penguin guts are so novel that science has never catalogued them \u2014 and each penguin species carries a surprisingly distinct viral community.",
-          "pitch_angle": "A viral metagenomics study of four penguin species revealed 219 previously unknown viral sequences and striking species-specific virome compositions, suggesting that host biology and diet sculpt gut viral communities even within closely related animals. The findings expand the map of Earth's viral diversity and raise new questions about disease risk as penguins increasingly interact with human-managed environments."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42379826",
-      "headline": "Scientists uncover 33 hidden tools that bacteria use to hijack human cells \u2014 and they share a surprising structural blueprint",
-      "journal": "Microbiology Spectrum",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1128/spectrum.03824-25",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers systematically screened 241 Legionella pneumophila effector proteins using lipid bead pulldowns, mass spectrometry, and colocalization assays to identify which ones bind phosphoinositides \u2014 key signaling lipids that bacteria exploit to hijack host cell membranes. They validated 33 previously unrecognized phosphoinositide-binding effectors, doubling the known repertoire, and found they share compact alpha-helical folds structurally distinct from any known eukaryotic lipid-binding domain. A computational screen confirmed similar structural modules in Coxiella burnetii and Burkholderia pseudomallei, suggesting convergent evolution of this infection strategy across diverse intracellular pathogens.",
-      "why_it_matters": "Understanding how intracellular bacterial pathogens \u2014 including those that cause Legionnaires' disease \u2014 commandeer host cell machinery at the molecular level could open new avenues for antivirulence drug development.",
-      "caveats": "animal or cell study, in vitro / cell study only, no human clinical data",
-      "fact_check_note": "The 'First-in-class human study' groundbreaking tag was auto-populated in error; this is an in vitro and computational study with no human subjects. Corrected in caveats.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Basic microbiology; no direct gut health, dietary, or microbiome clinical relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "Scientists Found 33 Secret Weapons Bacteria Use to Take Over Your Cells \u2014 and They All Look Alike",
-          "hook": "Three different disease-causing bacteria independently evolved nearly identical molecular tools to hijack human cells \u2014 a convergent trick scientists are only now beginning to map.",
-          "pitch_angle": "A systematic screen of Legionella pneumophila proteins uncovered 33 previously unknown effectors that bind membrane-signaling lipids called phosphoinositides, using a compact protein fold found in no other known life form. The same structural blueprint appears in the bacteria behind Q fever and melioidosis, hinting at a shared evolutionary playbook for intracellular infection that could become a target for next-generation anti-infective drugs."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42267839",
-      "headline": "Humidity \u2014 not rain \u2014 is secretly launching fungal spores across long distances, overturning decades of plant pathology dogma",
-      "journal": "mSphere",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1128/msphere.00034-26",
-      "groundbreaking": "Overturns prior research / Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used field observations, in vitro experiments, scanning electron microscopy, and wind tunnel testing to study how the fungal plant pathogen Lasiodiplodia theobromae disperses its asexual spores (pycnidiospores), which were long assumed to spread only locally via water splash. They found that high relative humidity (>70%) triggers osmolyte-driven pressure buildup inside spore-containing structures (pycnidia), causing them to burst; as humidity subsequently drops, the released spores dry and become wind-dispersible over long distances. This mechanism \u2014 observed across multiple Botryosphaeriaceae species \u2014 overturns the standing assumption that long-distance aerial dispersal of these fungi requires sexual spores.",
-      "why_it_matters": "Understanding how crop-destroying fungi actually travel could reshape disease forecasting models and the timing of preventive interventions in agricultural systems \u2014 with downstream implications for food supply and food safety.",
-      "caveats": "animal or cell study, single-center",
-      "fact_check_note": "This study concerns a plant fungal pathogen and agricultural disease ecology \u2014 it has no direct relevance to human gut health, the microbiome, or digestive disease. It should not be pitched to gut health or nutrition outlets.",
-      "relevance_score": 1,
-      "relevance_score_reason": "No relevance to gut health, microbiome, nutrition, or digestive disease.",
-      "pitch_angles": [
-        {
-          "publication_type": "Outside Magazine / Wired / Science trade",
-          "headline": "Fungi Are Launching Their Spores Into the Air on Dry Days \u2014 and Scientists Just Figured Out How",
-          "hook": "For decades, plant pathologists assumed fungal spores needed rain to spread \u2014 new research shows humidity alone can build enough internal pressure to explosively launch them into the wind.",
-          "pitch_angle": "The discovery of an osmolyte-driven pressure mechanism in asexual fungal spores rewrites basic assumptions about how plant diseases spread across landscapes, with potential consequences for crop management and disease forecasting. It's a reminder that the microbial world moves by rules we're still learning."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42379008",
-      "headline": "A common food mold toxin damages human brain cells \u2014 but an omega-3 fatty acid may offer protection",
-      "journal": "Food and Chemical Toxicology",
-      "pubdate": "2026 Jun 30",
-      "doi": "10.1016/j.fct.2026.116243",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers exposed human astrocyte cells in vitro to alternariol (AOH), a mycotoxin produced by Alternaria mold species commonly found on food, at doses of 25\u2013125 \u03bcM, then tested whether pretreatment with eicosapentaenoic acid (EPA, 5 \u03bcM) could mitigate damage. AOH reduced cell viability, increased reactive oxygen species, depleted glutathione, elevated pro-inflammatory cytokines (TNF-\u03b1, IL-1\u03b2, IL-6), and triggered apoptosis-related molecular changes. Pretreatment with EPA significantly attenuated all of these effects, suggesting the omega-3 fatty acid may protect brain cells from this dietary mycotoxin.",
-      "why_it_matters": "Given how commonly Alternaria molds contaminate fruits, vegetables, and grains, these early findings suggest dietary omega-3 intake could be relevant to neurological resilience against food-borne mycotoxin exposure.",
-      "caveats": "animal or cell study, small sample (N<100), microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Cell study only; no human or gut health data; limited topic fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "The Mold on Your Produce Could Harm Brain Cells \u2014 and Omega-3s Might Help",
-          "hook": "A common food mold toxin can trigger inflammation and cell death in human brain cells in the lab \u2014 but a single omega-3 fatty acid showed striking protective effects.",
-          "pitch_angle": "Alternariol, a mycotoxin from Alternaria molds that frequently contaminate everyday foods, damaged human astrocytes in cell culture, while EPA \u2014 an omega-3 found in fatty fish \u2014 significantly blunted that damage. The research is very early (cell study only), but it raises questions about whether omega-3 intake could matter for neurological protection against dietary toxins."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42247306",
-      "headline": "A psychoactive mushroom genus may harbor an entirely unknown mind-altering compound \u2014 and researchers just mapped its family tree",
-      "journal": "Mycologia",
-      "pubdate": "2026 Jul-Aug",
-      "doi": "10.1080/00275514.2026.2670968",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used whole genome sequencing of 53 specimens and alignment of 1,515 single-copy orthologs to resolve the evolutionary relationships of the mushroom genus Lanmaoa, identifying four new species and six taxonomic reclassifications. Genome mining of Lanmaoa asiatica found no biosynthetic genes for psilocybin or ibotenic acid, despite the species having documented psychoactive effects. This suggests the psychoactive properties of at least some Lanmaoa species are driven by a novel, uncharacterized compound.",
-      "why_it_matters": "The possibility of an entirely unknown psychoactive compound in a wild mushroom genus could open new avenues in psychedelic medicine research and underscores how little we know about fungal biochemistry.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Fungal systematics study; no direct gut health or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "Scientists Mapped the Genome of a Psychoactive Mushroom Genus and Found Something Unexpected: an Unknown Drug",
-          "hook": "A mushroom known to cause psychedelic effects contains none of the genes scientists expected to find \u2014 suggesting nature has invented a mind-altering chemical we've never seen before.",
-          "pitch_angle": "A phylogenomic study of the Lanmaoa mushroom genus found that one psychoactive species lacks the biosynthetic genes for psilocybin or ibotenic acid, implying a novel compound is responsible. At a moment when psychedelic medicine is booming, this finding hints that the fungal kingdom may hold undiscovered psychoactive chemistry with unknown therapeutic or toxicological implications."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
       "chunk": "1/2",
       "status": "new"
     },
@@ -1857,46 +1243,6 @@
       "status": "new"
     },
     {
-      "pmid": "41525506",
-      "headline": "Letter response on PNPLA3 gene variant and fatty liver disease diagnosis in children \u2014 no new study data",
-      "journal": "Hepatology",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1097/HEP.0000000000001674",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a published reply letter (2 pages) from researchers at UC San Diego responding to a correspondence about the PNPLA3 gene variant and the MASLD diagnostic framework in children; it contains no original study data or abstract.",
-      "why_it_matters": "Not applicable \u2014 this is an editorial correspondence, not an original research study.",
-      "caveats": "No original data \u2014 editorial letter only",
-      "fact_check_note": "No abstract content to verify; this record is a reply letter with no original research findings.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Editorial letter; no original data; low actionable content for journalists.",
-      "pitch_angles": [],
-      "run_date": "2026-07-07",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42214020",
-      "headline": "Eosinophilic esophagitis still being diagnosed late and undertreated in real-world practice, commentary warns",
-      "journal": "European Journal of Gastroenterology & Hepatology",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1097/MEG.0000000000003194",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a single-page commentary letter from researchers in Pakistan addressing persistent real-world challenges in eosinophilic esophagitis (EoE), specifically diagnostic delay and treatment gaps; no original study data or patient cohort is described in the available abstract.",
-      "why_it_matters": "Not applicable \u2014 this is an opinion commentary with no original research data.",
-      "caveats": "No original data \u2014 commentary letter only",
-      "fact_check_note": "No abstract with study data to verify; this record is a commentary/letter with no original research findings.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Commentary only; no original data; not pitchable as a study.",
-      "pitch_angles": [],
-      "run_date": "2026-07-07",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42385886",
       "headline": "Nicotine pouches marketed as 'clean' alternatives contain banned plasticizers, potential carcinogens, and enough nicotine to endanger a child",
       "journal": "Food and Chemical Toxicology",
@@ -1916,33 +1262,6 @@
           "headline": "Nicotine Pouches Aren't as Clean as Their Packaging Suggests",
           "hook": "Chemical analysis of popular nicotine pouches found banned plasticizers, unauthorized flavor compounds, and enough nicotine to potentially harm a child \u2014 none of which appear on the label.",
           "pitch_angle": "Marketed as a modern, smoke-free way to get nicotine, these pouches are releasing a cocktail of poorly regulated chemicals directly into saliva, including phthalates banned in cosmetics and a tobacco alkaloid not permitted as a food additive. The findings point to a significant regulatory gap at a time when nicotine pouch use is growing rapidly, particularly among teens and young adults."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42083249",
-      "headline": "Clam-derived peptides dramatically amplify umami taste by locking onto flavor receptors in a new way",
-      "journal": "Food Research International",
-      "pubdate": "2026 Jul 1",
-      "doi": "10.1016/j.foodres.2026.119253",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers screened 16 umami-active peptides from two clam species (Mactra Veneriformis and Ruditapes Philippinarum) and tested their synergistic interactions with four common umami enhancers \u2014 MSG, IMP, GMP, and WSA \u2014 using electronic tongue analysis, sensory evaluation, molecular docking, molecular dynamics simulations, and stably transfected T1R1/T1R3 receptor cells. All 16 peptides showed synergistic umami enhancement with MSG, GMP, and WSA, while 14 showed synergy with IMP, with some combinations boosting umami perception by up to 95%. The study is cell-based and computational \u2014 no human tasting panel was used for receptor verification, and findings suggest clam peptides bind novel residues on the T1R1/T1R3 receptor alongside existing enhancers.",
-      "why_it_matters": "Understanding how natural peptides amplify umami taste could pave the way for lower-sodium, cleaner-label flavor enhancers in processed foods.",
-      "caveats": "animal or cell study, small sample (N<100), no human clinical outcomes, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Flavor chemistry, cell/computational study only; minimal gut health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / food technology",
-          "headline": "Scientists Found Clam Peptides That Make Food Taste More Savory \u2014 Without Extra Salt",
-          "hook": "Peptides extracted from clams can boost umami intensity by nearly 95% when paired with common flavor enhancers, according to new receptor-cell research.",
-          "pitch_angle": "Using molecular docking and engineered taste-receptor cells, researchers mapped exactly how clam-derived peptides plug into the human umami receptor alongside MSG and other enhancers \u2014 a finding that could help food companies cut sodium while keeping flavor intensity. The implications for reformulating ultra-processed foods are significant, even if human tasting trials are still needed."
         }
       ],
       "run_date": "2026-07-07",
@@ -1974,33 +1293,6 @@
       ],
       "run_date": "2026-07-07",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42341576",
-      "headline": "Two new bacterial species found in maple sap could protect syrup from fungal spoilage \u2014 without chemicals",
-      "journal": "Systematic and Applied Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.syapm.2026.126738",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers sequenced the genomes of nine Pseudomonas strains isolated from maple sap, identifying five species including two newly described ones \u2014 Pseudomonas acericola sp. nov. and Pseudomonas edsoni sp. nov. Genome mining revealed gene clusters associated with antifungal compounds, and lab assays confirmed that P. edsoni strains inhibited the food-spoilage yeast Kluyveromyces lactis, likely through contact-dependent mechanisms involving Type VI secretion systems. The findings suggest these native maple sap bacteria could form the basis of biocontrol strategies to replace chemical treatments in maple syrup production.",
-      "why_it_matters": "Natural biocontrol agents found in maple sap could offer a chemical-free way to reduce fungal spoilage in maple syrup \u2014 a finding that may interest consumers and producers focused on clean-label food production.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Food microbiology angle; marginal gut health relevance, no human subjects.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "The Bacteria Living in Maple Sap Might Be Its Own Best Preservative",
-          "hook": "Two newly discovered bacterial species found naturally in maple sap can fight off the fungi that spoil maple syrup \u2014 raising the possibility of a microbial solution to a longstanding food-quality problem.",
-          "pitch_angle": "Scientists identified Pseudomonas edsoni and P. acericola as native inhabitants of maple sap that produce antifungal compounds and may work through direct contact to suppress spoilage organisms. As demand grows for cleaner, less chemically treated food production, the maple syrup industry could find an answer already living inside its own trees."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -2086,26 +1378,6 @@
       "status": "new"
     },
     {
-      "pmid": "42053560",
-      "headline": "Letter challenges real-world data on ustekinumab as first-line IBD therapy \u2014 no new findings",
-      "journal": "Scandinavian Journal of Gastroenterology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1080/00365521.2026.2661965",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a letter to the editor from pharmacy department staff in Spain commenting on a previously published real-world cohort study of ustekinumab as first-line biological therapy in inflammatory bowel disease; no original data or new findings are presented.",
-      "why_it_matters": "Not applicable \u2014 this is a published correspondence with no original research data.",
-      "caveats": "No original data \u2014 editorial letter only",
-      "fact_check_note": "No abstract content to verify; this record is a letter to the editor with no original research findings.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Letter to the editor only; no original data; not pitchable.",
-      "pitch_angles": [],
-      "run_date": "2026-07-07",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "41207519",
       "headline": "Machine learning beats standard liver tests at catching the fatty liver disease stage that now qualifies for FDA-approved treatment",
       "journal": "Clinical Gastroenterology and Hepatology",
@@ -2139,33 +1411,6 @@
       "status": "new"
     },
     {
-      "pmid": "42412532",
-      "headline": "Scientists name a new Pasteurella species lurking in lions' and tigers' mouths \u2014 and it could infect bite victims",
-      "journal": "International Journal of Systematic and Evolutionary Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1099/ijsem.0.007232",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers characterized 25 bacterial strains isolated from the oral cavities of lions, tigers, and a caracal in Danish zoos, using 16S rRNA gene sequencing, whole-genome sequencing, and MALDI-TOF MS analysis. Genomic data showed the strains were genetically distinct from all known Pasteurella species (highest dDDH similarity 25%), leading to the designation of a new species, Pasteurella pantherarum sp. nov. The new species is flagged as a potential pathogen in bite wounds inflicted by large felids.",
-      "why_it_matters": "Identifying the specific bacteria in big cat oral cavities matters for clinicians treating rare but serious bite wound infections from zoo or wild animal encounters.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Veterinary microbiology / taxonomy; no gut health or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General science / wildlife health",
-          "headline": "Lions and Tigers Harbor a Newly Discovered Bacteria That Could Threaten Bite Victims",
-          "hook": "A species of bacteria previously unknown to science has been found in the mouths of lions and tigers at Danish zoos \u2014 and it may cause serious infections in humans.",
-          "pitch_angle": "The new species, Pasteurella pantherarum, is genetically distinct enough from known relatives to warrant its own classification, and researchers say clinicians treating big cat bites should be aware of it as a potential wound pathogen."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "41954796",
       "headline": "A newly discovered 'phage-plasmid' hybrid could be a weapon against drug-resistant E. coli",
       "journal": "European Journal of Clinical Microbiology & Infectious Diseases",
@@ -2185,168 +1430,6 @@
           "headline": "Scientists Found a Viral-Bacterial Hybrid That Hunts Drug-Resistant E. Coli",
           "hook": "A strange new entity \u2014 part virus, part plasmid \u2014 may offer a fresh strategy in the fight against one of the most antibiotic-resistant bacteria threatening human health.",
           "pitch_angle": "Phage-plasmid hybrids blur the line between biological categories and could offer targeted ways to attack resistant E. coli strains in the gut and beyond. The research is early-stage and in vitro, but adds to growing excitement around phage therapy as antibiotic alternatives."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42390913",
-      "headline": "Three new Nocardia species discovered living quietly inside tropical plant roots",
-      "journal": "International Journal of Systematic and Evolutionary Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1099/ijsem.0.007218",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers isolated three novel actinomycete strains from the roots of Rutaceae plants (including lime and bael fruit trees) in Thailand and characterized them using a polyphasic approach including 16S rRNA gene sequencing, whole-genome sequencing, and chemotaxonomic analysis. Digital DNA-DNA hybridization and average nucleotide identity confirmed all three strains fall below species delineation thresholds relative to known Nocardia relatives. The three strains are proposed as new species: Nocardia glycosmidis, Nocardia aegles, and Nocardia citri.",
-      "why_it_matters": "Expanding the catalog of Nocardia species from plant environments may uncover new sources of bioactive compounds relevant to antimicrobial drug discovery.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 1,
-      "relevance_score_reason": "Taxonomic microbiology; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General science",
-          "headline": "Three Unknown Bacteria Species Were Hiding in the Roots of Tropical Citrus Plants",
-          "hook": "Scientists sifting through the root microbiomes of lime, bael fruit, and related trees have named three entirely new bacterial species \u2014 a reminder of how much microbial life remains undiscovered.",
-          "pitch_angle": "The new Nocardia species join a genus that includes both environmental organisms and rare human pathogens; future research may explore whether plant-associated Nocardia strains produce novel bioactive compounds useful in medicine."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42119807",
-      "headline": "New PCR test correctly identifies all four clinically important skin bacteria that older tests kept getting wrong",
-      "journal": "Journal of Infection and Chemotherapy",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.jiac.2026.102994",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Japanese researchers developed a novel multiplex PCR assay targeting the recA gene to distinguish all four clinically relevant Cutibacterium species \u2014 including the previously undetectable C. modestum \u2014 using 203 clinical isolates from sterile-site specimens from hospitalized patients. The assay achieved 100% sensitivity and specificity against 16S rRNA gold-standard identification, correctly identifying all C. modestum strains that prior assays had misclassified. Cutibacterium species are skin commensals implicated in acne and healthcare-associated infections including prosthetic joint infections.",
-      "why_it_matters": "Correctly identifying which Cutibacterium species is causing an infection matters for antibiotic selection, particularly as misidentification of C. modestum has likely led to inappropriate treatment of some healthcare-associated infections.",
-      "caveats": "single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Clinical microbiology diagnostics for skin/hospital pathogen; no gut or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / clinical health",
-          "headline": "The Acne Bacteria Causing Hospital Infections Was Being Misidentified \u2014 Until Now",
-          "hook": "A common skin bacterium linked to acne has been quietly causing misdiagnosed hospital infections because standard tests couldn't tell it apart from its relatives.",
-          "pitch_angle": "A new multiplex PCR test can now accurately distinguish all four disease-causing Cutibacterium species, including one that was routinely misclassified, potentially improving antibiotic prescribing for prosthetic joint and other healthcare-associated infections."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412072",
-      "headline": "Four new species of marine bacteria discovered in Korean seawater \u2014 but they have no known connection to human health",
-      "journal": "International Journal of Systematic and Evolutionary Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1099/ijsem.0.007235",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers collected four novel bacterial strains from seawater at two Korean beaches and used polyphasic taxonomic analysis \u2014 including 16S rRNA gene sequencing, digital DNA-DNA hybridization, average nucleotide identity, and average amino acid identity \u2014 to confirm they represent four new species within the genus Pseudoalteromonas. The strains are Gram-negative, rod-shaped marine bacteria with no described relationship to human gut health or disease. The study is purely taxonomic and descriptive in nature.",
-      "why_it_matters": "This study describes environmental marine bacteria and has no identified relevance to human gut health, the gut microbiome, or digestive disease.",
-      "caveats": "no human subjects, no gut health relevance, environmental microbiology only, descriptive taxonomy",
-      "fact_check_note": "'First-in-class human study' does not apply \u2014 corrected: this is an environmental microbiology taxonomy study with no human subjects.",
-      "relevance_score": 1,
-      "relevance_score_reason": "Environmental marine taxonomy; zero gut health or human digestive relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Not recommended for pitch \u2014 no gut or digestive health relevance",
-          "hook": "This is a marine bacterial taxonomy study with no connection to human gut health, the microbiome, or digestive disease.",
-          "pitch_angle": "This study falls entirely outside the scope of gut and digestive health coverage and is not recommended for pitch."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42114786",
-      "headline": "A bacterium found in rubber tree sap shows surprising probiotic-like traits \u2014 but it's never been tested in humans",
-      "journal": "Microbial Pathogenesis",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.micpath.2026.108546",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers isolated a strain of Lysinibacillus fusiformis (PWR01) from rubber latex and characterized it using phenotypic assays and whole-genome sequencing (5.0 Mb genome, 4,909 predicted genes). The strain demonstrated acid and bile tolerance, high sporulation efficiency, antibiofilm activity against Pseudomonas aeruginosa, and inhibition of Streptococcus agalactiae and Aeromonas hydrophila in vitro. Despite harboring antimicrobial resistance-associated genes, no phenotypic resistance was detected \u2014 and the study was entirely in vitro with no animal or human testing.",
-      "why_it_matters": "Identifying probiotic candidates from non-traditional environments like plant-derived substrates expands the search space for next-generation live biotherapeutics, though all findings here are preliminary and limited to laboratory conditions.",
-      "caveats": "animal or cell study, in vitro only, no human subjects, no clinical outcomes, small sample, single-center, Lysinibacillus not an established probiotic genus",
-      "fact_check_note": "'First-in-class human study' label does not apply \u2014 this is an in vitro and genomic characterization study with no human subjects.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Probiotic topic fit but entirely in vitro; no human or animal gut data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Wired",
-          "headline": "Scientists Found a Potential Probiotic in Rubber Tree Sap \u2014 Here's Why That's Interesting (and Very Preliminary)",
-          "hook": "A bacterium scraped from rubber latex in Thailand can survive stomach acid, kill drug-resistant pathogens in a dish, and may one day be developed as a probiotic \u2014 but it hasn't been tested in a single living organism yet.",
-          "pitch_angle": "The search for next-generation probiotics is pushing scientists into increasingly unusual environments, from fermented foods to industrial plant substrates, in hopes of finding microbes with pharmaceutical-grade resilience. This study is a reminder that the pipeline from 'promising lab result' to 'proven probiotic' is long \u2014 but the diversity of candidates being explored is genuinely expanding."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42412106",
-      "headline": "Scientists identify a new Mycobacterium species pulled from human lung patients \u2014 and it's distinct from its closest known relatives",
-      "journal": "International Journal of Systematic and Evolutionary Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1099/ijsem.0.007219",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers characterized five clinical bacterial isolates from patients with chronic progressive pulmonary disease and proposed a new species, Mycobacterium toneyamaense, based on genomic and phenotypic analysis. The strains were most closely related to M. mucogenicum but showed average nucleotide identity values too low (\u226493.6%) to belong to any existing species. The new species is a rapidly growing, acid-fast bacterium isolated from immunocompetent human patients.",
-      "why_it_matters": "Identifying novel mycobacterial species linked to human lung disease may improve diagnosis and treatment of pulmonary infections that currently go unrecognized or misclassified.",
-      "caveats": "small sample (N<100), single-center, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Microbiology taxonomy study; no gut health, diet, or digestive disease angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science news",
-          "headline": "A New Lung-Infecting Bacterium Has Been Named \u2014 and Doctors May Have Been Missing It",
-          "hook": "A bacterium hiding in plain sight in human lung patients turns out to be an entirely new species.",
-          "pitch_angle": "Researchers in Japan identified five clinical isolates from patients with chronic lung disease that don't match any known Mycobacterium species, prompting the formal naming of M. toneyamaense. The finding suggests some pulmonary mycobacterial infections may be misidentified, with implications for accurate diagnosis."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42380038",
-      "headline": "An ancient salt-loving microbe breaks down a key nutrient using an enzyme scientists have never seen before",
-      "journal": "Environmental Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1111/1462-2920.70340",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers discovered that the archaeon Haloferax volcanii possesses a novel polyphosphate-degrading enzyme unlike any previously characterized, allowing it to grow using polyphosphate as its sole phosphorus source. The enzyme was identified through native-PAGE zymography and biochemical assays of cell-free extracts and required manganese or cobalt ions for activity. The study was conducted entirely in vitro and in microbial cultures, with no human subjects involved.",
-      "why_it_matters": "Understanding novel phosphorus metabolism pathways in archaea expands knowledge of global phosphorus biogeochemical cycling, which ultimately influences soil and aquatic nutrient availability in ecosystems that support food production.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Environmental microbiology; no gut health, digestive disease, or human nutrition relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science news",
-          "headline": "A Salt-Loving Ancient Microbe Uses a Never-Before-Seen Enzyme to Eat a Key Nutrient",
-          "hook": "Scientists found an archaeon quietly breaking down polyphosphate using molecular machinery that doesn't match anything in the known enzyme catalog.",
-          "pitch_angle": "Haloferax volcanii, a halophilic archaeon, was found to harbor a completely novel enzyme for degrading polyphosphate \u2014 a molecule involved in phosphorus cycling across ecosystems \u2014 challenging the assumption that polyphosphate catabolism is biochemically uniform across life. The finding adds a new chapter to our understanding of how ancient microbes manage nutrient resources, with potential long-term relevance to phosphorus availability in agriculture and aquatic systems."
         }
       ],
       "run_date": "2026-07-07",
@@ -2382,248 +1465,6 @@
       "status": "new"
     },
     {
-      "pmid": "42397696",
-      "headline": "Scientists pull a heat-loving microbe from a deep-sea volcano and discover it belongs to an entirely new branch of life",
-      "journal": "International Journal of Systematic and Evolutionary Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1099/ijsem.0.007229",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Japanese researchers isolated a thermophilic, facultatively anaerobic bacterium (strain sy37T) from a deep-sea hydrothermal field and conducted detailed phenotypic and genomic characterization. Phylogenetic analysis of the 16S rRNA gene and whole genome sequences placed the organism in a previously uncultured candidate phylum known only as WOR-3, which had never been formally described. The study formally proposes an entirely new phylum, Caldifarciminota phyl. nov., along with new class, order, family, and genus designations for this organism.",
-      "why_it_matters": "Formally characterizing entirely new branches of the bacterial tree of life expands our understanding of microbial diversity on Earth, with potential long-term relevance for discovering novel enzymes or metabolic pathways.",
-      "caveats": "animal or cell study, single-center, no clinical outcomes, environmental microorganism with no human health connection established",
-      "fact_check_note": "The 'First-in-class human study' groundbreaking tag does not apply \u2014 this is an environmental microbiology taxonomy study with no human subjects. Groundbreaking flag corrected to reflect novelty of phylum-level discovery only.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Environmental microbiology taxonomy; no gut health, diet, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired",
-          "headline": "Scientists Just Named a Whole New Branch of Life \u2014 Found at the Bottom of the Ocean",
-          "hook": "A microbe pulled from a deep-sea volcanic vent turned out to be so genetically distinct it required scientists to invent an entirely new phylum \u2014 one of the highest-level categories in the tree of life.",
-          "pitch_angle": "The newly named Caldifarciminota phylum was previously known only as an anonymous genomic shadow called 'candidate phylum WOR-3,' never successfully cultured until now. Its formal description adds a new chapter to microbial taxonomy and hints at vast undiscovered diversity in Earth's most extreme environments."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42114527",
-      "headline": "A WHO standard finally lets COVID antibody tests speak the same language",
-      "journal": "The Lancet Microbe",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.lanmic.2025.101329",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "The WHO-commissioned HARMONY study enrolled 14 diagnostic test manufacturers to calibrate 22 commercial SARS-CoV-2 spike-binding antibody assays against the first WHO International Standard for anti-SARS-CoV-2 immunoglobulin, expressing results in a unified binding antibody units per mL (BAU/mL) format. The multicentre calibration study found that assays measuring the same antigenic target (RBD, S1, or full spike) produced well-harmonised results once referenced to the international standard, with low variation across manufacturers. This provides proof-of-concept that cross-study comparison of COVID-19 antibody data is achievable through standardised reporting.",
-      "why_it_matters": "Standardising how COVID antibody test results are reported could make future pandemic serology research and vaccine effectiveness studies far more comparable and reliable across countries.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "No gut, microbiome, or digestive health relevance; virology/serology methodology study.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science policy",
-          "headline": "Why Your COVID Antibody Test Result May Not Mean the Same Thing as Someone Else's",
-          "hook": "Fourteen major diagnostic manufacturers couldn't meaningfully compare their COVID antibody test results \u2014 until now.",
-          "pitch_angle": "A WHO-led international study found that by calibrating commercial COVID antibody tests to a single global standard, results can finally be compared across labs and studies. This matters for evaluating vaccine durability and pandemic preparedness going forward."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42119611",
-      "headline": "Drug-resistant Acinetobacter baumannii is outsmarting hospital antibiotics \u2014 and researchers are turning to viruses and gene editing for answers",
-      "journal": "Journal of Microbiological Methods",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.mimet.2026.107544",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review synthesises current knowledge on multidrug-resistant Acinetobacter baumannii (MDR-Ab), a hospital-acquired pathogen that threatens immunocompromised patients and has rapidly developed resistance to most conventional antibiotics. The review covers resistance mechanisms including efflux pumps, beta-lactamase enzymes, and mobile genetic elements, alongside emerging treatment strategies such as phage therapy, antimicrobial peptides, CRISPR-Cas gene editing, and nanotechnology-based drug delivery. No new experimental data are presented; the review identifies ongoing challenges including limited clinical scalability and safety concerns for novel therapies.",
-      "why_it_matters": "As hospital-acquired drug-resistant infections rise globally, understanding the pipeline of alternative therapies being explored against A. baumannii is relevant for anyone tracking the antimicrobial resistance crisis.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Hospital pathogen review; no gut microbiome, digestive disease, or diet relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The Hospital Superbug That's Making Scientists Consider Gene-Editing Bacteria to Death",
-          "hook": "Acinetobacter baumannii has become so resistant to antibiotics that researchers are now exploring CRISPR and viruses as last-resort weapons.",
-          "pitch_angle": "A new review maps the expanding arsenal being developed against one of the world's most dangerous hospital superbugs \u2014 from bacteriophage therapy to precision genome editing \u2014 as conventional antibiotics increasingly fail. The science is promising but scalability and safety remain unsolved problems."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42320375",
-      "headline": "Scientists discover a new soil bacterium in Thailand with potent antibiotic activity against MRSA",
-      "journal": "Systematic and Applied Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.syapm.2026.126737",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers isolated two strains of a previously unknown Streptomyces species from soil in Nakhon Ratchasima, Thailand, and used genomic, chemotaxonomic, and phenotypic analyses to formally describe it as Streptomyces diversicolor sp. nov. One strain produced potent antimicrobial activity against methicillin-resistant Staphylococcus aureus (MRSA) in laboratory testing, while the other showed limited inhibitory activity, despite the two strains sharing 99.99% genome identity. The study is a taxonomic characterisation with in vitro antimicrobial screening; no animal or human data were reported.",
-      "why_it_matters": "Soil bacteria in the Streptomyces genus are a historically rich source of antibiotics, and identifying new species with MRSA-active compounds adds to the pipeline of potential treatments for drug-resistant infections.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Environmental microbiology taxonomy; no gut, digestive, or dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / General science",
-          "headline": "A New Species of Soil Bacteria Found in Thailand Can Kill MRSA in the Lab",
-          "hook": "Two genetically near-identical bacterial strains from Thai soil behaved so differently \u2014 one killing drug-resistant staph, one doing almost nothing \u2014 that scientists had to rethink what 'same species' really means.",
-          "pitch_angle": "The discovery of Streptomyces diversicolor highlights how even genetically identical microbes can have dramatically different antimicrobial capabilities, a puzzle with implications for antibiotic discovery. The finding is early-stage lab work, but Streptomyces soil bacteria have historically been a goldmine for new antibiotics."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42235107",
-      "headline": "Scientists split a poorly defined bacterial genus into five new groups \u2014 a taxonomy housekeeping move with real ecological implications",
-      "journal": "Systematic and Applied Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.syapm.2026.126734",
-      "groundbreaking": "None",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using whole-genome phylogenomics, researchers found that the bacterial genus Metabacillus as currently defined is polyphyletic \u2014 meaning it groups together species that are not actually closely related \u2014 and proposed splitting it into five new genera based on genomic, phenotypic, and chemotaxonomic evidence. A new species, Chryseobacillus diguaensis sp. nov., isolated from an Andean reservoir shoreline in Chile, was also formally described. The study is a taxonomic reclassification with no experimental clinical or ecological outcomes reported.",
-      "why_it_matters": "Accurate bacterial taxonomy underpins environmental monitoring and agricultural microbiology, and reclassifications like this can clarify which microbes are relevant to soil health and crop production.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 1,
-      "relevance_score_reason": "Pure environmental taxonomy; no gut health, microbiome, or digestive relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General science",
-          "headline": "The Bacterial Family Tree Just Got a Major Reshuffle \u2014 and It Matters for Soil Science",
-          "hook": "A group of soil bacteria scientists thought were closely related turns out to be five distinct lineages that evolved independently.",
-          "pitch_angle": "Whole-genome sequencing revealed that the genus Metabacillus is actually a loose grouping of unrelated bacteria masquerading as a single family \u2014 a common problem in microbiology that genomics is now rapidly correcting. Getting the taxonomy right matters for understanding soil ecology and the microbes that support plant and agricultural health."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42155632",
-      "headline": "New bacterial genome-clustering tool outperforms standard typing method for hard-to-distinguish pathogens",
-      "journal": "Journal of Microbiological Methods",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.mimet.2026.107553",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed cgKNV, a core-genome clustering algorithm based on k-mer natural vectors, and benchmarked it against the standard cgMLST method using three bacterial datasets totaling 2,715 genomes \u2014 including Enterococcus faecium, Bacillus anthracis, and Mycobacterium abscessus. cgKNV demonstrated higher discriminatory power and more precise population-structure resolution, particularly for highly recombinogenic or genetically uniform bacterial genomes. The method is threshold-free and scalable, enabling large-scale outbreak tracking and strain identification.",
-      "why_it_matters": "Better tools for tracking how dangerous bacterial strains spread \u2014 including gut pathogens like Enterococcus faecium \u2014 could improve outbreak surveillance and infection control in hospital settings.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Bioinformatics methods paper; minimal direct gut health or diet relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A New Algorithm Could Make It Easier to Track How Drug-Resistant Hospital Bugs Spread",
-          "hook": "Standard bacterial fingerprinting methods struggle to tell apart closely related strains of dangerous pathogens \u2014 a new computational tool closes that gap.",
-          "pitch_angle": "The cgKNV method analyzed nearly 2,800 bacterial genomes and outperformed the current gold standard for distinguishing strains of Enterococcus faecium, a leading cause of hospital-acquired infections. Faster and more accurate strain tracking could help infection-control teams stop outbreaks before they escalate."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42202675",
-      "headline": "Scientists discover a new bacterial species causing potato scab disease in Thailand",
-      "journal": "Systematic and Applied Microbiology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.syapm.2026.126732",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used polyphasic taxonomy and whole-genome sequencing to characterize three actinomycete strains isolated from scabby potato tubers in Chiang Mai Province, Thailand, proposing a new species: Streptomyces tuberiscabiei sp. nov. The strains were confirmed as distinct from closely related Streptomyces species based on 16S rRNA gene sequences, average nucleotide identity, and digital DNA-DNA hybridization values. Pathogenicity assays confirmed the strains caused potato scab lesions and inhibited plant seedling growth.",
-      "why_it_matters": "Identifying the specific bacterial species responsible for potato scab disease is a foundational step toward developing targeted crop protection strategies that could help safeguard food supplies.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Agricultural microbiology; no gut health, human microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "A Newly Named Bacterium Has Been Quietly Destroying Potato Crops in Thailand",
-          "hook": "A previously unidentified Streptomyces species is behind a damaging scab disease attacking potato tubers in northern Thailand.",
-          "pitch_angle": "Scientists formally named Streptomyces tuberiscabiei sp. nov. after confirming it causes potato scab lesions and inhibits plant growth \u2014 distinct from all known relatives. Understanding what causes crop disease at the species level is a prerequisite for building smarter, more targeted agricultural defenses."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41996876",
-      "headline": "Engineered bacteria produce a rare 'methylated' building block that could unlock a new class of drug molecules",
-      "journal": "Enzyme and Microbial Technology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.enzmictec.2026.110855",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used multi-stage metabolic engineering to boost production of 5-methyl-IPP, a modified version of the standard terpene building block, by optimizing an insect-derived mevalonate pathway in bacteria, achieving a 4.06-fold increase to 24.09 mg/L in shake-flask conditions (in vitro/cell engineering study). They then used 5-methyl-IPP as a starter unit to synthesize novel methylated terpene compounds (C16H26). The platform is designed to enable scalable production of structurally diverse terpenoids for drug discovery and industrial biochemistry.",
-      "why_it_matters": "Scalable production of structurally novel terpene compounds could eventually accelerate development of new pharmaceuticals, including candidates targeting gastrointestinal conditions, though no such applications were tested here.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Synthetic biology/metabolic engineering; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired",
-          "headline": "Scientists Hacked Insect Biochemistry to Build Drug Molecules That Don't Exist in Nature",
-          "hook": "By borrowing a metabolic pathway from moths and butterflies, researchers engineered bacteria to produce a novel molecular building block that could seed an entirely new class of drugs.",
-          "pitch_angle": "The team achieved a fourfold boost in production of 5-methyl-IPP \u2014 a methylated terpene precursor \u2014 and used it to synthesize compounds nature never made, leveraging the 'magic methyl effect' that reliably improves drug potency and stability. The platform could eventually be pointed at any number of therapeutic targets once it moves beyond the flask."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41985398",
-      "headline": "Researchers develop a faster, cheaper way to measure a key gut-bacterial enzyme linked to metabolism",
-      "journal": "Enzyme and Microbial Technology",
-      "pubdate": "2026 Jul",
-      "doi": "10.1016/j.enzmictec.2026.110876",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at the University of Babylon developed and validated a new spectrophotometric assay to measure the activity of tryptophanase (TnaA), a bacterial enzyme that breaks down tryptophan into indole, pyruvate, and ammonia \u2014 metabolites with relevance to gut microbial metabolism and drug discovery. The method uses S-methyl-L-cysteine (SMC) as an alternative substrate and the reagent DTNB to produce a measurable yellow color signal, validated across a linear range of 5\u20131,000 U/L with a detection limit of 3.47 U/L. This is described as the first report using SMC as an analytically useful substrate for a DTNB-based TnaA assay, offering a direct, solvent-free alternative to existing indole-based detection methods.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Methodological tool paper; no human or clinical data; limited direct gut health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Science trade",
-          "headline": "Scientists Build a Better Tool to Decode What Gut Bacteria Do With Tryptophan",
-          "hook": "Tryptophan metabolism by gut bacteria produces compounds that can influence immunity, mood, and disease \u2014 and now researchers have a faster, cheaper way to measure the enzyme responsible.",
-          "pitch_angle": "The new assay could accelerate research into how gut bacteria process tryptophan, a pathway increasingly linked to inflammatory bowel disease, the gut-brain axis, and colorectal cancer risk. For now, it's a lab tool, but better measurement methods are what enable the next wave of microbiome discoveries."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42306956",
       "headline": "Low-income and high-income urban women in Ethiopia face opposite barriers to eating well \u2014 and both groups know exactly what needs to change",
       "journal": "Maternal & Child Nutrition",
@@ -2651,33 +1492,6 @@
       "status": "new"
     },
     {
-      "pmid": "42402695",
-      "headline": "Bone-broth-derived peptides purified with a new technique show stronger bone-building effects in lab cells",
-      "journal": "Journal of Food Science",
-      "pubdate": "2026 Jul",
-      "doi": "10.1111/1750-3841.71272",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used hydroxyapatite affinity chromatography to isolate a high-calcium-binding fraction (F2) from bovine-bone-derived collagen peptides, then characterized its structure and tested it on MC3T3-E1 osteoblast cells in vitro. The purified fraction bound significantly more calcium (42.44 \u00b5g/mg) than unpurified collagen peptides and markedly promoted osteoblast proliferation, differentiation, and mineralization. Molecular docking suggested key peptides in F2 may interact with bone morphogenetic protein receptors (BMPR1 and TGFBR1), potentially via TGF-\u03b2/BMP signaling, though all findings are from cell and computational work only.",
-      "why_it_matters": "This early-stage research suggests a more efficient way to produce food-derived peptides that could support bone health, though human trials are needed before any dietary conclusions can be drawn.",
-      "caveats": "animal or cell study, small sample (N<100), no human clinical outcomes, in vitro only",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Bone health focus, cell study only; no gut health or microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "A New Lab Technique Could Make Bone-Broth Supplements Far More Effective",
-          "hook": "A purified fraction of bovine collagen peptides outperformed standard collagen at building bone cells in lab dishes \u2014 and scientists think they know why.",
-          "pitch_angle": "By filtering collagen peptides through a mineral-based column, researchers isolated a fraction that binds calcium more efficiently and more powerfully stimulates bone-building cells, suggesting the quality of collagen peptide supplements may matter as much as the dose. The research is in cells only, so human studies are the critical next step before this translates to supplement advice."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42402697",
       "headline": "Review maps a roadmap for turning food waste and insects into high-quality protein \u2014 but flags serious safety gaps",
       "journal": "Journal of Food Science",
@@ -2697,60 +1511,6 @@
           "headline": "We Need New Protein Sources. Scientists Just Made a Map for Getting There Safely.",
           "hook": "A sweeping new review of emerging proteins \u2014 from fungal mycelium to insect flour to food-processing byproducts \u2014 reveals that safety and nutrition science are lagging dangerously behind market enthusiasm.",
           "pitch_angle": "The review identifies a fragmented regulatory and nutritional-science landscape that leaves consumers and food manufacturers with little reliable guidance on how novel proteins actually compare to conventional animal or plant sources. By proposing a structured decision framework linking protein chemistry to application, the authors argue the field needs integration \u2014 not just innovation \u2014 to scale responsibly."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42385152",
-      "headline": "Parents in low-income neighborhoods rarely use the most effective mental strategy for feeding their kids well",
-      "journal": "Maternal & Child Nutrition",
-      "pubdate": "2026 Jul",
-      "doi": "10.1111/mcn.70214",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted semi-structured interviews with 20 parents of children aged 0\u20135 living in disadvantaged neighborhoods in the Netherlands, analyzing how parents cope with conflicting values (e.g., child's dietary health vs. parental convenience) during nutrition decisions using Paradox Theory as a framework. Abductive thematic analysis identified two coping styles: 'either/or' trade-offs (choosing one value over another, most common) and 'both/and' strategies (addressing competing values simultaneously, less common but more effective). Three 'both/and' themes emerged \u2014 planning and preparing food, managing stressful child behavior, and supporting healthy food acceptance \u2014 facilitated by time availability, social support, and daycare routines.",
-      "why_it_matters": "Understanding the mental strategies that help parents navigate food decisions under stress could inform more effective nutrition interventions for families in resource-limited settings.",
-      "caveats": "small sample (N<100), qualitative design, single-center, self-reported dietary intake, observational design",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Parenting and nutrition behavior focus; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "The Parenting Mindset Shift That Could Help Families Eat Healthier Under Stress",
-          "hook": "Most parents in low-income neighborhoods default to trade-off thinking when feeding choices get hard \u2014 but a rarely used 'both/and' approach may reduce stress and improve kids' diets simultaneously.",
-          "pitch_angle": "A small qualitative study found that parents who reframed feeding challenges as problems to solve holistically \u2014 rather than choosing between, say, convenience and nutrition \u2014 reported better outcomes and less stress around mealtimes. The research suggests that nutrition interventions should focus on building these cognitive coping skills alongside practical food resources, particularly for families with limited time and income."
-        }
-      ],
-      "run_date": "2026-07-07",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42228990",
-      "headline": "New urine test detects banned meat-fattening chemicals at 20 times lower concentrations than current EU standards",
-      "journal": "Food Additives & Contaminants: Part A",
-      "pubdate": "2026 Jul",
-      "doi": "10.1080/19440049.2026.2665681",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers at the Agri-Food and Biosciences Institute (AFBI) in Belfast developed and validated a new UHPLC-MS/MS analytical method for detecting 11 thyrostat compounds \u2014 banned EU veterinary drugs used illegally to inflate meat carcass weight \u2014 in urine samples. The method is a laboratory analytical study (no human or animal subjects enrolled), focused on method development and validation against EU regulatory criteria. The new approach achieves detection limits of 0.29\u20130.51 \u00b5g/L, roughly 20-fold more sensitive than the current EU minimum performance requirement of 10 \u00b5g/L.",
-      "why_it_matters": "More sensitive detection of illegally used thyrostats in meat supply chains could strengthen food safety surveillance and reduce consumer exposure to compounds with potential carcinogenic and teratogenic properties.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Food safety relevance but no gut health, microbiome, or dietary outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / food safety",
-          "headline": "The Illegal Drug Still Found in Some Meat \u2014 and the New Test That Can Finally Catch It",
-          "hook": "A class of veterinary drugs banned in Europe since 1981 for inflating meat weight \u2014 and flagged as potentially carcinogenic \u2014 has been hard to detect because existing tests weren't sensitive enough.",
-          "pitch_angle": "Scientists have developed a urine-based test 20 times more sensitive than current EU standards for detecting thyrostats, chemicals illegally used to make meat heavier and cheaper to produce. The advance suggests food safety regulators may soon have a much sharper tool for catching contaminated meat before it reaches consumers."
         }
       ],
       "run_date": "2026-07-07",
@@ -2813,60 +1573,6 @@
       "status": "new"
     },
     {
-      "pmid": "42365542",
-      "headline": "Computational analysis pinpoints six potential drug targets in the neglected scrub typhus bacterium",
-      "journal": "Antonie van Leeuwenhoek",
-      "pubdate": "2026 Jun 28",
-      "doi": "10.1007/s10482-026-02365-z",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used a computational pipeline to compare genomes across 23 strains of Orientia tsutsugamushi, the bacterium responsible for scrub typhus, identifying a conserved core genome and six pathogen-specific proteins as potential drug targets. The study was entirely in silico (no human or animal subjects). Key proteins identified \u2014 including dnaK, fusA, fabG, infB, nuoN, and fabI \u2014 are involved in membrane transport, transcription regulation, and biosynthesis, and are absent from human host proteins, making them theoretically safer therapeutic targets.",
-      "why_it_matters": "Scrub typhus kills up to 30% of untreated patients and has no approved vaccine, so identifying new drug targets \u2014 even computationally \u2014 represents an early but meaningful step toward better treatments.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), in silico/computational study only \u2014 no wet-lab validation",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Infectious disease microbiology; no gut health, microbiome, or digestive relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science",
-          "headline": "A Deadly Tick Disease Has No Vaccine \u2014 These Six Proteins Could Change That",
-          "hook": "Scrub typhus kills nearly a third of untreated patients, yet no vaccine or targeted therapy exists \u2014 until now, researchers may have found a computational roadmap to fix that.",
-          "pitch_angle": "A team in India used genome-wide computational analysis to identify six conserved proteins unique to the scrub typhus bacterium that could serve as drug targets. While entirely preliminary and unvalidated in the lab, the approach offers a cost-effective framework for tackling a neglected tropical disease affecting millions across South and Southeast Asia."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42366457",
-      "headline": "Pomegranate peel extract coatings kept fresh-cut celery fresher longer \u2014 and added a gut-relevant bioactive compound",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Jun 28",
-      "doi": "10.1002/jsfa.70843",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed edible coatings from freeze-dried, encapsulated pomegranate peel extract and applied them to fresh-cut celery sticks, monitoring quality over 13 days at 4\u00b0C. Encapsulation using inulin at a 0.5:1 wall-to-core ratio retained the highest levels of polyphenols including punicalagin, a bioactive ellagitannin. Coated celery showed reduced discoloration and weight loss compared to uncoated controls, and punicalagin content in the celery peaked at approximately 1.8 g/kg on day 9.",
-      "why_it_matters": "Repurposing pomegranate peel \u2014 an agricultural waste product \u2014 as a functional food coating offers a potential dual benefit: extending fresh produce shelf life while adding a polyphenol compound that has shown preliminary gut health relevance in other studies.",
-      "caveats": "animal or cell study, no human subjects, no clinical outcomes, food science/technology study only",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Food technology study; no human subjects or gut health outcomes measured.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired",
-          "headline": "Scientists Are Turning Pomegranate Trash Into a Produce Preservative That Also Adds Antioxidants",
-          "hook": "Pomegranate peels \u2014 normally discarded \u2014 can be encapsulated and turned into an edible coating that keeps pre-cut celery fresh for nearly two weeks while loading it with bioactive plant compounds.",
-          "pitch_angle": "A food science study found that freeze-dried pomegranate peel extracts encapsulated in inulin and applied as edible coatings significantly reduced browning and moisture loss in fresh-cut celery over 13 days, while boosting levels of punicalagin, an ellagitannin with preliminary gut-health associations. The approach represents a sustainable use of agro-industrial waste \u2014 though human studies on health effects are still needed."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42366498",
       "headline": "An anthocyanin compound found in red and purple foods reduced gut damage from a common food carcinogen in mice",
       "journal": "Journal of the Science of Food and Agriculture",
@@ -2891,33 +1597,6 @@
       "run_date": "2026-06-29",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42362965",
-      "headline": "A bacteriophage enzyme \u2014 not antibiotics \u2014 clears bacterial contamination in ethanol fermentation tanks",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Jun 27",
-      "doi": "10.1007/s12602-026-11112-9",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "USDA researchers characterized a novel bacteriophage-derived endolysin, LysMYM94, isolated from a Limosilactobacillus fermentum prophage, and tested it in contaminated corn mash fermentation systems (in vitro and lab fermentation model, no human subjects). At 1 \u00b5M concentration, LysMYM94 reduced bacterial load by at least 2.5-log fold and lowered acetic and lactic acid levels while restoring ethanol yields to near-uncontaminated control levels. The enzyme retained activity across a wide temperature (4\u201360\u00b0C) and pH (3.5\u20138.0) range, and was stable in up to 10% ethanol, suggesting industrial applicability.",
-      "why_it_matters": "Phage-derived enzymes like LysMYM94 offer a potential antibiotic-free way to control bacterial contamination in industrial fermentation \u2014 relevant as antibiotic overuse in food and industrial systems contributes to broader antimicrobial resistance concerns.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Industrial microbiology application; no direct gut health or human dietary relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-technology",
-          "headline": "Forget Antibiotics: A Virus-Derived Enzyme Could Clean Up Industrial Fermentation Tanks",
-          "hook": "A newly characterized enzyme harvested from a bacterial virus can wipe out contaminating bacteria in ethanol fermentation without a drop of antibiotics.",
-          "pitch_angle": "LysMYM94, an endolysin from a bacteriophage that infects lactic acid bacteria, slashed bacterial contamination and rescued ethanol yields in corn mash fermentation tanks \u2014 conditions that typically trigger antibiotic use in industrial facilities. As scrutiny over antibiotic use in non-clinical settings intensifies, phage-derived enzymes represent a compelling biotech alternative with potential applications beyond biofuel into food and beverage fermentation."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -2978,33 +1657,6 @@
       "run_date": "2026-06-29",
       "category": "Microbiology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42363868",
-      "headline": "A plant-derived compound packed into tiny beads cuts bacterial biofilms in half in lab tests",
-      "journal": "Future Microbiology",
-      "pubdate": "2026 Jun 27",
-      "doi": "10.1080/17460913.2026.2688706",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Turkish researchers encapsulated benzyl isothiocyanate (BITC), a compound found in cruciferous vegetables, in chitosan beads via ionic gelation and tested the formulation against Staphylococcus aureus and Escherichia coli in vitro. The optimized bead formulation (B-Cs2) produced inhibition zones of 34.0 mm for S. aureus and 24.0 mm for E. coli, and reduced biofilm formation by approximately 49% in both species. Molecular docking analyses suggested BITC may interact with key virulence proteins, though the researchers note this requires biochemical validation.",
-      "why_it_matters": "Encapsulating plant-derived antimicrobials in biodegradable carriers like chitosan could offer a natural strategy for controlling drug-resistant bacterial biofilms in both clinical and food safety contexts \u2014 though human data are entirely absent.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Interesting plant-derived antimicrobial angle, but purely in vitro with no human or gut health data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "The Same Compound That Makes Cruciferous Veggies Pungent May Also Fight Dangerous Bacteria",
-          "hook": "Benzyl isothiocyanate \u2014 the sharp-tasting molecule in vegetables like watercress and mustard \u2014 cut bacterial biofilms nearly in half when packed into tiny biodegradable beads in new lab tests.",
-          "pitch_angle": "Researchers found that BITC, a naturally occurring phytochemical in cruciferous plants, disrupted the stubborn biofilm armor of both Staph aureus and E. coli when delivered via chitosan beads in vitro. While this is early-stage lab work with no human data, it adds to a growing body of evidence that bioactive compounds in everyday vegetables may have antimicrobial properties worth exploring \u2014 and raises questions about whether dietary intake of these compounds could matter for gut pathogen defense."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -3161,33 +1813,6 @@
       "status": "new"
     },
     {
-      "pmid": "42362093",
-      "headline": "Clinical case report raises procedural sequencing question for high-risk esophageal impaction",
-      "journal": "Gastroenterology",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1053/j.gastro.2026.06.016",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This is a brief clinical case report or image/video submission published in Gastroenterology posing a procedural decision-making question about whether to perform endoscopy or stenting first in a high-risk esophageal or colonic impaction scenario. No abstract with study design, N, or results is available beyond the title and authors. Insufficient data to summarize findings.",
-      "why_it_matters": "Procedural sequencing decisions in high-risk GI impactions can affect patient safety outcomes, but this report lacks extractable data for meaningful public communication.",
-      "caveats": "small sample (N<100), single-center, no abstract with methods or results available",
-      "fact_check_note": "No abstract with study data provided; summary based solely on title and journal metadata.",
-      "relevance_score": 2,
-      "relevance_score_reason": "No extractable study data; likely case report with very limited generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Not suitable for pitching \u2014 insufficient study data available",
-          "hook": "No abstract data available to construct a meaningful pitch.",
-          "pitch_angle": "This submission lacks a reportable abstract and does not contain sufficient information for a journalism pitch."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42362117",
       "headline": "A fast food and sugar-heavy diet is linked to double the risk of depression and anxiety in a large European cohort",
       "journal": "The American Journal of Clinical Nutrition",
@@ -3251,60 +1876,6 @@
       "run_date": "2026-06-29",
       "category": "Gastroenterology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42089568",
-      "headline": "Viruses' own 'defective' byproducts may be weaponized as broad-spectrum antivirals",
-      "journal": "Microbiology and Molecular Biology Reviews",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1128/mmbr.00090-25",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This review examines defective interfering particles (DIPs) \u2014 non-infectious byproducts generated naturally during RNA virus replication \u2014 as a potential antiviral therapeutic strategy. The authors synthesize evidence that DIPs work through two mechanisms: directly competing with wild-type virus for replication machinery, and stimulating innate immune responses that can suppress unrelated viruses. The review covers advances in engineering DIPs therapeutically and outlines remaining challenges before clinical application.",
-      "why_it_matters": "If defective viral particles can be engineered into broad-spectrum antivirals that resist viral escape mutations, they could represent a new class of treatments for RNA virus infections including influenza and other respiratory viruses.",
-      "caveats": "animal or cell study, preprint",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Antiviral virology review; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / science-forward",
-          "headline": "Scientists Want to Fight Viruses With Their Own Broken Copies",
-          "hook": "Every time an RNA virus replicates, it accidentally produces defective, non-infectious copies of itself \u2014 and researchers now think those 'mistakes' could become powerful antiviral drugs.",
-          "pitch_angle": "Defective interfering particles interfere with wild-type virus replication and simultaneously trigger immune responses against unrelated viruses \u2014 a dual mechanism that makes them hard for viruses to escape through mutation. This review maps the state of the science and what needs to happen before these engineered viral fragments can become clinical antivirals."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42343672",
-      "headline": "Expanding free school meals in England faces stigma and funding barriers, stakeholders say",
-      "journal": "Public Health Nutrition",
-      "pubdate": "2026 Jun 25",
-      "doi": "10.1017/S1368980026102432",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This qualitative study conducted interviews with 17 stakeholders \u2014 including representatives from local, regional, and national government, academia, and schools \u2014 to explore barriers and policy options for expanding free school meal provision in England. Using the Framework Method and the CICI framework, researchers identified stigma reduction, integration with existing school policies, improved administrative processes, and adequate financial support as key implementation factors. The study produced multi-level recommendations but did not measure health or dietary outcomes.",
-      "why_it_matters": "Understanding what prevents equitable school meal access is essential context for journalists covering child food insecurity, nutrition policy, and public health inequity in the UK.",
-      "caveats": "small sample (N<100), qualitative design, single-center, no dietary or health outcome data",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Low direct relevance to gut health, microbiome, or digestive disease; policy/public health framing only.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Free School Lunches Sound Simple \u2014 But Stigma and Funding Make Expansion Surprisingly Hard",
-          "hook": "Policymakers want to feed more children for free, but new research finds the biggest obstacles aren't always financial.",
-          "pitch_angle": "A qualitative study interviewing UK education and health stakeholders found that reducing the social stigma of free school meals may be as important as funding when it comes to expanding access. The findings offer a roadmap for journalists covering child food insecurity and nutrition equity policy."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -3401,33 +1972,6 @@
       "status": "new"
     },
     {
-      "pmid": "42339835",
-      "headline": "A newly discovered natural antimicrobial peptide from a soil bacterium kills Listeria with unusual potency",
-      "journal": "mBio",
-      "pubdate": "2026 Jun 24",
-      "doi": "10.1128/mbio.01188-26",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers identified and characterized pumicyclin A, a novel circular bacteriocin produced by two independently isolated strains of Bacillus pumilus, and tested its antimicrobial activity in vitro against a panel of gram-positive bacteria including Listeria monocytogenes and Bacillus cereus. Genomic analysis revealed a six-gene biosynthetic cluster, and deletion mutagenesis showed the leader peptide is largely dispensable while residues near the circularization site are critical for activity. Pumicyclin A showed broad-spectrum inhibition of gram-positive pathogens, with particular potency against Listeria species, suggesting potential as a natural food biopreservative.",
-      "why_it_matters": "A stable, naturally derived antimicrobial peptide active against Listeria could reduce reliance on chemical preservatives in food production, with potential implications for food safety and gut pathogen exposure.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Food safety relevance via Listeria, but purely in vitro with no gut health outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / food safety",
-          "headline": "A Natural Peptide From Soil Bacteria Could Replace Chemicals That Keep Listeria Out of Your Food",
-          "hook": "Scientists have found a new circular antimicrobial peptide \u2014 pumicyclin A \u2014 that kills Listeria with unusual potency and holds up under conditions that destroy most biological compounds.",
-          "pitch_angle": "Pumicyclin A is a member of a rare class of ultra-stable antimicrobial peptides whose circular structure makes them unusually resistant to heat and enzymes, properties that make them attractive for food preservation. While the research is still in vitro, it contributes to a growing effort to swap synthetic food preservatives for naturally derived alternatives \u2014 a shift with implications for both food safety and consumer demand for cleaner labels."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42341608",
       "headline": "AI is now mining the human microbiome for next-generation antibiotics \u2014 and the gut may be the richest source yet",
       "journal": "Current Opinion in Microbiology",
@@ -3494,33 +2038,6 @@
       "status": "new"
     },
     {
-      "pmid": "42340421",
-      "headline": "Ultra-fine salt particles could be a new weapon against drug-resistant fungal infections in hospitals",
-      "journal": "Applied Microbiology and Biotechnology",
-      "pubdate": "2026 Jun 24",
-      "doi": "10.1007/s00253-026-13924-9",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers synthesized a novel ultrafine sodium chloride powder (nanosalt) using anti-solvent precipitation and high-energy nanonization, then tested it against airborne and clinically relevant fungal pathogens \u2014 including Aspergillus spp., Candida albicans, and Cryptococcus neoformans \u2014 in a controlled spray co-exposure aerosol chamber system in vitro. Nanosalt showed marked fungicidal activity across all tested species, with morphological analysis of A. fumigatus revealing severe cell wall and membrane damage, pore-like structural disruption, and a time-dependent increase in intracellular reactive oxygen species. The authors propose nanosalt as a candidate for dry environmental antifungal disinfection in clinical settings.",
-      "why_it_matters": "With antifungal drug resistance rising and immunocompromised patient populations growing, a non-drug environmental approach to controlling airborne fungal pathogens in healthcare settings could be a meaningful addition to infection control strategies.",
-      "caveats": "animal or cell study, short follow-up, single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "In vitro antifungal study; no gut, microbiome, or digestive health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Wired",
-          "headline": "Could Salt \u2014 Engineered at the Nanoscale \u2014 Disinfect Hospital Air of Dangerous Fungi?",
-          "hook": "Scientists have turned ordinary table salt into a nano-engineered fungicide that destroys drug-resistant fungal pathogens on contact \u2014 at least in the lab.",
-          "pitch_angle": "A new study found that ultrafine nanosalt particles destroy the cell walls of Aspergillus, Candida, and Cryptococcus fungi in vitro, offering a potential non-pharmaceutical strategy for air disinfection in hospitals where immunocompromised patients are most vulnerable; clinical testing is still needed before any real-world application."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42336601",
       "headline": "Having a parent or sibling with precancerous colon growths may nearly triple your own colorectal cancer risk",
       "journal": "Clinical and Translational Gastroenterology",
@@ -3551,60 +2068,6 @@
       "run_date": "2026-06-29",
       "category": "Gastroenterology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42333985",
-      "headline": "A never-before-seen virus found in a tick that bites humans raises new questions about what else ticks are carrying",
-      "journal": "Microbiology and Immunology",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1111/1348-0421.70067",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Using metatranscriptomic sequencing of RNA from Vero cells exposed to tick homogenate, Japanese researchers identified a novel virus \u2014 named Amblyomma testudinarium-associated victorivirus 1 (ATaVV1) \u2014 in a human-biting tick species. The 4,621 bp viral genome contains two overlapping open reading frames encoding a coat protein and RNA-dependent RNA polymerase consistent with the genus Victorivirus. Phylogenetic analysis confirmed ATaVV1 belongs to the family Pseudototiviridae, expanding known viral diversity associated with human-biting ticks.",
-      "why_it_matters": "Identifying new viruses in ticks that bite humans is an important step in surveillance for emerging infectious diseases, even though the health significance of this specific virus is currently unknown.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 2,
-      "relevance_score_reason": "Virology/tick surveillance; no gut, microbiome, or digestive health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Outside Magazine",
-          "headline": "Ticks Are Carrying Viruses We've Never Seen Before \u2014 Scientists Just Found One in Japan",
-          "hook": "A tick that bites humans in Japan was found harboring an entirely new type of virus \u2014 and researchers say it's likely just the tip of the iceberg.",
-          "pitch_angle": "Metatranscriptomic surveillance of a human-biting tick revealed a novel virus belonging to a fungal-associated viral family, highlighting how little we know about what ticks carry; while this virus poses no confirmed human health threat yet, ongoing tick surveillance is critical as tick habitats expand globally."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42332571",
-      "headline": "Two new HIV-1 variants discovered in China show signs of drug resistance emerging under treatment",
-      "journal": "BMC Microbiology",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1186/s12866-026-05323-x",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed 636 HIV-1 pol gene sequences from antiretroviral therapy-na\u00efve heterosexual patients in Yunnan, China, over five years, identifying two novel second-generation circulating recombinant forms (CRF190_0708 and CRF191_0708). Overall pretreatment drug resistance prevalence was 5.97%, with the K103N mutation most common. Patients infected with CRF190_0708 showed higher rates of viral rebound and drug-resistance mutations (M184V and K103N) during five-year follow-up compared to CRF191_0708, though sample sizes were small.",
-      "why_it_matters": "The emergence of new HIV recombinant forms with differing clinical trajectories underscores the need for ongoing molecular surveillance, particularly in regions like Yunnan where multiple HIV subtypes co-circulate.",
-      "caveats": "small sample (N<100) for novel CRF subgroups, single-center, observational design, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "HIV molecular epidemiology; no gut health, microbiome, or digestive disease relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science",
-          "headline": "Two New HIV Variants Found in China \u2014 And One May Be Harder to Treat",
-          "hook": "Scientists have identified two previously unknown HIV-1 recombinant strains circulating in Yunnan, China, with preliminary data suggesting one may be more prone to treatment failure.",
-          "pitch_angle": "A five-year study of over 600 HIV-positive patients found new viral variants with distinct genetic histories and early signals of different clinical outcomes, including drug-resistance mutations in patients who experienced viral rebound. The findings highlight how HIV continues to evolve in regions where multiple subtypes overlap, complicating treatment strategies."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -3803,60 +2266,6 @@
       "status": "new"
     },
     {
-      "pmid": "42340953",
-      "headline": "Scientists find a parasite gene that controls worm reproduction and could make existing drug resistance irrelevant",
-      "journal": "PLoS Pathogens",
-      "pubdate": "2026 Jun",
-      "doi": "10.1371/journal.ppat.1014334",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers cloned and characterized SjHAT1, a histone acetyltransferase gene in Schistosoma japonicum, and tested a praziquantel derivative (DW-3-15) as a selective inhibitor in vitro and in animal models. Knockdown of SjHAT1 reduced worm survival by 57.5% in vivo and suppressed female egg production by up to 90.8% in vitro, while RNA sequencing revealed that SjHAT1 knockdown disrupts a pheromone signaling pathway (BATT) essential for female sexual development. Crucially, DW-3-15 inhibited the parasite's enzyme at 50 \u03bcM but had no effect on the human ortholog HAT1, suggesting selective targeting is feasible.",
-      "why_it_matters": "With praziquantel resistance emerging in schistosomiasis \u2014 a parasitic disease affecting hundreds of millions globally \u2014 identifying a parasite-specific drug target that also cripples reproduction represents an important step toward next-generation treatments.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Parasitology/drug target; no direct gut microbiome or digestive health angle despite intestinal parasite relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / The Atlantic",
-          "headline": "The Parasite That Infects 250 Million People May Have a Hidden Weakness Scientists Just Found",
-          "hook": "A gene that controls how schistosome worms reproduce could be the Achilles' heel needed to defeat a disease that has resisted easy treatment for decades.",
-          "pitch_angle": "Researchers found that silencing a single parasite gene nearly eliminated egg production and killed over half of worms in animal models \u2014 using a drug that selectively targets the parasite without affecting the equivalent human enzyme; the finding is especially timely as resistance to the only widely used drug, praziquantel, continues to grow."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42335170",
-      "headline": "A common, lifelong virus quietly sabotages your immune response to malaria before you're ever exposed",
-      "journal": "PLoS Pathogens",
-      "pubdate": "2026 Jun",
-      "doi": "10.1371/journal.ppat.1014372",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used both in vitro experiments and a controlled human malaria infection model to investigate whether latent cytomegalovirus (CMV) \u2014 a near-ubiquitous herpesvirus \u2014 impairs innate NK cell responses to the malaria parasite P. falciparum. The study enrolled malaria-na\u00efve adults and found that CMV-seropositive individuals showed attenuated NK cell transcriptional activation, reduced markers of NK cell cytotoxicity, and lower IL-12 production from myeloid cells during a first malaria infection. NK cell perforin expression was associated with parasite control only in CMV-seronegative individuals, suggesting CMV impairs a key early immune defense against malaria.",
-      "why_it_matters": "This suggests that a virus most people carry silently from childhood may compromise the body's first-line immune defenses against entirely unrelated infections like malaria \u2014 with implications for vaccine design and global infectious disease strategy.",
-      "caveats": "small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Infectious disease immunology; no gut, microbiome, or digestive health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Wired",
-          "headline": "The Virus You Already Have May Be Undermining Your Immunity to Entirely Different Diseases",
-          "hook": "Most adults carry cytomegalovirus without knowing it \u2014 and new research suggests it's quietly hobbling immune cells meant to fight off infections like malaria.",
-          "pitch_angle": "A controlled human malaria infection study found that people with latent CMV showed blunted NK cell responses and worse early parasite control, raising the question of how many chronic 'silent' infections are reshaping immunity in ways we haven't accounted for in vaccine or treatment design."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42339901",
       "headline": "Surgeons in Brazil perform bariatric operation across 3,200 km using robotic telesurgery \u2014 a first for Latin America",
       "journal": "Arquivos brasileiros de cirurgia digestiva : ABCD = Brazilian archives of digestive surgery",
@@ -3914,33 +2323,6 @@
       "run_date": "2026-06-28",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42340162",
-      "headline": "Your olive habit could get greener: new food tech cuts olive processing time by 40% with far less chemical waste",
-      "journal": "Critical Reviews in Food Science and Nutrition",
-      "pubdate": "2026 Jun 24",
-      "doi": "10.1080/10408398.2026.2691228",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This narrative review critically analyzes conventional table olive processing methods \u2014 Spanish, Greek, and Californian styles \u2014 and evaluates emerging non-conventional intensification technologies including power ultrasound, high-pressure processing, and pulsed electric fields as more sustainable alternatives. Reviewed studies suggest these technologies can reduce debittering time by up to 40% and lower chemical use and wastewater generation, though most existing research focuses on single-stage processes rather than the full processing chain. The authors identify significant knowledge gaps and call for broader research across the entire olive processing pipeline.",
-      "why_it_matters": "Greener olive processing technologies could preserve more of the fruit's nutritional and sensory properties while reducing the environmental footprint of a globally consumed Mediterranean staple.",
-      "caveats": "observational design, animal or cell study, no primary data collected",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "Minimal gut health relevance; food technology review with no clinical or microbiome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / Outside Magazine",
-          "headline": "Sound Waves and Pressure Could Make Your Olives Greener \u2014 Literally",
-          "hook": "Industrial olive processing is chemical-heavy and wasteful, but a suite of emerging food technologies may change that without sacrificing taste or nutrition.",
-          "pitch_angle": "A new review finds that ultrasound, high-pressure processing, and pulsed electric fields could cut olive debittering time by up to 40% while dramatically reducing chemical use and wastewater \u2014 a potential win for sustainability-minded consumers and the global olive industry alike."
-        }
-      ],
-      "run_date": "2026-06-28",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -4031,60 +2413,6 @@
       "status": "new"
     },
     {
-      "pmid": "42335358",
-      "headline": "Gastroenterology nursing society issues new minimum staffing standards for endoscopy units",
-      "journal": "Gastroenterology Nursing",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1097/SGA.0000000000000965",
-      "groundbreaking": "",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "The Society of Gastroenterology Nurses and Associates (SGNA) Practice Committee published updated guidance on minimum registered nurse staffing requirements for patient care in gastroenterology and endoscopy settings. No abstract text was available; this appears to be a professional practice statement or position paper rather than an original research study. No sample size, study population, or primary findings are available for verification.",
-      "why_it_matters": "Standardized nurse staffing guidelines for endoscopy units could influence patient safety outcomes across one of the most commonly performed GI procedures in the United States.",
-      "caveats": "Not a primary research study \u2014 appears to be a professional practice/position statement; no abstract available for verification",
-      "fact_check_note": "No abstract was provided. Summary is based on title and journal affiliation only. Study design, methodology, and findings cannot be verified.",
-      "relevance_score": 2,
-      "relevance_score_reason": "Healthcare workforce policy document; no diet, microbiome, or digestive disease science content.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Healthcare trade",
-          "headline": "New National Standards Say How Many Nurses Must Be in the Room During Your Colonoscopy",
-          "hook": "The country's leading GI nursing organization has issued updated minimum staffing guidelines for endoscopy suites \u2014 a quiet but consequential patient safety move.",
-          "pitch_angle": "With colonoscopies and other GI endoscopic procedures performed tens of millions of times annually in the U.S., the SGNA's updated staffing standards could have broad implications for patient safety and procedural outcomes across outpatient and hospital endoscopy settings."
-        }
-      ],
-      "run_date": "2026-06-28",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42337997",
-      "headline": "Foot massage after childbirth improves breastfeeding success and infant stress in small RCT",
-      "journal": "Breastfeeding Medicine",
-      "pubdate": "2026 Jun 23",
-      "doi": "10.1177/15568253261457845",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A parallel-group randomized controlled trial enrolled 70 primiparous postpartum women in Turkey, randomizing them to 12 sessions of 30-minute foot massage over four weeks (n=35) or standard postpartum care alone (n=35). Women receiving foot massage showed significantly higher LATCH breastfeeding scores at weeks one through three and improved sleep quality on the Pittsburgh Sleep Quality Index compared to controls. Newborn stress scale scores also declined more markedly in the intervention group, with significant between-group differences at weeks two and three.",
-      "why_it_matters": "A simple, low-cost nonpharmacological intervention \u2014 foot massage \u2014 may support breastfeeding success and maternal sleep in the critical early postpartum weeks, suggesting potential for easy integration into postpartum care protocols.",
-      "caveats": "small sample (N<100), single-center, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 3,
-      "relevance_score_reason": "No gut health, microbiome, or digestive disease relevance; outside digest scope.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / Well+Good",
-          "headline": "Could a Simple Foot Massage Help New Moms Breastfeed Better?",
-          "hook": "A small randomized trial found that new mothers who received regular foot massages after delivery had significantly better breastfeeding outcomes and sleep quality than those who didn't.",
-          "pitch_angle": "Researchers in Turkey found that 12 sessions of foot massage over four weeks improved breastfeeding scores, maternal sleep, and newborn stress levels compared to standard postpartum care alone \u2014 suggesting a low-cost, drug-free tool that could support the early weeks of motherhood."
-        }
-      ],
-      "run_date": "2026-06-28",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42356409",
       "headline": "Plant compounds touted as muscle boosters may unexpectedly disrupt testosterone levels in male rats",
       "journal": "Nutrients",
@@ -4136,33 +2464,6 @@
       "run_date": "2026-06-28",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42360021",
-      "headline": "A liver transplant anesthesiology expert questions whether routine use of clot-busting preventive drugs during transplant surgery has outlived its evidence base",
-      "journal": "Liver Transplantation",
-      "pubdate": "2026 Jun 26",
-      "doi": "10.1097/LVT.0000000000000947",
-      "groundbreaking": "Overturns prior research",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "This appears to be an editorial or perspective piece in Liver Transplantation examining whether prophylactic antifibrinolytic drugs \u2014 routinely used to reduce bleeding during liver transplant surgery \u2014 remain appropriate in an era of personalized medicine. No abstract with original data, sample size, or study design is available. The piece likely argues for moving away from empirical, one-size-fits-all use toward individualized bleeding risk assessment.",
-      "why_it_matters": "As liver transplantation outcomes improve and patient populations become more diverse, the question of which patients actually benefit from prophylactic antifibrinolytics has direct implications for surgical safety and blood management protocols.",
-      "caveats": "No abstract available, likely editorial or commentary, no original study data",
-      "fact_check_note": "No abstract was provided; characterization is based solely on the title. Content cannot be verified.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Liver transplant surgical topic; limited direct gut-health or microbiome relevance for target audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science news",
-          "headline": "A Routine Liver Transplant Drug Habit Is Being Challenged by Personalized Medicine",
-          "hook": "An expert commentary in Liver Transplantation questions whether giving all transplant patients the same bleeding-prevention drug is still justified \u2014 or whether it's time to tailor the approach to each patient's individual risk.",
-          "pitch_angle": "As precision medicine reshapes treatment across specialties, one of surgery's most entrenched habits \u2014 prophylactic antifibrinolytics in liver transplant \u2014 is coming under scrutiny. The shift could improve safety for some patients while reducing unnecessary drug exposure for others."
-        }
-      ],
-      "run_date": "2026-06-27",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -4336,33 +2637,6 @@
       ],
       "run_date": "2026-06-27",
       "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42322604",
-      "headline": "Scientists engineer a whey protein-inulin-polyphenol complex that could make food emulsions more stable and antioxidant-rich",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Jun 20",
-      "doi": "10.1002/jsfa.70823",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers developed ultrasound-assisted covalent complexes made from whey protein isolate, inulin (a prebiotic fiber), and proanthocyanidins (plant polyphenols) to create more stable Pickering emulsions for food applications. The WPI-inulin-proanthocyanidin ternary complexes showed significantly lower flocculation, greater thermal stability, and higher antioxidant capacity compared to binary or non-covalent complexes in lab tests. Ultrasound-assisted preparation achieved comparable results to a 4-hour wet-heating method in just 72 minutes.",
-      "why_it_matters": "Combining a prebiotic fiber (inulin) with antioxidant polyphenols in a stable food-grade delivery system could open pathways for functional foods that support gut health \u2014 though all findings are currently limited to lab conditions with no human data.",
-      "caveats": "animal or cell study, in vitro / food chemistry study only, no clinical outcomes",
-      "fact_check_note": "The 'First-in-class human study' groundbreaking tag does not apply \u2014 this is an in vitro food chemistry study. Groundbreaking field left blank effectively; this was an error in auto-population and should be disregarded.",
-      "relevance_score": 3,
-      "relevance_score_reason": "Inulin prebiotic angle has gut relevance; purely in vitro food chemistry, no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / General health",
-          "headline": "Scientists Just Found a Faster Way to Pack Prebiotics and Antioxidants Into Stable Functional Foods",
-          "hook": "A new lab technique combines a gut-friendly prebiotic fiber with plant antioxidants to create food emulsions that are more stable, more nutritious, and faster to produce.",
-          "pitch_angle": "Researchers used ultrasound to rapidly engineer a triple complex of whey protein, inulin, and polyphenols that outperforms conventional emulsifiers in stability and antioxidant activity in lab tests. While human studies are years away, the approach suggests a practical route to embedding prebiotic fiber and polyphenols into everyday foods like dressings, sauces, and supplements."
-        }
-      ],
-      "run_date": "2026-06-27",
-      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -4656,66 +2930,6 @@
       "status": "new"
     },
     {
-      "pmid": "42356396",
-      "headline": "Adding a nutraceutical supplement to standard bone-healing therapy cuts post-fracture pain faster in older women",
-      "journal": "Nutrients",
-      "pubdate": "2026 Jun 20",
-      "doi": "10.3390/nu18122010",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "A single-center randomized controlled trial (N=60 female patients) compared pulsed electromagnetic field (PEMF) therapy alone versus PEMF plus nutraceutical supplementation for pain reduction and early fracture healing after distal radius fractures. At the first follow-up timepoint (T1), the nutraceutical group showed greater pain reduction (mean difference \u22120.57, p=0.007), higher bone alkaline phosphatase levels (a marker of bone formation), and a higher proportion of patients reaching the minimal clinically important difference in pain scores (60% vs. 30%, p=0.02). The authors note that the absence of a non-PEMF control group means the independent effect of PEMF cannot be determined, and the nutraceutical formulation is not specified beyond 'supplementation' in the abstract.",
-      "why_it_matters": "Distal radius fractures are among the most common fragility fractures associated with osteoporosis, particularly in postmenopausal women; evidence that targeted nutritional supplementation alongside physical therapy could accelerate pain relief and early bone healing would have practical implications for post-fracture rehabilitation protocols.",
-      "caveats": "small sample (N<100), single-center, short follow-up, nutraceutical formulation not fully described in abstract, no non-PEMF control group",
-      "fact_check_note": "Abstract confirmed: N=60 female patients only; no gut or digestive health outcomes measured; the nutraceutical composition is not detailed in the available abstract text. The study is an RCT but lacks a true placebo-only arm.",
-      "excluded": false,
-      "relevance_score": 3,
-      "relevance_score_reason": "Very low relevance to gut and digestive health journalism \u2014 the study focuses on bone fracture healing and pain, with no gut, microbiome, or digestive outcomes; the nutrition angle is about bone metabolism, not digestive health.",
-      "pitch_angles": [
-        {
-          "publication_type": "Prevention / General health",
-          "headline": "A Nutritional Supplement Added to Standard Fracture Care Helped Older Women Heal Faster, Small Trial Finds",
-          "hook": "Women recovering from wrist fractures who took a nutraceutical supplement alongside standard electromagnetic therapy reported significantly greater pain relief early in recovery than those receiving therapy alone.",
-          "why_it_fits": "Prevention readers skew toward women interested in bone health, osteoporosis prevention, and practical supplement research \u2014 especially findings relevant to aging and fracture recovery.",
-          "pitch_angle": "A small randomized trial published in Nutrients found that adding nutritional supplementation to standard post-fracture care improved short-term pain reduction and showed higher levels of a bone-formation marker in 60 women recovering from distal radius fractures \u2014 one of the most common osteoporosis-related injuries. Twice as many women in the supplement group reached a meaningful reduction in pain scores compared to the therapy-only group. The findings are preliminary given the small sample size and single-center design, but they add to a growing body of work suggesting targeted nutrition may play a role in fracture rehabilitation.",
-          "caveats_to_flag": "Small trial (N=60, women only); single center; nutraceutical composition not fully disclosed; no non-therapy placebo arm; short follow-up; results cannot be generalized broadly."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42319666",
-      "headline": "Computer-designed peptides show theoretical promise against drug-resistant TB \u2014 but exist only as simulations so far",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Jun 19",
-      "doi": "10.1007/s12602-026-11086-8",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers used computational methods \u2014 molecular docking and 100-nanosecond molecular dynamics simulation \u2014 to design and screen 15 antimicrobial peptides derived from modifications of the human host-defense peptide LL-37, targeting the Mycobacterium tuberculosis enzyme KatG, which is central to isoniazid resistance. Three peptides (P3, A5\u03b6, and A4\u03b7) showed strong predicted binding affinity at the KatG active site in silico, with P3 demonstrating the greatest conformational stability during simulation. In silico safety assessments predicted the peptides to be non-toxic, non-allergenic, and to have favorable pharmacokinetic properties. No wet-lab experimental validation, cell-based testing, or animal studies were conducted.",
-      "why_it_matters": "Computational antimicrobial peptide design may accelerate early-stage drug discovery for drug-resistant tuberculosis, but all findings here are theoretical and require extensive experimental validation before any clinical relevance can be assessed.",
-      "caveats": "animal or cell study, in silico only \u2014 no experimental validation, no wet-lab data, no cell or animal testing",
-      "fact_check_note": "Study is entirely computational \u2014 molecular docking and MD simulation only. No experimental wet-lab, cell, or animal data reported. Abstract accurately described above.",
-      "excluded": false,
-      "relevance_score": 2,
-      "relevance_score_reason": "Purely computational TB drug discovery study with no connection to gut health, the microbiome, digestion, or nutrition \u2014 very low relevance to this digest's editorial scope.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / science trade press",
-          "headline": "AI-Designed Peptides Could Help Crack Drug-Resistant TB \u2014 But Only on a Computer Screen, for Now",
-          "hook": "Researchers have designed three peptides that theoretically disrupt the enzyme that makes tuberculosis resistant to its frontline drug \u2014 but the work exists entirely as a simulation.",
-          "why_it_fits": "Science-forward readers tracking computational drug discovery and antimicrobial resistance would find the methodological approach interesting, with appropriate caveats.",
-          "pitch_angle": "As drug-resistant tuberculosis continues to outpace new treatments, computational biologists are turning to AI-assisted peptide design to find novel molecular weapons \u2014 targeting KatG, the enzyme that lets Mycobacterium tuberculosis shrug off the antibiotic isoniazid. A new study designed 15 peptides based on the human immune defense peptide LL-37 and ran them through molecular docking and simulation to find three strong candidates. The catch: none of this has been tested in a lab, a cell, or an animal \u2014 making this early-stage computational hypothesis generation rather than a drug discovery result.",
-          "caveats_to_flag": "This study is entirely in silico \u2014 no experimental validation of any kind has been performed. Journalists should be careful not to imply these peptides have demonstrated real-world antimicrobial activity."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42317138",
       "headline": "Cactus mucilage emerges as a climate-resilient prebiotic that may reshape gut microbiota",
       "journal": "Food Science and Technology International",
@@ -4887,36 +3101,6 @@
       "run_date": "2026-06-26",
       "category": "Nutritional Sciences",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42308359",
-      "headline": "Circular RNA molecules may help rabies virus destroy brain cells \u2014 and blocking them could offer a new treatment angle",
-      "journal": "Virulence",
-      "pubdate": "2026 Dec (Epub 2026 Jun 19)",
-      "doi": "10.1080/21505594.2026.2690777",
-      "groundbreaking": "None identified",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers analyzed circular RNA (circRNA) expression in brain tissue from mice infected with two strains of rabies virus (CVS-11 and SRV9), identifying 1,306 differentially expressed circRNAs compared to uninfected controls. They characterized a novel regulatory axis \u2014 mmu_circ_0012122/mmu-miR-1843-5p/Sertad2 \u2014 in which a specific circRNA acts as a molecular sponge to elevate Sertad2 expression, promoting nerve cell death and neuroinflammation. Knockdown of mmu_circ_0012122 in murine nerve cells reduced necrosis and non-viable apoptosis, suggesting the axis plays a functional role in RABV-associated neuronal damage.",
-      "why_it_matters": "Understanding how rabies virus hijacks host RNA regulatory networks to kill neurons could eventually point toward therapeutic targets, though translation to human treatment remains distant.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "Study is a mouse/cell study only with no human data. No gut or digestive health relevance identified. Included for completeness but scored very low for this digest's audience.",
-      "excluded": false,
-      "relevance_score": 2,
-      "relevance_score_reason": "Animal and cell study focused on rabies virus neurology with no gut health, microbiome, dietary, or digestive disease relevance whatsoever.",
-      "pitch_angles": [
-        {
-          "publication_type": "General science",
-          "headline": "Rabies May Weaponize the Brain's Own RNA Against Itself",
-          "hook": "Rabies virus infection triggers a cascade of circular RNA molecules in mouse brain tissue that appear to drive the very nerve cell death that makes the disease so lethal.",
-          "why_it_fits": "Readers at science-forward outlets are interested in how viruses co-opt host molecular machinery, though this study has no gut health relevance.",
-          "pitch_angle": "A mouse study identified a specific circular RNA network that rabies virus appears to activate in brain tissue, using it as a molecular switch to promote neuronal death and inflammation. Blocking one component of this circuit \u2014 mmu_circ_0012122 \u2014 reduced nerve cell death in lab experiments. While entirely preclinical and far from any treatment application, the findings add to growing evidence that circular RNAs are important and underappreciated regulators of how viruses damage the nervous system.",
-          "caveats_to_flag": "Mouse and cell study only \u2014 no human data. Functional manipulations were performed in vitro. No gut health connection. This study is outside the core scope of gut and digestive health journalism."
-        }
-      ],
-      "run_date": "2026-06-26",
-      "category": "Microbiology",
-      "chunk": "2/2",
       "status": "new"
     }
   ]
