@@ -477,8 +477,8 @@ relevance_score rubric (1–10): start at 5, then adjust:
   −2 animal or cell study only
   −2 finding is tied to a single non-US/non-multinational region's diet, genetics, environment, or healthcare system in a way unlikely to resonate with or apply to a US/global audience (this does not apply to large multinational cohorts, WHO/global-health studies, or findings with a clear universal biological mechanism)
   Topic fit bonus: gut-brain axis, ultra-processed food, fermented foods, fiber and microbiome diversity, IBD and Crohn's, colorectal cancer screening, probiotics and prebiotics, fecal microbiota transplant, food allergies and the microbiome, GLP-1 drugs and gut health score higher
-
-{personalization}Return ONLY a valid JSON array, no other text.
+{personalization}
+Return ONLY a valid JSON array, no other text.
 
 Studies:
 {studies_block}"""
