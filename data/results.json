@@ -1,65 +1,665 @@
 {
-  "last_updated": "2026-09-02T15:23:55.117787+00:00",
-  "total_studies": 220,
-  "new_this_run": 6,
+  "last_updated": "2026-09-03T15:16:47.833662+00:00",
+  "total_studies": 228,
+  "new_this_run": 8,
   "studies": [
     {
+      "pmid": "42462192",
+      "headline": "A new species of gut fungus found in goat feces hints at a vast undiscovered world living inside herbivore intestines",
+      "journal": "Mycologia",
+      "pubdate": "2026 Sep-Oct",
+      "doi": "10.1080/00275514.2026.2687342",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated and characterized a novel species of anaerobic gut fungus \u2014 Joblinomyces undulatus \u2014 from the feces of a Boer goat, using morphological analysis, ITS1/28S rDNA phylogenetics, and transcriptomic sequencing. The study is based on a single animal source (N=1 host animal), representing an in vitro/culture-based characterization. The new species is closely related to Joblinomyces apicalis but shows substantial genetic divergence, and broader phylogenetic reconstruction suggests up to seven undescribed clades of anaerobic gut fungi, pointing to extensive cryptic diversity in herbivore gut mycobiomes.",
+      "why_it_matters": "Anaerobic gut fungi help break down plant fiber in herbivores and may hold clues to improving fiber fermentation and gut microbiome function in humans \u2014 but the vast majority of species in this phylum remain unnamed and unstudied.",
+      "caveats": "animal or cell study, small sample (N<100), microbiome data only (no clinical outcomes), single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut fungus taxonomy; animal/culture study, no human or clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / science-forward outlet",
+          "headline": "Scientists Keep Finding New Life Forms Inside Animal Guts \u2014 and We Barely Know What They Do",
+          "hook": "A fungus discovered in goat feces belongs to a group of organisms that may hold the key to how animals \u2014 and possibly humans \u2014 digest fiber.",
+          "pitch_angle": "Researchers just named a new species of anaerobic gut fungus, part of a largely uncharted phylum that evolved specifically to live inside herbivore intestines and break down tough plant material; phylogenetic analysis suggests most species in this group haven't even been named yet, let alone studied for potential applications in gut health or biotechnology."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42684528",
+      "headline": "Standard liver disease tests routinely misdiagnose older adults \u2014 and the field is only now catching on",
+      "journal": "Current Gastroenterology Reports",
+      "pubdate": "2026 Sep 2",
+      "doi": "10.1007/s11894-026-01055-0",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review synthesizes emerging evidence on metabolic dysfunction-associated steatotic liver disease (MASLD) in adults over 65, a population in which the disease is most prevalent yet least well characterized. The authors highlight that the standard Fibrosis-4 (FIB-4) index \u2014 a widely used non-invasive fibrosis test \u2014 produces unreliable results in patients over 65, and that 'silent cirrhosis' with normal liver enzyme levels is common in older adults. The review also identifies aging-specific disease drivers including inflammaging, mitochondrial senescence, sleep disruption (chronodisruption), and muscle loss (sarcopenia) as key shapers of geriatric MASLD progression.",
+      "why_it_matters": "The routine blood tests used to gauge liver disease severity are calibrated for younger adults and may be systematically failing the population most at risk \u2014 older people with metabolic disease.",
+      "caveats": "observational design, narrative review (no systematic search or meta-analysis)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically relevant diagnostic gap; narrative review limits evidence quality.",
+      "pitch_angles": [
+        {
+          "publication_type": "Prevention",
+          "headline": "The Liver Test Your Doctor Uses May Be Wrong If You're Over 65",
+          "hook": "The standard blood test used to screen for serious liver scarring was not designed for older adults \u2014 and experts say it's quietly missing disease in the people most at risk.",
+          "pitch_angle": "A new review finds that fatty liver disease in older adults looks and behaves differently than in younger patients, yet doctors are using the same diagnostic tools for both groups. The authors call for age-adjusted screening thresholds and a broader focus on muscle health and sleep quality as part of liver care in aging populations."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42678188",
+      "headline": "A novel GWT1 A397T substitution combined with TAC1B F214I reduces manogepix susceptibility and fosmanogepix efficacy in Candida auris.",
+      "journal": "Microbiology spectrum",
+      "pubdate": "2026 Sep 1",
+      "doi": "10.1128/spectrum.02078-26",
+      "groundbreaking": "Relevant gut health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "",
+      "why_it_matters": "",
+      "caveats": "",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "",
+      "pitch_angles": [],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "41213391",
-      "headline": "A new scoring tool may finally tell doctors whether that chronic throat-clearing is actually acid reflux \u2014 or something else entirely",
+      "headline": "A new risk score could finally separate true acid reflux throat symptoms from the many other causes \u2014 cutting unnecessary acid-suppression treatment",
       "journal": "Clinical Gastroenterology and Hepatology",
       "pubdate": "2026 Sep",
       "doi": "10.1016/j.cgh.2025.10.027",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers validated a novel risk prediction score designed to identify patients whose throat and laryngeal symptoms are truly caused by reflux reaching the upper esophagus and pharynx, rather than other causes. The study used objective reflux testing (likely impedance-pH monitoring) across a bi-coastal multi-center program (B-AER). The score aims to reduce the widespread overuse of acid-suppression therapy in patients whose symptoms are not reflux-driven.",
-      "why_it_matters": "Laryngopharyngeal symptoms are frequently misattributed to acid reflux, leading to long-term proton pump inhibitor use that may be unnecessary \u2014 a better prediction tool could spare patients ineffective treatment.",
-      "caveats": "small sample (N<100), single-center approach unclear, industry funding [Regeneron Pharmaceuticals \u2014 advisory board; Phathom Pharmaceuticals, Reckitt Benckiser, Medtronic \u2014 consultant], abstract truncated with limited methodological detail",
-      "fact_check_note": "Abstract does not specify N or testing methodology used for validation; sample size and study design details could not be confirmed from the available abstract text.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Clinically relevant GERD adjacent finding but limited abstract detail and unclear sample size.",
+      "summary": "Researchers from a bi-coastal US/Taiwan consortium validated a novel clinical risk prediction score designed to identify which patients with laryngopharyngeal symptoms (throat clearing, chronic cough, hoarseness) actually have reflux-related disease, rather than one of many other causes. The study used objective pharyngeal and proximal reflux testing to assess the score's performance, addressing a longstanding diagnostic gap in which empiric acid suppression is routinely prescribed despite reflux accounting for only a minority of laryngopharyngeal symptom cases. The abstract does not report sample size or sensitivity/specificity metrics directly (study appears as a research letter), but the score demonstrated validity against objective testing across multiple centers.",
+      "why_it_matters": "Millions of people are prescribed acid-suppressing drugs for throat symptoms that may not actually be caused by reflux \u2014 a validated prediction tool could reduce unnecessary medication use and direct patients toward more appropriate care.",
+      "caveats": "small sample (N<100 inferred from letter format), multicenter but limited detail reported, potential industry conflicts (advisory board memberships disclosed)",
+      "fact_check_note": "Abstract does not explicitly state N or performance statistics \u2014 summary reflects letter-format limitations; N and AUC data may appear only in the full published letter.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically useful for GERD/LPRD audience; limited abstract data constrains assessment.",
       "pitch_angles": [
         {
-          "publication_type": "Healthline / Prevention",
-          "headline": "Your Chronic Throat-Clearing Might Not Be Acid Reflux \u2014 A New Test Could Finally Tell the Difference",
-          "hook": "Millions of people take acid-suppressing drugs for throat symptoms that may have nothing to do with reflux.",
-          "pitch_angle": "A new prediction score tested across multiple hospitals may help doctors identify which patients with hoarseness, throat-clearing, or post-nasal drip symptoms actually have laryngopharyngeal reflux \u2014 and which don't. This matters because most people with these symptoms don't respond to acid suppression, and better diagnosis could spare patients years of medication that isn't helping."
+          "publication_type": "Healthline",
+          "headline": "Got a Chronically Scratchy Throat? A New Tool Can Tell If It's Actually Acid Reflux",
+          "hook": "Doctors have long prescribed acid-blocking drugs for throat symptoms that, in most patients, aren't actually caused by reflux \u2014 a newly validated scoring tool could change that.",
+          "pitch_angle": "Laryngopharyngeal reflux is frequently over-diagnosed and empirically treated with medications that show limited benefit in patients who don't truly have the condition; a new risk score validated against objective testing aims to narrow the gap. For the many people stuck in cycles of ineffective treatment for chronic throat symptoms, better diagnosis could mean faster relief and less unnecessary medication."
         }
       ],
-      "run_date": "2026-09-02",
+      "run_date": "2026-09-03",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42240428",
-      "headline": "A swallowable sponge-on-a-string outperforms endoscopy for Barrett's esophagus screening in patient preference \u2014 and nurses can do it",
+      "headline": "A swallowable sponge capsule \u2014 no endoscope required \u2014 successfully monitors Barrett's esophagus in a nurse-led clinic setting",
       "journal": "Scandinavian Journal of Gastroenterology",
       "pubdate": "2026 Sep",
       "doi": "10.1080/00365521.2026.2679097",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a prospective multicenter feasibility study across five Swedish hospitals (N=70 adults with histologically confirmed Barrett's esophagus) testing the EndoSign\u00ae capsule sponge device as a non-endoscopic surveillance alternative. Patients swallowed a capsule containing a sponge that expanded on retrieval to collect esophageal cells, which were then analyzed centrally for biomarkers including TFF3, atypia, and p53. Technical success was 97.1%, 71.4% of patients preferred the capsule sponge over gastroscopy, median procedural discomfort was 2/10, and 20% were identified as high-risk and referred for expedited endoscopy.",
-      "why_it_matters": "Barrett's esophagus \u2014 a precursor to esophageal cancer \u2014 requires lifelong endoscopic monitoring, which is costly, uncomfortable, and resource-intensive; a nurse-administered swallowable sponge that most patients prefer could dramatically expand access to surveillance.",
-      "caveats": "small sample (N<100), single-center network (Sweden only), short follow-up, no comparison arm \u2014 feasibility study only, not diagnostic accuracy validation",
+      "summary": "A prospective multicenter feasibility study across five Swedish hospitals enrolled 70 adults with histologically confirmed Barrett's esophagus to assess the EndoSign\u00ae capsule sponge device as a non-endoscopic surveillance alternative. Trained nurses (not gastroenterologists) performed the procedure; 97.1% of patients completed it successfully, 71.4% preferred it over standard gastroscopy, and median procedural discomfort scored just 2 out of 10. Sample adequacy reached 92.6%, and risk stratification identified 20% of patients as high-risk warranting expedited endoscopy \u2014 with no serious adverse events reported.",
+      "why_it_matters": "Barrett's esophagus surveillance currently requires repeat endoscopy, a resource-intensive procedure that limits access \u2014 a nurse-administered swallowable sponge that patients prefer and that reliably identifies high-risk cases could meaningfully expand who gets monitored for esophageal cancer precursors.",
+      "caveats": "small sample (N<100), single-country study, feasibility design (not powered for diagnostic accuracy), short follow-up",
       "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Novel, patient-relevant GERD/Barrett's tool; high acceptability data; human study with clear clinical implications.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Accessible technology angle; human feasibility data; Barrett's/GERD-adjacent relevance.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Prevention / Healthline",
-          "headline": "Could a Swallowable Sponge Replace the Dreaded Endoscopy for People With Barrett's Esophagus?",
-          "hook": "Seven in ten patients with a precancerous esophageal condition said they'd rather swallow a capsule on a string than undergo a camera scope \u2014 and the sponge worked nearly as well.",
-          "pitch_angle": "Barrett's esophagus, a condition where chronic acid reflux damages the esophageal lining and raises cancer risk, currently requires regular endoscopies that many patients delay or skip due to discomfort and access barriers. A new nurse-administered capsule sponge tested in Sweden collected adequate cell samples in over 92% of patients with almost no side effects \u2014 and most patients preferred it to the standard procedure, suggesting it could become a more accessible surveillance option."
+          "publication_type": "Well+Good / General health",
+          "headline": "Swallowing a Capsule Instead of Getting a Camera Down Your Throat Could Be the Future of Esophageal Cancer Screening",
+          "hook": "Most patients with Barrett's esophagus \u2014 a precancer linked to chronic acid reflux \u2014 dread the repeat endoscopies required to monitor it; a new swallowable sponge device may offer a gentler, nurse-led alternative.",
+          "pitch_angle": "In a Swedish multicenter study, nearly all patients successfully completed the capsule sponge procedure in a nurse-led setting, and nearly three-quarters preferred it to standard endoscopy, with minimal discomfort and no serious side effects. If validated in larger trials, the technology could dramatically improve access to Barrett's surveillance, particularly for patients who avoid or delay endoscopy."
+        },
+        {
+          "publication_type": "Wired",
+          "headline": "A Swallowable Sponge Capsule Is Coming for the Endoscopy",
+          "hook": "A small capsule that expands into a sponge to sample esophageal cells \u2014 analyzed later in a lab \u2014 just passed its first real-world hospital test with a 97% success rate.",
+          "pitch_angle": "The EndoSign\u00ae device represents a broader trend of decentralizing diagnostic procedures that once required specialist-staffed endoscopy suites, moving them to nurse-led community settings. Early feasibility data from Sweden suggest the approach is technically sound, patient-friendly, and capable of flagging the highest-risk cases \u2014 pointing toward a future where cancer precursor surveillance doesn't require a hospital appointment."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41643801",
+      "headline": "The 'obesity paradox' in fatty liver disease may be a statistical illusion \u2014 timing of weight gain is what actually predicts survival",
+      "journal": "Clinical Gastroenterology and Hepatology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.cgh.2026.01.033",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed longitudinal BMI trajectories across three large population-based cohorts \u2014 NHANES III (n=2,190), NHANES 1999\u20132018 (n=5,210), and UK Biobank (n=8,962) \u2014 in adults with metabolic dysfunction-associated steatotic liver disease (MASLD). Using latent class trajectory modeling and restricted cubic spline models, they found that the apparent survival benefit of obesity in MASLD disappears when BMI timing is accounted for: obesity in mid-to-late adulthood or after diagnosis appeared protective only as a statistical artifact of earlier high-BMI individuals losing weight (a marker of illness). Maintaining a non-obese BMI throughout adulthood was associated with the lowest overall mortality, while persistent obesity (HR 1.79) and rapid BMI increase (HR 1.93) were linked to significantly higher mortality.",
+      "why_it_matters": "This suggests that decades of clinical reassurance based on the 'obesity paradox' in liver disease may have been misleading \u2014 when and how weight changes over a lifetime matters more than a single BMI snapshot.",
+      "caveats": "observational design, self-reported dietary intake, secondary analysis",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Overturns well-known clinical belief; large human cohorts; MASLD is high-priority topic.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The 'Obesity Paradox' in Liver Disease Was Probably Wrong All Along",
+          "hook": "For years, doctors told obese patients with fatty liver disease that their weight might actually protect them \u2014 a new analysis of nearly 16,000 people suggests that was a statistical mirage.",
+          "pitch_angle": "When researchers tracked BMI over entire lifetimes rather than at a single point, the supposed survival advantage of obesity in MASLD vanished \u2014 patients who appeared 'protected' were often just sick people who had already lost weight. The finding raises uncomfortable questions about how medical statistics can mislead both clinicians and patients for decades."
+        },
+        {
+          "publication_type": "Healthline",
+          "headline": "Your Lifetime Weight History \u2014 Not Just Your Current BMI \u2014 May Determine Fatty Liver Outcomes",
+          "hook": "A study of more than 16,000 people found that staying a healthy weight throughout adulthood was far more protective against fatty liver disease mortality than being obese later in life.",
+          "pitch_angle": "The research debunks the 'obesity paradox' \u2014 the counterintuitive idea that extra weight protects people with liver disease \u2014 by showing it was likely a measurement artifact caused by ill patients losing weight before death. For readers managing metabolic health, the takeaway is that long-term weight trajectory, not a single number, is what appears to matter most."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42471304",
+      "headline": "Trying endoscopy before surgery for certain colorectal cancers lets more than half of patients skip the operating room entirely",
+      "journal": "Digestive and Liver Disease",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.dld.2026.06.012",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This multicenter French study followed 190 patients with colorectal lesions showing a focal deep invasive pattern \u2014 cases typically referred directly to surgery \u2014 who instead underwent diagnostic endoscopic submucosal dissection (ESD) first. Histological analysis after ESD showed that 57% of patients (109 out of 190) were able to avoid surgery entirely, because their lesions were classified as low- or intermediate-risk. Compared to a modeled upfront-surgery approach, the endoscopy-first strategy was also associated with lower carbon emissions (222 vs. 240 kgCO\u2082e per patient), shorter hospital stays, and reduced costs (\u20ac7,930 vs. \u20ac12,960 per patient).",
+      "why_it_matters": "For patients with early-stage colorectal cancer where invasion depth is ambiguous, an endoscopy-first approach may safely spare the majority from major surgery while also cutting healthcare costs and carbon footprint \u2014 a finding with clear implications for how colorectal cancer staging is approached.",
+      "caveats": "observational design, single-center, short follow-up, no long-term oncological outcome data reported, modeled (not real-world) cost and carbon comparison",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Colorectal cancer staging; human study N=190; counterintuitive surgery-avoidance finding with cost and environmental data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Healthline / Prevention",
+          "headline": "More Than Half of Colorectal Cancer Patients Skipped Surgery When Doctors Tried This Endoscopy-First Approach",
+          "hook": "A new study suggests that for many patients with suspicious colorectal lesions, a diagnostic endoscopy \u2014 not immediate surgery \u2014 could be all that's needed to get an accurate answer and avoid the operating room.",
+          "pitch_angle": "French researchers found that 57% of patients referred for surgery due to ambiguous colorectal lesions were able to avoid the procedure entirely after undergoing endoscopic dissection first. The approach also cost significantly less and produced a lower carbon footprint than immediate surgery, raising questions about whether the default path to the operating room needs rethinking."
         },
         {
           "publication_type": "Wired / The Atlantic",
-          "headline": "A Tiny Sponge on a String Could Democratize Cancer Surveillance for Millions With Acid Reflux Damage",
-          "hook": "Endoscopy suites are expensive, scarce, and intimidating \u2014 a swallowable sponge tested in Scandinavian hospitals suggests there's a better way to monitor one of the most common esophageal cancer precursors.",
-          "pitch_angle": "The EndoSign capsule sponge works by expanding inside the esophagus as it's pulled back up, collecting cells that are then tested for molecular cancer risk markers \u2014 a procedure nurses can perform without specialist equipment. If validated in larger trials, the technology could shift Barrett's surveillance out of the endoscopy suite and into primary care or community clinics, addressing one of gastroenterology's longest-standing access problems."
+          "headline": "Could Skipping Straight to Surgery for Colorectal Cancer Be the Wrong Default? New Data Suggests Yes",
+          "hook": "When doctors can't tell from a scan how deeply a colorectal tumor has invaded, the typical answer is surgery \u2014 but a multicenter study suggests that answer may be wrong more than half the time.",
+          "pitch_angle": "By using endoscopic dissection as a diagnostic tool rather than jumping to surgery, clinicians found that 57% of patients with ambiguous colorectal lesions didn't need an operation at all \u2014 and the endoscopy-first pathway was cheaper and greener. The findings challenge a widely used clinical default and point toward a more evidence-driven approach to colorectal cancer staging."
         }
       ],
-      "run_date": "2026-09-02",
+      "run_date": "2026-09-03",
       "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41963033",
+      "headline": "Cheese has a microbial fingerprint \u2014 but it doesn't reliably map to geography or how it's made",
+      "journal": "Food Microbiology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.fm.2026.105049",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used 16S rRNA gene sequencing (Illumina, V3-V4 regions) to characterize the bacterial communities of 322 cheese samples from seven countries, including newly generated and publicly available data. They identified four main microbial profile clusters dominated by Lactobacillus, Lactococcus, or Streptococcus, and built a classification model. Counterintuitively, no clear geographic signatures were found, and microbial profiles were not reliably associated with milk source, pasteurization status, or starter culture use.",
+      "why_it_matters": "Understanding that cheese microbiomes don't map neatly to geography or production method complicates efforts to verify artisan authenticity \u2014 and hints that the microbial communities in the cheeses we eat may be more variable and less predictable than assumed.",
+      "caveats": "observational design, microbiome data only (no clinical outcomes), 16S sequencing only (no shotgun metagenomics), no human dietary exposure measured",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fermented food microbiome topic fit; no clinical outcomes and no human dietary exposure data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "The Bacteria in Your Fancy Cheese Don't Care Where It's From",
+          "hook": "A new study of more than 300 cheeses from seven countries found that microbial communities don't reliably signal a cheese's geographic origin \u2014 upending a core assumption about artisan cheese.",
+          "pitch_angle": "Researchers mapped the bacterial profiles of cheeses from Greece, France, and beyond, expecting distinct regional fingerprints \u2014 and found none. The finding raises new questions about what really drives the microbial diversity of fermented dairy foods that many people eat for gut health benefits."
+        },
+        {
+          "publication_type": "The Atlantic / Wired",
+          "headline": "Science Can't Tell Where Your Cheese Came From by Looking at Its Bacteria",
+          "hook": "Cheesemakers and regulators assume that terroir \u2014 place, tradition, method \u2014 shapes a cheese's microbial soul. A large new sequencing study suggests that assumption may be wrong.",
+          "pitch_angle": "A genomic survey of 322 cheeses found that bacterial profiles clustered into four types, but those types didn't align with country of origin, milk source, or whether the cheese used a starter culture. For an industry that increasingly relies on microbiome science to validate authenticity, that's a significant complication."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42202566",
+      "headline": "A glacier enzyme could make milk prebiotic without refrigeration-breaking heat",
+      "journal": "Enzyme and Microbial Technology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.enzmictec.2026.110906",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers identified a novel cellobiose 2-epimerase enzyme (Areu-CE) from a cold-tolerant bacterium isolated from glaciers on the Tibetan Plateau, capable of converting lactose in milk into epilactose, a prebiotic sugar. This is an enzyme/biochemistry study with no human or animal subjects. Crucially, the enzyme retains activity at 8\u00b0C \u2014 meaning it could potentially convert lactose to the prebiotic epilactose directly in refrigerated milk, without requiring high-heat industrial processing.",
+      "why_it_matters": "A cold-active enzyme that works at refrigerator temperatures could one day enable low-cost, energy-efficient production of prebiotic-enriched dairy products at scale.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting prebiotic angle but enzyme-only study with no human or microbiome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / General science",
+          "headline": "Scientists Found a Glacier Enzyme That Could Make Your Milk More Gut-Friendly",
+          "hook": "An enzyme pulled from Tibetan Plateau glacier microbes can turn ordinary milk into a prebiotic drink \u2014 at refrigerator temperature.",
+          "pitch_angle": "Researchers discovered a cold-active enzyme from an extremophile bacterium that converts lactose into epilactose, a prebiotic sugar, without industrial heat. If scalable, it could represent a low-energy way to add gut health benefits to everyday dairy products."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42233495",
+      "headline": "Not all collagen peptides reach your gut the same way \u2014 and that may explain why some work better for bones",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep",
+      "doi": "10.1002/jsfa.70759",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers compared bone collagen peptides from yak, bovine, porcine, and chicken sources using simulated gastrointestinal digestion, a Caco-2 intestinal absorption model, and in vitro/in vivo osteogenic assays. The study found that yak and bovine peptides showed the strongest bone-protective effects overall, while porcine peptides showed weaker in vitro but stronger in vivo anti-osteoporotic activity than chicken peptides. Differences in absorption and digestion stability \u2014 not just peptide composition \u2014 appear to drive these varying effects, with intestinal permeability coefficients ranging nearly fourfold across peptide types.",
+      "why_it_matters": "For consumers taking collagen supplements for bone health, the animal source may matter more than previously recognized \u2014 not because of what's in the supplement, but because of how differently it survives and gets absorbed in the gut.",
+      "caveats": "animal or cell study, small sample (N<100), in vitro and in silico methods only, no human clinical outcomes",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting dietary angle on collagen absorption, but no human data and cell/in silico study only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Healthline / Prevention",
+          "headline": "Your Collagen Supplement's Animal Source May Determine Whether It Actually Reaches Your Bones",
+          "hook": "A new study suggests that how well collagen peptides survive digestion and cross the gut wall varies significantly depending on whether they come from cows, pigs, chickens, or yaks.",
+          "pitch_angle": "Researchers found that bovine and yak collagen peptides outperformed porcine and chicken versions in bone-protective effects \u2014 and the difference appears to come down to digestion and gut absorption, not just peptide makeup. While still early-stage lab research, the findings add a new layer to the increasingly crowded collagen supplement conversation."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42631526",
+      "headline": "Spirulina May Do More Than Add Protein \u2014 It Could Also Support Gut-Friendly Bacteria",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Sep",
+      "doi": "10.1111/1541-4337.70617",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a comprehensive narrative review of Spirulina platensis as a functional food ingredient, examining its nutritional composition, techno-functional properties, and applications across food categories. The review highlights Spirulina's exceptionally high protein content, balanced amino acid profile, and bioactive compounds including phycocyanin, carotenoids, and phenolics. Among its noted properties, the review identifies antioxidant, anti-inflammatory, and probiotic-supporting effects, suggesting potential roles in gut microbiome health alongside its uses in beverages, snacks, bakery goods, and meat substitutes.",
+      "why_it_matters": "As plant-based and functional foods gain mainstream traction, Spirulina's combination of high digestibility, prebiotic-supporting compounds, and versatile food applications positions it as a meaningful addition to gut-health-focused dietary patterns.",
+      "caveats": "review article (no original data), microbiome data only (no clinical outcomes), probiotic-supporting claims not tested in human RCTs",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Narrative review, no original human data; modest gut-health angle via probiotic-supporting compounds.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "Spirulina Isn't Just a Protein Powder \u2014 It May Also Feed Your Gut Bacteria",
+          "hook": "Beyond its eye-catching blue-green color and protein punch, spirulina contains compounds that may help beneficial gut bacteria thrive.",
+          "pitch_angle": "A new comprehensive review finds that spirulina's bioactive compounds \u2014 including phycocyanin and specific polysaccharides \u2014 show probiotic-supporting properties alongside well-documented antioxidant and anti-inflammatory effects. While human gut microbiome trials are still needed, the review's breadth of evidence makes spirulina one of the more scientifically interesting functional ingredients entering mainstream food products."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42634105",
+      "headline": "Mushroom Mycelium Is Safer Than the Cap \u2014 New Review Finds Fewer Toxins in the Root-Like Part We're Now Eating",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Sep",
+      "doi": "10.1111/1541-4337.70614",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at the University of Helsinki conducted the first comprehensive review of mycotoxins in basidiomycete mycelium \u2014 the vegetative, root-like structure increasingly used in novel foods \u2014 versus fruiting bodies, with a focus on Pleurotus (oyster mushroom) species relevant to commercial mycelium products. The review synthesized all available literature on food-safety-relevant basidiomycete mycotoxins including amatoxins, coprine, illudins, muscarine, ostreolysin, and psilocybin. Key finding: mycotoxins were consistently found at lower levels in mycelium than in fruiting bodies across all species reviewed, and no mycotoxins exclusive to mycelium were identified \u2014 suggesting mycelium-based novel foods may carry a lower toxin burden than whole mushrooms.",
+      "why_it_matters": "As mycelium-based foods \u2014 from meat alternatives to functional supplements \u2014 enter the mainstream, this first-of-its-kind safety review offers early reassurance that the part of the fungus being eaten may be the least toxic part, which matters for regulators and consumers alike.",
+      "caveats": "review article (no primary data), gaps in toxicological data noted by authors, regulatory approval still pending in most markets",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive food-safety finding on trending mycelium foods; first-of-its-kind review with regulatory relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "That Mushroom 'Root' in Your Meat Alternative? It May Actually Be the Safest Part of the Fungus",
+          "hook": "A first-of-its-kind review finds that the mycelium used in trendy fungal foods consistently contains fewer toxins than the mushroom caps we've been eating for centuries.",
+          "pitch_angle": "As mycelium-based meat alternatives and supplements go mainstream, a new review finds that fungal vegetative tissue carries lower levels of naturally occurring mushroom toxins than the fruiting body \u2014 a counterintuitive finding that could help regulators greenlight these novel foods faster. For wellness and food-curious readers, it's an important reality check on a food trend that's outpaced its safety science."
+        },
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "The Mushroom-Root Foods Flooding the Market Are Waiting on One Thing: Regulators to Catch Up",
+          "hook": "A comprehensive safety review of fungal toxins finds mycelium-based foods may be safer than whole mushrooms \u2014 but the regulatory science is still years behind the products already on shelves.",
+          "pitch_angle": "Mycelium \u2014 the thread-like root structure of fungi \u2014 is being rapidly commercialized as a protein source and meat alternative, yet most global markets haven't yet approved it as a novel food. A new University of Helsinki review is the first to systematically map mycotoxin risk across fungal structures, finding mycelium consistently carries fewer toxins, which could accelerate the regulatory path \u2014 but also flags significant gaps in the toxicological data still needed."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42154389",
+      "headline": "A common probiotic may shield kidneys from a widely used cancer and arthritis drug's toxic side effects \u2014 in rats",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Sep",
+      "doi": "10.1007/s12602-026-11052-4",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Turkish researchers administered Lactobacillus rhamnosus GG (LGG) at low (1\u00d710\u2079 CFU/day) and high (5\u00d710\u2079 CFU/day) doses to male Sprague-Dawley rats that received a single high-dose injection of methotrexate (20 mg/kg), a drug used for cancer and autoimmune diseases known to cause kidney damage. The study measured kidney oxidative stress markers, antioxidant enzyme activity, and renal function indicators in blood and tissue over six days. Both doses of LGG significantly reversed methotrexate-induced oxidative and functional damage to the kidneys, with improvements seen across multiple biochemical markers \u2014 though this was an animal study only.",
+      "why_it_matters": "For the millions of people on methotrexate for conditions like rheumatoid arthritis or cancer, early animal evidence suggesting a widely available probiotic could reduce kidney toxicity is worth watching \u2014 though human trials are needed before any conclusions can be drawn.",
+      "caveats": "animal or cell study, small sample (N<100), short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Probiotic-organ protection angle is relevant but rat-only study limits applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / Prevention",
+          "headline": "Could a Probiotic Protect Your Kidneys From a Common Arthritis Drug? Rat Study Offers Early Clues",
+          "hook": "Lactobacillus rhamnosus GG \u2014 one of the most studied probiotics on the market \u2014 reversed kidney damage caused by methotrexate in rats, hinting at a possible protective role for patients on the drug.",
+          "pitch_angle": "Methotrexate is prescribed to millions for rheumatoid arthritis, psoriasis, and certain cancers, but its kidney toxicity is a known concern; this rat study suggests LGG supplementation may counteract that oxidative damage. Researchers caution that human trials are needed, but the finding adds to growing interest in probiotics as adjunct therapies during pharmaceutical treatment."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42019459",
+      "headline": "Rapid and visual detection of Mycoplasma pneumoniae using a novel ERA-CRISPR/Cas12a-based lateral flow assay.",
+      "journal": "Diagnostic microbiology and infectious disease",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.diagmicrobio.2026.117416",
+      "groundbreaking": "Relevant gut health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "",
+      "why_it_matters": "",
+      "caveats": "",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "",
+      "pitch_angles": [],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42241827",
+      "headline": "Novel and ancestral \u03b1-amino acid ester acyltransferases with higher thermostability for dipeptide synthesis.",
+      "journal": "Enzyme and microbial technology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.enzmictec.2026.110917",
+      "groundbreaking": "Relevant gut health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "",
+      "why_it_matters": "",
+      "caveats": "",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "",
+      "pitch_angles": [],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42462664",
+      "headline": "A novel quinoline-based synthetic zinc ionophore regulates Class I HDAC-associated host antiviral response against Newcastle disease virus replication.",
+      "journal": "Veterinary microbiology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.vetmic.2026.111139",
+      "groundbreaking": "Relevant gut health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "",
+      "why_it_matters": "",
+      "caveats": "",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "",
+      "pitch_angles": [],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42240571",
+      "headline": "Citrus Juice Byproduct Yields a Fiber Extract That May Shield Skin From Air Pollution Damage",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep",
+      "doi": "10.1002/jsfa.70769",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used ultrasound-assisted enzymatic extraction (UAEE) to process citrus pomace \u2014 the fibrous byproduct of citrus juice production \u2014 into a dietary fiber-rich extract, then tested it in cell culture (HaCaT keratinocytes) and in mice exposed to particulate matter (PM). In PM-stimulated skin cells, the extract raised cell viability from 75% to 94% and reduced inflammatory markers including TNF-\u03b1, IL-1\u03b2, and IL-6; it also restored expression of skin barrier proteins such as filaggrin and loricrin. In mice, oral administration of the extract alleviated PM-induced skin inflammation and water loss, suggesting a potential gut-to-skin pathway for dietary fiber-derived bioactives.",
+      "why_it_matters": "The finding that an orally administered, fiber-rich citrus waste extract can reduce air pollution-related skin inflammation in mice hints at a gut-skin axis mechanism that, if confirmed in humans, could have implications for dietary approaches to pollution-related skin damage.",
+      "caveats": "animal and cell study, small sample, short follow-up, no human data, no microbiome analysis conducted",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting gut-skin angle but findings are animal/cell-only with no human or microbiome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Outside Magazine",
+          "headline": "Could a Fiber Extract From Orange Juice Scraps Protect Your Skin From Air Pollution?",
+          "hook": "Scientists found that feeding mice a dietary fiber extract made from citrus juice waste reduced skin inflammation caused by particulate matter \u2014 hinting at a gut-skin connection.",
+          "pitch_angle": "New research suggests that a fiber-rich extract recovered from citrus pomace \u2014 the pulp left over after juicing \u2014 may help shield skin from pollution-triggered inflammation when consumed orally, at least in mice and in lab-grown skin cells. If the effect holds in humans, it would point to the gut-skin axis as a target for dietary strategies against the growing skin-health burden of air pollution."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42569853",
+      "headline": "Microbes Can Now Make the Proteins in Your Food \u2014 But Flavor and Safety Hurdles Remain",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Sep",
+      "doi": "10.1111/1541-4337.70584",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers from Shanghai Jiao Tong University conducted a comprehensive review of microbial precision fermentation as a strategy for producing alternative proteins \u2014 including coloring, flavoring, structuring, nutritional, and functional proteins \u2014 using engineered cell factories. The review is not a primary study but synthesizes available literature on enabling technologies, from feedstock selection and genome engineering to downstream purification. Key finding: while significant progress has been made in scaling microbial protein production, persistent challenges remain around flavor replication, nutritional completeness, allergenicity, and regulatory approval.",
+      "why_it_matters": "As the food system shifts toward sustainable protein sources, understanding what microbial fermentation can and cannot yet deliver matters for consumers and food journalists tracking the future of what we eat.",
+      "caveats": "review article (no primary data), single-center",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant food-system topic but a review with no primary human data or gut health outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "The Lab-Grown Protein Revolution Has a Flavor Problem",
+          "hook": "Scientists can now engineer microbes to produce almost any food protein \u2014 but making it taste right is proving to be the hardest part.",
+          "pitch_angle": "A new comprehensive review maps the state of microbial precision fermentation for food proteins, revealing that while the technology has advanced rapidly, replicating authentic flavor and ensuring allergen safety remain stubborn unsolved challenges. For food-tech and science readers, this is a clear-eyed look at how far \u2014 and how far short \u2014 the alternative protein revolution actually is."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42674221",
+      "headline": "A drug-resistant human superbug found in a sea turtle raises alarms about antibiotic resistance spreading through ocean wildlife",
+      "journal": "Journal of Global Antimicrobial Resistance",
+      "pubdate": "2026 Aug 31",
+      "doi": "10.1016/j.jgar.2026.08.022",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Brazil recovered a multidrug-resistant bacterium \u2014 Serratia nevei ST625 carrying the CTX-M-15 extended-spectrum beta-lactamase gene \u2014 from a loggerhead sea turtle admitted to a rehabilitation center, representing the first reported case of this strain in marine wildlife. Genomic analysis showed the turtle's strain differed by only 27 single-nucleotide polymorphisms from a human clinical strain isolated in S\u00e3o Paulo in 2019, suggesting a close human-to-wildlife transmission link. The finding illustrates how clinically relevant antibiotic-resistant pathogens can escape into marine ecosystems, with potential One Health implications.",
+      "why_it_matters": "The discovery that a human-linked, antibiotic-resistant bacterial clone is now circulating in ocean wildlife suggests that drug-resistant superbugs are not contained to hospitals \u2014 they are entering broader ecosystems, potentially cycling back to humans through environmental exposure.",
+      "caveats": "small sample (N<100), single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling One Health AMR angle but no direct gut health or dietary relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / Wired",
+          "headline": "A Sea Turtle Washed Ashore Carrying a Human Superbug \u2014 and It's Almost Identical to One Found in Brazilian Hospitals",
+          "hook": "A loggerhead sea turtle in Brazil was infected with an antibiotic-resistant bacterium genetically almost identical to a strain pulled from a human patient's urine just five years earlier.",
+          "pitch_angle": "The case is the first documented instance of this multidrug-resistant human clone turning up in marine wildlife, raising urgent questions about how superbugs escape clinical settings and colonize ocean ecosystems. Researchers say the finding underscores why antibiotic resistance must be tracked not just in hospitals, but across the entire web of human, animal, and environmental health."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42671179",
+      "headline": "Novel insights into Radix Pseudostellariae saponins assist Mycoplasma gallisepticum attenuated vaccine to enhance the immunoprotection of chicken.",
+      "journal": "mSystems",
+      "pubdate": "2026 Aug 31",
+      "doi": "10.1128/msystems.00781-26",
+      "groundbreaking": "Relevant gut health finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "",
+      "why_it_matters": "",
+      "caveats": "",
+      "fact_check_note": "",
+      "excluded": false,
+      "relevance_score": 5,
+      "relevance_score_reason": "",
+      "pitch_angles": [],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42667986",
+      "headline": "A low-cost blood score predicts liver crisis in chronic liver disease better than any existing tool \u2014 and gut leakage is one of four key signals",
+      "journal": "JHEP Reports",
+      "pubdate": "2026 Aug 29",
+      "doi": "10.1016/j.jhepr.2026.102017",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers prospectively followed 367 patients with compensated advanced chronic liver disease (cACLD) for up to 11 years, measuring hepatic pressure, 35 serum biomarkers, and clinical events. They found that hepatic decompensation \u2014 not portal vein thrombosis \u2014 was the dominant driver of mortality (HR 11.86), and that decompensation typically preceded clot formation rather than the reverse. A new four-biomarker score called VAIL \u2014 including I-FABP, a marker of gut barrier leakage \u2014 outperformed all existing prognostic tools in predicting clinical deterioration.",
+      "why_it_matters": "The inclusion of a gut-permeability marker (I-FABP) as one of only four signals in the best-performing liver-disease risk score suggests the gut-liver axis may be central to predicting who deteriorates fastest in chronic liver disease.",
+      "caveats": "single-center, observational design, requires external validation cohort",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Human cohort, gut-liver axis link, clean prospective design; single-center observational.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / STAT News",
+          "headline": "Your Gut Lining May Predict When Your Liver Will Fail",
+          "hook": "A new four-biomarker score for chronic liver disease includes a measure of intestinal leakiness \u2014 and it outperforms every existing clinical tool.",
+          "pitch_angle": "Researchers followed 367 liver-disease patients for up to 11 years and found that gut barrier breakdown, tracked by a single blood protein, is one of the four strongest predictors of catastrophic liver decompensation \u2014 reframing chronic liver disease as a gut-liver axis problem, not just a liver problem."
+        },
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "A Leaky Gut Marker Is Now Part of the Best Tool for Predicting Liver Disease Crisis",
+          "hook": "Scientists have built a better liver-disease risk score \u2014 and one of its four ingredients measures how well your intestinal lining is holding together.",
+          "pitch_angle": "A prospective 11-year study found that gut permeability, measured by a protein called I-FABP, is among the most powerful early warning signals for life-threatening liver decompensation in people with chronic liver disease, lending new clinical weight to the gut-liver connection."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42663691",
+      "headline": "A little-known probiotic bacterium shows early promise for calming IBD inflammation \u2014 but human trials are still missing",
+      "journal": "Antonie van Leeuwenhoek",
+      "pubdate": "2026 Aug 28",
+      "doi": "10.1007/s10482-026-02360-4",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers reviewed existing pre-clinical evidence on Weissella, a genus of lactic acid bacteria, as a potential probiotic treatment for inflammatory bowel disease (IBD). The review synthesized findings from animal and cell-based colitis models, focusing on two species \u2014 W. confusa and W. cibaria. Pre-clinical data suggests Weissella can reduce pro-inflammatory cytokines, strengthen gut barrier tight-junction proteins, and support goblet cell recovery, though no human clinical trial data yet exists.",
+      "why_it_matters": "If early pre-clinical findings hold up in humans, Weissella could become a meaningful addition to next-generation probiotic blends for people managing IBD.",
+      "caveats": "animal or cell study, no human clinical trial data, review article (not primary research)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Strong IBD/probiotic topic fit; penalized heavily for absence of human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / Prevention",
+          "headline": "Scientists Are Eyeing a Little-Known Probiotic Bacteria as a Future IBD Treatment",
+          "hook": "Most people have never heard of Weissella, but this lactic acid bacterium is quietly becoming one of the more intriguing candidates for future IBD therapy.",
+          "pitch_angle": "Pre-clinical studies suggest Weissella strains can reduce gut inflammation and reinforce the intestinal barrier \u2014 two central problems in IBD. Human trials are still needed, but researchers say this underexplored genus deserves a serious look as a component of next-generation probiotic blends."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42657876",
+      "headline": "Bacteria living in the urinary tract can quietly manufacture testosterone \u2014 and may fuel prostate cancer resistance to treatment",
+      "journal": "Applied and Environmental Microbiology",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1128/aem.00623-26",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated anaerobic bacteria from human male urine and identified a previously uncharacterized enzyme \u2014 a 17\u03b2-hydroxysteroid dehydrogenase \u2014 in Peptoniphilus obesi and a related species, Anaerococcus, that converts androstenedione into testosterone in the genitourinary tract. The enzyme was functionally validated in vitro using NADPH-dependent reduction assays, and both genera have previously been associated with prostate cancer. The findings expand the known diversity of microbial androgen-forming pathways and suggest that commensal urinary bacteria may contribute to local androgen availability \u2014 potentially undermining androgen deprivation therapy for prostate cancer.",
+      "why_it_matters": "The discovery that common urinary tract bacteria can synthesize testosterone locally could help explain why some prostate cancers stop responding to hormone-blocking therapies, pointing toward the microbiome as an unexpected driver of treatment resistance.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100), in vitro enzyme validation only \u2014 no human causal data",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Novel microbiome-hormone-cancer mechanism; in vitro only limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "The Bacteria in Your Bladder Might Be Making Testosterone \u2014 and Sabotaging Cancer Treatment",
+          "hook": "Scientists have found that common anaerobic bacteria living in the male urinary tract carry a newly discovered enzyme that quietly converts steroid precursors into testosterone.",
+          "pitch_angle": "The discovery reframes the genitourinary microbiome as an underappreciated extension of the human endocrine system, one that may be producing androgens locally \u2014 right where prostate cancer cells need them most. If microbial testosterone production can outpace drugs designed to starve tumors of hormones, it could reshape how oncologists think about androgen deprivation therapy resistance."
+        },
+        {
+          "publication_type": "Prevention / General health",
+          "headline": "Your Urinary Microbiome May Be Producing Hormones \u2014 Here's Why That Matters for Men's Health",
+          "hook": "A new study found that bacteria commonly found in male urine harbor an enzyme capable of manufacturing testosterone \u2014 raising questions about how the microbiome influences men's hormonal health.",
+          "pitch_angle": "Researchers identified the androgen-producing enzyme in Peptoniphilus and Anaerococcus, two bacterial genera repeatedly linked to prostate cancer, suggesting that microbial hormone metabolism could play a role in disease progression. The finding is preliminary \u2014 based on lab experiments, not human trials \u2014 but it opens a new front in understanding how the body's microbial passengers shape hormone biology."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42658360",
+      "headline": "A probiotic may shield the liver from antibiotic-induced damage \u2014 at least in mice",
+      "journal": "World Journal of Microbiology & Biotechnology",
+      "pubdate": "2026 Aug 27",
+      "doi": "10.1007/s11274-026-05210-7",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers gave male Swiss albino mice amoxicillin for 45 days, with or without co-administration of the probiotic Bacillus clausii (BCL), to test whether BCL could protect the liver from antibiotic-induced injury. Amoxicillin alone elevated liver enzymes (AST, ALT, ALP), increased oxidative stress markers, and drove inflammation via the LPS-TLR4-NF-\u03baB signaling pathway; co-administration of BCL significantly reduced these markers and partially restored antioxidant defenses. The findings suggest BCL may attenuate antibiotic-associated liver damage by dampening gut-derived inflammatory signaling, though all evidence comes from a mouse model.",
+      "why_it_matters": "As antibiotic use remains widespread, these early findings raise the possibility that certain probiotics could one day help protect the liver during antibiotic treatment \u2014 though human evidence is still needed.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up relative to clinical use",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut-liver axis angle relevant, but animal-only study limits translational value.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "Could Taking a Probiotic With Antibiotics Protect Your Liver?",
+          "hook": "A mouse study found that a common probiotic significantly reduced liver enzyme spikes caused by amoxicillin \u2014 one of the world's most prescribed antibiotics.",
+          "pitch_angle": "Researchers found that Bacillus clausii co-administered with amoxicillin blunted liver inflammation and oxidative stress in mice, pointing to the gut-liver axis as a potential target for probiotic intervention. While human trials are still needed, the finding adds to a growing body of evidence that the gut microbiome shapes how our bodies handle the drugs we take most often."
+        }
+      ],
+      "run_date": "2026-09-03",
+      "category": "Microbiology",
       "chunk": "1/2",
       "status": "new"
     },
@@ -91,132 +691,6 @@
       "status": "new"
     },
     {
-      "pmid": "41643801",
-      "headline": "The 'obesity paradox' in fatty liver disease isn't real \u2014 timing of weight gain matters far more than BMI at any single point",
-      "journal": "Clinical Gastroenterology and Hepatology",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.cgh.2026.01.033",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed three large population-based cohorts (NHANES III, NHANES 1999\u20132018, and UK Biobank; combined N=16,362) of people with metabolic dysfunction-associated steatotic liver disease (MASLD) to examine whether obesity at different life stages affects mortality differently. Using latent class trajectory modeling of longitudinal BMI data, they found that obesity in mid-to-late adulthood appeared protective in cross-sectional analysis, but persistent obesity from early adulthood (HR 1.79) and rapid BMI increase (HR 1.93) were associated with significantly higher mortality. People who maintained non-obese status throughout adulthood had the lowest mortality risk, debunking the simple 'obesity paradox' narrative for MASLD.",
-      "why_it_matters": "The finding suggests that snapshot BMI measurements mislead clinicians about liver disease prognosis \u2014 a patient's lifetime weight trajectory, not current weight, is what most strongly predicts survival risk in MASLD.",
-      "caveats": "observational design, self-reported dietary intake likely in NHANES, study populations include US (NHANES) and UK (Biobank) cohorts \u2014 findings may not generalize to all ethnicities equally",
-      "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Counterintuitive, overturns widely cited obesity paradox; large human cohorts with mortality outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / Wired",
-          "headline": "The 'Obesity Paradox' Was a Statistical Illusion. Here's What Actually Predicts Survival in Fatty Liver Disease",
-          "hook": "For years, studies suggested obese patients with fatty liver disease outlived their thinner counterparts \u2014 but that conclusion was built on a fundamental flaw in how researchers measured weight.",
-          "pitch_angle": "A new analysis of over 16,000 people across three major cohorts found that when you track BMI across a lifetime rather than snapping a single measurement, the apparent survival advantage of obesity in MASLD disappears \u2014 replaced by clear evidence that gaining weight fast or staying obese from early adulthood raises mortality risk by up to 93%. The finding has broad implications for how doctors interpret BMI and counsel patients with liver disease."
-        },
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "It's Not Your Weight Right Now That Predicts Liver Disease Risk \u2014 It's How Long You've Carried It",
-          "hook": "A major new study finds that decades of excess weight, not a current BMI number, is what drives mortality risk in the most common form of fatty liver disease.",
-          "pitch_angle": "Researchers tracking thousands of people over time found that individuals who became obese early in life and stayed that way faced nearly double the mortality risk compared to those who maintained a healthy weight throughout adulthood \u2014 even if their BMI looked similar to someone who gained weight later. The findings suggest that lifetime weight history deserves far more attention than a single weigh-in."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42471304",
-      "headline": "Scope-first strategy lets more than half of colorectal cancer patients skip surgery entirely",
-      "journal": "Digestive and Liver Disease",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.dld.2026.06.012",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers studied 190 patients in a multicenter European study with colorectal lesions showing a focal deep invasive pattern \u2014 a finding that typically sends patients straight to surgery. Using a diagnostic endoscopic dissection (ESD) approach first, 57% of patients (109/190) were found to have low- or intermediate-risk lesions and avoided surgery altogether. Compared to a modeled upfront-surgery scenario, the endoscopic-first strategy was associated with lower carbon emissions, shorter hospital stays, and roughly \u20ac5,000 lower cost per patient.",
-      "why_it_matters": "For the more than 100,000 colorectal cancer patients diagnosed annually in Europe and the US, this suggests that an endoscope-first approach could spare a majority from major abdominal surgery without compromising staging accuracy.",
-      "caveats": "observational design, single-region (France/Belgium/Romania), no randomized control arm, cost and carbon comparisons based on modeled upfront-surgery scenario rather than actual surgical controls, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Colorectal cancer topic fit; strong clinical finding but no diet/microbiome angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "More Than Half of These Colorectal Cancer Patients Avoided Surgery \u2014 Because Doctors Looked First",
-          "hook": "A scope-first strategy for a tricky type of colorectal lesion spared more than half of patients from going under the knife.",
-          "pitch_angle": "A multicenter European study found that doing a diagnostic endoscopic dissection before defaulting to surgery allowed physicians to accurately stage colorectal lesions \u2014 and 57% of the 190 patients studied turned out not to need surgery at all. The finding challenges the reflexive surgical referral that currently follows a worrying colonoscopy result, and adds an environmental angle: the scope-first approach also generated fewer carbon emissions and cost roughly \u20ac5,000 less per patient."
-        },
-        {
-          "publication_type": "Healthline / Prevention",
-          "headline": "Your Colonoscopy Could Do Double Duty \u2014 and Help You Skip Major Surgery",
-          "hook": "When doctors used an endoscopic procedure for diagnosis first instead of sending patients straight to surgery, more than half avoided the operating room.",
-          "pitch_angle": "A new multicenter study found that using endoscopic submucosal dissection as an initial diagnostic tool \u2014 rather than immediately scheduling surgery for suspicious colorectal lesions \u2014 accurately staged the cancer and spared 57% of patients from surgery. For anyone facing a colorectal cancer diagnosis, the research suggests that the route to treatment may not always have to start in the operating room."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "41963033",
-      "headline": "The Bacteria in Your Cheese Have Nothing to Do With Where It Was Made",
-      "journal": "Food Microbiology",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.fm.2026.105049",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed the bacterial microbiota of 322 cheese samples from seven countries using 16S rRNA gene sequencing (V3-V4 regions, Illumina), including 63 newly generated sequences alongside publicly available data. They identified four main Cheese Microbial Profiles dominated by Lactobacillus, Lactococcus, or Streptococcus, and built a model to classify new samples into these clusters. Counterintuitively, no clear geographic signatures were detected, nor were microbial communities associated with cheese type, milk source, starter culture use, or pasteurization.",
-      "why_it_matters": "The finding that cheese microbial profiles don't reliably map to geography or production methods challenges assumptions about terroir and authenticity in artisanal cheese, with implications for food labeling and quality verification.",
-      "caveats": "observational design, 16S sequencing only (no functional or clinical outcomes), microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive fermented food microbiome finding; no human health outcomes measured.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / food culture",
-          "headline": "The Idea That Cheese Tastes Like Its Place of Origin May Be a Beautiful Myth",
-          "hook": "A new analysis of 322 cheeses from seven countries found that the bacteria inside them don't reliably reflect where \u2014 or how \u2014 the cheese was made.",
-          "pitch_angle": "The romance of terroir \u2014 the idea that a French Comt\u00e9 or a Greek feta carries the microbial fingerprint of its homeland \u2014 may not hold up to genomic scrutiny, with researchers finding no geographic or production-based signatures in cheese microbial communities. The findings could complicate how food regulators and artisan producers think about authenticity, origin labeling, and what actually makes a regional cheese distinct."
-        },
-        {
-          "publication_type": "Well+Good / Healthline",
-          "headline": "Scientists Mapped the Bacteria in 322 Cheeses \u2014 and Found Surprisingly Little Connection to Where They Came From",
-          "hook": "If you thought the microbes in artisanal cheese were shaped by local farms and regional tradition, a large new study suggests the picture is far more complicated.",
-          "pitch_angle": "A study analyzing the bacterial profiles of cheeses from seven countries found that microbial communities clustered into just four patterns, none of which tracked reliably to geography, milk type, or whether the cheese used starter cultures. For gut-health-minded cheese lovers, the research suggests that fermented food microbiomes are shaped by more complex and poorly understood forces than previously assumed."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42202566",
-      "headline": "Scientists find a cold-loving glacier microbe that makes a gut-friendly milk sugar at refrigerator temperatures",
-      "journal": "Enzyme and Microbial Technology",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.enzmictec.2026.110906",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers isolated a novel cellobiose 2-epimerase enzyme (Areu-CE) from Arcticibacter eurypsychrophilus, a psychrotolerant bacterium found in Tibetan Plateau glaciers, and characterized its ability to convert lactose into epilactose \u2014 a prebiotic sugar \u2014 at low temperatures including 8\u00b0C. This is the first CE enzyme identified from a psychrotolerant species. In lab conditions, Areu-CE produced epilactose from lactose and whole milk at cold temperatures, suggesting potential for industrial-scale, low-energy prebiotic production.",
-      "why_it_matters": "A cold-active enzyme capable of converting ordinary lactose in milk into a gut-feeding prebiotic at refrigerator temperatures could eventually make prebiotic-enriched dairy products cheaper and easier to manufacture without heat processing.",
-      "caveats": "animal or cell study, no human subjects, microbiome data only (no clinical outcomes), in vitro enzyme characterization only",
-      "fact_check_note": "The study does not describe a 'first-in-class human study' \u2014 this is an in vitro enzyme characterization. The groundbreaking flag is amended: this is the first CE identified from a psychrotolerant species, not a human study.",
-      "relevance_score": 4,
-      "relevance_score_reason": "Prebiotic production angle is relevant; in vitro only, no human or microbiome outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / General science",
-          "headline": "Glacier Bacteria Could One Day Help Make Your Milk More Gut-Friendly",
-          "hook": "A microbe living in Tibetan Plateau glaciers carries an enzyme that converts regular milk sugar into a gut-feeding prebiotic \u2014 and it works at refrigerator temperatures.",
-          "pitch_angle": "Scientists isolated a cold-active enzyme from an extremophile bacterium that efficiently transforms lactose into epilactose, a prebiotic that selectively feeds beneficial gut bacteria, without requiring high heat. If scalable, the discovery could enable low-energy manufacturing of prebiotic-enriched dairy products \u2014 though all findings so far are from lab experiments, with no human or microbiome studies yet conducted."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42102705",
       "headline": "Common E. coli O157 tests disagree with each other \u2014 and some miss the pathogen entirely in raw meat",
       "journal": "Diagnostic Microbiology and Infectious Disease",
@@ -244,60 +718,6 @@
       "status": "new"
     },
     {
-      "pmid": "42233495",
-      "headline": "Not all collagen peptides are equal \u2014 the animal they come from changes how well your gut absorbs them",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Sep",
-      "doi": "10.1002/jsfa.70759",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers compared bone collagen peptides from yak, bovine, porcine, and chicken sources using simulated gastrointestinal digestion, a Caco-2 intestinal absorption model, and in vivo osteoporosis models to assess bone-protective effects. Yak and bovine peptides showed the highest overall osteoprotective activity, while porcine peptides performed better in vivo than in vitro relative to chicken peptides. The divergence was linked to structural differences affecting how well peptides survive digestion and cross the intestinal wall, with absorption rates (apparent permeability) ranging roughly threefold across peptide types.",
-      "why_it_matters": "The source animal for collagen supplements may significantly influence how much bioactive peptide actually reaches the bloodstream, suggesting that not all collagen products marketed for bone health are nutritionally equivalent.",
-      "caveats": "animal or cell study, in vitro digestion model, Caco-2 monolayer not equivalent to human intestinal absorption, no human clinical outcomes, small number of peptides screened",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Collagen supplement angle has consumer relevance but findings are in vitro and animal only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention / General health",
-          "headline": "Your Collagen Supplement's Animal Source May Determine Whether It Actually Works",
-          "hook": "Early lab research suggests that collagen peptides from yak and bovine sources survive gut digestion and reach the bloodstream more effectively than chicken or pork-derived versions.",
-          "pitch_angle": "A new study comparing bone collagen peptides from four animal sources found that structural differences \u2014 not just peptide content \u2014 determine how much survives digestion and gets absorbed through the intestinal wall. The findings are preliminary (in vitro and animal models only), but they raise real questions about whether the booming collagen supplement market is giving consumers equivalent products regardless of label claims."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42631526",
-      "headline": "Spirulina's gut-supporting and structural food properties make it a serious contender for next-gen protein ingredients",
-      "journal": "Comprehensive Reviews in Food Science and Food Safety",
-      "pubdate": "2026 Sep",
-      "doi": "10.1111/1541-4337.70617",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a narrative review of spirulina (Spirulina platensis) summarizing its nutritional composition, techno-functional properties, and integration into functional food categories. No original human subjects were studied; the review synthesizes existing literature. Key finding is that spirulina's phycocyanin, carotenoids, and polysaccharides confer antioxidant, anti-inflammatory, and probiotic-supporting properties alongside structural food-matrix roles such as gelation and emulsification.",
-      "why_it_matters": "Spirulina's dual role as both a high-digestibility protein source and a probiotic-supporting bioactive could position it as a meaningful ingredient in plant-based and gut-friendly foods \u2014 though human clinical evidence remains limited.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), review article (no original data)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant gut-health and plant-protein angle, but review only \u2014 no original human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Is Spirulina More Than a Smoothie Gimmick? New Review Says Its Gut Benefits Are Real",
-          "hook": "Spirulina's blue-green pigment does more than color your smoothie \u2014 early evidence suggests it may actively support the bacteria in your gut.",
-          "pitch_angle": "A comprehensive review finds spirulina contains bioactive compounds that show probiotic-supporting and anti-inflammatory properties, alongside a surprisingly versatile role as a structural food ingredient. While human clinical trials are still needed, the science behind this ancient algae is catching up to the hype."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "40697134",
       "headline": "A whey-mango drink fermented with novel Egyptian milk bacteria keeps probiotic counts well above therapeutic thresholds for 10 days",
       "journal": "Food Science and Technology International",
@@ -317,39 +737,6 @@
           "headline": "Could Whey \u2014 a Dairy Industry Waste Product \u2014 Be the Next Probiotic Drink?",
           "hook": "Cheese whey, typically discarded by dairies, may harbor the makings of a shelf-stable probiotic beverage with antioxidant benefits.",
           "pitch_angle": "A new study found that fermenting whey with novel bacterial strains \u2014 isolated from human and cow milk \u2014 kept probiotic counts above therapeutic minimums for 10 days and significantly boosted antioxidant activity. The research is still at the lab-beverage stage, but it raises interesting questions about sustainable functional food development."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42634105",
-      "headline": "Mushroom mycelium \u2014 the root-like base of fungi \u2014 turns out to be far less toxic than the fruiting bodies we actually eat",
-      "journal": "Comprehensive Reviews in Food Science and Food Safety",
-      "pubdate": "2026 Sep",
-      "doi": "10.1111/1541-4337.70614",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Helsinki conducted the first comprehensive review of basidiomycete mycotoxins (BMTs) \u2014 toxic compounds produced by fungi including Pleurotus (oyster mushroom) species \u2014 comparing their distribution across fruiting bodies versus mycelium, the vegetative growth stage increasingly used in novel foods. No human subjects were studied; the review synthesizes existing toxicological and mycological literature. The key finding is that BMTs including amatoxins, muscarine, and ostreolysin are consistently lower in mycelium than in fruiting bodies, and no mycotoxins exclusive to mycelium were identified.",
-      "why_it_matters": "As mycelium-based meat alternatives and functional mushroom products rapidly expand in consumer markets, this safety profile finding could meaningfully inform regulatory approvals and consumer confidence in these novel foods.",
-      "caveats": "review article (no original data), no human subjects, gaps in toxicological data acknowledged by authors, regulatory frameworks vary by region",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive and timely finding on mushroom mycelium safety; no original human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / Wired",
-          "headline": "The Mushroom Meat Alternative Industry Has a Toxin Question \u2014 and Science Just Offered a Reassuring Answer",
-          "hook": "Mushroom mycelium \u2014 the underground network being turned into steaks and burgers \u2014 appears to carry significantly fewer natural toxins than the caps and stems we've eaten for centuries.",
-          "pitch_angle": "A first-of-its-kind review finds that the mycotoxins present in mushroom fruiting bodies are consistently lower or absent in mycelium, the fungal form now central to a booming alternative-protein industry. The finding matters because regulators in the EU and elsewhere are still working out how to assess mycelium-based novel foods \u2014 and this review may help accelerate that process."
-        },
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Mushroom Supplements and Mycelium Burgers May Be Safer Than the Mushrooms You Already Eat",
-          "hook": "The part of the mushroom that companies are turning into supplements and meat alternatives may actually harbor fewer natural toxins than the fungi on your dinner plate.",
-          "pitch_angle": "Researchers reviewing all available safety data on basidiomycete fungi found that mycotoxins \u2014 naturally occurring toxic compounds in mushrooms \u2014 are consistently lower in mycelium than in fruiting bodies like caps and stems. While more toxicological research is needed, the finding offers early reassurance about the functional mushroom and mycelium-food trend."
         }
       ],
       "run_date": "2026-09-02",
@@ -472,60 +859,6 @@
       "status": "new"
     },
     {
-      "pmid": "42667986",
-      "headline": "A blood clot in the portal vein isn't the liver threat doctors assumed \u2014 organ decompensation is far more deadly",
-      "journal": "JHEP Reports",
-      "pubdate": "2026 Aug 29",
-      "doi": "10.1016/j.jhepr.2026.102017",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers followed 367 patients with compensated advanced chronic liver disease (cACLD) for up to 11 years in a prospective study, measuring 35 biomarkers alongside clinical outcomes including hepatic decompensation and portal vein thrombosis (PVT). The study found that hepatic decompensation \u2014 not portal vein thrombosis, long considered a serious complication \u2014 was the dominant driver of mortality (HR 11.86), while PVT was not independently associated with death. From biomarker data, researchers derived the VAIL score (VEGF-D, Angiopoietin-1, I-FABP, IL-6), which includes the gut permeability marker I-FABP and outperformed existing prognostic tools.",
-      "why_it_matters": "The inclusion of a gut permeability biomarker (I-FABP) in the top-performing risk score suggests the gut-liver axis plays a measurable role in predicting who with chronic liver disease will deteriorate \u2014 a finding with potential implications for monitoring and intervention.",
-      "caveats": "single-center, observational design, Italian study population (generalizability uncertain), bootstrap validation but awaits external validation cohort",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive finding with gut permeability link; human prospective data, N=367, clinical outcomes measured.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / Healthline",
-          "headline": "Doctors Feared the Wrong Complication in Liver Disease \u2014 and a Gut Protein May Help Catch the Real Killer",
-          "hook": "For years, a blood clot in the portal vein was considered one of the most dangerous complications of chronic liver disease \u2014 a new 11-year study says that assumption was wrong.",
-          "pitch_angle": "A prospective study of 367 patients found that portal vein thrombosis had no independent effect on mortality, while hepatic decompensation was catastrophic \u2014 and a gut leak marker (I-FABP) helped predict who was at risk. The findings suggest the gut-liver connection may be more clinically actionable than previously recognized."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42663691",
-      "headline": "A little-known probiotic bacterium called Weissella may be the next frontier in IBD treatment",
-      "journal": "Antonie van Leeuwenhoek",
-      "pubdate": "2026 Aug 28",
-      "doi": "10.1007/s10482-026-02360-4",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review consolidates preclinical evidence on Weissella spp. (particularly W. confusa and W. cibaria) as probiotic candidates for inflammatory bowel disease (IBD), drawing on animal colitis models and in vitro studies. Researchers examined probiotic attributes, safety profiles, molecular mechanisms \u2014 including effects on pro-inflammatory cytokines, tight-junction proteins, and goblet cells \u2014 and found encouraging anti-inflammatory signals. However, the authors acknowledge that comprehensive human clinical data are absent, and the review identifies key research gaps needed before clinical translation.",
-      "why_it_matters": "Weissella represents an underexplored genus of lactic acid bacteria with mechanistic evidence suggesting it could complement or improve on existing probiotic strategies for IBD, a condition affecting millions with limited long-term treatment options.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), review article (no original data), no human RCT data",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "IBD-relevant probiotic topic; review only, no human data, no original findings.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Healthline / Prevention",
-          "headline": "Scientists Say This Overlooked Probiotic Bacteria Could Be a Game-Changer for IBD \u2014 But There's a Catch",
-          "hook": "While most probiotic research focuses on Lactobacillus and Bifidobacterium, a lesser-known genus called Weissella is quietly accumulating evidence as a potential IBD therapeutic \u2014 though it hasn't been tested in humans yet.",
-          "pitch_angle": "A new review synthesizes preclinical findings showing Weissella strains can reduce gut inflammation, strengthen the intestinal lining, and support goblet cell recovery in colitis models. The catch: no human clinical trials exist yet, making this a watch-this-space story about where next-generation probiotic science is headed."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42665183",
       "headline": "Eating a handful of walnuts daily for two years measurably shifts older adults' diets toward less inflammation",
       "journal": "Journal of the Academy of Nutrition and Dietetics",
@@ -556,66 +889,6 @@
       "run_date": "2026-09-02",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42657876",
-      "headline": "Bacteria living in the male urinary tract can manufacture testosterone \u2014 and may be fueling prostate cancer's drug resistance",
-      "journal": "Applied and Environmental Microbiology",
-      "pubdate": "2026 Aug 27",
-      "doi": "10.1128/aem.00623-26",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers isolated anaerobic bacteria from human male urine samples and identified a previously unknown enzyme \u2014 a 17\u03b2-hydroxysteroid dehydrogenase (17\u03b2-HSDH) \u2014 in Peptoniphilus obesi that converts androstenedione into testosterone (in vitro characterization). A similar enzyme was also identified and validated in Anaerococcus, another genus repeatedly linked to prostate cancer. Both enzymes showed broad activity across multiple sex steroid substrates, suggesting the genitourinary microbiome may be a previously unrecognized local source of androgens.",
-      "why_it_matters": "If urinary-tract bacteria can locally synthesize testosterone, it could help explain why some prostate cancers resist androgen deprivation therapy \u2014 a major clinical problem \u2014 and opens a microbial target for future therapeutic strategies.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100)",
-      "fact_check_note": "Bacteria were isolated from human male urine, but the functional enzyme characterization is in vitro; no clinical outcomes in prostate cancer patients were measured in this study.",
-      "relevance_score": 6,
-      "relevance_score_reason": "Novel mechanistic finding linking urinary microbiome to sex hormone metabolism and cancer drug resistance; in vitro limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The Bacteria in Your Bladder Might Be Making Testosterone",
-          "hook": "Scientists have discovered that common bacteria living in the male urinary tract carry an enzyme that converts a steroid precursor directly into testosterone \u2014 right at the site of the prostate.",
-          "pitch_angle": "The finding, emerging from human urine isolates studied in the lab, suggests the genitourinary microbiome functions as a miniature endocrine organ, potentially flooding prostate tissue with androgens even when systemic hormone levels are suppressed by cancer therapy. It reframes prostate cancer drug resistance as not just a tumor biology problem, but possibly a microbial one."
-        },
-        {
-          "publication_type": "Healthline / General health",
-          "headline": "Bacteria in the Urinary Tract Can Make Testosterone \u2014 Here's Why Prostate Cancer Researchers Are Paying Attention",
-          "hook": "A newly discovered enzyme in urinary-tract bacteria can manufacture testosterone locally, which may help explain why some prostate cancers keep growing even after hormone-blocking drugs are prescribed.",
-          "pitch_angle": "Researchers isolated bacteria from human male urine and identified a novel testosterone-producing enzyme in two genera \u2014 Peptoniphilus and Anaerococcus \u2014 both previously associated with prostate cancer. The early-stage lab findings suggest that targeting the genitourinary microbiome could become a new front in treating hormone-driven prostate cancer."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42658360",
-      "headline": "A probiotic found in pharmacies may shield the liver from antibiotic-related damage \u2014 at least in mice",
-      "journal": "World Journal of Microbiology & Biotechnology",
-      "pubdate": "2026 Aug 27",
-      "doi": "10.1007/s11274-026-05210-7",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers gave male Swiss albino mice either amoxicillin alone or amoxicillin co-administered with the probiotic Bacillus clausii for 45 days (N=4 groups, animal study). Amoxicillin treatment raised liver enzyme markers of injury (AST, ALT, ALP) and inflammatory markers including TNF-\u03b1 and NF-\u03baB. Co-administration of B. clausii significantly reduced those liver enzyme elevations, partially restored antioxidant defenses, and suppressed inflammatory signaling via the LPS-TLR4-NF-\u03baB pathway.",
-      "why_it_matters": "As antibiotic use remains near-universal, early evidence that a commercially available probiotic might buffer antibiotic-associated liver stress \u2014 via gut-liver axis pathways \u2014 adds a new dimension to conversations about probiotic use during antibiotic courses.",
-      "caveats": "animal or cell study, small sample (N<100), single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Probiotic-antibiotic gut-liver axis angle is relevant, but mouse-only study limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention / General health",
-          "headline": "Should You Take a Probiotic With Your Antibiotics? New Mouse Research Adds a Liver-Protection Angle",
-          "hook": "A probiotic already sold in pharmacies appears to protect the liver from damage caused by one of the world's most commonly prescribed antibiotics \u2014 though so far only in mice.",
-          "pitch_angle": "Researchers found that Bacillus clausii, a spore-forming probiotic, blunted liver enzyme spikes and inflammation triggered by amoxicillin in mice over 45 days, pointing to the gut-liver axis as a key mechanism. While human data are still absent, the finding adds biological detail to the ongoing debate about whether probiotics should be routinely paired with antibiotic prescriptions."
-        }
-      ],
-      "run_date": "2026-09-02",
-      "category": "Microbiology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -700,60 +973,6 @@
       "status": "new"
     },
     {
-      "pmid": "42678188",
-      "headline": "A drug-target mutation and an efflux-pump mutation team up to blunt a last-resort antifungal against Candida auris",
-      "journal": "Microbiology Spectrum",
-      "pubdate": "2026 Sep 1",
-      "doi": "10.1128/spectrum.02078-26",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using lab-evolved Candida auris isolates and CRISPR-Cas9 gene editing, researchers identified that combining a GWT1 A397T drug-target substitution with a TAC1B F214I regulatory mutation raised the minimum inhibitory concentration of manogepix (fosmanogepix's active form) more than 33-fold compared to the parental strain. In a Galleria mellonella (wax moth larva) infection model, fosmanogepix's survival benefit and fungal burden reduction were attenuated or eliminated in the doubly mutant strains. This is an in vitro and invertebrate-model study with no mammalian or human subjects.",
-      "why_it_matters": "As fosmanogepix advances as a potential treatment for drug-resistant Candida auris infections, identifying dual-mutation resistance pathways now could help clinicians monitor for treatment failure before it becomes widespread.",
-      "caveats": "animal or cell study, invertebrate model only, no mammalian or human data, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically significant pathogen and novel antifungal; pre-mammalian model limits score.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The Fungal Superbug Candida auris Is Already Finding Ways Around a Drug That Barely Exists Yet",
-          "hook": "Before fosmanogepix has even reached wide clinical use, lab experiments show Candida auris can acquire paired mutations that significantly blunt the drug's power.",
-          "pitch_angle": "Researchers engineered C. auris strains carrying two genetic changes \u2014 one in the drug's protein target, one in a gene controlling drug efflux pumps \u2014 and found the combination slashed fosmanogepix's effectiveness in an invertebrate infection model. The finding is a sobering reminder that antifungal resistance can evolve through multiple simultaneous pathways, complicating the pipeline for treating one of the world's most dangerous emerging pathogens."
-        }
-      ],
-      "run_date": "2026-09-01",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42154389",
-      "headline": "A common probiotic may shield the kidneys from a widely used cancer drug's toxic side effects \u2014 in rats",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Sep",
-      "doi": "10.1007/s12602-026-11052-4",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers administered methotrexate (MTX) to male Sprague-Dawley rats alongside either a low (1\u00d710\u2079 CFU/day) or high (5\u00d710\u2079 CFU/day) oral dose of Lactobacillus rhamnosus GG for five days, then measured kidney oxidative stress markers and renal function indicators. MTX alone caused significant oxidative damage and disrupted kidney enzyme activity, while LGG supplementation reversed these biochemical changes in both serum and renal tissue. This was a rat study with no human subjects.",
-      "why_it_matters": "The finding raises the possibility that a widely available probiotic could help mitigate drug-induced kidney toxicity in people undergoing methotrexate therapy, though human trials are needed to confirm this.",
-      "caveats": "animal or cell study, small sample (N<100), short follow-up, single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically relevant probiotic angle but rat-only study; no human or microbiome composition data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / Prevention",
-          "headline": "Could a Probiotic Protect Your Kidneys During Chemotherapy? Early Animal Research Says Maybe",
-          "hook": "Lactobacillus rhamnosus GG \u2014 the probiotic in many commercial yogurts \u2014 reversed kidney damage markers caused by methotrexate in rats.",
-          "pitch_angle": "Methotrexate is prescribed for everything from rheumatoid arthritis to cancer, and kidney toxicity is a known risk; this rat study found that LGG supplementation restored normal kidney enzyme activity after MTX-induced damage. Human trials don't yet exist, but the finding adds to growing interest in probiotics as adjuncts to chemotherapy and immunosuppressive drug regimens."
-        }
-      ],
-      "run_date": "2026-09-01",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42670944",
       "headline": "Miso contains a newly identified class of bioactive compounds \u2014 and fermentation chemistry may be more complex than we thought",
       "journal": "Journal of Food Science",
@@ -777,33 +996,6 @@
       ],
       "run_date": "2026-09-01",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42674221",
-      "headline": "A drug-resistant superbug linked to human infections turns up in a sea turtle \u2014 suggesting our clinical bacteria are escaping into the ocean",
-      "journal": "Journal of Global Antimicrobial Resistance",
-      "pubdate": "2026 Aug 31",
-      "doi": "10.1016/j.jgar.2026.08.022",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers genomically characterized a multidrug-resistant strain of Serratia nevei recovered from the coelomic cavity of a loggerhead sea turtle admitted to a rehabilitation center in southeastern Brazil. Whole-genome sequencing (N=1 isolate) revealed the strain belonged to sequence type ST625 and carried the CTX-M-15 resistance gene, differing by only 27 SNPs from a human clinical strain isolated in S\u00e3o Paulo in 2019. The finding suggests that a clinically relevant, antibiotic-resistant bacterial clone is crossing from human sources into marine wildlife.",
-      "why_it_matters": "This case suggests that antibiotic-resistant bacteria originating in human clinical settings may be spreading into ocean ecosystems, raising One Health concerns about the environmental persistence and reach of drug-resistant pathogens.",
-      "caveats": "small sample (N<100), single-center, animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Antimicrobial resistance One Health angle; single isolate, no gut or dietary outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The Superbugs from Our Hospitals Are Now Showing Up in Sea Turtles",
-          "hook": "A loggerhead sea turtle in Brazil was found infected with a multidrug-resistant bacterium nearly identical to one previously found in a human patient's urine \u2014 separated by just 27 genetic mutations.",
-          "pitch_angle": "Genomic sleuthing traced a drug-resistant hospital-linked clone from a S\u00e3o Paulo clinic to the Atlantic Ocean, raising urgent questions about how our antibiotic resistance crisis is reshaping marine ecosystems and what that feedback loop could eventually mean for human health."
-        }
-      ],
-      "run_date": "2026-09-01",
-      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
