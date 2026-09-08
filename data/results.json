@@ -1,233 +1,434 @@
 {
-  "last_updated": "2026-09-07T16:38:37.615478+00:00",
+  "last_updated": "2026-09-08T15:17:46.459455+00:00",
   "total_studies": 249,
-  "new_this_run": 4,
+  "new_this_run": 0,
   "studies": [
     {
       "pmid": "42702955",
-      "headline": "A new imaging processor cuts radiation during common bile duct procedures by more than 50% \u2014 without slowing doctors down",
+      "headline": "A new imaging processor cuts radiation exposure during bile duct procedures in half \u2014 without slowing doctors down",
       "journal": "Journal of Hepato-Biliary-Pancreatic Sciences",
       "pubdate": "2026 Sep 6",
       "doi": "10.1002/jhbp.70183",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at two Japanese hospitals compared three fluoroscopic imaging settings during ERCP (endoscopic retrograde cholangiopancreatography) across 369 patients: standard high-dose, low-dose, and low-dose with a new AI-assisted image processor (SCORE PRO Advance). The new processor reduced radiation exposure by more than 50% compared to standard settings and was associated with shorter procedure times (17 vs. 22 minutes) compared to standard low-dose settings. Multivariate analysis confirmed that both high-dose settings and longer procedure times independently predicted higher radiation exposure.",
-      "why_it_matters": "ERCP is one of the most radiation-intensive endoscopic procedures performed, and a technology that maintains image quality while cutting radiation dose in half could meaningfully reduce cumulative exposure risk for patients who need repeated procedures.",
-      "caveats": "single-center (two hospitals, same region), observational design, Japanese cohort, short follow-up, no patient-level radiation harm outcomes measured, sex distribution imbalance across groups",
-      "fact_check_note": "Abstract states patients were from two separate hospitals (Matsunami General Hospital and Gifu Prefectural Medical Center), so this is multicenter, not single-center \u2014 caveats adjusted accordingly. Radiation reduction described as >50% in title is supported by skin dose data (72.6 vs. 32.5 mGy).",
+      "summary": "Researchers at two Japanese hospitals compared three fluoroscopic radiation settings across 369 patients undergoing ERCP (endoscopic retrograde cholangiopancreatography) \u2014 a procedure used to diagnose and treat bile duct and pancreatic conditions. A new image processing system (SCORE PRO Advance) achieved radiation doses comparable to a standard low-dose setting (skin dose 32.5 vs. 40.0 mGy) while also cutting average procedure time by five minutes compared to low-dose alone (17 vs. 22 minutes). The authors suggest improved image clarity with the new processor may allow faster, more confident procedural decision-making.",
+      "why_it_matters": "ERCP is one of the higher-radiation endoscopic procedures \u2014 a technology that preserves image quality while cutting both radiation exposure and procedure time could meaningfully reduce cumulative radiation risk for patients who need repeated bile duct interventions.",
+      "caveats": "single-center (two hospitals, single region \u2014 Japan), observational design, sex distribution differed between groups, short follow-up",
+      "fact_check_note": "Study enrolled patients across two hospitals (Matsunami General Hospital and Gifu Prefectural Medical Center), not a single center \u2014 caveats reflect multi-site but single-region design.",
       "relevance_score": 4,
-      "relevance_score_reason": "Procedural technology study, human data N=369, limited gut health or microbiome relevance.",
+      "relevance_score_reason": "Procedural/technical study; limited direct relevance to diet, microbiome, or digestive health lifestyle angles.",
       "pitch_angles": [
         {
-          "publication_type": "Wired / General health",
-          "headline": "A New Imaging Algorithm Just Slashed Radiation Exposure During One of Gastroenterology's Trickiest Procedures",
-          "hook": "An AI-assisted image processor cut radiation during bile duct scoping procedures by more than half \u2014 and actually made the procedure faster.",
-          "pitch_angle": "ERCP, used to diagnose and treat bile duct and pancreatic conditions, is notoriously radiation-heavy, posing cumulative risk for patients who need the procedure repeatedly. A Japanese clinical study found that a new image-processing system maintained diagnostic quality while reducing radiation dose by over 50% and trimming procedure time by five minutes \u2014 suggesting that imaging AI could quietly make a common gastroenterology procedure meaningfully safer."
+          "publication_type": "General health / Wired",
+          "headline": "A Smarter Camera System Is Cutting Radiation in Half During One of GI Medicine's Riskiest Procedures",
+          "hook": "A new image processing system slashed radiation exposure during bile duct endoscopy by more than 50% \u2014 and made the procedure five minutes faster.",
+          "pitch_angle": "ERCP, the endoscopic procedure used to clear blocked bile ducts and diagnose pancreatic disease, exposes patients to meaningful radiation \u2014 particularly those who need repeated procedures. A Japanese clinical study found a new AI-enhanced imaging processor can match low-dose radiation levels while maintaining image quality sharp enough to speed up the procedure, pointing toward a quieter but significant upgrade in GI procedural safety."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "42693590",
-      "headline": "A redesigned drainage catheter dramatically improves a common liver-disease procedure that's notoriously prone to failure",
+      "headline": "A redesigned catheter with an anchoring disc cuts paracentesis failures nearly in half for cirrhosis patients",
       "journal": "Journal of Gastroenterology and Hepatology",
       "pubdate": "2026 Sep 3",
       "doi": "10.1111/jgh.70716",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In a prospective multicenter randomized crossover trial across three Korean hospitals, 87 cirrhotic patients with refractory ascites underwent large-volume paracentesis (abdominal fluid drainage) using both a novel anchoring catheter (KARAHOC) and the standard angiocatheter in randomized order. The anchoring catheter \u2014 a multifenestrated, over-the-needle device with a stabilizing disc \u2014 achieved a significantly higher success rate (87.5% vs. 71.6%), shorter procedure time (71 vs. 80 minutes), and substantially higher patient and operator satisfaction, with no increase in adverse events. The findings suggest the new catheter addresses the key mechanical failure points \u2014 kinking and dislodgement \u2014 that limit the standard device.",
-      "why_it_matters": "For patients with end-stage liver disease who require repeated paracentesis, a catheter that fails less often and drains faster could meaningfully reduce procedural burden and discomfort during an already grueling treatment course.",
-      "caveats": "small sample (N<100), single-center within multicenter (3 Korean academic hospitals), observational design elements within crossover, short follow-up",
+      "summary": "Researchers conducted a prospective multicenter randomized crossover trial at three Korean academic hospitals enrolling 87 cirrhotic patients with refractory ascites who needed repeated large-volume paracentesis (fluid drainage). Each patient received paracentesis with both a novel multifenestrated anchoring catheter (KARAHOC) and a standard angiocatheter in randomized order. The anchoring catheter achieved a significantly higher success rate (87.5% vs. 71.6%), shorter procedure time (71 vs. 80 minutes), and higher patient and operator satisfaction with no increase in adverse events.",
+      "why_it_matters": "For the estimated 50\u201360% of cirrhosis patients who develop refractory ascites requiring repeated fluid drainage procedures, a simple catheter redesign suggests meaningfully fewer procedural failures and shorter, more comfortable sessions.",
+      "caveats": "small sample (N<100), single-region (South Korea), crossover design with potential carryover effects, short follow-up",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Solid RCT design and clear clinical relevance; narrow procedural focus limits broad gut-health audience appeal.",
+      "relevance_score_reason": "Procedural device study; limited diet/microbiome angle; solid RCT design.",
       "pitch_angles": [
         {
           "publication_type": "General health / Healthline",
-          "headline": "A Simple Catheter Redesign Is Making a Painful Liver Disease Procedure Work Better",
-          "hook": "A new anchoring catheter succeeded at draining dangerous abdominal fluid nearly 16 percentage points more often than the standard device \u2014 a meaningful gain for patients who need the procedure repeatedly.",
-          "pitch_angle": "Refractory ascites, a serious complication of liver cirrhosis, requires regular large-volume fluid drainage that frequently fails due to catheter kinking \u2014 but a newly designed stabilizing catheter significantly improved success rates and cut procedure time in a randomized trial. For a patient population with few good options, even an incremental procedural improvement can translate into real relief."
+          "headline": "A New Catheter Design Is Making a Miserable Procedure Far Less Likely to Fail for Liver Disease Patients",
+          "hook": "For people with advanced liver disease who need fluid drained from their abdomen every few weeks, a redesigned needle catheter with a tiny anchoring disc is cutting procedure failures nearly in half.",
+          "pitch_angle": "Refractory ascites \u2014 the dangerous fluid buildup that complicates end-stage liver disease \u2014 requires repeated hospital visits for paracentesis, a procedure that often fails due to catheter kinking or slipping. A randomized trial found a newly designed anchoring catheter improved success rates from 72% to 88% and shaved nearly 10 minutes off procedure time, suggesting a straightforward device upgrade could meaningfully reduce patient burden."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42684528",
-      "headline": "Standard fatty liver disease tests may miss the mark in older adults \u2014 and doctors may need a completely different playbook for aging patients",
+      "headline": "Standard liver fibrosis tests miss the mark in older adults \u2014 and the medical field is barely talking about it",
       "journal": "Current Gastroenterology Reports",
       "pubdate": "2026 Sep 2",
       "doi": "10.1007/s11894-026-01055-0",
-      "groundbreaking": "Major dietary or microbiome implication",
+      "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review synthesizes current evidence on how metabolic dysfunction-associated steatotic liver disease (MASLD) presents and progresses differently in older adults, examining the roles of inflammaging, mitochondrial senescence, and muscle loss. The authors highlight that standard fibrosis-staging tools like the Fibrosis-4 index are unreliable in patients over 65 and that 'silent cirrhosis' with normal liver enzyme levels is common in this age group. As a narrative review, no new primary data are reported.",
-      "why_it_matters": "As MASLD becomes the world's most common chronic liver disease, recognizing that aging-specific biological processes \u2014 including circadian rhythm disruption and muscle wasting \u2014 may require completely different diagnostic thresholds and treatment goals is clinically significant for a rapidly growing patient population.",
-      "caveats": "secondary analysis, no primary data reported, narrative review",
+      "summary": "Japanese researchers conducted a narrative review of the literature on metabolic dysfunction-associated steatotic liver disease (MASLD) in older adults, synthesizing evidence on how aging-specific processes \u2014 including muscle loss (sarcopenia), mitochondrial senescence, and circadian disruption potentially linked to melatonin deficiency \u2014 drive distinct disease phenotypes not seen in younger patients. The review highlights that widely used diagnostic tools like the Fibrosis-4 (FIB-4) index are unreliable in patients over 65, and that 'silent cirrhosis' with normal liver enzyme levels is common in this group. Authors argue that clinical goals should shift from histological liver targets toward functional longevity and muscle preservation in geriatric MASLD patients.",
+      "why_it_matters": "As the population ages and MASLD becomes the most common chronic liver disease globally, the finding that standard screening tests routinely miss advanced disease in older adults has urgent implications for how this growing patient group is monitored and treated.",
+      "caveats": "narrative review, no original data, single-center author group (Japan), no systematic search methodology reported",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Narrative review only, no primary data; relevant aging-MASLD angle but limited pitch strength.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Clinically relevant MASLD aging angle; narrative review limits evidence quality.",
       "pitch_angles": [
         {
-          "publication_type": "Prevention / General health",
-          "headline": "Your Doctor's Go-To Liver Test May Be Unreliable If You're Over 65",
-          "hook": "A new review finds that the most widely used non-invasive liver fibrosis score gives misleading results in older adults \u2014 a problem as fatty liver disease surges in aging populations.",
-          "pitch_angle": "Researchers argue that MASLD in older adults is driven by distinct biological processes \u2014 including circadian disruption, muscle loss, and cellular aging \u2014 that require age-specific diagnostic tools and treatment goals focused on functional longevity rather than liver biopsy targets; the piece underscores a gap in how medicine currently manages one of its most common chronic diseases in its fastest-growing demographic."
+          "publication_type": "Healthline / General health",
+          "headline": "The Standard Test Doctors Use to Check for Liver Scarring Doesn't Work Well in People Over 65",
+          "hook": "The most commonly used non-invasive liver fibrosis test gives unreliable results in older adults \u2014 meaning millions of aging patients with fatty liver disease may be slipping through diagnostic cracks.",
+          "pitch_angle": "A new review argues that geriatric MASLD is a fundamentally different disease driven by muscle loss, disrupted sleep cycles, and cellular aging \u2014 and that the medical field needs age-adjusted tools and a shift toward preserving function rather than chasing liver biopsy targets."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42566329",
-      "headline": "Patients with rare liver vascular diseases spend years getting the wrong diagnosis \u2014 and their doctors often don't know how to help",
+      "headline": "Rare liver vascular diseases take years to diagnose \u2014 and patients are navigating them nearly alone",
       "journal": "Hepatology Communications",
       "pubdate": "2026 Sep 1",
       "doi": "10.1097/HC9.0000000000000998",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted semi-structured interviews with 37 participants \u2014 including 13 patients, 7 patient advocacy representatives, and 17 healthcare providers \u2014 across France, Spain, Switzerland, and the Netherlands to identify care gaps for rare vascular liver diseases (VLDs) such as Budd-Chiari syndrome and non-cirrhotic portal vein thrombosis. Four core challenges emerged: prolonged diagnostic delays, difficulty communicating diagnosis, scientific uncertainty around etiology and treatment, and poor care coordination. Mental health support, fatigue management, and reproductive health communication were also flagged as critically underserved.",
-      "why_it_matters": "Rare vascular liver diseases often strike young people and carry serious complications, yet this qualitative study suggests systemic failures in diagnosis, communication, and psychosocial support persist across multiple European healthcare systems.",
-      "caveats": "small sample (N<100), qualitative design only, European cohort (four countries), no clinical outcome data",
+      "summary": "Researchers conducted semi-structured interviews with 37 participants \u2014 13 patients, 7 patient advocacy organization representatives, and 17 healthcare providers across France, Spain, Switzerland, and the Netherlands \u2014 to map unmet needs in rare vascular liver diseases including portal vein thrombosis and Budd-Chiari syndrome. Thematic analysis identified four core challenges: delayed diagnosis, difficulty communicating disease complexity, scientific uncertainty about progression and treatment, and poor care coordination. Mental health, fatigue, and reproductive health were flagged as critically underserved areas.",
+      "why_it_matters": "Patients with rare vascular liver diseases \u2014 conditions that can cause life-threatening complications from a young age \u2014 are experiencing systemic diagnostic delays and a near-total absence of psychosocial and reproductive health support across multiple European health systems.",
+      "caveats": "small sample (N<100), observational design, qualitative study (no quantitative outcomes), single-region (4 European countries \u2014 limited generalizability to US context)",
       "fact_check_note": "",
       "relevance_score": 4,
-      "relevance_score_reason": "Rare disease, qualitative only, small N, limited everyday gut-health relevance.",
+      "relevance_score_reason": "Qualitative, small N, rare disease niche; limited broad audience appeal.",
       "pitch_angles": [
         {
-          "publication_type": "General health",
-          "headline": "Rare Liver Diseases Take Years to Diagnose \u2014 and Patients Are Left to Navigate the Uncertainty Alone",
-          "hook": "People with rare vascular liver diseases like Budd-Chiari syndrome often spend years bouncing between specialists before getting an accurate diagnosis.",
-          "pitch_angle": "A cross-national European study found that diagnostic delays, poor care coordination, and neglected mental health needs are consistent problems for patients with rare vascular liver diseases across four countries. The findings underscore how rare-disease patients can fall through the cracks of systems not built to recognize or manage conditions that lack clear treatment guidelines."
+          "publication_type": "General health / patient advocacy",
+          "headline": "These Rare Liver Diseases Can Strike Young Adults \u2014 and Doctors Often Miss Them for Years",
+          "hook": "Patients with conditions like Budd-Chiari syndrome describe a healthcare system that struggles to diagnose, explain, or emotionally support them.",
+          "pitch_angle": "A cross-European study found that rare vascular liver diseases \u2014 which can cause dangerous complications in young adults \u2014 are routinely misdiagnosed and poorly communicated, leaving patients to piece together their care largely on their own. The findings highlight a pattern seen in many rare diseases: the medical system is built for common conditions, and everyone else gets lost."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "2/2",
       "status": "new"
     },
     {
       "pmid": "41213391",
-      "headline": "Most patients with throat and voice symptoms blamed on reflux may not actually have reflux disease",
+      "headline": "A new scoring tool may finally tell doctors which 'silent reflux' patients actually have acid reaching the throat",
       "journal": "Clinical Gastroenterology and Hepatology",
       "pubdate": "2026 Sep",
       "doi": "10.1016/j.cgh.2025.10.027",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers validated a new clinical risk prediction score to identify which patients presenting with laryngopharyngeal symptoms (chronic throat clearing, hoarseness, globus) actually have objective reflux on testing, drawing on a bi-coastal and international cohort. The study addressed the problem that reflux accounts for only a minority of laryngopharyngeal symptom cases, yet empiric acid suppression therapy is widely used. The new score outperformed existing tools in predicting confirmed proximal and pharyngeal reflux on objective testing, suggesting it could help avoid unnecessary acid suppression in most patients whose symptoms have other causes.",
-      "why_it_matters": "A validated prediction tool could spare the majority of patients with throat and voice symptoms from ineffective long-term acid suppression therapy \u2014 a drug class with its own risks when used unnecessarily.",
-      "caveats": "small sample (N<100), single-center populations within a multicenter collaboration, industry funding [Regeneron Pharmaceuticals advisory \u2014 WWC; Phathom Pharmaceuticals, Medtronic, Reckitt Benckiser \u2014 RY]",
+      "summary": "Researchers from Brigham and Women's Hospital, UC San Diego, and a Taiwanese center (the B-AER Program) validated a novel risk prediction score designed to identify which patients with laryngopharyngeal symptoms actually have objective proximal or pharyngeal reflux, rather than other causes. The study was conducted in human patients but the abstract does not report a specific N. The score aims to address the longstanding problem that most patients presenting with hoarseness, chronic cough, or throat-clearing do not have true reflux disease, yet are routinely given acid suppression therapy.",
+      "why_it_matters": "A validated prediction score could spare many patients unnecessary long-term acid-suppressive drugs while ensuring those with true reflux get targeted treatment sooner.",
+      "caveats": "small sample (N<100 not confirmed but N not reported in abstract), single-center data unclear (multi-center but limited sites), industry funding [Regeneron Pharmaceuticals advisory board for one author; Phathom Pharmaceuticals and others for another]",
       "fact_check_note": "",
       "relevance_score": 6,
-      "relevance_score_reason": "GERD/reflux topic fit; human study but limited sample size and no diet/microbiome angle.",
+      "relevance_score_reason": "Clinically relevant GERD/LPRD tool; human study but N unclear and narrow specialist focus.",
       "pitch_angles": [
         {
-          "publication_type": "Healthline / Prevention",
-          "headline": "Your Chronic Throat Clearing Probably Isn't Acid Reflux \u2014 So Why Are Doctors Still Prescribing Antacids?",
-          "hook": "A new validated scoring tool finds that reflux explains only a minority of patients with persistent throat and voice symptoms \u2014 yet empiric acid suppression therapy remains the default treatment.",
-          "pitch_angle": "Researchers developed and validated a clinical prediction score to finally distinguish true laryngopharyngeal reflux disease from other causes of throat symptoms, potentially ending the cycle of ineffective antacid prescribing for millions of patients. The finding matters because long-term proton pump inhibitor use carries its own health risks, and most patients with these symptoms may need an entirely different treatment approach."
+          "publication_type": "Healthline / General health",
+          "headline": "Doctors Finally Have a Way to Tell If Your Chronic Throat-Clearing Is Actually Acid Reflux",
+          "hook": "Most people diagnosed with 'silent reflux' don't actually have acid reaching their throat \u2014 and a new prediction score may finally sort them out.",
+          "pitch_angle": "Laryngopharyngeal reflux is one of gastroenterology's most over-diagnosed \u2014 and over-treated \u2014 conditions; a new validated scoring tool could end the era of blanket acid-suppression prescriptions for every hoarse patient, steering care toward those who truly need it."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42240428",
-      "headline": "A swallowable capsule sponge could replace many routine esophageal cancer-risk endoscopies \u2014 and patients strongly prefer it",
+      "headline": "A swallowable sponge-on-a-string outperforms endoscopy on patient preference for Barrett's esophagus monitoring",
       "journal": "Scandinavian Journal of Gastroenterology",
       "pubdate": "2026 Sep",
       "doi": "10.1080/00365521.2026.2679097",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a prospective multicenter feasibility study across five Swedish hospitals (N=70 adults with confirmed Barrett's esophagus) to assess a capsule sponge device (EndoSign\u00ae) administered by nurses as an alternative to standard endoscopy surveillance. The procedure succeeded in 97.1% of participants, sample adequacy reached 92.6%, and 71.4% of patients preferred the capsule sponge over gastroscopy, with median discomfort rated just 2/10. One in five participants was flagged as high-risk and directed to expedited endoscopy.",
-      "why_it_matters": "If validated in larger trials, a nurse-led, swallowable capsule sponge could dramatically expand access to Barrett's esophagus surveillance beyond specialist endoscopy suites, catching precancerous changes earlier and with far less patient burden.",
-      "caveats": "small sample (N<100), single-center model (multicenter but small overall N), short follow-up, no comparative effectiveness data vs. endoscopy",
+      "summary": "In a prospective multicenter feasibility study across five Swedish hospitals (December 2023\u2013October 2024), researchers enrolled 70 adults with histologically confirmed Barrett's esophagus (BE) to test the EndoSign\u00ae capsule sponge as a non-endoscopic surveillance tool, with procedures performed by trained nurses rather than physicians. The device had a 97.1% technical success rate, 92.6% sample adequacy, and 71.4% of patients preferred it over standard gastroscopy, with median procedural discomfort of just 2/10. Risk stratification using the collected samples (testing for TFF3, atypia, and p53 biomarkers) classified 20% of patients as high-risk, prompting expedited endoscopy.",
+      "why_it_matters": "A nurse-led, swallowable sponge device that patients strongly prefer over endoscopy could dramatically expand access to Barrett's esophagus monitoring, which is currently underutilized due to the burden and cost of repeated endoscopy.",
+      "caveats": "small sample (N=70), single-country (Sweden), short follow-up, feasibility study only \u2014 no comparison arm, no cancer detection outcome data",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Human feasibility study, patient-centered, digestive cancer screening angle; small N limits strength.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Novel patient-friendly Barrett's tool with clear access implications; small feasibility study limits strength.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Prevention / General health",
-          "headline": "Swallowing a Capsule Could Soon Replace Your Barrett's Esophagus Endoscopy",
-          "hook": "More than 70% of patients who tried a swallowable sponge capsule said they'd choose it over a standard endoscopy \u2014 and it caught one in five people who needed urgent follow-up.",
-          "pitch_angle": "A Swedish multicenter study found that a nurse-administered capsule sponge was nearly as reliable as endoscopy for surveilling Barrett's esophagus, a precancerous condition of the esophagus; if larger trials confirm these results, it could mean earlier detection of esophageal cancer risk without the cost and discomfort of a hospital procedure."
+          "publication_type": "Well+Good / Prevention",
+          "headline": "A Pill You Swallow \u2014 Not a Scope Down Your Throat \u2014 Could Soon Monitor Your Esophagus for Cancer Risk",
+          "hook": "Seven in ten Barrett's esophagus patients preferred a swallowable sponge-on-a-string to a traditional endoscopy \u2014 and it worked nearly as well at detecting who needs follow-up.",
+          "pitch_angle": "The EndoSign capsule sponge, deployed by nurses rather than specialist doctors, successfully screened Barrett's esophagus patients in a Swedish multicenter study, pointing toward a future where a feared, resource-intensive cancer surveillance procedure could become as routine as a blood draw."
         },
         {
           "publication_type": "Wired / The Atlantic",
-          "headline": "Could a Swallowable Sponge Capsule Democratize Esophageal Cancer Screening?",
-          "hook": "A simple capsule-and-sponge device administered by nurses \u2014 not gastroenterologists \u2014 successfully screened Barrett's esophagus patients with a 97% technical success rate.",
-          "pitch_angle": "The EndoSign\u00ae capsule sponge represents a potential shift in who delivers esophageal surveillance and where, moving it out of specialist endoscopy suites and into more accessible clinical settings; early Swedish data suggest it's safe, well-tolerated, and feasible, though large validation studies are still needed before it reshapes standard of care."
+          "headline": "The Endoscopy Might Be on Its Way Out for Millions of Barrett's Patients",
+          "hook": "A swallowable capsule that expands into a sponge, collects esophageal cells, and is retrieved on a string sounds like science fiction \u2014 but it just passed its first real-world test in Sweden.",
+          "pitch_angle": "The EndoSign device achieved near-perfect procedural success and high patient acceptance across five hospitals, suggesting that nurse-led, non-endoscopic surveillance could finally solve the access crisis in Barrett's esophagus monitoring \u2014 a condition affecting millions who are chronically under-surveilled due to gastroscopy's cost and discomfort."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "41643801",
-      "headline": "The 'obesity paradox' in fatty liver disease is a statistical illusion \u2014 staying lean your whole life is actually what protects you",
+      "headline": "The 'obesity paradox' in fatty liver disease is a statistical illusion \u2014 timing of weight gain is what actually predicts survival",
       "journal": "Clinical Gastroenterology and Hepatology",
       "pubdate": "2026 Sep",
       "doi": "10.1016/j.cgh.2026.01.033",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research / Major dietary or microbiome implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed longitudinal BMI trajectory data from three large population-based cohorts (NHANES III, NHANES 1999\u20132018, and UK Biobank; combined N=16,362) in adults with metabolic dysfunction-associated steatotic liver disease (MASLD). Using latent class trajectory modeling, they found that the apparent survival advantage of obesity in MASLD \u2014 the so-called 'obesity paradox' \u2014 disappears when BMI is tracked over a lifetime rather than measured at a single point. Persistent obesity from early adulthood was associated with 79% higher mortality risk (HR 1.79), and staying non-obese throughout adulthood was associated with the lowest overall mortality.",
-      "why_it_matters": "This finding suggests that prior studies showing obese MASLD patients outliving non-obese ones were likely distorted by reverse causation and snapshot BMI measurement, reinforcing that long-term weight management \u2014 not just current weight \u2014 matters most for liver disease outcomes.",
-      "caveats": "observational design, self-reported dietary intake, secondary analysis",
+      "summary": "Researchers analyzed three large population-based cohorts \u2014 NHANES III (n=2,190), NHANES 1999\u20132018 (n=5,210), and UK Biobank (n=8,962) \u2014 using longitudinal BMI trajectory modeling to re-examine the so-called obesity-survival paradox in metabolic dysfunction-associated steatotic liver disease (MASLD). They found that while obesity in mid-to-late adulthood or after MASLD diagnosis appeared to confer a survival benefit in cross-sectional analyses, persistent obesity throughout adulthood (HR 1.79) and rapid BMI increase (HR 1.93) were both associated with significantly higher mortality. The key finding is that the paradox disappears when timing is accounted for: early-life weight gain is harmful, and the apparent survival advantage of later obesity likely reflects reverse causation \u2014 people who lost weight did so because they were already ill.",
+      "why_it_matters": "This finding suggests that the window for healthy weight management in liver disease may matter far more than weight status at any single point in time, reshaping how clinicians and patients should think about obesity and MASLD prognosis.",
+      "caveats": "observational design, self-reported dietary intake possible in NHANES, secondary analysis of existing cohorts",
       "fact_check_note": "",
-      "relevance_score": 8,
-      "relevance_score_reason": "Overturns prior research, large human cohorts, strong metabolic/liver disease relevance, clean longitudinal design.",
+      "relevance_score": 9,
+      "relevance_score_reason": "Overturns widely held obesity paradox belief; large multi-cohort human data with clinical outcomes.",
       "pitch_angles": [
         {
-          "publication_type": "The Atlantic / Wired",
-          "headline": "The 'Obesity Paradox' in Liver Disease Was Probably Wrong All Along",
-          "hook": "For years, data suggested that obese people with fatty liver disease somehow lived longer than their leaner peers \u2014 a new analysis of 16,000 patients suggests that finding was a statistical artifact.",
-          "pitch_angle": "When researchers tracked BMI over a lifetime instead of measuring it at a single point, the apparent survival benefit of obesity in MASLD vanished entirely; people who stayed lean throughout adulthood had the lowest mortality, while persistent obesity from a young age was linked to dramatically higher death risk \u2014 overturning a widely cited but likely misleading clinical observation."
+          "publication_type": "The Atlantic",
+          "headline": "The 'Fat Protects You' Theory of Liver Disease Just Collapsed",
+          "hook": "For years, studies suggested that obese patients with fatty liver disease actually lived longer \u2014 it turns out the data was hiding what mattered most: when the weight arrived.",
+          "pitch_angle": "The obesity paradox has quietly shaped how doctors and patients think about weight and chronic disease, but a new analysis of over 16,000 people shows it was largely a mirage created by reverse causation, with long-term BMI trajectory \u2014 not snapshot weight \u2014 being the true predictor of survival in MASLD."
         },
         {
-          "publication_type": "Well+Good / Prevention / Healthline",
-          "headline": "The Reason 'Obese People With Fatty Liver Live Longer' Was a Myth \u2014 And What the Real Data Shows",
-          "hook": "A massive new analysis tracking body weight across decades reveals that staying a healthy weight throughout your life \u2014 not just at the time of diagnosis \u2014 is what actually predicts survival in fatty liver disease.",
-          "pitch_angle": "The 'obesity paradox' in MASLD has reassured some that excess weight wasn't so dangerous for the liver \u2014 but a new study of more than 16,000 people finds that paradox disappears when you account for lifetime weight history, with early-onset obesity carrying the highest mortality risk and sustained non-obesity the lowest."
+          "publication_type": "Well+Good / Prevention",
+          "headline": "When You Gain Weight Matters More Than How Much You Weigh, New Liver Disease Study Finds",
+          "hook": "A major new study suggests that gaining weight rapidly in early adulthood raises mortality risk in fatty liver disease far more than being overweight later in life.",
+          "pitch_angle": "Analyzing data from more than 16,000 adults across three large cohorts, researchers found that the pattern of weight gain across a lifetime \u2014 not a single number on the scale \u2014 is what drives survival outcomes in metabolic fatty liver disease, pointing to the importance of early-life metabolic health."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
       "chunk": "1/2",
       "status": "new"
     },
     {
       "pmid": "42471304",
-      "headline": "Scoping out colon tumors before surgery spares more than half of patients from the operating room \u2014 and cuts carbon emissions too",
+      "headline": "Scope-first beats surgery first for tricky colon lesions \u2014 and it's cheaper and greener too",
       "journal": "Digestive and Liver Disease",
       "pubdate": "2026 Sep",
       "doi": "10.1016/j.dld.2026.06.012",
       "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers evaluated a 'diagnose-first' endoscopic dissection strategy versus immediate surgery for 190 patients with colorectal lesions showing focal deep invasive patterns across multiple French and European centers. Using endoscopic submucosal dissection (ESD) as a staging tool, 57% of patients avoided surgery altogether. The approach was also associated with lower carbon emissions (222 vs. 240 kgCO\u2082e per patient) and significantly reduced costs (\u20ac7,930 vs. \u20ac12,960 per patient).",
-      "why_it_matters": "For the roughly half of colorectal cancer patients with ambiguous early-invasion lesions, an endoscopy-first approach may spare many from unnecessary surgery \u2014 with environmental and financial benefits on top.",
-      "caveats": "observational design, single-arm (no randomized control), multicenter but predominantly French cohort, short follow-up, no long-term oncologic outcome data",
+      "summary": "This multicenter French study followed 190 patients with colorectal lesions showing a focal deep invasive pattern \u2014 a finding that typically triggers an immediate surgical referral \u2014 who instead underwent diagnostic endoscopic submucosal dissection (ESD) first. Of those patients, 57% (109 of 190) avoided surgery entirely because histology confirmed low- or intermediate-risk disease. Compared to a modeled upfront surgery approach, the endoscopy-first strategy was associated with lower carbon emissions (222 vs. 240 kgCO\u2082e per patient), shorter hospital stays, and substantially lower costs (\u20ac7,930 vs. \u20ac12,960 per patient).",
+      "why_it_matters": "For patients with ambiguous early colorectal cancer findings, an endoscopy-first approach may spare more than half from major abdominal surgery \u2014 while also cutting healthcare costs by nearly 40% and reducing the procedure's carbon footprint.",
+      "caveats": "observational design, single-region (France/Belgium \u2014 multicenter but European only), no randomized comparison (surgery arm is modeled, not a real control group), short follow-up",
       "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Colorectal cancer relevance, human study N=190, but no gut microbiome or diet angle.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Colorectal cancer relevance, strong clinical outcome (surgery avoidance), multicenter human data; modeled comparator limits causal inference.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "More Than Half of Patients Sent for Colon Cancer Surgery Might Not Need It \u2014 A Scope Can Tell the Difference",
+          "hook": "A new study found that when doctors use an endoscope to assess ambiguous colon lesions before recommending surgery, 57% of patients can skip the operating room entirely.",
+          "pitch_angle": "For colorectal lesions that look worrying on imaging, the standard next step is often surgery \u2014 but a large French multicenter study suggests doing a diagnostic endoscopy first can spare the majority of patients a major operation. The approach also cost nearly \u20ac5,000 less per patient and produced fewer carbon emissions, raising questions about why scope-first isn't already the default."
+        },
+        {
+          "publication_type": "Wired / The Atlantic",
+          "headline": "Surgeons Keep Operating on Colons That Didn't Need It \u2014 An Endoscope Might Fix That",
+          "hook": "A study tracking nearly 200 patients found that a 'scope first, cut later' strategy for tricky colon lesions is cheaper, greener, and spares most patients from surgery.",
+          "pitch_angle": "The case for upending colorectal cancer treatment protocols: a multicenter European study found that diagnostic endoscopic dissection before surgery cuts operative rates by more than half, reduces costs by 40%, and lowers the carbon footprint of care \u2014 a trifecta that challenges why high-risk-looking lesions are still routinely sent straight to surgery."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42631526",
+      "headline": "Spirulina may do more than boost smoothies \u2014 it could support gut bacteria and replace animal protein in everyday foods",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Sep",
+      "doi": "10.1111/1541-4337.70617",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a comprehensive review of Spirulina platensis as a food ingredient, summarizing its nutritional composition, techno-functional properties (gelation, emulsification, foaming), and applications across food categories including beverages, snacks, bakery goods, and meat substitutes. This is a narrative review, not a human clinical trial. Key finding: Spirulina's bioactive compounds \u2014 including phycocyanin, carotenoids, and polysaccharides \u2014 have documented antioxidant and anti-inflammatory properties and are described as 'probiotic-supporting,' suggesting potential gut microbiome relevance alongside its role as a high-protein, sustainable food ingredient.",
+      "why_it_matters": "As demand for sustainable plant-based protein grows, spirulina's combination of high digestibility, microbiome-supporting compounds, and food-system versatility positions it as a potentially meaningful addition to functional and clean-label foods.",
+      "caveats": "narrative review, no clinical outcomes, no human subjects, microbiome data only (no clinical outcomes), animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Everyday relevance (plant protein, microbiome); review only, no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "Spirulina Isn't Just a Trend \u2014 Science Says It May Actually Feed Your Gut Bacteria",
+          "hook": "That blue-green powder in your smoothie may do more than color it \u2014 early evidence suggests its bioactive compounds could support the gut microbiome.",
+          "pitch_angle": "A new comprehensive review finds that spirulina's unique compounds, including phycocyanin and prebiotic-like polysaccharides, show probiotic-supporting properties in addition to its well-known protein punch. As food manufacturers increasingly integrate spirulina into snacks, gluten-free goods, and meat substitutes, understanding its gut-health potential matters for anyone navigating plant-based eating."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42634105",
+      "headline": "Mushroom mycelium \u2014 the root-like base of fungi used in meat alternatives \u2014 appears to carry fewer toxins than the caps and stems we actually eat",
+      "journal": "Comprehensive Reviews in Food Science and Food Safety",
+      "pubdate": "2026 Sep",
+      "doi": "10.1111/1541-4337.70614",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted the first systematic review of basidiomycete mycotoxins (BMTs) \u2014 including amatoxins, muscarine, ostreolysin, and psilocybin \u2014 across fungal mycelium and fruiting bodies, focusing on Pleurotus spp. (oyster mushroom), which are central to mycelium-based meat alternative products. This is a narrative review of existing literature, not a human clinical trial. The key finding: across all species and toxin types reviewed, mycelium consistently showed lower mycotoxin levels than fruiting bodies, and no mycotoxins were found exclusively in mycelium \u2014 suggesting the ingredient at the heart of the booming fungi-based food industry may be safer than the whole mushroom.",
+      "why_it_matters": "As mycelium-based meat alternatives gain mainstream traction, this first-of-its-kind safety review suggests the novel food ingredient may carry lower toxin risk than conventional mushrooms \u2014 a finding relevant to regulators and consumers navigating the fast-growing fungi food market.",
+      "caveats": "narrative review, no human subjects, no clinical outcomes, regulatory data gaps acknowledged by authors, limited species studied",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive safety finding for trending food ingredient; review only, no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / Wired",
+          "headline": "The Part of the Mushroom Powering Fake Meat May Actually Be the Safer Part",
+          "hook": "Mycelium \u2014 the fibrous root-like network being harvested to make bacon substitutes and burger patties \u2014 appears to contain fewer natural toxins than the mushroom caps we've eaten for centuries.",
+          "pitch_angle": "A first-of-its-kind review finds that basidiomycete mycelium consistently shows lower levels of fungal toxins than fruiting bodies, and no toxins unique to mycelium were identified, countering intuitive concerns about a novel ingredient regulators haven't yet fully approved. As companies race to scale mycelium-based proteins, this safety signal \u2014 and the regulatory gaps the authors flag \u2014 raises important questions about how we assess entirely new food systems."
+        },
+        {
+          "publication_type": "Well+Good / Prevention / General health",
+          "headline": "The Mushroom 'Root' in Your Meat Alternative Might Be Safer Than an Actual Mushroom",
+          "hook": "Scientists who reviewed every known study on fungal toxins found that mycelium \u2014 the ingredient in many mushroom-based meat alternatives \u2014 carries lower toxin levels than whole mushrooms.",
+          "pitch_angle": "A comprehensive review of basidiomycete toxins found that mycelium from Pleurotus (oyster mushroom) species consistently had fewer harmful compounds than fruiting bodies, and nothing toxic was found exclusively in mycelium. For consumers curious about the safety of mushroom-based foods showing up on grocery shelves, the early evidence is reassuring \u2014 though researchers note significant regulatory data gaps still need to be filled."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42102705",
+      "headline": "Standard food safety tests are missing dangerous E. coli O157 in raw meat \u2014 and the gap between methods is bigger than expected",
+      "journal": "Diagnostic Microbiology and Infectious Disease",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.diagmicrobio.2026.117446",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested 150 raw and processed meat samples \u2014 including ground beef, kebab, lahmacun, meatball mix, and raw poultry \u2014 from markets in Kocaeli, T\u00fcrkiye, using three detection methods: an immunoassay (VIDAS), qPCR, and culture. qPCR identified O157-associated genetic markers in 8% of samples, but the immunoassay caught only 4.7% and culture confirmed just 3.3%, revealing substantial method-dependent discordance. Some qPCR-positive samples showed E. coli profiles with the adhesion gene eae but no detectable toxin genes, patterns that neither VIDAS nor culture could recover.",
+      "why_it_matters": "Relying on a single detection method for E. coli O157 in meat products may systematically undercount contamination, suggesting food safety surveillance could be missing real public health risk.",
+      "caveats": "small sample (N<100), single-center, observational design, regional market (T\u00fcrkiye) \u2014 limited generalizability",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Food safety and foodborne pathogen relevance; limited gut health framing and regional scope.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "The Test Meant to Catch Dangerous E. coli in Your Meat May Be Missing Half of It",
+          "hook": "A study comparing three standard detection methods for E. coli O157 in raw meat found they disagreed significantly \u2014 and the most commonly used screening tool caught the fewest positives.",
+          "pitch_angle": "When researchers ran the same 150 meat samples through an immunoassay, molecular testing, and culture, the results diverged sharply, with qPCR flagging more than twice as many positives as culture confirmation. The findings raise questions about whether current food safety protocols are adequately protecting consumers from one of the most dangerous foodborne pathogens."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42202566",
+      "headline": "A glacier enzyme could make dairy a prebiotic food \u2014 at refrigerator temperatures",
+      "journal": "Enzyme and Microbial Technology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/j.enzmictec.2026.110906",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated a novel enzyme called cellobiose 2-epimerase (Areu-CE) from a cold-tolerant bacterium found in Tibetan Plateau glaciers and tested its ability to convert lactose into epilactose, a prebiotic sugar, in vitro. This is the first cellobiose 2-epimerase identified from a psychrotolerant (cold-adapted) species. At 8\u00b0C \u2014 near refrigeration temperature \u2014 the enzyme still converted lactose in milk into epilactose, suggesting potential for low-energy industrial dairy processing.",
+      "why_it_matters": "If scalable, this cold-active enzyme could enable dairy manufacturers to produce prebiotic-enriched milk without high-heat industrial processing, potentially making everyday dairy a source of gut-health-supporting epilactose.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100), in vitro enzyme characterization only \u2014 no human or animal feeding data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting prebiotic angle but purely in vitro enzyme study with no human or microbiome outcome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / science-forward food tech",
+          "headline": "Scientists Found a Glacier Enzyme That Could Turn Regular Milk Into a Prebiotic \u2014 In Your Fridge",
+          "hook": "A bacterium living in Tibetan glacier ice produces an enzyme that converts plain lactose into a gut-health-supporting prebiotic sugar \u2014 and it works at refrigerator temperatures.",
+          "pitch_angle": "Researchers isolated a cold-active enzyme from an extremophile microbe on the Tibetan Plateau that can transform the lactose in ordinary milk into epilactose, a prebiotic, without industrial heat. The finding opens a potential path for low-energy dairy bioprocessing, though all evidence so far is from lab enzyme tests \u2014 no human gut data yet."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42703818",
+      "headline": "How long you ferment kefir may matter more than what's in it \u2014 at least for bones",
+      "journal": "Molecular Nutrition & Food Research",
+      "pubdate": "2026 Sep",
+      "doi": "10.1002/mnfr.70601",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Brazilian researchers induced glucocorticoid-related osteoporosis in 40 male Wistar rats (n=8 per group) and then treated them for 12 weeks with milk kefir fermented for 1, 4, or 7 days; microbial composition was assessed via 16S and 18S rRNA amplicon sequencing. Despite similar dominant microbial communities across fermentation durations, longer-fermented kefir (4 and 7 days) significantly increased serum calcium, mandibular cortical bone thickness, collagen maturity, and fracture resistance compared to shorter fermentation. The counterintuitive finding is that fermentation duration \u2014 not microbial species composition \u2014 appears to drive the bone-protective effect, suggesting metabolite changes rather than microbe identity are the key variable.",
+      "why_it_matters": "Suggests that the way fermented dairy products like kefir are prepared at home or commercially may influence their potential bone-health properties, a detail rarely considered by consumers or researchers.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up, microbiome data only (no clinical outcomes in humans)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive fermentation angle but animal-only data limits applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "The Kefir You're Drinking Might Not Be Fermented Long Enough to Help Your Bones",
+          "hook": "A rat study finds that kefir fermented for four or more days protected bone density far better than the same drink fermented for just one day \u2014 even though the microbial mix looked nearly identical.",
+          "pitch_angle": "Researchers discovered that fermentation duration, not the specific bacteria present, appears to drive kefir's bone-protective effects in an animal model of steroid-induced osteoporosis, pointing to metabolites like organic acids as likely drivers. While human data are needed, the finding raises questions about whether the mass-produced kefir sitting on grocery shelves \u2014 optimized for shelf life, not fermentation time \u2014 is delivering the same potential benefits as traditionally prepared versions."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42556358",
+      "headline": "A decade after NASH was renamed, MASLD finally has approved drugs \u2014 here's what changed",
+      "journal": "The Lancet Gastroenterology & Hepatology",
+      "pubdate": "2026 Sep",
+      "doi": "10.1016/S2468-1253(26)00087-7",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This commentary from two leading hepatologists reviews the past decade of progress in metabolic dysfunction-associated steatotic liver disease (MASLD), formerly called NAFLD/NASH, covering the 2023 nomenclature overhaul and the first approved therapies. The piece is expert opinion rather than an original study, with no patient cohort or experimental data. It synthesizes the field's trajectory, noting that new drugs targeting liver fibrosis and metabolic pathways have now reached regulatory approval.",
+      "why_it_matters": "For the estimated 1 in 4 adults globally with fatty liver disease, the arrival of the first approved therapies marks a turning point after decades with no pharmacological options.",
+      "caveats": "industry funding [Akero, AstraZeneca, Boehringer Ingelheim, Gilead, Lilly, Madrigal, Merck, Novo Nordisk, Roche, and others \u2014 extensive COI declared by both authors], commentary/opinion piece (no original data), small sample (N<100)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Expert commentary, no original data, heavy industry conflicts; limited pitch value.",
       "pitch_angles": [
         {
           "publication_type": "The Atlantic / General health",
-          "headline": "The Colonoscopy That Could Replace Surgery for Early Colon Cancer",
-          "hook": "More than half of patients with early invasive colorectal tumors avoided surgery entirely when doctors used a 'look before you cut' endoscopic approach.",
-          "pitch_angle": "A multicenter European study found that using endoscopic dissection as a diagnostic staging tool \u2014 rather than heading straight to the OR \u2014 spared 57% of patients with suspicious colon lesions from surgery, while also cutting costs by nearly \u20ac5,000 per patient and reducing carbon emissions. The finding challenges the reflex toward upfront surgery for ambiguous early-stage colorectal cancer."
+          "headline": "The Liver Disease Affecting 1 in 4 Adults Just Got Its First Real Treatments",
+          "hook": "For decades, doctors could only tell patients with fatty liver disease to lose weight \u2014 now, for the first time, there are approved drugs.",
+          "pitch_angle": "A decade after researchers argued that renaming NASH to MASLD would shift how medicine treated the disease, approved therapies have finally arrived. The story behind why it took so long \u2014 and what the new drugs actually do \u2014 is a window into how metabolic disease gets (and doesn't get) prioritized."
         }
       ],
-      "run_date": "2026-09-07",
+      "run_date": "2026-09-08",
       "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42154389",
+      "headline": "A probiotic best known for gut health may shield kidneys from chemotherapy damage \u2014 at least in rats",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Sep",
+      "doi": "10.1007/s12602-026-11052-4",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers gave male Sprague-Dawley rats a single high dose of methotrexate (20 mg/kg) to induce kidney toxicity, then administered Lactobacillus rhamnosus GG (LGG) at low (1\u00d710\u2079 CFU/day) or high dose (5\u00d710\u2079 CFU/day) orally for five days. Blood and kidney tissue were analyzed for oxidative stress markers, antioxidant enzyme activity, and renal function indicators. LGG supplementation reversed methotrexate-induced biochemical alterations in both serum and renal tissue, including restoring markers of oxidative balance and kidney function.",
+      "why_it_matters": "Early animal evidence suggests the widely available probiotic LGG may have protective effects beyond the gut, potentially relevant for patients undergoing methotrexate-based therapies \u2014 though human evidence is absent.",
+      "caveats": "animal or cell study, small sample (N<100), short follow-up, no human data, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Probiotic angle is relevant, but rat-only study with no human or clinical outcome data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "The Probiotic in Your Yogurt May Do More Than Help Digestion \u2014 New Research Points to Kidney Protection",
+          "hook": "Lactobacillus rhamnosus GG, one of the most studied probiotics on the market, appears to protect kidney tissue from chemotherapy-related oxidative damage \u2014 at least in rats.",
+          "pitch_angle": "A new animal study found that LGG supplementation reversed nearly all biochemical markers of kidney damage caused by methotrexate, a widely used chemotherapy and autoimmune drug. While the research is early and rat-based, it adds to a growing body of evidence that probiotics may have systemic effects extending well beyond gut health."
+        }
+      ],
+      "run_date": "2026-09-08",
+      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -286,114 +487,6 @@
       "status": "new"
     },
     {
-      "pmid": "42631526",
-      "headline": "Spirulina Is More Than a Superfood Powder \u2014 It May Also Support the Gut's Good Bacteria",
-      "journal": "Comprehensive Reviews in Food Science and Food Safety",
-      "pubdate": "2026 Sep",
-      "doi": "10.1111/1541-4337.70617",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers at the University of Illinois conducted a narrative review of spirulina (Spirulina platensis) as a functional food ingredient, examining its nutritional composition, bioactive compounds, and techno-functional properties across food applications. The review is not a clinical study but synthesizes existing literature on spirulina's protein content, pigments such as phycocyanin, and polysaccharides. Notably, the review highlights spirulina's antioxidant, anti-inflammatory, and probiotic-supporting properties \u2014 suggesting its polysaccharides and bioactive compounds may help sustain beneficial gut bacteria, though human causal data is not established.",
-      "why_it_matters": "For people interested in plant-based nutrition and gut health, spirulina's emerging probiotic-supporting and anti-inflammatory properties suggest it could be more than a protein supplement \u2014 though clinical evidence in humans is still needed.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), observational design, review article (no original data)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Gut-relevant bioactives noted but no human clinical data; review only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention / General health",
-          "headline": "Your Smoothie's Green Powder Might Be Doing More for Your Gut Than You Think",
-          "hook": "Spirulina \u2014 already popular as a protein and antioxidant booster \u2014 may also help feed the beneficial bacteria in your gut, according to a new comprehensive review.",
-          "pitch_angle": "A review of spirulina's nutritional and functional properties finds that its polysaccharides and bioactive pigments like phycocyanin show probiotic-supporting activity, meaning they may help sustain beneficial gut microbes. While human clinical trials are still needed, the finding adds a potential gut-health dimension to an already nutrient-dense ingredient increasingly showing up in everything from snack bars to meat substitutes."
-        }
-      ],
-      "run_date": "2026-09-07",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42634105",
-      "headline": "Mushroom mycelium \u2014 the trendy meat alternative \u2014 appears safer than the mushroom itself when it comes to natural toxins",
-      "journal": "Comprehensive Reviews in Food Science and Food Safety",
-      "pubdate": "2026 Sep",
-      "doi": "10.1111/1541-4337.70614",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "In the first systematic review of its kind, Finnish researchers analyzed all available literature on naturally occurring toxins (including amatoxins, muscarine, ostreolysin, and psilocybin) in basidiomycete fungi, with particular focus on Pleurotus species used in mycelium-based novel foods. Across all species and toxin types reviewed, mycelium consistently showed lower toxin levels than the fruiting body (the part typically eaten as a mushroom), and no toxins were found exclusively in mycelium. The authors conclude that mycelium-based products may carry a lower natural toxin burden than traditional mushroom consumption, though data gaps remain.",
-      "why_it_matters": "As mycelium-based meat alternatives and food products expand rapidly, this first systematic toxin review suggests regulators and consumers may be overestimating safety risks relative to eating conventional mushrooms.",
-      "caveats": "None identified",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "First review of its kind; high consumer and regulatory relevance as mycelium foods expand globally.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The mycelium meat revolution has a safety question \u2014 and a new review just answered it",
-          "hook": "Regulators haven't approved mycelium-based novel foods in many markets partly over toxin concerns \u2014 but the first systematic review of mushroom toxins suggests the mycelium may actually be the safer part of the fungus.",
-          "pitch_angle": "A comprehensive review found that basidiomycete mycelium \u2014 the root-like network being used to make 'fungal meat' \u2014 consistently contained lower levels of natural toxins like amatoxins and muscarine than the fruiting bodies we've eaten for centuries. As companies race to bring mycelium foods to market, this data could help regulators fast-track approvals and reshape public perception of fungal food safety."
-        },
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "Mushroom mycelium supplements and meat alternatives may be less risky than eating a wild mushroom \u2014 here's what researchers found",
-          "hook": "A new first-of-its-kind review found that the mycelium used in trendy fungi-based foods consistently had fewer natural toxins than the mushroom caps and stems people have always eaten.",
-          "pitch_angle": "Researchers reviewed every available study on toxins in basidiomycete fungi and found mycelium-based products had lower toxin profiles than traditional mushroom fruiting bodies \u2014 with no toxins found exclusively in mycelium. For anyone navigating the growing market of mycelium snacks, supplements, and meat alternatives, this offers meaningful early reassurance, while also flagging how much toxicological data is still missing."
-        }
-      ],
-      "run_date": "2026-09-07",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42102705",
-      "headline": "Detection challenges of Escherichia coli O157 in raw meat: Diagnostic discordance between VIDAS, qPCR, and culture-based methods.",
-      "journal": "Diagnostic microbiology and infectious disease",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.diagmicrobio.2026.117446",
-      "groundbreaking": "Relevant gut health finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "",
-      "why_it_matters": "",
-      "caveats": "",
-      "fact_check_note": "",
-      "excluded": false,
-      "relevance_score": 5,
-      "relevance_score_reason": "",
-      "pitch_angles": [],
-      "run_date": "2026-09-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42202566",
-      "headline": "A glacier-derived enzyme could make prebiotic milk sugar cheaper and easier to produce at cold temperatures",
-      "journal": "Enzyme and Microbial Technology",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/j.enzmictec.2026.110906",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers identified a novel cellobiose 2-epimerase enzyme (Areu-CE) from a cold-adapted bacterium found in Tibetan Plateau glaciers, and tested its ability to convert lactose into epilactose \u2014 a prebiotic sugar \u2014 at low temperatures in vitro. The enzyme retained 27% epilactose production activity at 8\u00b0C using milk as a substrate, making it the first cold-active CE identified from a psychrotolerant species. This early-stage enzyme characterization study suggests glacier-derived microbes could be a resource for producing gut-healthy prebiotic dairy ingredients more efficiently.",
-      "why_it_matters": "Epilactose is a prebiotic that selectively feeds beneficial gut bacteria, and a cold-active enzyme capable of enriching it directly in refrigerated milk could open a new, low-energy route to prebiotic dairy products.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center, small sample (N<100)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Prebiotic angle is relevant, but purely in vitro enzyme study with no human or microbiome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Healthline / Prevention",
-          "headline": "Scientists Found a Prebiotic Enzyme in a Himalayan Glacier \u2014 and It Could Change How We Fortify Milk",
-          "hook": "A bacterium living in glacial ice on the Tibetan Plateau produces an enzyme that converts regular milk sugar into a gut-feeding prebiotic \u2014 even at refrigerator temperatures.",
-          "pitch_angle": "Researchers have characterized a cold-active enzyme that efficiently transforms lactose into epilactose, a prebiotic shown to selectively nourish beneficial gut bacteria. If scalable, the technology could allow dairy producers to create prebiotic-enriched milk without adding heat or separate ingredients."
-        }
-      ],
-      "run_date": "2026-09-07",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "40810498",
       "headline": "A rare Salmonella strain found in nearly 1 in 5 wild boars hints at a new animal reservoir for foodborne disease",
       "journal": "Foodborne Pathogens and Disease",
@@ -417,33 +510,6 @@
       ],
       "run_date": "2026-09-07",
       "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42703818",
-      "headline": "How long you ferment kefir may matter more than what's in it \u2014 at least for bones",
-      "journal": "Molecular Nutrition & Food Research",
-      "pubdate": "2026 Sep",
-      "doi": "10.1002/mnfr.70601",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers gave glucocorticoid-induced osteoporotic rats milk kefir fermented for 1, 4, or 7 days (N=40 rats, 8 per group) over 12 weeks. Despite no major shifts in dominant microbial taxa (Lactobacillus and Saccharomyces remained stable across fermentation times), longer fermentation (4 and 7 days) produced significantly greater bone-protective effects \u2014 including higher serum calcium, thicker cortical bone, and better fracture resistance. The findings suggest that fermentation duration, independent of gross microbial composition, is a meaningful variable in kefir's bone-health effects.",
-      "why_it_matters": "For people who make or buy kefir, this early-stage animal research suggests fermentation time \u2014 not just probiotic count \u2014 may influence how the food interacts with bone metabolism.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Fermented food angle is relevant, but animal-only study limits applicability significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "The kefir detail nobody talks about: how long it ferments may shape what it does for your body",
-          "hook": "Longer-fermented kefir produced stronger bone benefits in a new animal study \u2014 even though the microbes inside looked nearly identical across batches.",
-          "pitch_angle": "A rat study found that kefir fermented for 4\u20137 days outperformed a 1-day batch on bone density and calcium markers, despite similar microbial profiles \u2014 raising questions about what other fermentation variables are being ignored on store shelves. While human data are still absent, it's an unexplored angle in the booming fermented-foods conversation."
-        }
-      ],
-      "run_date": "2026-09-07",
-      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -724,33 +790,6 @@
       "status": "new"
     },
     {
-      "pmid": "42556358",
-      "headline": "Fatty liver disease has been renamed, redefined, and finally has drug options \u2014 here's what a decade of upheaval looks like",
-      "journal": "The Lancet Gastroenterology & Hepatology",
-      "pubdate": "2026 Sep",
-      "doi": "10.1016/S2468-1253(26)00087-7",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This is a short commentary (no new data) reflecting on a decade of transformation in metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as NAFLD, covering the shift in disease nomenclature, evolving understanding of metabolic drivers, and the emergence of the first approved pharmacological therapies. The authors \u2014 both heavily conflicted with industry \u2014 review the landscape of novel therapeutic agents now entering or near clinical approval. No original patient cohort or trial data are presented.",
-      "why_it_matters": "MASLD affects an estimated 1 in 4 adults globally, and the arrival of the first approved treatments marks a pivotal shift from lifestyle-only management for a condition closely tied to diet and metabolic health.",
-      "caveats": "observational design, industry funding [extensive COIs for both authors across multiple pharmaceutical companies]",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Commentary only, no new data; MASLD has strong diet and metabolic relevance but limited microbiome angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / Prevention",
-          "headline": "The Liver Disease Affecting 1 in 4 Adults Just Got Its First Real Drug Options \u2014 After a Decade of Dead Ends",
-          "hook": "For years, the only advice doctors could give patients with fatty liver disease was 'lose weight and exercise' \u2014 that's finally starting to change.",
-          "pitch_angle": "A Lancet commentary marks a decade since NAFLD was renamed MASLD to better reflect its metabolic roots, tracking the field from nomenclature debates to the arrival of first-in-class pharmacological therapies. For the millions living with a condition driven by diet and metabolic dysfunction, it signals that treatment options may finally be catching up to the science."
-        }
-      ],
-      "run_date": "2026-09-06",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42508576",
       "headline": "Cutting sugar in a baby's first two years may delay cancer onset by years, a UK natural experiment finds",
       "journal": "The American Journal of Clinical Nutrition",
@@ -887,33 +926,6 @@
         }
       ],
       "run_date": "2026-09-06",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42154389",
-      "headline": "A common probiotic may shield kidneys from toxic side effects of a widely used cancer and arthritis drug",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Sep",
-      "doi": "10.1007/s12602-026-11052-4",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers gave male Sprague-Dawley rats a single high dose of methotrexate (MTX) \u2014 a drug used for cancer and autoimmune diseases \u2014 then supplemented with Lactobacillus rhamnosus GG (LGG) at low or high doses for five days (N=4 groups of rats). MTX caused significant oxidative stress and functional damage in kidney tissue, including disrupted enzyme activity and impaired filtration markers. LGG supplementation reversed these biochemical changes in both serum and kidney tissue in a dose-related manner.",
-      "why_it_matters": "Early evidence suggests a well-studied probiotic strain could help protect the kidneys of people undergoing methotrexate therapy, though human trials are needed.",
-      "caveats": "animal or cell study, small sample (N<100), short follow-up, single-center",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Probiotic angle is relevant but animal-only study limits translation; no clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / General health",
-          "headline": "Could a Probiotic Protect Your Kidneys During Chemotherapy? Rat Study Offers Early Clues",
-          "hook": "A probiotic already found in many yogurts and supplements reversed kidney damage caused by a common chemotherapy and arthritis drug \u2014 at least in rats.",
-          "pitch_angle": "Researchers found that Lactobacillus rhamnosus GG neutralized the oxidative stress and kidney dysfunction caused by methotrexate in a rat model. The finding is preliminary but adds to growing interest in probiotics as protective agents during aggressive drug therapies."
-        }
-      ],
-      "run_date": "2026-09-05",
       "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
