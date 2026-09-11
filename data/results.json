@@ -1,60 +1,336 @@
 {
-  "last_updated": "2026-09-10T15:06:35.710313+00:00",
-  "total_studies": 263,
+  "last_updated": "2026-09-11T15:08:11.988795+00:00",
+  "total_studies": 271,
   "new_this_run": 8,
   "studies": [
     {
       "pmid": "42716437",
-      "headline": "Standard protein supplements may be nearly useless for kidney disease patients \u2014 and scientists think they know why",
+      "headline": "Standard nutrition therapy may be nearly useless for kidney disease patients \u2014 and gut bacteria could be part of why",
       "journal": "Advances in Nutrition",
       "pubdate": "2026 Sep 9",
       "doi": "10.1016/j.advnut.2026.100728",
       "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review and theoretical framework paper proposes that gut-microbiome-derived uremic toxins \u2014 particularly the tryptophan metabolite indoxyl sulfate \u2014 may breach the blood-brain barrier in advanced chronic kidney disease (CKD), triggering hypothalamic neuroinflammation that resets the body's metabolic set-point and induces anabolic resistance. The authors argue this 'nutritional paradox' \u2014 where CKD patients waste away despite adequate caloric and protein intake \u2014 stems from failure of nutrient-sensing pathways (ghrelin, insulin/IGF-1) and muscle proteostasis breakdown, not simple starvation. They propose a 'sensitize-then-feed' strategy using emerging agents such as GDF15 antagonists and myostatin inhibitors to restore anabolic sensitivity before nutritional support is given.",
-      "why_it_matters": "If gut-derived toxins are blocking the body's ability to use protein in kidney disease, it suggests the standard 'eat more protein' approach may need to be fundamentally rethought for millions of CKD patients.",
-      "caveats": "animal or cell study, no clinical outcomes measured, theoretical framework only, no original human data",
+      "summary": "This is a narrative review proposing a mechanistic framework \u2014 not an original clinical study \u2014 to explain why standard protein and calorie supplementation often fails in advanced chronic kidney disease (CKD). The authors argue that gut microbiome-derived uremic toxins, particularly the tryptophan metabolite indoxyl sulfate, impair the blood-brain barrier, trigger hypothalamic neuroinflammation, and reset central appetite and metabolism in ways that render conventional nutrition therapy ineffective. They propose a 'sensitize-then-feed' paradigm in which emerging agents such as GDF15 antagonists, myostatin inhibitors, and ghrelin agonists could restore anabolic sensitivity before nutritional support is attempted.",
+      "why_it_matters": "Reframes malnutrition in kidney disease not as a simple calorie deficit but as a gut-microbiome-driven anabolic resistance \u2014 suggesting that fixing the gut environment may need to come before feeding strategies can work.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), secondary analysis",
       "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Strong gut-microbiome-systemic disease angle; theoretical only, no human data.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong gut-microbiome-to-brain mechanism angle; review only, no clinical data.",
       "pitch_angles": [
         {
           "publication_type": "Wired / The Atlantic",
-          "headline": "Why Feeding Kidney Patients More Protein Often Doesn't Work \u2014 and the Gut Microbiome May Be the Culprit",
-          "hook": "A new theoretical framework proposes that gut bacteria-derived toxins in kidney disease essentially jam the body's ability to respond to nutrition, making standard protein supplements largely futile.",
-          "pitch_angle": "Scientists are rethinking protein-energy wasting in chronic kidney disease, arguing it's not a deficiency problem but a signaling one \u2014 where microbial metabolites corrupt the brain's metabolic controls and muscles lose their ability to respond to amino acids. The proposed fix involves 'sensitizing' the body with new drug classes before nutrition therapy, a paradigm shift that could reshape how dialysis patients are treated."
+          "headline": "Feeding Kidney Disease Patients More Protein Isn't Working \u2014 Gut Bacteria May Explain Why",
+          "hook": "A gut microbiome toxin may be hijacking the brain's appetite and metabolism signals in kidney disease patients, making standard nutrition therapy essentially futile.",
+          "pitch_angle": "Researchers propose that a bacterial metabolite called indoxyl sulfate \u2014 produced in the gut and elevated in kidney disease \u2014 crosses into the brain and rewires hunger and muscle-building signals, creating a state of 'anabolic resistance' that protein supplements can't overcome. The framework suggests an entirely new treatment order: fix the gut-brain signaling first, then feed \u2014 a potentially paradigm-shifting approach to one of medicine's most stubborn nutritional problems."
         }
       ],
-      "run_date": "2026-09-10",
+      "run_date": "2026-09-11",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
     {
+      "pmid": "42711772",
+      "headline": "A Rare Esophageal Condition That Looks Alarming on Endoscopy Often Clears Up on Its Own",
+      "journal": "Journal of Clinical Gastroenterology",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1097/MCG.0000000000002442",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 115 patients diagnosed with sloughing esophagitis \u2014 a poorly understood condition where the esophageal lining sheds in white plaques \u2014 at a single academic medical center. The cohort was older, medically complex (average Charlson comorbidity index 4.1), and highly medicated (averaging 12.3 drugs). Symptoms and endoscopic findings resolved in 77\u201383% of cases regardless of whether treatment was used, suggesting the condition is often self-limiting.",
+      "why_it_matters": "This largest cohort study to date suggests that sloughing esophagitis \u2014 a visually dramatic endoscopic finding \u2014 may frequently resolve without targeted treatment, which could inform how gastroenterologists counsel patients after diagnosis.",
+      "caveats": "small sample (N<100 is close \u2014 N=115 but single-center), observational design, single-center, retrospective chart review, no control group",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Rare esophageal condition; modest N, single-center, limited everyday reader relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / General health",
+          "headline": "Your Endoscopy Showed Sloughing Esophagitis \u2014 Here's Why Doctors May Just Watch and Wait",
+          "hook": "A frightening-sounding diagnosis that causes the esophageal lining to shed in white sheets often disappears on its own, new research finds.",
+          "pitch_angle": "A study of 115 patients found that sloughing esophagitis \u2014 most common in older, heavily medicated individuals \u2014 resolved in the vast majority of cases without specific treatment, raising questions about whether aggressive intervention is necessary and what role polypharmacy plays in triggering it."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42715135",
+      "headline": "Squeezing a Stress Ball Before an Endoscopy Cuts Fear and Anxiety More Than a Breathing Technique Does",
+      "journal": "Gastroenterology Nursing",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1097/SGA.0000000000000977",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a randomized controlled trial assigning 75 elderly patients awaiting endoscopy to one of three groups: stress ball use, 4-7-8 breathing technique, or no intervention (control). Fear and anxiety scores (measured by Visual Analog Scale and State-Trait Anxiety Inventory) dropped significantly in both intervention groups compared to controls, where scores actually rose before the procedure. Stress ball use produced a significantly greater reduction in anxiety than the breathing technique (p < .001).",
+      "why_it_matters": "For the many people who experience pre-endoscopy anxiety \u2014 a barrier to colorectal cancer screening and other essential GI procedures \u2014 these findings suggest simple, no-cost physical tools may reduce procedural fear more effectively than structured breathing exercises.",
+      "caveats": "small sample (N=75), single-center, short follow-up, elderly population only (may not generalize), conducted in Turkey",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "RCT with practical GI relevance, but small N, single-center, and no microbiome or dietary angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Dreading Your Colonoscopy? Squeezing a Stress Ball Right Before May Calm You Down Fast",
+          "hook": "A simple stress ball outperformed a popular breathing technique at reducing fear and anxiety in patients waiting for an endoscopy, a new randomized trial finds.",
+          "pitch_angle": "With colorectal cancer screening rates still lagging partly due to procedural anxiety, this small RCT suggests that handing patients an inexpensive stress ball before GI procedures could be an easy, low-tech fix \u2014 and it worked better than the widely promoted 4-7-8 breathing method in this study."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42623063",
+      "headline": "Invertebrates harbor a vast hidden reservoir of unknown gut bacteria \u2014 and some of those genes may already be jumping into human pathogens",
+      "journal": "mBio",
+      "pubdate": "2026 Sep 9",
+      "doi": "10.1128/mbio.01234-26",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers from the Broad Institute, Harvard Medical School, and the University of the Azores systematically examined enterococci \u2014 gut bacteria with major clinical significance \u2014 in over 100 invertebrate specimens collected from the naturally isolated Azorean island of Terceira. Using whole-genome sequencing, they found that 40% of Enterococcus species identified in invertebrates were either undescribed or very recently discovered, including four candidate new species. In contrast, vertebrate control isolates were exclusively known species, suggesting invertebrate hosts \u2014 not geography \u2014 are driving this extraordinary diversity, and that invertebrates may represent a large, largely untapped reservoir of enterococcal genes available to strains that colonize and infect humans.",
+      "why_it_matters": "Understanding where antibiotic-resistant gut bacteria acquire new genes could reshape strategies for preventing the spread of multidrug-resistant infections like drug-resistant Enterococcus faecium.",
+      "caveats": "small sample (N<100 invertebrate specimens), single-site collection (Azores), no clinical outcomes, microbiome data only (no clinical outcomes), animal/environmental study \u2014 no human subjects",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fascinating microbiome diversity science but no human subjects, no dietary or clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Bugs in Worms and Beetles May Be Fueling the Antibiotic Resistance Crisis",
+          "hook": "A surprisingly large share of the world's unknown gut bacteria live in invertebrates \u2014 and researchers now think those microbes may be handing dangerous new genes to bacteria that infect humans.",
+          "pitch_angle": "A new genomic survey found that 40% of Enterococcus species living in Azorean invertebrates were either undiscovered or just recently described, suggesting insects, worms, and other invertebrates are a major hidden reservoir of bacterial diversity. Scientists believe this pool of unexplored genes is likely one source of the new traits \u2014 including antibiotic resistance \u2014 that are increasingly turning common gut bacteria into deadly hospital pathogens."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42710783",
-      "headline": "Higher blood levels of carotenoids before diagnosis linked to nearly half the risk of dying from breast cancer",
+      "headline": "Higher blood carotenoid levels before diagnosis linked to nearly half the risk of dying from breast cancer",
       "journal": "The American Journal of Clinical Nutrition",
       "pubdate": "2026 Sep 8",
       "doi": "10.1016/j.ajcnut.2026.101514",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "groundbreaking": "Major dietary or microbiome implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used a multi-state modeling approach on a nested case-control study of 3,516 controls and 2,583 invasive breast cancer cases (190 of whom developed lethal disease) drawn from a large cohort, measuring pre-diagnostic plasma carotenoids via high-performance liquid chromatography. Women in the highest quintile of total carotenoids had a 48% lower risk of lethal breast cancer compared to the lowest quintile (HR=0.52, 95% CI 0.36\u20130.74), while \u03b2-carotene alone was associated with 41% lower risk. The protective association was strongest in postmenopausal women and reflected both reduced incidence and reduced recurrence or death.",
-      "why_it_matters": "This suggests that the level of plant pigments circulating in the blood \u2014 a rough proxy for fruit and vegetable intake \u2014 before a cancer diagnosis may be meaningfully linked to whether breast cancer becomes fatal, not just whether it develops.",
-      "caveats": "observational design, nested case-control, self-reported dietary intake not directly measured here (plasma used instead), secondary analysis",
+      "summary": "Researchers used a multi-state modeling approach in a nested case-control study of 3,516 controls and 2,583 breast cancer cases (190 of whom developed lethal disease) from the Nurses' Health Study to examine whether pre-diagnostic plasma carotenoid levels were associated with fatal breast cancer risk over 30 years. Women in the highest quintile of total carotenoids had a 48% lower risk of lethal breast cancer compared to those in the lowest quintile (HR=0.52), while high \u03b2-carotene was associated with a 41% lower risk. The protective association for \u03b2-carotene was strongest in postmenopausal women.",
+      "why_it_matters": "Suggests that carotenoid-rich diets \u2014 think carrots, sweet potatoes, and leafy greens \u2014 may be associated not just with lower breast cancer incidence but with reduced risk of the most fatal forms of the disease.",
+      "caveats": "observational design, single-center, self-reported dietary intake",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Nutrition-cancer link, large N, but outside core gut/microbiome scope.",
+      "relevance_score_reason": "Strong human data and diet angle, but breast cancer \u2014 not gut health \u2014 focus.",
       "pitch_angles": [
         {
           "publication_type": "Prevention / General health",
-          "headline": "Eating More Colorful Vegetables Before a Breast Cancer Diagnosis May Cut Your Risk of Dying From It Nearly in Half",
-          "hook": "A study of nearly 6,000 women found that those with the highest blood levels of plant pigments called carotenoids were 48% less likely to develop lethal breast cancer.",
-          "pitch_angle": "Researchers measured carotenoids in stored blood samples taken before any diagnosis, then tracked which women went on to die of breast cancer \u2014 finding a striking dose-response relationship. The finding raises questions about whether nutrition in the years before diagnosis shapes cancer's ultimate trajectory, not just whether it occurs."
+          "headline": "Eating More Carotenoid-Rich Foods Before a Breast Cancer Diagnosis May Cut the Risk of a Fatal Outcome Nearly in Half",
+          "hook": "Women with the highest blood levels of carotenoids \u2014 the pigments in carrots, sweet potatoes, and leafy greens \u2014 were nearly 50% less likely to die from breast cancer, a 30-year study suggests.",
+          "pitch_angle": "A Harvard-led analysis of nearly 6,000 women found that higher pre-diagnostic carotenoid levels were strongly associated with lower risk of lethal breast cancer, not just getting the disease in the first place. The finding raises the possibility that diet in the years before diagnosis could influence whether breast cancer turns fatal \u2014 a question with major implications for prevention messaging."
         }
       ],
-      "run_date": "2026-09-10",
+      "run_date": "2026-09-11",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710429",
+      "headline": "Scientists are engineering gut bacteria to act like precision drugs \u2014 and the first human trials are underway",
+      "journal": "Current Opinion in Microbiology",
+      "pubdate": "2026 Sep 8",
+      "doi": "10.1016/j.mib.2026.102826",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review from Leibniz Institute researchers examines the emerging field of synthetic biology applied to Lactobacillus, mapping how genetic engineering tools are being used to transform common probiotic bacteria into targeted therapeutic agents. The review covers candidates currently in clinical evaluation and outlines major technical hurdles including limited genetic toolkits, strain-to-strain variability, and safety uncertainties around engineered strains. Key finding: while engineered lactobacilli hold significant promise over wild-type probiotics \u2014 which often lack target specificity and produce variable clinical results \u2014 substantial obstacles remain before these 'living medicines' reach clinical practice.",
+      "why_it_matters": "Engineered probiotic bacteria moving into human clinical trials signals a potential shift from one-size-fits-all supplements toward precision gut therapies tailored to specific diseases.",
+      "caveats": "review article (no original data), no clinical outcome data from trials reported, early-stage translational science",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Strong topic fit; probiotics and microbiome therapeutics; review limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired",
+          "headline": "The Next Generation of Probiotics Won't Be Found in a Yogurt Cup \u2014 They'll Be Engineered in a Lab",
+          "hook": "Scientists are rewriting the DNA of gut bacteria to turn them into precision drug-delivery machines, and the first human trials are already underway.",
+          "pitch_angle": "Synthetic biology researchers are engineering Lactobacillus \u2014 the same bacteria in your yogurt \u2014 to produce targeted therapeutics inside the gut, potentially replacing blunt-force probiotic supplements with programmable living medicines. The first engineered strains are entering clinical trials, but major hurdles around genetic stability and safety still stand between the lab and the pharmacy shelf."
+        },
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Probiotic Industry Sold Us Wild-Type Bacteria. Science Is Now Building Something Far More Powerful.",
+          "hook": "Decades of probiotic hype may have been premature \u2014 but now researchers are engineering gut bacteria with the kind of precision that could finally make the promise real.",
+          "pitch_angle": "A new wave of synthetic biology is transforming Lactobacillus from a loosely regulated supplement ingredient into an engineered therapeutic agent designed to hit specific disease targets in the gut. With clinical trials beginning, the gap between probiotic marketing and actual medicine may be closing \u2014 but questions about safety, strain variability, and long-term stability remain unresolved."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42703161",
+      "headline": "Wheat bran's underused fiber fraction can be upcycled into snacks with a lower predicted glycemic index \u2014 but the crunch takes a hit",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep 7",
+      "doi": "10.1002/jsfa.71033",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Italian and Estonian food scientists incorporated an arabinoxylan (AX)-enriched fraction from durum wheat milling by-products into pea starch concentrate at 0\u201325% levels, then extruded the blends into snacks; this was a food-science study with no human subjects. Higher AX inclusion improved predicted glycemic index and added fiber from a normally discarded milling stream, but also dramatically increased hardness (from ~2,300 g to ~9,600 g) and reduced expansion and crispness \u2014 sensory attributes that affect consumer acceptance. Sensory panelists noted wholegrain-typical flavors (roasty, bitter, astringent) without off-odors.",
+      "why_it_matters": "Finding palatable ways to incorporate high-fiber milling by-products into everyday snack foods could help close the dietary fiber gap while reducing food-system waste.",
+      "caveats": "animal or cell study, in vitro/food-science study only, no human subjects, predicted (not measured) glycemic index, no gut microbiome or clinical outcome data, single-center",
+      "fact_check_note": "The abstract reports a 'predicted' glycemic index, not one measured in human subjects \u2014 this distinction is noted in the summary.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Fiber and food-tech relevance; no human or microbiome data limits gut-health applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "The Wheat Bran Scrap That Could Make Your Snacks Actually Good for Your Gut",
+          "hook": "A fiber-rich fraction that normally ends up as milling waste could quietly boost the nutritional profile of everyday extruded snacks \u2014 if food engineers can solve the texture problem.",
+          "pitch_angle": "Arabinoxylans, the prebiotic fiber abundant in wheat bran, have long been linked to gut microbiome benefits, but most of it is discarded during flour production; this study shows it can be reincorporated into pea-based snacks at levels that lower predicted glycemic response. The catch is that the snacks get noticeably harder and less crispy as fiber goes up \u2014 meaning the industry's next challenge is engineering the gut-healthy snack that people actually want to eat."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42700816",
+      "headline": "Too much iron in infancy may scramble gut stem cells and skew intestinal development, rat study finds",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Sep 5",
+      "doi": "10.1016/j.tjnut.2026.101817",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers gave suckling rats (aged 2 days) escalating iron doses \u2014 10 to 100 mg Fe/kg body weight/day \u2014 for 13 days, then examined jejunal tissue for structural changes and gene expression in the Wnt/\u03b2-catenin and Notch signaling pathways; this was an animal study with no human subjects. At 50\u2013100 mg/kg, high iron significantly reduced villus height, suppressed intestinal stem cell (ISC) proliferation, and shifted ISC differentiation away from absorptive enterocytes (\u221239%) toward secretory goblet and endocrine cells (+57% and +13%, respectively). The findings suggest excessive iron intake during the suckling period disrupts the gut's cellular architecture through Wnt and Notch pathway suppression.",
+      "why_it_matters": "The results raise early-stage questions about optimal iron supplementation levels in infant formula and early feeding, given that gut development during the suckling window may be especially sensitive to iron overload.",
+      "caveats": "animal or cell study, rat model (suckling period only), doses tested exceed typical infant supplementation levels, no human data, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mechanistically interesting infant-gut finding, but animal-only with supratherapeutic doses.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "Can Babies Get Too Much Iron? New Animal Research Suggests the Infant Gut Is Surprisingly Vulnerable",
+          "hook": "Iron is routinely added to infant formula as a nutritional essential \u2014 but a new rat study suggests the immature gut may be far more sensitive to iron overload than previously understood.",
+          "pitch_angle": "At high doses, excess iron suppressed intestinal stem cell growth and disrupted how the gut lining develops \u2014 shifting it toward mucus-secreting cells and away from the absorptive cells needed to process nutrients. While the doses studied exceed typical supplementation levels and the research is in rats, the findings add to a growing scientific conversation about whether the iron content of infant formula is calibrated correctly for long-term gut health."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42697874",
+      "headline": "Red yeast rice powder gives plant-based meat a convincing beef-red color \u2014 no synthetic dyes needed",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep 4",
+      "doi": "10.1002/jsfa.71030",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers added red yeast rice powder (RYRP) at 0\u20137% concentrations to high-moisture textured vegetable protein to test its effect on color, structure, and antioxidant properties; this was an in vitro/food-science study with no human subjects. At 5% addition, RYRP produced redness values close to fresh beef tenderloin, remained color-stable during heating and frozen storage, and boosted in vitro antioxidant activity dose-dependently. However, low concentrations (1%) loosened protein structure, while higher levels (3%+) promoted a more compact, ordered fibrous texture.",
+      "why_it_matters": "A natural, stable colorant that mimics beef's redness without synthetic additives could meaningfully improve consumer acceptance of plant-based meat products.",
+      "caveats": "animal or cell study, in vitro antioxidant data only (no human bioavailability), single-center, no clinical outcomes",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Food-tech interest but no human data and limited direct gut-health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / General health",
+          "headline": "The Ancient Red Ingredient That Could Make Plant-Based Burgers Finally Look Like Beef",
+          "hook": "Red yeast rice \u2014 the same fermented grain used in traditional Chinese medicine \u2014 may solve plant-based meat's biggest visual problem: it doesn't look like real beef.",
+          "pitch_angle": "Lab tests found that adding red yeast rice powder to textured plant protein produced a redness nearly identical to fresh beef tenderloin, with no synthetic dyes. For consumers still put off by the gray look of some meat alternatives, this natural fix could quietly reshape the category."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42697415",
+      "headline": "Sticking to the Mediterranean diet for 15 years is linked to half the risk of developing rheumatoid arthritis",
+      "journal": "The American Journal of Clinical Nutrition",
+      "pubdate": "2026 Sep 4",
+      "doi": "10.1016/j.ajcnut.2026.101511",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers followed 15,874 Spanish university graduates free of immune-mediated inflammatory disease for a median of 15.1 years in the SUN Project cohort, repeatedly measuring adherence to the Mediterranean diet via validated food-frequency questionnaires. High adherence to the Mediterranean diet was associated with a 47% lower risk of developing rheumatoid arthritis (HR=0.53) compared to low adherence, with lower meat intake and higher fruit and nut intake emerging as the strongest individual food contributors. No significant association was found between Mediterranean diet adherence and psoriasis risk.",
+      "why_it_matters": "Suggests that a whole dietary pattern \u2014 not just individual nutrients \u2014 sustained over years may substantially lower the risk of a debilitating autoimmune disease, with implications for dietary guidance around inflammation.",
+      "caveats": "observational design, self-reported dietary intake, single-center",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large human cohort, strong diet-autoimmune finding; no microbiome or gut mechanism data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Prevention",
+          "headline": "Following the Mediterranean Diet for Years Could Cut Your Rheumatoid Arthritis Risk in Half, a 15-Year Study Suggests",
+          "hook": "People who consistently ate a Mediterranean diet over more than a decade were nearly 50% less likely to develop rheumatoid arthritis, a large prospective study found.",
+          "pitch_angle": "The 20-year SUN Project cohort study found that high long-term Mediterranean diet adherence \u2014 rich in fruits, nuts, vegetables, and olive oil, and lower in red meat \u2014 was inversely associated with developing rheumatoid arthritis, one of the most common autoimmune diseases. The finding adds to growing evidence that sustained dietary patterns, rather than short-term food choices, may be a meaningful lever against autoimmune inflammation."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42723572",
+      "headline": "Yogurt and labneh linked to less severe acne in young people \u2014 but regular milk shows the opposite pattern",
+      "journal": "Journal of the American Nutrition Association",
+      "pubdate": "2026 Sep 11",
+      "doi": "10.1080/27697061.2026.2725655",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a clinic-based cross-sectional study of 423 Jordanian youth (mean age 20.2 years) presenting to dermatology clinics, researchers assessed acne severity using the Global Acne Severity Scale alongside structured dietary and lifestyle interviews. In an exploratory post hoc analysis, regular consumption of fermented dairy products \u2014 yogurt (aOR=0.65) and labneh (aOR=0.63) \u2014 was inversely associated with moderate-to-severe acne, while non-fermented milk was positively associated (aOR=1.37). Fast food, sweets, poor sleep, and psychological stress were also associated with greater acne severity, while fruit, vegetables, and exercise showed inverse associations.",
+      "why_it_matters": "Raises the hypothesis that fermented dairy \u2014 unlike regular milk \u2014 may have a different relationship with skin inflammation, potentially pointing to a gut-skin axis angle worth exploring in prospective studies.",
+      "caveats": "small sample (N<100 per dairy subgroup), observational design, single-center, self-reported dietary intake, short follow-up, post hoc exploratory analysis",
+      "fact_check_note": "The dairy subtype analysis was explicitly a post hoc exploratory analysis, not a pre-specified hypothesis \u2014 this distinction should be prominent in any coverage.",
+      "relevance_score": 6,
+      "relevance_score_reason": "Fermented food angle with gut-skin axis hook; heavily caveated post hoc finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Healthline",
+          "headline": "Yogurt May Be Better for Your Skin Than Regular Milk \u2014 At Least When It Comes to Acne",
+          "hook": "A new study found that young people who regularly ate yogurt and labneh had significantly lower odds of moderate-to-severe acne \u2014 while those who drank non-fermented milk showed the opposite pattern.",
+          "pitch_angle": "The cross-sectional study of 423 young adults in Jordan found that fermented dairy products were associated with less severe acne, while regular milk tracked with worse breakouts \u2014 a split that researchers say may point to the gut microbiome as a potential player in skin inflammation. The findings are exploratory and need confirmation, but they add a nuanced wrinkle to the long-running conversation about dairy and acne."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42720301",
+      "headline": "A powerful 'detect anything' sequencing test can't get FDA approval because the rules weren't written for it",
+      "journal": "Journal of Clinical Microbiology",
+      "pubdate": "2026 Sep 10",
+      "doi": "10.1128/jcm.00987-26",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This mini-review examines why metagenomic next-generation sequencing (mNGS) \u2014 a technology that can simultaneously detect bacteria, viruses, fungi, and parasites from a single clinical specimen \u2014 faces steep regulatory barriers despite its diagnostic power. The authors, representing academic medical centers and the American Society for Microbiology, synthesize validation and regulatory challenges, including the mismatch between FDA frameworks designed for single-pathogen tests and mNGS's agnostic, all-at-once detection approach. They argue for modular, component-based oversight separating reagents, instruments, software, and databases rather than organism-by-organism validation.",
+      "why_it_matters": "Patients with undiagnosed infections \u2014 including rare gut and digestive pathogens \u2014 may be missing out on a technology that could identify the culprit in a single test, largely because regulatory frameworks haven't kept pace with the science.",
+      "caveats": "review article (no original data), no clinical outcomes measured, regulatory landscape is US-centric",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Regulatory/diagnostics focus; minimal direct gut health or dietary relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Wired / science-technology",
+          "headline": "The Most Powerful Infection Test Ever Made Is Stuck in Regulatory Limbo",
+          "hook": "A single sequencing test can detect virtually any pathogen in the human body \u2014 but the FDA doesn't have a framework to approve it.",
+          "pitch_angle": "Metagenomic next-generation sequencing can identify bacteria, viruses, fungi, and parasites all at once from one specimen, yet it remains accessible only at a handful of specialty labs because regulators still evaluate diagnostics one organism at a time. This piece would explore the collision between a rapidly evolving technology and a regulatory system built for a slower era of single-pathogen testing."
+        }
+      ],
+      "run_date": "2026-09-11",
+      "category": "Microbiology",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -226,33 +502,6 @@
       "status": "new"
     },
     {
-      "pmid": "42697874",
-      "headline": "Red Yeast Rice Gives Plant-Based Meat a More Beef-Like Color \u2014 but the Safety Angle Is Complicated",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Sep 4",
-      "doi": "10.1002/jsfa.71030",
-      "groundbreaking": "",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Chinese food scientists tested red yeast rice powder (RYRP) at concentrations of 0\u20137% as a natural colorant in high-moisture textured vegetable protein, the base of many plant-based meat products. At 5% addition, the color of the product most closely resembled fresh beef tenderloin in redness, and the color remained stable under heat and frozen storage. Higher concentrations also increased in vitro antioxidant activity, though low concentrations (1%) loosened the protein structure, while 3% produced a more ordered, compact fibrous texture.",
-      "why_it_matters": "As plant-based meat producers search for natural alternatives to heme-derived color, red yeast rice powder's dual role as colorant and structural modifier suggests it could address one of the category's most persistent consumer complaints \u2014 appearance \u2014 though its regulatory status and monacolin K content would need careful consideration for any commercial application.",
-      "caveats": "animal or cell study, in vitro testing only (no human subjects), antioxidant data is in vitro only, single-center",
-      "fact_check_note": "Red yeast rice contains monacolin K (a statin-like compound) which has regulatory implications in several markets; this context is absent from the abstract but relevant for any coverage framing this as a simple 'natural colorant.'",
-      "relevance_score": 4,
-      "relevance_score_reason": "Plant-based food innovation with no human or microbiome data; moderate diet relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired / The Atlantic",
-          "headline": "The Quest to Make Fake Meat Look Real Just Got a Complicated New Answer",
-          "hook": "Red yeast rice powder can give plant-based meat a convincingly beefy red hue \u2014 but the ingredient carries a regulatory history that makes it anything but simple.",
-          "pitch_angle": "Lab tests show red yeast rice powder at 5% concentration mimics the redness of fresh beef tenderloin in plant-based protein products, solving a persistent aesthetic problem for the category. But red yeast rice contains a naturally occurring statin compound with a fraught regulatory history in the US and EU, adding a wrinkle to what might otherwise seem like a clean-label win."
-        }
-      ],
-      "run_date": "2026-09-10",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42693590",
       "headline": "A redesigned drainage catheter makes a painful liver-disease procedure faster, more reliable, and more tolerable for patients",
       "journal": "Journal of Gastroenterology and Hepatology",
@@ -357,39 +606,6 @@
       ],
       "run_date": "2026-09-09",
       "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42710429",
-      "headline": "Scientists are genetically rewiring gut-friendly Lactobacillus bacteria to act as precision drug factories inside the body",
-      "journal": "Current Opinion in Microbiology",
-      "pubdate": "2026 Sep 8",
-      "doi": "10.1016/j.mib.2026.102826",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers reviewed the current state of synthetic biology tools being applied to Lactobacillus species \u2014 common probiotic bacteria \u2014 to engineer them for targeted therapeutic functions such as drug delivery, with a focus on candidates currently in clinical evaluation. The review examines technical barriers including limited genetic toolkits, strain-to-strain variability, and safety uncertainties around engineered strains. Key finding: while engineered lactobacilli show strong promise as living medicines, significant scientific and regulatory hurdles remain before they are ready for routine clinical use.",
-      "why_it_matters": "This work suggests that the next generation of probiotics may not come from a yogurt cup but from a bioengineering lab \u2014 with bacteria programmed to detect and respond to disease signals in real time inside the gut.",
-      "caveats": "review article (no original data), no clinical outcomes reported, animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Strong microbiome/probiotic topic fit; review only, no clinical outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Wired",
-          "headline": "The Next Probiotic Isn't a Supplement \u2014 It's a Genetically Engineered Bacterium",
-          "hook": "Scientists are programming Lactobacillus bacteria like tiny computers, giving them instructions to produce drugs, detect disease, and respond to conditions inside your gut.",
-          "pitch_angle": "Synthetic biology is moving probiotics beyond 'generally beneficial' into precision medicine territory, with engineered strains now entering early clinical trials. The science is early and the hurdles are real \u2014 but the vision of swallowing a living, programmable therapeutic is closer than most people realize."
-        },
-        {
-          "publication_type": "The Atlantic",
-          "headline": "What If Your Probiotic Could Be Programmed to Treat Disease?",
-          "hook": "The bacteria in your gut are increasingly seen not just as health allies but as biological platforms \u2014 and scientists are starting to rewrite their code.",
-          "pitch_angle": "A new review maps the emerging field of engineered Lactobacillus therapeutics, where gut-native bacteria are rewired to deliver drugs or dampen inflammation on command. It raises big questions about the future of medicine, consent, and what it means to alter the living ecosystem inside our bodies."
-        }
-      ],
-      "run_date": "2026-09-09",
-      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
