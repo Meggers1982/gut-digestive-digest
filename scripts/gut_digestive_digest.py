@@ -411,7 +411,7 @@ Abstract: {s['abstract']}
 
     prompt = f"""You are a science writer and editor for a Gut & Digestive Health Research Digest, writing for a journalist audience covering gastroenterology, the gut microbiome, digestive disease, nutrition science, and microbiology as it relates to human health.
 
-Your readers pitch to publications like Well+Good, Healthline, Wired, The Atlantic, Outside Magazine, Prevention, and science-forward outlets covering gut health, the microbiome, and nutrition.
+Your readers pitch to publications like EatingWell, Well+Good, Healthline, Health.com, Everyday Health, Verywell Health, Women's Health Magazine, Prevention, The Atlantic, Gastroenterology & Endoscopy News, and science-forward outlets covering gut health, the microbiome, and nutrition.
 
 For each study below, return a single JSON array. Each object must have exactly these keys:
 
@@ -431,7 +431,7 @@ For each study below, return a single JSON array. Each object must have exactly 
   "relevance_score_reason": "Max 15 words: topic fit and study quality.",
   "pitch_angles": [
     {{
-      "publication_type": "e.g. Well+Good / Healthline / Wired / The Atlantic / Prevention / Outside / General health",
+      "publication_type": "e.g. EatingWell / Well+Good / Healthline / Health.com / Everyday Health / Verywell Health / Women's Health / Prevention / The Atlantic / Gastroenterology & Endoscopy News / General health",
       "headline": "Publication-appropriate headline",
       "hook": "One sentence opening leading with the surprising or significant finding",
       "pitch_angle": "2 sentences max: what happened, why it matters for gut health or diet, broader lifestyle or scientific significance"
@@ -441,7 +441,7 @@ For each study below, return a single JSON array. Each object must have exactly 
 
 Rules for pitch_angles:
 - Generate ONE pitch angle if the study fits one obvious publication type
-- Generate MULTIPLE angles (2-3 max) only when the study genuinely fits different audiences with meaningfully different framings — e.g. a microbiome-diet study could pitch differently to Well+Good (lifestyle/wellness angle) vs Wired (science/technology angle) vs The Atlantic (cultural/food system angle)
+- Generate MULTIPLE angles (2-3 max) only when the study genuinely fits different audiences with meaningfully different framings — e.g. a microbiome-diet study could pitch differently to Well+Good (lifestyle/wellness angle) vs EatingWell (what-to-eat angle) vs The Atlantic (cultural/food system angle)
 - Do not pad with extra angles if one covers it
 
 Rules for content:

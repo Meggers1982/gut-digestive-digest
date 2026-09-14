@@ -17,7 +17,7 @@ A GitHub Actions workflow that searches curated gastroenterology, the gut microb
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as EatingWell, Well+Good, Healthline, Prevention, Gastroenterology & Endoscopy News, and general health outlets
+- Expandable pitch angles section for publications such as EatingWell, Well+Good, Healthline, Health.com, Everyday Health, Verywell Health, Women's Health Magazine, Prevention, The Atlantic, Gastroenterology & Endoscopy News, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage
