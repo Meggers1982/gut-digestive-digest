@@ -33,11 +33,38 @@ Can also be triggered manually via **Actions -> Gut & Digestive Health Research 
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Gastroenterology | 85 | 2 (chunks 1-2) |
+| Gastroenterology | 91 | 2 (chunks 1-2) |
 | Nutritional Sciences | 62 | 2 (chunks 1-2) |
 | Microbiology | 121 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+Every row in a category CSV is searched with no topic filter, so adding a journal brings its entire weekly output into the digest. The CSVs in `data/` are now hand-maintained: `scripts/extract_journals.py` built them from a source workbook that no longer exists, and re-running it would wipe hand-added rows.
+
+## Journal list audit (2026-09-14)
+
+Method: pulled OpenAlex's top sources for this digest's subject areas (gastroenterology, nutrition, microbiology) over the prior year, diffed them against the three CSVs by ISSN and title, and kept only titles that PubMed indexes with recent articles. Each survivor was then checked for beat fit, English-language research content, and volume (at least 20 PubMed articles a year).
+
+Added to `Gastroenterology.csv` (6):
+
+| Journal | ISSN | PubMed articles/yr |
+|---|---|---:|
+| Journal of Hepatocellular Carcinoma | 2253-5969 | 276 |
+| Hepatology Research | 1872-034X | 267 |
+| Liver Cancer | 1664-5553 | 125 |
+| Journal of Neurogastroenterology and Motility | 2093-0887 | 77 |
+| iLIVER | 2772-9478 | 43 |
+| Canadian Liver Journal | 2561-4444 | 31 |
+
+The two liver-cancer titles sit alongside the existing GI-oncology rows (Gastric Cancer, Clinical Colorectal Cancer). None of the additions are currently MEDLINE-indexed; all reach PubMed through PMC.
+
+Left out:
+- **Sexually Transmitted Diseases** - off-beat (OpenAlex lumped it in via microbiology).
+- **Cereal Chemistry, Journal of Cereal Science, Starch - Stärke** - food science, off-beat; also 0-1 PubMed articles a year.
+- **Portal Hypertension & Cirrhosis** - in-beat but only 2 PubMed articles in the past year.
+- **Not usable because PubMed doesn't carry them:** Sexually Transmitted Infections, Journal of Water Sanitation and Hygiene for Development, Egyptian Liver Journal, and Hepatoma Research (0 PubMed articles in the past year); Clínicas de gastroenterología de México (both editions), World Nutrition, and a Korean food-service journal (not in NCBI's journal list).
+
+No mega-journals turned up among the candidates. Gastroenterology grew by about 7%, so the workflow chunking is unchanged.
 
 ## Manual Trigger
 
