@@ -39,7 +39,7 @@ Can also be triggered manually via **Actions -> Gut & Digestive Health Research 
 
 Large categories are split into chunks to keep run times under 20 minutes.
 
-Every row in a category CSV is searched with no topic filter, so adding a journal brings its entire weekly output into the digest. The CSVs in `data/` are now hand-maintained: `scripts/extract_journals.py` built them from a source workbook that no longer exists, and re-running it would wipe hand-added rows.
+Every row in a category CSV is searched with no topic filter, so adding a journal brings its entire weekly output into the digest. The CSVs in `data/` are now hand-maintained: they were built by `scripts/extract_journals.py` from a source workbook that no longer exists, so the script has been deleted.
 
 ## Journal list audit (2026-09-14)
 
@@ -101,7 +101,6 @@ Add these in **Settings -> Secrets and variables -> Actions**:
 scripts/
   gut_digestive_digest.py
   merge_results.py
-  extract_journals.py
 data/
   Gastroenterology.csv
   Nutritional Sciences.csv
