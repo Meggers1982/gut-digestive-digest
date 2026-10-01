@@ -1,8 +1,290 @@
 {
-  "last_updated": "2026-09-29T17:00:48.298334+00:00",
-  "total_studies": 364,
-  "new_this_run": 6,
+  "last_updated": "2026-10-01T17:05:15.923887+00:00",
+  "total_studies": 369,
+  "new_this_run": 5,
   "studies": [
+    {
+      "pmid": "42813817",
+      "headline": "A newly discovered bacterial protein variant may help antibiotic-resistance genes spread more widely through the gut",
+      "journal": "Microbiology Spectrum",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1128/spectrum.01825-26",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers identified a novel type IV pilus tip adhesin variant called PilV-E on IncI2 plasmids \u2014 the primary vehicles for spreading the colistin-resistance gene mcr-1 \u2014 and found it in 25% of complete IncI2 plasmids in public databases. In lab (in vitro) experiments, bacterial strains carrying PilV-E showed significantly increased biofilm formation, adhesion to human intestinal (Caco-2) cells, and conjugative transfer efficiency compared to control strains. The findings suggest PilV-E is a previously overlooked driver of how last-resort antibiotic resistance spreads among clinically important gut bacteria.",
+      "why_it_matters": "Understanding the molecular machinery that spreads colistin resistance \u2014 a last-line antibiotic defense \u2014 through gut bacteria could eventually inform strategies to slow the global rise of untreatable infections.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), preprint",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Antimicrobial resistance with gut adhesion angle; cell study only, no clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / Gastroenterology & Endoscopy News",
+          "headline": "A Hidden Protein Variant Is Quietly Spreading Antibiotic Resistance Through Gut Bacteria",
+          "hook": "A newly characterized bacterial protein found on a quarter of the plasmids carrying a last-resort-antibiotic resistance gene turns out to be surprisingly good at helping that gene jump between gut bacteria.",
+          "pitch_angle": "Scientists have identified PilV-E, a previously overlooked surface protein that helps bacteria carrying the colistin-resistance gene mcr-1 stick to human intestinal cells and transfer resistance genes more efficiently \u2014 raising fresh concerns about how untreatable infections spread within the gut microbiome."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42802379",
+      "headline": "Fermenting Seeds Could Unlock Hidden Nutrients and Cut the Antinutrients That Disrupt Digestion",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "pubdate": "2026 Sep 27",
+      "doi": "10.1002/jsfa.71121",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This systematic review examines the biotechnological mechanisms by which fermentation transforms oilseeds (such as soybeans, peanuts, and flaxseed) and their by-products, covering macronutrient and micronutrient changes, reduction of antinutritional factors, and generation of bioactive peptides. No original human or animal data were collected; the review synthesizes existing literature. Key findings suggest fermentation improves digestibility, enhances antioxidant activity, and reduces compounds like phytates and tannins that can impair nutrient absorption.",
+      "why_it_matters": "For readers interested in fermented foods and gut health, this review consolidates evidence that traditional oilseed fermentation may meaningfully improve the nutritional profile and digestive compatibility of plant-based protein sources.",
+      "caveats": "review article (no original data), microbiome data only (no clinical outcomes), animal or cell study data included in reviewed literature",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Fermented foods angle is strong; review design and no clinical outcomes limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / EatingWell",
+          "headline": "Your Favorite Fermented Foods Might Be Even More Nutritious Than You Think \u2014 Here's the Science",
+          "hook": "Fermenting oilseeds like soybeans and peanuts doesn't just add flavor \u2014 it may strip out the compounds that block your body from absorbing their nutrients.",
+          "pitch_angle": "A new review finds that fermentation fundamentally restructures the nutrient profile of oilseeds, reducing antinutritional factors like phytates while generating bioactive peptides linked to antioxidant activity. For readers already reaching for miso, tempeh, or fermented nut products, this is early but compelling evidence that the process itself matters as much as the ingredient."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42785553",
+      "headline": "More than half of children with intestinal failure on long-term IV nutrition have hidden feeding difficulties that standard tools miss",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1016/j.clnesp.2026.105137",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a cross-sectional study of 51 children (ages 6 months to 18 years) with intestinal failure receiving prolonged parenteral nutrition at a Brazilian hospital, researchers applied three standardized feeding assessment tools \u2014 ASHA-NOMS, MCH-FS, and SOMA \u2014 to evaluate feeding difficulties. More than half (52.9%) of participants showed feeding abnormalities on at least one instrument, with rates varying by tool and significantly higher rates of abnormalities detected in children under 36 months by the SOMA instrument. The findings suggest that using multiple complementary assessment tools captures a substantially broader picture of feeding impairment than any single instrument alone.",
+      "why_it_matters": "For children with intestinal failure, undetected feeding difficulties may delay the critical transition off parenteral nutrition \u2014 and this study suggests that clinicians relying on a single assessment tool may be missing more than half of affected kids.",
+      "caveats": "small sample (N<100), cross-sectional design, single-center, Brazil-specific pediatric cohort",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Pediatric intestinal failure is niche but clinically important; human data, modest N.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Over Half of Children With Intestinal Failure Have Feeding Difficulties That Single Assessment Tools Fail to Catch",
+          "hook": "A new cross-sectional study found that more than 52% of children with intestinal failure on prolonged parenteral nutrition had identifiable feeding abnormalities \u2014 but only when clinicians used multiple assessment instruments.",
+          "pitch_angle": "Researchers applied three standardized feeding evaluation tools to 51 pediatric intestinal failure patients and found that no single tool captured the full burden of feeding impairment, with the SOMA instrument uniquely identifying higher rates of abnormality in children under 36 months; the findings argue for a multi-instrument screening approach to guide the notoriously difficult transition from parenteral to enteral nutrition in this fragile population."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42782478",
+      "headline": "Natural Peptides From Your Own Immune System Could Help Fight the World's Most Drug-Resistant Typhoid Bug",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1007/s12602-026-11214-4",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This PRISMA-guided systematic review synthesized preclinical evidence on antimicrobial peptides (AMPs) \u2014 including human defensins, cathelicidins, and synthetic variants \u2014 tested against extensively drug-resistant Salmonella enterica serovar Typhi, the bacteria that causes typhoid fever. The review covered in vitro and in vivo (non-human) studies only, with no human clinical trials included. Multiple AMPs showed bactericidal activity against drug-resistant S. typhi strains, but stability, toxicity, and drug-delivery barriers remain significant hurdles to clinical use.",
+      "why_it_matters": "As extensively drug-resistant typhoid spreads globally, this review suggests that peptides derived from the human innate immune system could offer a new treatment pathway \u2014 though clinical evidence in humans is still absent.",
+      "caveats": "animal or cell study, no clinical outcomes in humans, preprint",
+      "fact_check_note": "The study is described as a review, not a primary clinical trial; all efficacy data cited are preclinical (in vitro or in vivo animal models). No human clinical trial data are included.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Relevant AMR topic but review of preclinical data only; no gut health dietary angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / The Atlantic",
+          "headline": "The Next Antibiotic Might Already Be Inside You \u2014 If Scientists Can Figure Out How to Use It",
+          "hook": "As drug-resistant typhoid spreads to new continents, researchers are turning to the human body's own immune molecules for answers.",
+          "pitch_angle": "A new systematic review finds that antimicrobial peptides \u2014 tiny proteins that form a frontline defense in human innate immunity \u2014 can kill extensively drug-resistant Salmonella Typhi in lab and animal settings, but manufacturing and delivery challenges have stalled their path to the clinic. With typhoid infecting roughly 11 million people a year and resistance to last-resort antibiotics rising, the race to translate these natural compounds into treatments is accelerating."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42812529",
+      "headline": "A newly discovered oxygen sensor found overexpressed in liver cancer may explain why some tumors resist immunotherapy \u2014 and respond better to sorafenib",
+      "journal": "Journal of Hepatocellular Carcinoma",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.2147/JHC.S637010",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a pan-cancer bioinformatic analysis of ADO (2-aminoethanethiol dioxygenase), a recently identified oxygen sensor, using TCGA, GTEx, ICGC, and GEO databases, supplemented by functional experiments in hepatocellular carcinoma (HCC) cell lines and mouse xenograft models. ADO was consistently overexpressed in HCC, associated with advanced stage, poor tumor differentiation, and worse survival across multiple independent cohorts. In vitro and in vivo experiments showed ADO overexpression promoted tumor cell proliferation via ERK signaling and upregulated immunosuppressive markers, while ADO depletion suppressed tumor growth.",
+      "why_it_matters": "Early evidence suggests this newly characterized oxygen sensor could serve as both a prognostic marker for liver cancer and a predictor of immunotherapy resistance \u2014 findings that, if validated in clinical trials, could help oncologists better match HCC patients to treatments.",
+      "caveats": "animal or cell study (functional validation), observational bioinformatic design (human cohort data), no clinical trial data, prediction-based drug sensitivity (not experimentally confirmed in patients)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Translational HCC study with cell/animal validation; no human clinical outcome data, limits pitchability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Pan-Cancer Analysis Identifies ADO Oxygen Sensor as Potential HCC Prognostic Biomarker Linked to Immunotherapy Resistance",
+          "hook": "A newly characterized oxygen-sensing enzyme \u2014 previously overlooked in cancer biology \u2014 may help explain why a subset of hepatocellular carcinoma tumors evade checkpoint immunotherapy.",
+          "pitch_angle": "Multi-cohort bioinformatic analyses found ADO consistently overexpressed in HCC and associated with advanced disease and poor outcomes, while functional experiments in cell lines and xenografts confirmed its role in promoting tumor proliferation through ERK signaling and upregulation of CD276, an immune checkpoint ligand. ADO-high tumors showed computationally predicted reduced responsiveness to checkpoint blockade but increased sensitivity to sorafenib \u2014 a distinction that, if validated clinically, could have meaningful implications for HCC treatment sequencing."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42748406",
+      "headline": "A massive liver-cell gene map pinpoints the molecular drivers turning fatty liver disease into scarring \u2014 and flags new drug targets",
+      "journal": "Hepatology Communications",
+      "pubdate": "2026 Sep 16",
+      "doi": "10.1097/HC9.0000000000000991",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed a meta-analysis of liver transcriptomic data from approximately 1,000 patients with metabolic dysfunction-associated steatotic liver disease (MASLD), integrating bulk RNA sequencing and single-cell RNA sequencing deconvolution across multiple independent cohorts. The study identified 846 genes consistently associated with advanced fibrosis (F3\u20134 vs. F0\u20131), revealing conserved pathways in matrix remodeling, inflammation, solute transport, and metabolism. Key cell-level findings included loss of liver sinusoidal endothelial cells and expansion of myofibroblasts and immune cells in advanced disease, with specific ligand-receptor pairs (e.g., PDGFD-PDGFRA, MMP7-CDH6) flagged as potential therapeutic targets.",
+      "why_it_matters": "Identifying the molecular signals consistently present across thousands of fatty liver patients \u2014 regardless of which cohort they came from \u2014 gives researchers a much more reliable shortlist of targets for anti-fibrotic drugs, potentially accelerating treatments for one of the world's most common progressive liver diseases.",
+      "caveats": "observational design, no clinical intervention, transcriptomic data only (no drug or dietary outcomes), multiple industry consulting conflicts among senior authors",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large human cohort (~1,000), MASLD fibrosis focus, strong translational relevance, no clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "Scientists Just Built the Largest Molecular Map of Fatty Liver Scarring \u2014 Here's What They Found",
+          "hook": "Fatty liver disease affects roughly one in three adults worldwide, but why some people's livers scar and others don't has remained stubbornly unclear \u2014 until now.",
+          "pitch_angle": "By pooling gene-expression data from roughly 1,000 liver-disease patients across multiple countries, researchers identified 846 genes and a handful of cell-communication signals consistently linked to liver scarring \u2014 a finding that could finally give drug developers a reliable list of targets to pursue. The study matters because MASLD is the fastest-growing cause of liver transplants globally, and treatments have lagged badly behind understanding of the disease."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Meta-Analysis of ~1,000 MASLD Patients Reveals Conserved Fibrogenic Gene Networks and Putative Therapeutic Targets",
+          "hook": "Interstudy heterogeneity has long frustrated efforts to identify reproducible fibrogenic mechanisms in MASLD \u2014 a new cross-cohort transcriptomic meta-analysis may finally resolve that.",
+          "pitch_angle": "Integrating bulk and single-cell RNA sequencing data across multiple independent cohorts, researchers identified 846 differentially expressed genes in F3\u2013F4 versus F0\u2013F1 fibrosis, with conserved ligand-receptor pairs including PDGFD-PDGFRA and MMP7-CDH6 emerging as candidate anti-fibrotic targets. The findings offer a reproducibility-tested molecular roadmap for mechanistic studies and drug development in advanced MASLD."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42447378",
+      "headline": "More Than a Third of Eosinophilic Esophagitis Patients Have Hidden Strictures Doctors Aren't Targeting \u2014 And They're Often Higher Up in the Throat",
+      "journal": "Journal of Clinical Gastroenterology",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/MCG.0000000000002423",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective cohort study of 189 adults with eosinophilic esophagitis (EoE) who underwent esophageal dilation over one year at a single center. They found that 37% of patients experienced an unexpected dilation effect \u2014 meaning the esophagus stretched or tore in an area other than the clinically targeted site. These unintended dilation events were disproportionately located at the upper esophageal sphincter (58% vs. 8% in the expected group) and proximal esophagus (35% vs. 13%), suggesting EoE-related strictures are far more multifocal than standard endoscopy detects.",
+      "why_it_matters": "The finding suggests that current standard-of-care endoscopy may be missing clinically significant strictures higher in the esophagus in EoE patients \u2014 raising questions about whether dilation techniques need to routinely target the full length of the esophagus.",
+      "caveats": "retrospective design, single-center, small sample (N=189 but just under threshold for robust generalizability), self-reported symptom history",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive clinical finding in EoE; solid N, clean retrospective cohort design.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "EoE Dilation Reveals Hidden Proximal Strictures in 37% of Patients \u2014 Challenging Standard Targeting Practice",
+          "hook": "More than one in three patients undergoing esophageal dilation for eosinophilic esophagitis had strictures in locations their doctors weren't even looking at.",
+          "pitch_angle": "A retrospective study of 189 EoE patients found that unexpected dilation effects \u2014 predominantly at the upper esophageal sphincter and proximal esophagus \u2014 occurred in 37% of cases, areas standard endoscopy routinely misses. The authors suggest that dilation protocols should shift toward treating the entire esophageal length rather than only the visually identified site."
+        },
+        {
+          "publication_type": "Everyday Health / Verywell Health",
+          "headline": "If You Have Eosinophilic Esophagitis, Your Doctor May Be Missing Strictures Higher in Your Throat",
+          "hook": "A new study found that over a third of people with EoE who underwent a common esophageal procedure had narrowing in parts of the esophagus that weren't on their doctor's radar.",
+          "pitch_angle": "Researchers reviewing 189 esophageal dilation procedures found that 37% of EoE patients had undetected strictures near the top of the esophagus or at the upper esophageal sphincter \u2014 areas current standard endoscopy tends to underdiagnose. For the millions living with EoE and swallowing difficulties, the finding suggests current procedural approaches may be leaving part of the problem untreated."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42365546",
+      "headline": "Genetic testing now identifies a cause in more than half of patients with a rare cystic liver disease \u2014 and estrogen exposure shapes how bad it gets",
+      "journal": "Digestive Diseases and Sciences",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s10620-026-10072-y",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 55 consecutive patients with isolated hepatic ductal plate malformation (DPM) \u2014 a spectrum of rare liver structural disorders that does not involve polycystic kidney disease \u2014 using next-generation sequencing at a single UK center. Pathogenic or likely pathogenic genetic variants were identified in 31 of 54 genetically analyzed patients (~57%), with polycystic liver disease most commonly linked to variants in SEC63, PRKCSH, and GANAB; five novel variants were discovered. Among polycystic liver disease patients, prior estrogen exposure (e.g., from oral contraceptives or hormone therapy) was associated with cyst complications.",
+      "why_it_matters": "For the estimated tens of thousands of people living with unexplained cystic liver conditions, this study suggests that current genetic testing can now identify a cause in the majority of cases \u2014 and that hormone exposure history may be a meaningful clinical risk factor worth discussing with patients.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Rare disease, small single-center cohort, limited everyday relevance; novel variants and estrogen finding are noteworthy.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "NGS Identifies Pathogenic Variants in >57% of Isolated Hepatic Ductal Plate Malformation Patients, Implicates Estrogen in Cyst Complications",
+          "hook": "For a disease spectrum long defined by unclear genetics, a new single-center cohort study suggests next-generation sequencing can now explain the majority of isolated hepatic DPM cases.",
+          "pitch_angle": "In 54 genetically analyzed patients, pathogenic or likely pathogenic variants were found in 57%, with SEC63, PRKCSH, and GANAB accounting for most polycystic liver disease cases and PKHD1 exclusively driving congenital hepatic fibrosis; five novel variants were identified. A clinical signal linking prior estrogen exposure to cyst complications in PCLD patients adds a potentially actionable dimension to patient counseling, though the small, single-center, retrospective design warrants replication."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42671072",
+      "headline": "Standard Hospital Tests Are Missing a Drug-Resistant Superbug Half the Time",
+      "journal": "MicrobiologyOpen",
+      "pubdate": "2026 Oct",
+      "doi": "10.1002/mbo3.70393",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers characterized a novel vancomycin-resistant Enterococcus faecium (VREfm) clone (ST117/CT7799) responsible for a prolonged hospital outbreak in southeastern Austria (N=31 patients), using whole-genome sequencing alongside standard diagnostic testing. Standard broth microdilution detected vancomycin resistance in only 52% of isolates at 24 hours, and gradient tests and disk diffusion misclassified all isolates; only VITEK2 automated testing correctly identified all cases. The findings suggest widely used clinical diagnostic algorithms have a serious gap in detecting this emerging VREfm lineage.",
+      "why_it_matters": "A drug-resistant hospital pathogen that standard lab tests routinely miss raises urgent questions about how many VRE infections may be going undetected \u2014 and untreated \u2014 in healthcare settings worldwide.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically alarming diagnostic gap finding; limited gut health or diet angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News / General health",
+          "headline": "A Dangerous Hospital Superbug Is Evading Standard Lab Detection \u2014 Here's What Clinicians Need to Know",
+          "hook": "A novel vancomycin-resistant Enterococcus faecium clone spreading through Austrian hospitals is slipping past the diagnostic tests clinicians rely on most.",
+          "pitch_angle": "Standard susceptibility tests \u2014 including disk diffusion and gradient strips \u2014 missed this resistant pathogen in virtually every case, while only one automated platform (VITEK2) reliably flagged it. With gut-dwelling Enterococcus species a leading cause of hospital-acquired infections in immunocompromised and post-surgical patients, this diagnostic blind spot has direct implications for gastroenterology units and infection control teams."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710386",
+      "headline": "A 'vicious cycle' of iron overload and oxidative stress may drive fatty liver disease \u2014 and diet could break it",
+      "journal": "Nutrition Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Heilongjiang University of Chinese Medicine conducted a systematic review of the mechanisms linking oxidative stress and iron dysmetabolism in metabolic dysfunction-associated fatty liver disease (MAFLD), and summarized dietary intervention strategies targeting this axis. The review is not a clinical trial but a narrative synthesis of existing evidence on dietary patterns, bioactive compounds, nutrients, and probiotics. It proposes that the mutual reinforcement of reactive oxygen species and iron overload \u2014 activating ferroptosis and inflammatory signaling \u2014 is a central driver of MAFLD progression, and that specific dietary approaches may interrupt this cycle.",
+      "why_it_matters": "With MAFLD affecting roughly one in four adults globally and few approved treatments, the idea that targeted dietary strategies could interrupt a specific oxidative-iron pathway offers a mechanistic rationale for future diet-based interventions.",
+      "caveats": "review article (no original clinical data), single-center authorship, animal or cell study evidence predominates in underlying literature, no clinical outcomes measured",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Review only, no original human data; MAFLD-diet angle has broad appeal but limited new evidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / Everyday Health",
+          "headline": "Fatty Liver Disease May Have a Hidden Driver \u2014 and Your Diet Could Target It",
+          "hook": "A new review suggests that an iron-and-oxidative-stress feedback loop in the liver may be a key \u2014 and overlooked \u2014 engine of fatty liver disease.",
+          "pitch_angle": "Researchers propose that excess iron and damaging free radicals reinforce each other in a destructive cycle that accelerates MAFLD; early evidence suggests certain dietary patterns, bioactive compounds, and probiotics may help interrupt this loop, though human clinical trials are still needed to confirm these effects."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
     {
       "pmid": "42806457",
       "headline": "Alcohol-Related Pancreatitis Predicts Liver Disease Better Than Withdrawal Symptoms Do",
@@ -33,33 +315,6 @@
       ],
       "run_date": "2026-09-29",
       "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42802379",
-      "headline": "Fermenting oilseeds like soy and sunflower may unlock hidden nutrients and gut-friendly compounds",
-      "journal": "Journal of the Science of Food and Agriculture",
-      "pubdate": "2026 Sep 27",
-      "doi": "10.1002/jsfa.71121",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This systematic review examines how microbial fermentation transforms oilseeds (such as soy, sunflower, and peanut) and their by-products, covering the mechanisms by which fermentation reduces anti-nutritional factors, improves digestibility, enhances antioxidant activity, and generates bioactive peptides. The review is not a primary human or animal study but a narrative synthesis of existing literature. Key findings suggest fermentation can substantially alter macronutrient and micronutrient profiles and produce functional compounds with potential health relevance.",
-      "why_it_matters": "Early evidence suggests that fermented oilseed foods may offer superior digestibility and bioactive compounds compared to unfermented versions, which could have implications for gut health and functional food development.",
-      "caveats": "review article (not primary study), microbiome data only (no clinical outcomes), no human RCT data synthesized, most underlying studies are animal or in vitro",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Review with fermented foods angle but no primary human data or clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / EatingWell",
-          "headline": "Fermented Oilseeds Like Soy and Sunflower Seeds May Be the Next Frontier in Gut-Friendly Foods",
-          "hook": "Fermentation doesn't just work on dairy and cabbage \u2014 early research suggests it may unlock hidden nutrients and digestive benefits in oilseeds like soy, sesame, and sunflower.",
-          "pitch_angle": "A new review maps how microbial fermentation transforms oilseeds \u2014 reducing compounds that block nutrient absorption and generating bioactive peptides \u2014 suggesting these fermented foods could be a promising area for functional food development, though human clinical trials are still needed."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Nutritional Sciences",
       "chunk": "1/2",
       "status": "new"
     },
@@ -153,60 +408,6 @@
       ],
       "run_date": "2026-09-29",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42785553",
-      "headline": "More than half of children on long-term IV nutrition show hidden feeding difficulties \u2014 and standard tools miss many of them",
-      "journal": "Clinical Nutrition ESPEN",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1016/j.clnesp.2026.105137",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers used three complementary feeding assessment tools in a cross-sectional study of 51 children (ages 6 months\u201318 years) with intestinal failure receiving prolonged parenteral nutrition at a Brazilian hospital. Over half (52.9%) showed feeding abnormalities by at least one instrument, but no single tool caught all cases \u2014 the oral motor tool identified significantly more abnormalities in children under 36 months. The findings suggest that relying on just one assessment instrument likely underestimates feeding difficulties in this population.",
-      "why_it_matters": "For children dependent on IV nutrition, undetected feeding difficulties may delay the transition to eating by mouth \u2014 a critical step toward improved long-term health and quality of life.",
-      "caveats": "small sample (N<100), observational design, single-center",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Niche pediatric GI topic; small single-center study; limited diet/microbiome angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Single Feeding Assessment Tools Miss Half of Oral Difficulties in Pediatric Intestinal Failure Patients",
-          "hook": "More than half of children on prolonged parenteral nutrition have feeding abnormalities \u2014 and no single clinical tool catches them all.",
-          "pitch_angle": "A cross-sectional study of 51 pediatric intestinal failure patients found that combining three feeding assessment instruments revealed substantially more cases of oral feeding difficulty than any tool used alone, particularly in children under three. The finding suggests that multi-tool screening protocols may be essential for identifying which children can realistically transition off IV nutrition."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42782478",
-      "headline": "Natural antimicrobial peptides from the immune system may offer a new weapon against drug-resistant typhoid",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Sep 24",
-      "doi": "10.1007/s12602-026-11214-4",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a PRISMA-guided systematic review of antimicrobial peptides (AMPs) \u2014 including human \u03b2-defensins, cathelicidins, and synthetic variants \u2014 evaluated against multidrug-resistant Salmonella enterica serovar Typhi. The review synthesized preclinical (in vitro and in vivo) findings, not a human clinical trial. Multiple AMPs showed potent activity against drug-resistant S. typhi, but stability, toxicity, and delivery barriers currently prevent clinical use.",
-      "why_it_matters": "As conventional antibiotics lose effectiveness against typhoid, compounds rooted in the body's own innate immune defenses suggest a potentially resistance-proof alternative treatment pathway.",
-      "caveats": "animal or cell study, no human clinical trial data, review article (no original data), preclinical stage only",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Antimicrobial/infectious disease review; no human clinical outcomes, no diet or microbiome angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News / General health",
-          "headline": "The Body's Own Antimicrobial Peptides Could Be the Next Line of Defense Against Drug-Resistant Typhoid",
-          "hook": "As extensively drug-resistant typhoid spreads globally, researchers are turning to molecules already produced by the human immune system as a potential alternative to failing antibiotics.",
-          "pitch_angle": "A new systematic review finds that antimicrobial peptides \u2014 including defensins naturally secreted in the gut \u2014 show strong preclinical activity against drug-resistant Salmonella Typhi, though significant hurdles in stability and delivery remain before clinical use is possible."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
@@ -1267,39 +1468,6 @@
       "run_date": "2026-09-23",
       "category": "Gastroenterology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42748406",
-      "headline": "Scientists map the molecular blueprint of liver scarring in fatty liver disease \u2014 and find consistent targets across nearly 1,000 patients",
-      "journal": "Hepatology Communications",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.1097/HC9.0000000000000991",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a comprehensive meta-analysis of liver gene expression data from approximately 1,000 patients with metabolic dysfunction-associated steatotic liver disease (MASLD), comparing those with advanced fibrosis (F3\u2013F4) to those with minimal fibrosis (F0\u2013F1). They identified 846 consistently dysregulated genes involved in matrix organization, inflammation, solute transport, and metabolism, and used single-cell RNA sequencing deconvolution to show that advanced fibrosis is associated with increased immune and mesenchymal cell types and loss of liver sinusoidal endothelial cells. The study also pinpointed specific cell-to-cell signaling interactions \u2014 including PDGFD-PDGFRA and ANXA1-FPR1 \u2014 that appear conserved across multiple datasets and may represent tractable anti-fibrotic drug targets.",
-      "why_it_matters": "Identifying conserved molecular signals across nearly 1,000 patients with fatty liver disease brings researchers closer to developing drugs that could slow or stop liver scarring \u2014 a key driver of progression to cirrhosis \u2014 in one of the world's fastest-growing liver conditions.",
-      "caveats": "observational design, no dietary or microbiome data, industry funding [multiple \u2014 Chalasani: Madrigal, Zydus, GSK, Altimmune, Insitro, Biomea Fusion, J&J, Akero; Romeo: AstraZeneca, GSK, Celgene, Amgen, Sanofi, Novartis, Chiesi]",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Large human cohort, MASLD relevance high, but no dietary/microbiome angle and industry ties.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Fatty Liver Disease Is Exploding Worldwide. Scientists Just Mapped the Molecular Scars It Leaves Behind.",
-          "hook": "Across nearly 1,000 patients with fatty liver disease, researchers found the same molecular distress signals driving the scarring that kills \u2014 a discovery that suggests the liver's path to failure may be more predictable than we thought.",
-          "pitch_angle": "A new meta-analysis identified nearly 850 genes consistently dysregulated as fatty liver disease advances to dangerous scarring, pointing toward drug targets that could work across the diverse patients now being diagnosed with MASLD. As fatty liver disease becomes a leading cause of liver transplant and liver cancer globally, understanding the shared biology of its worst progression is essential to preventing the next wave of cirrhosis."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Meta-Analysis of ~1,000 MASLD Patients Identifies Conserved Fibrogenic Gene Networks and Candidate Anti-Fibrotic Targets",
-          "hook": "A large transcriptomic meta-analysis has cut through interstudy noise to reveal the molecular machinery consistently driving liver fibrosis in MASLD \u2014 and flagged specific ligand-receptor pairs as potential intervention points.",
-          "pitch_angle": "By harmonizing hepatic RNA data from approximately 1,000 patients across multiple cohorts, researchers identified 846 differentially expressed genes and cell-signaling interactions \u2014 including PDGFD-PDGFRA and MMP7-CDH6 \u2014 that appear conserved across datasets and enriched in advanced fibrosis. The findings provide a prioritized target list for anti-fibrotic drug development at a moment when MASLD-related cirrhosis is becoming a dominant driver of liver disease burden."
-        }
-      ],
-      "run_date": "2026-09-23",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -8832,33 +9000,6 @@
       ],
       "run_date": "2026-07-07",
       "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42365546",
-      "headline": "Genetic sequencing reveals five previously unknown variants behind a rare liver cyst disease \u2014 and estrogen exposure worsens outcomes",
-      "journal": "Digestive diseases and sciences",
-      "pubdate": "2026 Jun 28",
-      "doi": "10.1007/s10620-026-10072-y",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers retrospectively analyzed 55 patients with isolated hepatic ductal plate malformation (DPM) \u2014 liver cyst and fibrosis disorders without concurrent polycystic kidney disease \u2014 using next-generation sequencing at a single UK center. Pathogenic or likely pathogenic variants were identified in 31 of 54 genetically analyzed patients, predominantly in SEC63, PRKCSH, and GANAB genes. Five novel variants were discovered, and prior estrogen exposure was associated with cyst complications in polycystic liver disease patients.",
-      "why_it_matters": "Identifying the genetic basis of rare liver cyst disorders could improve diagnostic accuracy and risk stratification, particularly for the 78% of patients in this cohort who were women.",
-      "caveats": "small sample (N<100), single-center, observational design, retrospective",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Rare disease genetics; limited diet, microbiome, or broad gut health relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Healthline",
-          "headline": "A Rare Liver Disease Affects Mostly Women \u2014 New Research Points to Why, and to New Genetic Clues",
-          "hook": "A genetic analysis of patients with a rare liver cyst disorder found that 78% were women, and that prior estrogen exposure was associated with more severe disease complications.",
-          "pitch_angle": "UK researchers used next-generation sequencing to characterize the genetic landscape of isolated hepatic ductal plate malformation, identifying five previously unknown disease-causing variants and linking estrogen exposure to worse outcomes in polycystic liver disease. The findings suggest that current genetic testing can now explain disease in more than half of patients, opening the door to more personalized management of these uncommon but potentially serious liver conditions."
-        }
-      ],
-      "run_date": "2026-06-29",
-      "category": "Gastroenterology",
       "chunk": "2/2",
       "status": "new"
     },
