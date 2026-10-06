@@ -1,32 +1,581 @@
 {
-  "last_updated": "2026-10-05T19:19:13.157413+00:00",
-  "total_studies": 382,
-  "new_this_run": 2,
+  "last_updated": "2026-10-06T16:48:15.228027+00:00",
+  "total_studies": 391,
+  "new_this_run": 9,
   "studies": [
     {
+      "pmid": "42815592",
+      "headline": "A 24-year-old's severe fatty liver disease had nothing to do with alcohol or genetics \u2014 doctors found a rare unexpected cause",
+      "journal": "Gastroenterology",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1053/j.gastro.2026.09.020",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Clinicians at a Nanjing, China hospital describe a 24-year-old obese male (BMI 37.4) who presented with severe steatohepatitis discovered incidentally on routine imaging; the patient denied alcohol use, drug use, and had no family history of liver or metabolic disease. Imaging revealed heterogeneous liver echotexture with diffuse nodular hyperechoic areas initially mistaken for cirrhosis or nodular fatty infiltration, alongside mild splenomegaly. The case report documents an unexpected underlying cause of the steatohepatitis distinct from the common metabolic or alcohol-related etiologies.",
+      "why_it_matters": "This case highlights that severe fatty liver disease in young people may have overlooked or atypical causes beyond obesity, alcohol, and genetics \u2014 a reminder for clinicians and patients not to assume a straightforward metabolic explanation.",
+      "caveats": "small sample (N<100), single-center, case report (N=1), animal or cell study",
+      "fact_check_note": "The abstract does not reveal what the 'unexpected cause' actually was \u2014 it is a clinical vignette/image challenge format; the headline and summary appropriately hedge without fabricating the diagnosis.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Single case report; no dietary or microbiome data; limited generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Case Report: Severe Steatohepatitis in a Young Male Reveals Atypical Etiology Beyond Metabolic Risk Factors",
+          "hook": "A young obese patient with no alcohol history, no family history, and no drug use presented with imaging findings initially consistent with cirrhosis \u2014 but the cause turned out to be unexpected.",
+          "pitch_angle": "This case vignette from a Chinese hospital underscores that severe steatohepatitis in young patients may not always fit neatly into MASLD or ALD categories, prompting clinicians to broaden their diagnostic workup when common explanations don't hold."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42822183",
-      "headline": "Four previously unknown bacteria living in healthy human guts have finally been cultured and named",
+      "headline": "Scientists discovered four previously unknown bacterial species living in the human gut \u2014 and they all produce short-chain fatty acids",
       "journal": "Systematic and Applied Microbiology",
       "pubdate": "2026 Sep 29",
       "doi": "10.1016/j.syapm.2026.126773",
       "groundbreaking": "First-in-class human study",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in China isolated and cultured four novel anaerobic bacterial strains from the feces of healthy Chinese adults, using 16S rRNA gene sequencing, whole-genome comparisons (ANI, AAI, dDDH), and metabolic profiling to formally describe two new genera and two new species within the families Clostridiaceae, Lachnospiraceae, and Oscillospiraceae. All four strains produced short-chain fatty acids (SCFAs) and showed distinct carbon utilization profiles. The findings expand the catalog of cultured human gut bacteria in three of the gut microbiome's most functionally important but poorly characterized families.",
-      "why_it_matters": "Lachnospiraceae and Oscillospiraceae are repeatedly linked to gut health and metabolic function in microbiome research, yet most members have never been grown in a lab \u2014 culturing and naming these bacteria is a necessary step before their roles in human health can be properly studied.",
-      "caveats": "small sample (N<100), microbiome data only (no clinical outcomes), single-center, observational design",
+      "summary": "Researchers isolated and characterized four novel anaerobic bacterial strains from the feces of healthy Chinese adults, using 16S rRNA gene sequencing, genomic comparisons (ANI, AAI, dDDH), and metabolic profiling. The four strains \u2014 spanning families Clostridiaceae, Lachnospiraceae, and Oscillospiraceae \u2014 were sufficiently distinct from known species to warrant designation as new species or genera. All four strains produced short-chain fatty acids (SCFAs) and showed distinct carbon utilization profiles, suggesting potential functional roles in gut metabolism.",
+      "why_it_matters": "Adding newly cultured, SCFA-producing bacteria to the known human gut microbiome catalog gives researchers new tools to study how specific gut microbes contribute to metabolic health \u2014 findings that could eventually inform probiotic development.",
+      "caveats": "small sample (N<100), microbiome data only (no clinical outcomes), single-center, animal or cell study",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Novel human gut bacteria with SCFA production; purely taxonomic, no clinical outcomes.",
+      "relevance_score_reason": "Novel human gut bacteria producing SCFAs; taxonomic discovery only, no clinical outcomes.",
       "pitch_angles": [
         {
-          "publication_type": "Well+Good / Healthline",
-          "headline": "Scientists Just Discovered Four New Types of Bacteria Living in Healthy Human Guts",
-          "hook": "Four bacteria that have been living in human intestines all along were just officially discovered, cultured, and named for the first time.",
-          "pitch_angle": "The newly described species belong to gut microbial families already associated with digestive and metabolic health, and all four produce short-chain fatty acids \u2014 the compounds gut bacteria make when they ferment fiber that are linked to reduced inflammation and a healthier gut lining. Formally culturing and naming them is the critical first step toward understanding what they actually do."
+          "publication_type": "Well+Good / General health",
+          "headline": "Your Gut Microbiome Just Got Four New Members \u2014 and Scientists Are Only Beginning to Understand Them",
+          "hook": "Four bacterial species previously unknown to science have been found living in the human gut \u2014 and all of them produce compounds linked to metabolic health.",
+          "pitch_angle": "Chinese researchers cultured and formally described four new gut bacterial species from human feces, all of which produce short-chain fatty acids \u2014 the metabolites credited with supporting gut barrier integrity, immune regulation, and metabolic function. While no clinical outcomes were measured, the discovery expands the known map of the human gut microbiome and provides new strains for future probiotic and mechanistic research."
         }
       ],
-      "run_date": "2026-10-05",
+      "run_date": "2026-10-06",
       "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42832111",
+      "headline": "A virus pulled from horse-stable sewage can destroy drug-resistant gut bacteria and rescue mice from sepsis",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Oct 5",
+      "doi": "10.1007/s12602-026-11218-0",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated a novel bacteriophage (PEX) from horse-stable sewage and tested it against multidrug-resistant (MDR) Enterococcus strains from both human and animal sources in vitro and in a mouse peritonitis sepsis model. PEX showed broad lytic activity across multiple Enterococcus species, significantly disrupted established biofilms, and reduced bacterial dissemination and organ damage in mice. The phage contained no virulence, antibiotic resistance, or lysogeny-related genes, supporting its safety profile as a potential therapeutic candidate.",
+      "why_it_matters": "As multidrug-resistant Enterococcus infections become harder to treat with conventional antibiotics, this early-stage phage therapy research suggests that viruses found in agricultural environments could eventually offer a new tool against dangerous gut and bloodstream infections.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, no human clinical data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Phage therapy angle is timely but evidence is animal/in vitro only; no human outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Could Viruses From a Horse Barn Be the Next Weapon Against Superbugs?",
+          "hook": "A bacteriophage pulled from horse-stable wastewater wiped out drug-resistant Enterococcus bacteria and protected mice from a deadly bloodstream infection.",
+          "pitch_angle": "The study adds to growing evidence that phage therapy \u2014 using viruses that target specific bacteria \u2014 could fill critical gaps left by failing antibiotics, particularly for Enterococcus, a pathogen that colonizes the human gut and can turn deadly in hospital patients. Results are still animal-stage, but the phage's broad activity against both human and animal strains underscores its One Health significance."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42833303",
+      "headline": "A new Spanish-language diet screener captures cultural foods that standard tools miss \u2014 and it could change how Hispanic adults get nutrition care",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pubdate": "2026 Oct 5",
+      "doi": "10.1016/j.jand.2026.156896",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed and assessed the content validity of SABE (\u00bfSABE Lo Que Come?), a culturally adapted Spanish-language dietary screener for U.S. Hispanic/Latino adults, based on the Penn Healthy Diet screening instrument. In a cross-sectional mixed-methods study, 25 bilingual Hispanic/Latino adults rated 35 screener items on clarity and relevance; four items were revised after failing content validity thresholds, and participant comments drove culturally appropriate modifications including replacing unfamiliar terms. After revisions, the final SABE tool achieved strong content validity scores (Scale-CVI 0.865 for clarity, 0.969 for relevance).",
+      "why_it_matters": "Hispanic and Latino adults face elevated cardiovascular disease risk, and the absence of culturally validated dietary assessment tools in Spanish has created a gap in both clinical care and nutrition research for this population.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported dietary intake, cross-sectional, convenience sampling",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Addresses clear clinical gap in dietary assessment equity; very small pilot sample limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com",
+          "headline": "A New Diet Quiz Was Designed Specifically for Hispanic and Latino Adults \u2014 and It Captures Foods Others Miss",
+          "hook": "Standard diet screeners often miss the cultural foods central to Hispanic and Latino eating patterns \u2014 a new Spanish-language tool aims to fix that.",
+          "pitch_angle": "Researchers validated SABE, a brief dietary screening questionnaire designed for use in clinical and research settings with Hispanic/Latino adults, finding it achieved strong content validity after culturally specific revisions. The tool is designed to support cardiovascular disease prevention efforts in a population that has historically been underserved by English-language, culturally generic nutrition assessment tools."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Validated Spanish-Language Dietary Screener Fills Cultural Gap in CVD and Nutrition Risk Assessment",
+          "hook": "A new culturally adapted dietary screener for U.S. Hispanic/Latino patients achieved strong content validity after addressing the failure of existing tools to capture traditional foods.",
+          "pitch_angle": "The SABE instrument, derived from the Penn Healthy Diet screening tool and validated in a pilot sample of 25 bilingual Hispanic/Latino adults, offers clinicians a brief, culturally appropriate way to assess dietary patterns linked to cardiovascular and metabolic disease risk. While the sample is small and further criterion validation is needed, the tool addresses a documented measurement gap that may contribute to health disparities in this population."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42829277",
+      "headline": "Three leading Crohn's biologics perform equally well at one year \u2014 but anti-TNF drugs normalize inflammation markers faster",
+      "journal": "Digestive and Liver Disease",
+      "pubdate": "2026 Oct 3",
+      "doi": "10.1016/j.dld.2026.09.009",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a retrospective real-world cohort study of 448 biologic-na\u00efve adults with Crohn's disease at two Israeli IBD centers, researchers compared clinical outcomes at 12\u201316 weeks and 48\u201352 weeks for patients treated first-line with anti-TNF agents, vedolizumab, or ustekinumab, using inverse probability of treatment weighting to adjust for confounding. Clinical response, corticosteroid-free remission, treatment persistence, hospitalizations, and safety did not differ significantly among the three drug classes at one year. Anti-TNF agents achieved faster biomarker normalization at 12\u201316 weeks (aOR 2.51 vs. the other two combined), but this advantage disappeared by 52 weeks.",
+      "why_it_matters": "The finding that all three major biologic classes perform similarly at one year suggests Crohn's disease patients and their doctors may have more flexibility in choosing a first-line therapy based on individual factors like safety profile and convenience rather than assumed efficacy differences.",
+      "caveats": "observational design, retrospective, single-center equivalent (two tertiary IBD centers, same country), small sample (N<500 but N=448 borderline), industry funding [AbbVie, Janssen, Takeda, Eli Lilly, Pfizer, Roche]",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Real-world IBD treatment comparison, human data, counterintuitive equality finding; strong Crohn's topic fit.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Real-World Data: Anti-TNF, Vedolizumab, and Ustekinumab Show Comparable 52-Week Outcomes as First-Line Crohn's Therapy",
+          "hook": "Despite longstanding assumptions that anti-TNF agents offer a faster and stronger response in Crohn's disease, a real-world study suggests all three major biologic classes land at roughly the same place by one year.",
+          "pitch_angle": "Among 448 biologic-na\u00efve Crohn's patients, anti-TNF drugs normalized inflammatory biomarkers faster at 12\u201316 weeks, but that early advantage did not translate into better clinical remission, persistence, or fewer hospitalizations at 52 weeks compared with vedolizumab or ustekinumab. The findings, adjusted for treatment selection bias via IPTW, support individualized biologic selection based on patient-specific factors rather than assumed class superiority."
+        },
+        {
+          "publication_type": "Everyday Health / Verywell Health",
+          "headline": "If You Have Crohn's Disease, Your Doctor Has More Flexibility in Choosing Your First Biologic Than You Might Think",
+          "hook": "A new real-world study found that three very different Crohn's disease drugs \u2014 often assumed to have different potencies \u2014 performed about equally well after one year of treatment.",
+          "pitch_angle": "Researchers tracked 448 patients starting a biologic for the first time and found no meaningful differences in remission rates, hospitalization risk, or treatment persistence at one year among anti-TNF drugs, vedolizumab, and ustekinumab. That suggests the choice of first biologic may reasonably hinge on individual factors like side-effect profiles, dosing convenience, and insurance coverage rather than one drug being clearly more effective than another."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42825548",
+      "headline": "Climate change may be breeding a new era of deadly fungal infections \u2014 and Candida auris is just the beginning",
+      "journal": "mSphere",
+      "pubdate": "2026 Oct 2",
+      "doi": "10.1128/msphere.00109-26",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at the University of W\u00fcrzburg reviewed the evolutionary biology, ecology, and clinical significance of Candida auris, a multidrug-resistant fungal pathogen that emerged independently on multiple continents. The review argues that two converging trends \u2014 rising environmental temperatures due to climate change and a documented decline in human basal body temperature \u2014 are eroding the thermal barrier that normally protects mammals from fungal infection. C. auris, which thrives at 37\u00b0C and tolerates up to 47\u00b0C, may represent the first of many fungi adapting to breach this defense, with mortality rates of 30\u201360% in invasive infections.",
+      "why_it_matters": "The emergence of C. auris as a multidrug-resistant, heat-adapted fungal pathogen suggests that climate change could reshape the landscape of infectious disease in ways that threaten hospital patients and immunocompromised individuals worldwide.",
+      "caveats": "animal or cell study, review article (no original human data), speculative framework",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Compelling public health angle but no original human data; review/commentary format.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Fungus Among Us: Why Climate Change Could Usher In a New Age of Deadly Infections",
+          "hook": "Candida auris kills up to 60% of infected patients \u2014 and scientists think it's a preview of what happens when rising temperatures let fungi breach the body's thermal defenses.",
+          "pitch_angle": "A new scientific review argues that C. auris arose simultaneously on multiple continents because climate change is warming environments to temperatures once lethal to most fungi \u2014 and a parallel decline in human body temperature is shrinking the gap from the other side. If this framework holds, C. auris may be only the first of many fungi evolving to infect humans."
+        },
+        {
+          "publication_type": "General health",
+          "headline": "Your Body Temperature Is a Shield Against Fungal Infections \u2014 Climate Change Is Lowering Both",
+          "hook": "Scientists say the reason fungi rarely infect healthy humans is that our bodies run too hot for them \u2014 but that firewall is eroding from two directions at once.",
+          "pitch_angle": "A review in mSphere explains how Candida auris, a drug-resistant fungal pathogen with up to 60% mortality, exploited rising global temperatures to evolve on multiple continents simultaneously \u2014 and warns it may be the first of many such pathogens to emerge as the climate and human physiology shift in tandem."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42259124",
+      "headline": "A food-contaminating bacteria strain in China carries a new hybrid 'superbug' plasmid resistant to eight antibiotics at once",
+      "journal": "International Journal of Food Microbiology",
+      "pubdate": "2026 Oct 2",
+      "doi": "10.1016/j.ijfoodmicro.2026.111888",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers characterized a novel hybrid multidrug resistance plasmid (pLM466-3) found in a foodborne Listeria monocytogenes strain isolated in China, using whole genome sequencing and conjugation experiments (single strain, laboratory study). The 95.7 kb plasmid carried resistance genes against eight antibiotic classes including trimethoprim/sulfamethoxazole, erythromycin, tetracycline, and chloramphenicol, and appears to have formed by recombination of two known plasmids. While the plasmid's resistance gene cluster could form translocatable units capable of spreading via circular intermediates, conjugation experiments found it did not successfully transfer resistance to other bacterial species tested.",
+      "why_it_matters": "The discovery of a novel hybrid multidrug-resistance plasmid in a common foodborne pathogen suggests that antibiotic-resistant Listeria strains may be accumulating resistance through plasmid recombination \u2014 a pattern that warrants closer surveillance of the food supply.",
+      "caveats": "animal or cell study, single-center, single isolate characterized",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Antimicrobial resistance in food pathogen; no human clinical or dietary outcomes; lab study only.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News / General health",
+          "headline": "A Listeria Strain Found in Food Carries a New 8-Drug Resistance Plasmid \u2014 and It Assembled Itself",
+          "hook": "A single Listeria strain pulled off a genetic maneuver that gave it resistance to eight antibiotic classes at once \u2014 by fusing two known plasmids into something new.",
+          "pitch_angle": "Chinese researchers identified a novel hybrid plasmid in a foodborne Listeria isolate that confers resistance to eight antibiotic classes, assembled through recombination of two existing plasmids. The finding raises questions about how quickly foodborne pathogens can accumulate multidrug resistance without transferring genes to other species, and underscores calls for One Health surveillance across food production systems."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42832927",
+      "headline": "A Bacillus subtilis strain found in the lab suppresses a dangerous gut pathogen \u2014 but only in pig cells so far",
+      "journal": "Microbiological Research",
+      "pubdate": "2026 Oct 2",
+      "doi": "10.1016/j.micres.2026.128743",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated and characterized a novel Bacillus subtilis strain (L5) in vitro, testing it against Clostridium perfringens \u2014 a pathogen that causes enteric disease in both livestock and humans \u2014 using pig intestinal epithelial cells (IPEC-J2) and genomic/metabolomic profiling. L5 inhibited C. perfringens growth, reduced expression of its toxin-producing genes (plc and netB), and upregulated gut barrier integrity genes while suppressing inflammation markers in cell assays. The strain also showed tolerance to low pH and high salt, properties relevant to survival through the digestive tract.",
+      "why_it_matters": "This early evidence suggests a probiotic Bacillus strain may help counter a pathogen responsible for food poisoning and intestinal disease in both animals and humans, potentially pointing toward antibiotic-free interventions for enteric illness.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center, in vitro only (pig intestinal cell line), efficacy in poultry and humans unvalidated",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Probiotic-pathogen angle has gut relevance, but purely cell-based with no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News / General health",
+          "headline": "Lab-Grown Bacillus Probiotic Disarms a Dangerous Gut Pathogen \u2014 In Pig Cells, At Least",
+          "hook": "A newly characterized Bacillus subtilis strain suppressed Clostridium perfringens toxin genes and strengthened gut barrier integrity in intestinal cell assays \u2014 raising early questions about probiotic alternatives to antibiotics for enteric disease.",
+          "pitch_angle": "Researchers found that B. subtilis L5 inhibited C. perfringens proliferation and reduced its toxin-producing gene expression in vitro, while also upregulating tight junction genes in pig intestinal cells. Though entirely preclinical, the work is part of a growing effort to find antibiotic-free strategies against enteric pathogens that affect both livestock and humans."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42748406",
+      "headline": "Scientists map the gene networks driving liver scarring in fatty liver disease \u2014 and find surprising immune and vascular players",
+      "journal": "Hepatology Communications",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/HC9.0000000000000991",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed a meta-analysis of hepatic gene expression data from ~1,000 patients with metabolic dysfunction-associated steatotic liver disease (MASLD), comparing those with advanced fibrosis (F3-4) to early-stage disease (F0-1). The analysis identified 846 consistently dysregulated genes and implicated immune cells (CD4+ T cells), myofibroblasts, and loss of specialized liver endothelial cells as key drivers of scarring. Several ligand-receptor signaling pairs \u2014 including PDGFD-PDGFRA and ANXA1-FPR1 \u2014 emerged as conserved targets potentially relevant to anti-fibrotic drug development.",
+      "why_it_matters": "Identifying consistent gene networks across multiple patient cohorts could help researchers pinpoint drug targets to slow or prevent liver scarring in the rapidly growing population with fatty liver disease.",
+      "caveats": "observational design, microbiome data only (no clinical outcomes), secondary analysis, industry funding [AstraZeneca, Genentech, Intercept]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Mechanistic liver-fibrosis genomics; limited direct diet/gut/microbiome angle for this audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Meta-Analysis of 1,000 MASLD Patients Pinpoints Conserved Gene Networks and Novel Drug Targets in Advanced Liver Fibrosis",
+          "hook": "A cross-cohort analysis of nearly 1,000 fatty liver disease patients has identified consistent molecular signatures of advanced scarring \u2014 including immune and vascular cell changes that could guide the next generation of anti-fibrotic therapies.",
+          "pitch_angle": "Researchers pooled transcriptomic data from multiple MASLD cohorts and identified 846 genes and several ligand-receptor pairs reproducibly linked to advanced fibrosis, overcoming a major hurdle of single-study variability. The findings point to CD4+ T cells, myofibroblasts, and loss of liver sinusoidal endothelial cells as central players, offering a shortlist of mechanistically grounded therapeutic targets."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42447378",
+      "headline": "More than a third of eosinophilic esophagitis patients have hidden strictures doctors didn't know to look for",
+      "journal": "Journal of Clinical Gastroenterology",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/MCG.0000000000002423",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In a retrospective cohort study at UNC, researchers reviewed records of 189 EoE patients who underwent esophageal dilation over one year to determine how often dilation caused an effect in an unintended area (indicating an undetected stricture). They found that 37% of patients had an unexpected dilation effect, with the majority of these surprise strictures occurring at the upper esophageal sphincter (UES) or proximal esophagus \u2014 locations that are rarely targeted during standard endoscopy. Patients with unexpected strictures were significantly younger (mean age ~40 vs. ~46 years), and standard endoscopy had missed these narrowings before dilation.",
+      "why_it_matters": "For the millions of people with eosinophilic esophagitis who struggle with swallowing, this finding suggests that standard endoscopy routinely misses clinically significant narrowing in the upper esophagus, which could inform how doctors approach dilation procedures.",
+      "caveats": "retrospective design, single-center, observational design",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive procedural finding in EoE; solid N=189; relevant to clinical practice.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "37% of EoE Dilation Patients Have Undetected Proximal Strictures \u2014 Is Standard Endoscopy Missing the Real Problem?",
+          "hook": "Standard endoscopy is widely used to guide esophageal dilation in eosinophilic esophagitis, but a new study suggests it misses clinically significant narrowing in more than one in three patients.",
+          "pitch_angle": "A retrospective review of 189 EoE patients found that 37% experienced unexpected dilation effects \u2014 mostly at the upper esophageal sphincter \u2014 suggesting multifocal stricture disease is far more common than endoscopy alone reveals, with important implications for technique selection."
+        },
+        {
+          "publication_type": "Healthline",
+          "headline": "If You Have Eosinophilic Esophagitis, Your Doctor May Be Missing a Key Source of Your Swallowing Trouble",
+          "hook": "A new study found that over a third of EoE patients undergoing throat-stretching procedures had significant narrowing in areas their doctors hadn't even targeted.",
+          "pitch_angle": "Researchers found that standard endoscopy consistently fails to detect strictures in the upper and proximal esophagus in EoE patients \u2014 meaning the procedures meant to treat swallowing difficulty may only be addressing part of the problem."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42562534",
+      "headline": "A polysaccharide from food may fight exercise fatigue \u2014 but only in mice, via gut bacteria",
+      "journal": "Food Research International",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1016/j.foodres.2026.119769",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers gave mice two molecular-weight forms of a novel polysaccharide called L-\u03b2-galactoglucan (APG) and tested anti-fatigue effects under two swimming load models using multiomics. APG extended exhaustive swimming time, reduced lactate and blood urea nitrogen, increased muscle glycogen, and shifted gut microbiota composition and short-chain fatty acid levels in mice. The high-molecular-weight form outperformed the medium-molecular-weight version, with effects mediated through the gut-muscle axis via AMPK/SIRT1/PGC-1\u03b1 signaling.",
+      "why_it_matters": "Early animal evidence suggests that gut microbiota-targeted polysaccharides may one day inform strategies to reduce physical fatigue, though human data are entirely absent.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100), single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut-muscle axis angle is interesting but mouse-only study with no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Could a Gut-Targeting Supplement One Day Help You Power Through Workouts? Here's What Mouse Research Suggests",
+          "hook": "A novel polysaccharide shifted gut bacteria composition and extended exhaustion time in mice \u2014 raising early questions about whether the gut-muscle axis could be a new frontier for sports recovery.",
+          "pitch_angle": "Researchers found that a high-molecular-weight polysaccharide reduced exercise-related markers of muscle damage and fatigue in mice by reshaping the gut microbiome and boosting short-chain fatty acids. The finding is preliminary and mouse-only, but adds to a growing body of research exploring how gut bacteria may influence physical performance and muscle health."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41399945",
+      "headline": "Standard tumor-shrinkage criteria may be misleading doctors treating liver cancer \u2014 and radiologists are pushing for a rethink",
+      "journal": "Hepatology",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/HEP.0000000000001621",
+      "groundbreaking": "Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This is a narrative review by European and US radiologists and hepatologists critically examining how treatment response is measured in hepatocellular carcinoma (HCC), specifically challenging the validity of RECIST 1.1 and mRECIST criteria when applied to modern systemic therapies including immunotherapy. The authors argue that cirrhosis-related changes complicate radiological evaluation in ways that existing criteria do not account for, potentially leading to inaccurate assessments of whether treatments are working. The review also surveys emerging techniques including 3D imaging, AI, and radiomics as candidate tools for more precise response evaluation.",
+      "why_it_matters": "The standard methods used to judge whether liver cancer treatments are working may be systematically misleading \u2014 a problem that could affect millions of patients on systemic therapies worldwide if response is being miscategorized.",
+      "caveats": "observational design, industry funding [AstraZeneca, Eisai, Roche, Sirtex, BMS, Bayer, Boston Scientific, Sanofi \u2014 multiple authors]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Specialist clinical review; relevant to oncology but low everyday-diet/microbiome relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Are We Measuring Liver Cancer Treatment Response All Wrong? A Critical Review Says Yes",
+          "hook": "The go-to criteria for judging whether systemic liver cancer therapies are working \u2014 RECIST 1.1 and mRECIST \u2014 may be fundamentally ill-suited for modern immunotherapy regimens in HCC.",
+          "pitch_angle": "A multinational team of radiologists and hepatologists argues in Hepatology that cirrhosis-related imaging changes confound standard response criteria, potentially causing clinicians to misclassify treatment efficacy, and calls for prospective validation of AI and 3D imaging approaches as better alternatives."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41616271",
+      "headline": "AI is reaching expert-level accuracy at spotting liver cancer on scans \u2014 but major hurdles remain before it helps real patients",
+      "journal": "Hepatology",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.1097/HEP.0000000000001698",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review by French radiologists and pathologists surveys the current state of artificial intelligence applied to liver cancer detection, diagnosis, and surveillance, covering AI's use in ultrasound, CT, MRI, and digital pathology. The authors report that deep learning models now achieve expert-level performance for lesion detection, segmentation, and characterization in HCC and intrahepatic cholangiocarcinoma, and that AI in digital pathology can distinguish tumor types and even predict future cancer development from biopsy slides. However, they highlight critical barriers to clinical adoption including data privacy, regulatory approval, algorithmic bias, and the absence of large prospective multicenter validation trials.",
+      "why_it_matters": "AI-assisted liver cancer detection could eventually enable earlier diagnosis for a cancer that kills hundreds of thousands annually \u2014 but only if the field moves past validation gaps and equity concerns that currently limit real-world use.",
+      "caveats": "observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically significant AI review; limited direct diet/microbiome relevance for this digest's audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "AI Can Now Spot Liver Cancer as Well as Expert Radiologists \u2014 So Why Isn't It Being Used?",
+          "hook": "Artificial intelligence models can already match expert radiologists at detecting early liver tumors on scans \u2014 but regulatory, equity, and validation barriers mean they're nowhere near routine clinical use.",
+          "pitch_angle": "A new review in Hepatology maps the remarkable progress of AI in liver cancer surveillance and diagnosis while cataloging the structural obstacles \u2014 from data privacy laws to algorithmic bias affecting underserved populations \u2014 that stand between promising technology and actual patient benefit."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "41789817",
+      "headline": "A routine hemorrhoid surgery accidentally uncovered a rare and deadly cancer hiding in plain sight",
+      "journal": "The American Journal of Gastroenterology",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.14309/ajg.0000000000003992",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This is a case report describing a patient who underwent surgical hemorrhoidectomy and was incidentally found to have anorectal mucosal melanoma \u2014 a rare and aggressive cancer that can mimic benign anorectal conditions. The study involves a single patient (N=1) at two New York health centers. The key finding is that mucosal melanoma, a life-threatening malignancy, can be misidentified as hemorrhoids until pathological examination of surgical specimens.",
+      "why_it_matters": "This case highlights that anorectal symptoms commonly attributed to hemorrhoids may occasionally mask rare but serious malignancies, underscoring the importance of histopathological examination of all surgical tissue.",
+      "caveats": "small sample (N<100), single-center, case report only",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinically notable case report; limited generalizability, no microbiome or diet angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Hemorrhoidectomy Specimen Reveals Incidental Anorectal Mucosal Melanoma: A Case Report",
+          "hook": "A patient treated for hemorrhoids was found to have mucosal melanoma only after pathological analysis of the surgical tissue.",
+          "pitch_angle": "This case report from New York highlights that anorectal mucosal melanoma \u2014 a rare, aggressive malignancy \u2014 can present identically to hemorrhoids, reinforcing the critical role of routine histopathology of all excised anorectal tissue. For gastroenterologists and colorectal surgeons, it's a stark reminder that clinical appearance alone is insufficient for ruling out malignancy."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42836110",
+      "headline": "An AI model reading CT scan texture predicts which liver cancer patients will survive longer \u2014 and outperforms standard clinical scoring",
+      "journal": "Journal of Hepatocellular Carcinoma",
+      "pubdate": "2026 Oct 1",
+      "doi": "10.2147/JHC.S636207",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Chinese researchers developed HepaKineticNet, a deep learning model that analyzes multi-phase contrast-enhanced CT scans to map intratumoral heterogeneity in hepatocellular carcinoma (HCC), training it on 359 patients and validating it in an independent cohort of 95 patients with BCLC stage B-C HCC treated with locoregional therapy plus TKI and anti-PD-1 immunotherapy. The fusion model combining CT-derived radiomics and clinical variables achieved a C-index of 0.713 in the external test cohort, outperforming the clinical model alone (0.651; P=0.012). Patients classified as high-risk by the model had a median overall survival of 9.5 months vs. 19.0 months for low-risk patients (HR 3.02).",
+      "why_it_matters": "A non-invasive imaging-based survival predictor could help oncologists better personalize treatment sequencing and clinical trial enrollment for patients with intermediate-to-advanced liver cancer.",
+      "caveats": "small sample (N<100 in external validation cohort), retrospective, single-center equivalent (bi-institutional, China only), observational design",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Radiology/AI-oncology niche; limited gut-health or diet/microbiome relevance for this digest's core audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Deep Learning CT Model Outpredicts Clinical Scoring for Survival in Advanced Liver Cancer Patients on Combined Immunotherapy",
+          "hook": "A new AI framework that maps tumor texture changes across CT scan phases predicted overall survival in liver cancer patients significantly better than standard clinical variables alone.",
+          "pitch_angle": "HepaKineticNet, validated in an independent cohort of 95 patients with intermediate-to-advanced HCC receiving locoregional therapy plus TKI and anti-PD-1 treatment, stratified patients into groups with median survival of 9.5 vs. 19 months \u2014 a distinction that could meaningfully inform treatment sequencing decisions. The authors note that prospective validation is needed before clinical deployment, but the model represents a potentially non-invasive adjunct to current prognostic tools."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42365546",
+      "headline": "Genetic testing reveals the cause of rare liver cyst disease in more than half of patients \u2014 and flags estrogen as a key complication driver",
+      "journal": "Digestive Diseases and Sciences",
+      "pubdate": "2026 Oct",
+      "doi": "10.1007/s10620-026-10072-y",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed genetic data from 54 consecutive patients with isolated hepatic ductal plate malformation (DPM) \u2014 liver cyst diseases without kidney involvement \u2014 at a single UK center, using next-generation sequencing. Pathogenic or likely pathogenic variants were identified in 31 of 54 patients (57%), with SEC63, PRKCSH, and GANAB being the most common culprits in polycystic liver disease; five novel gene variants were discovered. Prior estrogen exposure was associated with cyst complications in women with polycystic liver disease, and PRKCSH variants were linked to the most severe disease presentation.",
+      "why_it_matters": "Finding that estrogen exposure is linked to more severe cyst complications in polycystic liver disease could have implications for hormonal contraception and hormone therapy decisions in women with this rare condition.",
+      "caveats": "small sample (N<100), observational design, retrospective, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare liver genetic disease; narrow clinical audience, limited everyday gut-health relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Next-Gen Sequencing Identifies Causative Variants in Majority of Isolated Polycystic Liver Disease Cases, Flags Estrogen Link",
+          "hook": "Genetic testing revealed a likely causative variant in more than half of patients with isolated hepatic ductal plate malformation \u2014 a rare liver cyst disease \u2014 and uncovered five variants never previously described.",
+          "pitch_angle": "In a single-center cohort of 54 UK patients, SEC63, PRKCSH, and GANAB mutations accounted for most polycystic liver disease cases, while PKHD1 variants drove congenital hepatic fibrosis; estrogen exposure correlated with cyst complications in women, raising questions about hormonal therapy in affected patients. The authors argue that routine genetic testing is warranted and that expanding gene panels will improve diagnosis in this heterogeneous disease spectrum."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42671072",
+      "headline": "A drug-resistant 'superbug' spreading in European hospitals is hiding from standard diagnostic tests \u2014 and slipping through undetected",
+      "journal": "MicrobiologyOpen",
+      "pubdate": "2026 Oct",
+      "doi": "10.1002/mbo3.70393",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers characterized a novel vancomycin-resistant Enterococcus faecium clone (ST117/CT7799) responsible for a prolonged outbreak in southeastern Austria since 2024, studying 31 patient isolates using whole genome sequencing and multiple diagnostic methods. Standard susceptibility tests \u2014 including broth microdilution (detecting resistance in only 52% of isolates at 24 hours), gradient tests, and disk diffusion \u2014 failed to reliably detect vancomycin resistance, while only one of four commercial screening agars and the VITEK2 automated system correctly identified all isolates. Intra-hospital transmission was considered likely in 97% of cases, and most cases were associated with invasive procedures.",
+      "why_it_matters": "A vancomycin-resistant hospital pathogen that routinely evades standard diagnostic screening represents a significant patient safety concern, as undetected cases can fuel ongoing outbreaks before infection control measures are triggered.",
+      "caveats": "small sample (N<100), single-center, observational design, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Important infection control finding; limited gut health or diet relevance for target audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Standard VRE Tests Miss This New Hospital Superbug More Than Half the Time",
+          "hook": "A vancomycin-resistant Enterococcus clone spreading through Austrian hospitals evaded detection by the most commonly used diagnostic methods in over half of tested isolates.",
+          "pitch_angle": "A novel VREfm clone (ST117/CT7799) has caused a prolonged hospital outbreak in southeastern Austria, with standard susceptibility testing correctly identifying vancomycin resistance in fewer than half of isolates at standard incubation times \u2014 meaning infected patients may go undetected and trigger ongoing ward transmission. The findings point to an urgent need to reassess diagnostic algorithms for VRE screening, particularly as this clone may already be circulating undetected beyond Austria."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42710386",
+      "headline": "A 'vicious cycle' of iron overload and oxidative stress may drive fatty liver disease \u2014 and diet could help break it",
+      "journal": "Nutrition Research",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nutres.2026.08.002",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review systematically examined existing research on the 'oxidative stress\u2013iron dysmetabolism axis' as a driver of metabolic dysfunction-associated fatty liver disease (MAFLD), focusing on how reactive oxygen species and iron overload mutually amplify each other to activate ferroptosis and inflammatory pathways. The authors reviewed dietary intervention strategies \u2014 including specific dietary patterns, bioactive compounds, nutrients, and probiotics \u2014 that may interrupt this cycle and improve liver pathology. No new primary data were generated; conclusions are based on synthesis of prior studies.",
+      "why_it_matters": "MAFLD affects an estimated 25\u201330% of adults globally, and this review highlights iron metabolism as an underappreciated dietary target alongside oxidative stress, potentially informing new nutritional approaches to liver health.",
+      "caveats": "observational design, animal or cell study, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "This is a review article, not a primary study \u2014 no N is reported and no original clinical or experimental data are presented.",
+      "relevance_score": 6,
+      "relevance_score_reason": "MAFLD is high-relevance; review design and lack of original data limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline",
+          "headline": "Fatty Liver Disease May Fuel Itself Through an Iron-Oxidation Loop \u2014 And Certain Foods Might Help Break It",
+          "hook": "A new review suggests that iron overload and oxidative stress form a self-reinforcing cycle that drives fatty liver disease \u2014 and that specific dietary choices may be able to interrupt it.",
+          "pitch_angle": "Researchers synthesized evidence showing that reactive oxygen species and excess iron amplify each other in the liver, activating a cell-death pathway called ferroptosis and worsening MAFLD. Dietary patterns, bioactive food compounds, and probiotics were identified as potential tools to disrupt this cycle, though most evidence comes from animal and mechanistic studies rather than large clinical trials."
+        },
+        {
+          "publication_type": "EatingWell",
+          "headline": "Your Diet May Affect Fatty Liver Disease in a Way Scientists Are Only Beginning to Understand",
+          "hook": "A new review identifies iron metabolism \u2014 not just fat and sugar intake \u2014 as a key dietary target in metabolic fatty liver disease.",
+          "pitch_angle": "Beyond the usual advice about reducing alcohol and processed food, researchers highlight how dietary compounds that reduce oxidative stress and modulate iron absorption may protect liver cells from a damaging self-amplifying cycle. Probiotics and specific bioactive nutrients are flagged as promising areas for future dietary recommendations, though clinical evidence is still emerging."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42820931",
+      "headline": "Decades of research still can't tell us what shift workers should eat",
+      "journal": "Journal of Human Nutrition and Dietetics",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/jhn.70340",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic review of 43 studies (RCTs, crossover trials, and observational studies) examining nutritional interventions \u2014 including macronutrient adjustments, time-restricted eating, and meal timing \u2014 in shift-working populations. The review found that methodological heterogeneity, small sample sizes, and moderate-to-high risk of bias make it impossible to formulate evidence-based dietary guidelines for shift workers. First responders, a high-risk subgroup, were represented in only 9% of studies.",
+      "why_it_matters": "Despite millions of people working overnight and rotating shifts \u2014 a pattern strongly linked to cardiometabolic disease \u2014 evidence-based dietary guidance for this group simply does not yet exist.",
+      "caveats": "observational design, small sample (many included studies N<100), high risk of bias across reviewed studies, narrative synthesis only (no meta-analysis)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Strong everyday relevance and counterintuitive null finding; systematic review design but no new clinical data.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "We Still Don't Know What Night-Shift Workers Should Eat",
+          "hook": "After 43 studies and decades of research, scientists still cannot agree on basic dietary advice for the millions of people who work overnight shifts.",
+          "pitch_angle": "A new systematic review found that time-restricted eating, macronutrient tweaks, and meal-timing strategies have all been tested in shift workers \u2014 but the evidence is too weak and inconsistent to recommend any of them. For first responders like firefighters and police officers, the research gap is even starker."
+        },
+        {
+          "publication_type": "EatingWell / Verywell Health",
+          "headline": "If You Work Night Shifts, There's Still No Proven Diet Plan \u2014 Here's Why That's a Problem",
+          "hook": "Time-restricted eating, high-protein diets, strategic meal timing \u2014 researchers have tested them all in shift workers, and the evidence for any of them remains frustratingly thin.",
+          "pitch_angle": "A systematic review of 43 studies found that no nutritional strategy has strong enough evidence to become a guideline for shift workers, a group at elevated risk for heart disease and metabolic disorders. Experts say the field urgently needs larger, better-designed trials."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42250449",
+      "headline": "Time of day and gut injury status predict whether a feeding tube gets placed correctly on the first try in ICU patients",
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.nut.2026.113275",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This retrospective study analyzed 622 critically ill ICU and EICU patients to identify clinical factors predicting first-attempt success of blind bedside nasoenteric tube placement. Multivariable logistic regression found that higher nutritional risk scores, absence of mechanical ventilation, morning placement timing, and lower gastrointestinal injury severity were significant predictors of success. Two predictive models (AUC 0.735 and 0.751) were developed and validated through calibration and decision curve analyses.",
+      "why_it_matters": "Identifying which ICU patients are most likely to need multiple tube-placement attempts could help clinical teams better time and prepare enteral nutrition delivery, a cornerstone of critical care recovery.",
+      "caveats": "observational design, single-center, retrospective analysis, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Clinical nutrition topic but narrow ICU procedural focus; low everyday relevance for target readership.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Morning Placement and Lower GI Injury Score Predict Nasoenteric Tube Success in ICU: New Predictive Models",
+          "hook": "A retrospective study of 622 critically ill patients found that time of day \u2014 morning versus afternoon \u2014 was a significant predictor of whether a nasoenteric tube was placed correctly on the first attempt.",
+          "pitch_angle": "Researchers developed and validated two clinical models that predict first-attempt nasoenteric tube placement success using variables including nutritional risk score, mechanical ventilation status, placement timing, and severity of gastrointestinal injury. Both models showed moderate discrimination (AUC ~0.74\u20130.75), suggesting they could help clinicians optimize enteral nutrition protocols in the ICU."
+        }
+      ],
+      "run_date": "2026-10-06",
+      "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
@@ -91,267 +640,6 @@
       "status": "new"
     },
     {
-      "pmid": "42825548",
-      "headline": "Climate Change May Be Breeding a New Wave of Deadly Fungal Infections \u2014 and Candida auris Is Just the Beginning",
-      "journal": "mSphere",
-      "pubdate": "2026 Oct 2",
-      "doi": "10.1128/msphere.00109-26",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers from the University of W\u00fcrzburg conducted a review and theoretical analysis of Candida auris (recently reclassified as Candidozyma auris), examining its evolutionary biology, ecology, thermotolerance mechanisms, and clinical significance in the context of climate change and declining human basal body temperature. The authors argue that C. auris \u2014 which independently evolved across multiple continents, resists all three major antifungal drug classes, and kills 30\u201360% of infected patients \u2014 represents the first of potentially many fungal pathogens adapting to overcome mammals' thermal immune defense. The review is not an original human cohort study but a synthesis of existing evidence and computational evolutionary thinking.",
-      "why_it_matters": "The convergence of rising environmental temperatures and declining human body temperature may be progressively eroding one of our most fundamental biological defenses against fungal disease \u2014 with broad implications for immune-compromised and hospitalized patients worldwide.",
-      "caveats": "animal or cell study, preprint, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "This is a review and theoretical/commentary piece, not an original clinical or experimental study. The 30\u201360% mortality figure is cited as a range from existing literature and is consistent with published estimates for invasive C. auris infections.",
-      "relevance_score": 6,
-      "relevance_score_reason": "High public health relevance; review not original study, limits scoring.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "We're Losing One of Our Most Ancient Defenses Against Fungal Disease",
-          "hook": "Human body temperature has been quietly dropping for over a century \u2014 and a deadly, drug-resistant fungus may be the first to exploit that shift.",
-          "pitch_angle": "Candida auris evolved simultaneously on multiple continents, suggesting climate change is selecting for fungi that can survive at human body temperatures \u2014 a thermal barrier that has protected mammals from fungal infections for millions of years. As that barrier narrows from both directions, scientists warn C. auris may be a preview of a broader fungal threat, not an isolated anomaly."
-        },
-        {
-          "publication_type": "General health / Healthline / Everyday Health",
-          "headline": "A Drug-Resistant Fungus That Kills Up to 60% of Patients May Signal a Larger Coming Crisis",
-          "hook": "Candida auris thrives at temperatures other fungi can't survive \u2014 and researchers suggest it may be the harbinger of a new era of fungal infections tied to climate change.",
-          "pitch_angle": "A new review argues that rising global temperatures and a long-term decline in average human body temperature are together eroding one of our key biological shields against fungal pathogens. For general health readers, the takeaway is sobering: the conditions that allowed C. auris to emerge may already be enabling other fungi to adapt \u2014 and our antifungal drug arsenal is running thin."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42259124",
-      "headline": "A foodborne Listeria strain found in China carries a novel hybrid plasmid resistant to eight antibiotics at once",
-      "journal": "International Journal of Food Microbiology",
-      "pubdate": "2026 Oct 2",
-      "doi": "10.1016/j.ijfoodmicro.2026.111888",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in Guangdong, China characterized a single Listeria monocytogenes foodborne isolate (strain 466-3LM) carrying a novel 95.7 kb hybrid plasmid (pLM466-3) formed by recombination of two known plasmids. The strain showed resistance to eight antibiotic classes, including drugs used in standard listeriosis treatment. The hybrid plasmid's resistance gene cluster can form translocatable units that spread via circular intermediates, though conjugation experiments failed to transfer resistance to other bacterial species tested.",
-      "why_it_matters": "Multi-drug resistant Listeria in the food supply \u2014 resistant to frontline treatment drugs \u2014 highlights a growing food safety threat that could affect immunocompromised people most severely.",
-      "caveats": "single-center, animal or cell study, small sample (N<100) \u2014 single strain characterized; conjugation transfer not demonstrated in human-relevant pathogens",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Food safety angle but single-strain lab study; no human subjects or clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health / Everyday Health",
-          "headline": "A Listeria Strain Resistant to Eight Antibiotics at Once Was Found in China's Food Supply",
-          "hook": "A single foodborne Listeria isolate was found carrying a novel hybrid plasmid conferring resistance to eight different antibiotic classes \u2014 including drugs used to treat listeriosis.",
-          "pitch_angle": "Researchers characterized a never-before-seen resistance plasmid in a Listeria strain isolated from food in China; the finding underscores why antimicrobial resistance in foodborne pathogens is a growing One Health concern, even if direct transfer to other bacteria wasn't demonstrated in the lab."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42748406",
-      "headline": "A massive gene map of liver scarring in fatty liver disease points to overlooked immune and cellular culprits",
-      "journal": "Hepatology Communications",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.1097/HC9.0000000000000991",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers performed a meta-analysis of liver tissue transcriptomic data from approximately 1,000 patients with metabolic dysfunction-associated steatotic liver disease (MASLD) across multiple cohorts to identify conserved gene signatures linked to advanced fibrosis (stages F3\u2013F4 vs. F0\u2013F1). They identified 846 differentially regulated genes and pinpointed immune cell types (CD4+ T cells), myofibroblasts, and specific ligand-receptor interactions \u2014 including PDGFD-PDGFRA signaling \u2014 as consistent drivers of liver scarring. The findings suggest several previously underappreciated molecular targets that could inform the development of anti-fibrotic therapies for MASLD.",
-      "why_it_matters": "MASLD affects roughly one-third of adults globally, and advanced liver fibrosis dramatically raises the risk of liver failure and liver cancer \u2014 identifying the specific cellular conversations driving scarring could eventually help researchers design drugs to stop it.",
-      "caveats": "observational design, secondary analysis, microbiome data only (no clinical outcomes), industry funding [Chalasani: Madrigal, Zydus, GSK, Altimmune, Insitro, Biomea Fusion, J&J, Akero; Romeo: AstraZeneca, GSK, Celgene, others; Ramachandran: MSD, Genentech, Intercept]",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Mechanistic liver fibrosis study; no gut/microbiome/diet angle; human data but no clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Meta-Analysis of ~1,000 MASLD Patients Flags Conserved Gene Networks and Novel Targets in Advanced Liver Fibrosis",
-          "hook": "A multi-cohort transcriptomic meta-analysis suggests that immune cell infiltration and specific cell-signaling pathways \u2014 not just fat accumulation \u2014 are consistent hallmarks of advanced liver scarring in MASLD.",
-          "pitch_angle": "Researchers mapped 846 consistently dysregulated genes across roughly 1,000 MASLD patients, identifying CD4+ T cells, myofibroblasts, and ligand-receptor pairs like PDGFD-PDGFRA as reproducible fibrosis drivers. The findings offer a shortlist of mechanistic targets that could accelerate drug development for a condition with limited approved therapies."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42447378",
-      "headline": "More Than a Third of Eosinophilic Esophagitis Patients Have Hidden Strictures Doctors Aren't Targeting",
-      "journal": "Journal of Clinical Gastroenterology",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.1097/MCG.0000000000002423",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective cohort study of 189 EoE patients who underwent esophageal dilation at a single academic center over one year, reviewing procedural reports for unexpected dilation effects \u2014 unintended stretching or tearing in non-targeted esophageal areas. They found that 37% of patients experienced an unexpected dilation effect, with the majority occurring in the proximal esophagus or upper esophageal sphincter (UES) rather than the gastroesophageal junction (GEJ) where most clinically identified strictures are found. Patients with unexpected dilation effects were also significantly younger, suggesting proximal narrowing may be underappreciated in younger EoE patients.",
-      "why_it_matters": "For the millions living with eosinophilic esophagitis, this finding suggests that standard endoscopic assessment may routinely miss dangerous narrowing in the upper esophagus \u2014 and that dilation techniques targeting the whole esophagus may better serve patients.",
-      "caveats": "retrospective design, single-center, small sample (N=189 but below 100 in some subgroups), observational design",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "EoE is high-interest; counterintuitive finding; clean retrospective cohort; N\u2265100.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Proximal Esophageal Strictures Missed in Over a Third of EoE Dilation Cases, UNC Study Finds",
-          "hook": "More than one in three EoE patients undergoing esophageal dilation had unexpected narrowing in areas clinicians weren't even targeting \u2014 most of it in the upper esophagus.",
-          "pitch_angle": "A retrospective study of 189 EoE patients found that 37% experienced an unintended dilation effect, predominantly at the proximal esophagus and upper esophageal sphincter \u2014 locations rarely flagged during standard endoscopy. The finding has direct procedural implications, suggesting whole-esophagus dilation techniques should be the standard approach for EoE patients."
-        },
-        {
-          "publication_type": "Everyday Health / Verywell Health",
-          "headline": "If You Have Eosinophilic Esophagitis, Your Doctor May Be Missing a Key Problem Area",
-          "hook": "A new study found that standard esophageal procedures for EoE routinely overlook narrowing in the upper part of the throat \u2014 and younger patients may be most affected.",
-          "pitch_angle": "Researchers analyzing 189 EoE dilation procedures found that 37% of patients had significant narrowing in unexpected locations, particularly near the top of the esophagus, that doctors weren't treating. The finding suggests that people with EoE \u2014 a chronic inflammatory condition increasingly diagnosed in adults \u2014 may benefit from asking their gastroenterologist about full-esophagus dilation techniques."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42562534",
-      "headline": "A gut-derived fiber compound may ease exercise fatigue in mice \u2014 but human data is nowhere in sight",
-      "journal": "Food Research International",
-      "pubdate": "2026 Oct 1",
-      "doi": "10.1016/j.foodres.2026.119769",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers in China tested a novel polysaccharide called L-\u03b2-galactoglucan (APG) in mice using two swimming fatigue models, applying multi-omics to track gut microbiome and metabolic changes. APG significantly extended swimming endurance, reduced markers of muscle damage, raised muscle glycogen, and shifted gut microbiota composition \u2014 increasing short-chain fatty acid production and beneficial bacterial genera. The researchers found that APG's effects operated through different metabolic pathways (purine vs. tryptophan metabolism) depending on the type of physical load, with both converging on AMPK/SIRT1/PGC-1\u03b1 signaling via the gut-muscle axis; findings are based on 16S sequencing and metabolomics in mice only.",
-      "why_it_matters": "Early mouse evidence suggests the gut microbiome may mediate exercise fatigue recovery through distinct metabolic pathways depending on the type of physical exertion \u2014 a concept that, if validated in humans, could inform sports nutrition strategies.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample, industry co-author (Chengdu Sydix Biotech), 16S sequencing only",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Gut-muscle axis is novel angle; animal-only study limits translation significantly.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Women's Health",
-          "headline": "Your Gut Bacteria Might Influence How Quickly You Recover From a Hard Workout \u2014 Here's What Mouse Research Suggests",
-          "hook": "A new study found that a fiber-derived compound reshapes gut microbiota in mice in ways that appear to delay exhaustion and speed muscle recovery \u2014 and the pathway it uses depends on the type of exercise.",
-          "pitch_angle": "Researchers fed mice a novel polysaccharide and found it extended swimming endurance while boosting short-chain fatty acid production and beneficial gut bacteria \u2014 suggesting the gut-muscle axis may play a load-specific role in fatigue. The findings are early-stage animal data, but they add to growing interest in whether gut health interventions could one day be tailored to different types of physical stress."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42365546",
-      "headline": "Genetic testing reveals a cause for mysterious liver cyst disease in more than half of patients \u2014 and estrogen exposure worsens complications",
-      "journal": "Digestive Diseases and Sciences",
-      "pubdate": "2026 Oct",
-      "doi": "10.1007/s10620-026-10072-y",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed genetic data from 55 consecutive patients with isolated hepatic ductal plate malformation (DPM) \u2014 a spectrum of rare liver structural disorders \u2014 at a single UK center using next-generation sequencing. Pathogenic or likely pathogenic gene variants were identified in 31 of 54 patients (57%), with SEC63, PRKCSH, and GANAB being the most common culprits in polycystic liver disease; five novel variants were discovered. Notably, prior estrogen exposure was associated with cyst complications in polycystic liver disease patients, and PRKCSH variants were linked to the most severe disease presentations.",
-      "why_it_matters": "For the roughly 78% female patient population in this cohort, the link between estrogen exposure and cyst complications raises clinically relevant questions about hormonal influences on a condition that is often misdiagnosed or detected incidentally.",
-      "caveats": "small sample (N<100), observational design, single-center, retrospective design",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Rare liver structural disease; limited gut/diet/microbiome relevance; small single-center cohort.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Next-Gen Sequencing IDs Causative Variants in Over Half of Isolated Hepatic Ductal Plate Malformation Cases \u2014 and Flags Estrogen as a Complication Risk",
-          "hook": "A genetic analysis of 54 patients with isolated hepatic ductal plate malformation found actionable variants in more than half \u2014 and discovered five previously unreported mutations \u2014 suggesting current sequencing panels are underutilized in this rare disease.",
-          "pitch_angle": "The study, conducted at a single UK liver unit, found SEC63, PRKCSH, and GANAB variants dominated the polycystic liver disease subgroup, while PKHD1 variants exclusively drove congenital hepatic fibrosis; prior estrogen exposure was associated with cyst complications. The authors argue that broader genetic panel testing could sharpen diagnosis and prognosis across this heterogeneous and often female-predominant condition."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42671072",
-      "headline": "A Drug-Resistant Superbug Is Hiding in Plain Sight \u2014 Standard Hospital Tests Are Missing It Half the Time",
-      "journal": "MicrobiologyOpen",
-      "pubdate": "2026 Oct",
-      "doi": "10.1002/mbo3.70393",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers characterized a novel vancomycin-resistant Enterococcus faecium clone (ST117/CT7799) responsible for a sustained hospital outbreak in southeastern Austria beginning in 2024, sequencing 31 patient isolates and evaluating multiple diagnostic methods. Standard broth microdilution detected vancomycin resistance in only 52% of isolates at 24 hours, gradient tests and disk diffusion misclassified all isolates, and only one of four commercial screening agars detected the pathogen reliably. Only the VITEK2 automated system correctly classified all 31 isolates, revealing a critical gap in widely used diagnostic algorithms.",
-      "why_it_matters": "This finding suggests that a dangerous, hard-to-kill hospital pathogen may be spreading undetected in healthcare settings that rely on standard diagnostic tools \u2014 underscoring a significant gap in infection control.",
-      "caveats": "small sample (N<100), single-center, observational design",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Important infectious disease finding; limited direct gut health/diet/microbiome relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News / General health",
-          "headline": "Standard Hospital Tests Are Missing a Dangerous Drug-Resistant Gut Pathogen More Than Half the Time",
-          "hook": "A new vancomycin-resistant Enterococcus faecium clone spreading through hospitals evades detection by most standard diagnostic tests \u2014 including broth microdilution, which missed it in nearly half of cases.",
-          "pitch_angle": "A 31-patient outbreak in Austria reveals that the most widely used resistance-testing methods fail to catch this novel VRE clone, while only one automated system reliably identified it. For gastroenterologists and hospital epidemiologists, the finding raises urgent questions about how many similar infections may be going undetected \u2014 and spreading \u2014 in clinical settings worldwide."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42710386",
-      "headline": "A newly identified 'oxidative stress-iron axis' may be driving fatty liver disease \u2014 and diet could help interrupt it",
-      "journal": "Nutrition Research",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.nutres.2026.08.002",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review from researchers in China synthesizes recent evidence identifying an 'oxidative stress-iron dysmetabolism axis' as a central driver of metabolic dysfunction-associated fatty liver disease (MAFLD). The review is not based on an original clinical study but evaluates existing research on dietary patterns, bioactive compounds, nutrients, and probiotics that may target this axis. Key mechanisms highlighted include reactive oxygen species (ROS) bursts, iron overload, and ferroptosis pathway activation, with dietary interventions proposed as potential tools to disrupt this cycle.",
-      "why_it_matters": "This framework suggests that common dietary choices \u2014 including specific nutrients and probiotics \u2014 may help interrupt a key biological pathway driving one of the world's most prevalent liver diseases.",
-      "caveats": "review article (no original data), animal or cell study evidence predominates, single-center author affiliation, no clinical outcomes from original trial",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Review only, no original human data; strong topic fit for MAFLD and diet.",
-      "pitch_angles": [
-        {
-          "publication_type": "Healthline / Everyday Health",
-          "headline": "Scientists Think Iron Metabolism May Be a Hidden Driver of Fatty Liver Disease \u2014 and Diet Could Help",
-          "hook": "A new review suggests that a little-discussed interaction between iron overload and oxidative stress may be a key reason fatty liver disease progresses \u2014 and that what you eat could help interrupt it.",
-          "pitch_angle": "Researchers synthesized evidence pointing to an 'oxidative stress-iron axis' as central to MAFLD progression, and identified dietary patterns, bioactive compounds, and probiotics as potential tools to break that cycle. For the millions of people managing or at risk for fatty liver disease, the findings suggest the composition of the diet \u2014 not just calories \u2014 may matter more than previously appreciated."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42820931",
-      "headline": "Science still can't say what shift workers should eat \u2014 a review of 43 studies finds no clear dietary guidelines",
-      "journal": "Journal of Human Nutrition and Dietetics",
-      "pubdate": "2026 Oct",
-      "doi": "10.1111/jhn.70340",
-      "groundbreaking": "Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a systematic review of 43 studies examining nutrition interventions in shift workers, including a subgroup analysis of first responders such as firefighters and police officers. Interventions included macronutrient adjustments, time-restricted eating, and meal timing strategies, with outcomes spanning cardiometabolic health, cognitive performance, and sleep quality. Despite widespread public interest in chrono-nutrition, the review found insufficient evidence to formulate evidence-based dietary guidelines for shift workers due to methodological heterogeneity and high risk of bias.",
-      "why_it_matters": "With nearly one in five workers in developed countries doing shift work, the lack of solid dietary guidance for this high-risk group highlights a significant gap in nutrition research that affects millions of people's long-term cardiometabolic health.",
-      "caveats": "observational design, small sample (N<100 in most included studies), short follow-up, high heterogeneity across studies",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive null finding with real-world relevance; solid systematic review design but no new data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Prevention",
-          "headline": "You've Read Plenty of Tips for Eating Better on Night Shifts \u2014 Science Actually Has No Idea If They Work",
-          "hook": "Time-restricted eating, high-protein meals, strategic caffeine \u2014 the internet is full of nutrition advice for night-shift workers, but a new systematic review suggests the science behind it is surprisingly thin.",
-          "pitch_angle": "A review of 43 studies found that current research is too methodologically inconsistent to issue firm dietary guidelines for shift workers, despite growing interest in chrono-nutrition. For the millions of nurses, firefighters, and essential workers pulling overnight shifts, that's a meaningful gap in evidence-based support."
-        },
-        {
-          "publication_type": "The Atlantic / Gastroenterology & Endoscopy News",
-          "headline": "Shift Work Is a Known Health Risk. Nutrition Science Still Hasn't Figured Out How to Fix It.",
-          "hook": "Shift workers face higher rates of obesity, metabolic syndrome, and GI disorders \u2014 yet after decades of research, there are still no evidence-based dietary guidelines for this massive portion of the workforce.",
-          "pitch_angle": "A systematic review of 43 studies across multiple intervention types found that methodological inconsistency and small sample sizes make it impossible to translate existing research into practical guidance. The review calls for larger, well-controlled studies specifically including first responders \u2014 a population chronically underrepresented in nutrition science."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42811786",
       "headline": "A drug-resistant superbug gene usually found in hospitals has turned up in seawater off Bangladesh \u2014 suggesting oceans are a hidden reservoir for clinical antibiotic resistance",
       "journal": "MicrobiologyOpen",
@@ -375,33 +663,6 @@
       ],
       "run_date": "2026-10-05",
       "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42250449",
-      "headline": "Morning tube placement and lower GI injury predict first-attempt feeding tube success in ICU patients",
-      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-      "pubdate": "2026 Oct",
-      "doi": "10.1016/j.nut.2026.113275",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This retrospective single-center study from China analyzed 622 critically ill ICU and emergency ICU patients to identify clinical factors predicting first-attempt success of blind bedside nasoenteric tube placement. Multivariable logistic regression and LASSO regression identified nutritional risk score (NRS2002), mechanical ventilation status, time of day (morning vs. afternoon), and severity of acute gastrointestinal injury as significant predictors; both models showed moderate discrimination (AUC 0.735 and 0.751). The study found that patients placed in the morning and with less severe GI injury had meaningfully higher first-attempt success rates.",
-      "why_it_matters": "Identifying modifiable factors \u2014 such as timing of placement \u2014 that predict feeding tube success could help ICU teams improve nutritional delivery for critically ill patients, where delays in enteral nutrition worsen outcomes.",
-      "caveats": "single-center, retrospective design, observational design, China only, moderate model discrimination",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Clinically specific ICU topic; poor fit for consumer health outlets, limited audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News / General health",
-          "headline": "Time of Day and GI Injury Severity Predict Feeding Tube Success in ICU Patients, Retrospective Study Finds",
-          "hook": "A retrospective analysis of 622 critically ill patients found that morning placement attempts and lower acute gastrointestinal injury severity were among the strongest predictors of getting a feeding tube in on the first try.",
-          "pitch_angle": "Researchers built and validated two predictive models using clinical variables readily available at bedside, identifying factors clinicians could use to time or sequence nasoenteric tube placement more strategically. While the models showed only moderate predictive accuracy and need external validation, the finding that time of day matters may have immediate practical implications for ICU nutrition protocols."
-        }
-      ],
-      "run_date": "2026-10-05",
-      "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
