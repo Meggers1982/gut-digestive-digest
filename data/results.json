@@ -1,8 +1,542 @@
 {
-  "last_updated": "2026-10-24T14:00:57.817267+00:00",
-  "total_studies": 446,
-  "new_this_run": 10,
+  "last_updated": "2026-10-25T14:16:51.324416+00:00",
+  "total_studies": 455,
+  "new_this_run": 9,
   "studies": [
+    {
+      "pmid": "42925333",
+      "headline": "A Common Swallowing Therapy Technique Works for Some Patients \u2014 But Experts Can't Agree on Who",
+      "journal": "Dysphagia",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1007/s00455-026-11018-2",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a PRISMA-registered systematic review of 16 studies (13 cross-sectional, 2 RCTs, 1 cohort) examining whether the chin-down maneuver \u2014 a widely used compensatory technique \u2014 prevents laryngeal penetration or aspiration in adults with mechanical or neurogenic dysphagia. Ten of the 16 studies reported positive effects, but success rates varied wildly from 19.6% to 81%, and the overall evidence quality was rated low to very low certainty. The review found no clinical consensus on which patients are most likely to benefit, and identified multiple influencing variables including timing of swallow initiation and bolus characteristics.",
+      "why_it_matters": "The finding suggests that a compensatory swallowing technique used routinely in clinical practice may not work reliably across all patients, underscoring the need for individualized assessment rather than one-size-fits-all dysphagia management.",
+      "caveats": "observational design, heterogeneous study populations, low to very low certainty evidence, no consistent clinical outcome definitions across included studies",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant dysphagia finding but limited gut-microbiome or diet angle; niche clinical audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Chin-Down Swallowing Maneuver Shows Inconsistent Results \u2014 Clinicians Urged to Individualize Assessment",
+          "hook": "A systematic review of 16 studies finds the chin-down maneuver helps some dysphagia patients but fails others \u2014 and no one yet knows how to reliably predict which is which.",
+          "pitch_angle": "The review found success rates ranging from 19.6% to 81% across studies, with evidence quality rated low to very low certainty. Until stronger evidence emerges, the authors call for patient-by-patient evaluation rather than routine application of the technique."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42909627",
+      "headline": "Cordyceps fungi show promise across multiple disease pathways \u2014 but clinical proof still lags far behind the hype",
+      "journal": "Archives of Microbiology",
+      "pubdate": "2026 Oct 23",
+      "doi": "10.1007/s00203-026-05259-w",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review synthesizes existing evidence on Cordyceps-derived fungi \u2014 including Ophiocordyceps sinensis and Cordyceps militaris \u2014 covering their taxonomy, bioactive compounds (especially cordycepin), and pharmacological activities; no original human or animal experiments were conducted. The review identifies influences on AMPK, PI3K/Akt/mTOR, NF-\u03baB, and MAPK signaling pathways, with proposed immunomodulatory, anti-inflammatory, anticancer, and metabolic regulatory effects. Authors emphasize critical gaps including inadequate clinical validation, species authentication challenges, and pharmacokinetic limitations that prevent translation to therapeutic use.",
+      "why_it_matters": "As Cordyceps supplements grow in popularity as functional foods and adaptogens, this review highlights that rigorous human clinical evidence remains sparse and standardization of products is a major unresolved issue.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), preprint",
+      "fact_check_note": "This is a narrative review with no original experimental data; no human or animal subjects were involved per the authors' declaration.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Supplement-relevant topic with consumer interest, but review-only with no new clinical data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / EatingWell",
+          "headline": "Cordyceps Are Everywhere Right Now \u2014 Here's What the Science Actually Says",
+          "hook": "A new review maps everything researchers know about Cordyceps fungi \u2014 and reveals just how wide the gap is between lab promise and real human proof.",
+          "pitch_angle": "Cordyceps compounds influence multiple cellular pathways tied to immunity, inflammation, and metabolism, but clinical validation is still lacking and product standardization remains a serious problem. For consumers spending money on mushroom supplements, that distinction matters."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42910930",
+      "headline": "Hospital patients colonized by just one Klebsiella strain are at higher infection risk than those harboring multiple strains \u2014 a counterintuitive gut finding",
+      "journal": "mSphere",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1128/msphere.00329-26",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers developed a new amplicon sequencing method (wzi-Seq) to detect and quantify multiple Klebsiella pneumoniae strains in gut samples from 171 hospitalized patients using rectal swabs. They found that 63.2% of patients carried a single Klebsiella strain and 36.8% carried multiple strains; in multivariate analysis, mono-colonization was significantly associated with higher infection risk (P=0.034). This human observational cohort study suggests that gut microbial population diversity \u2014 even within a single pathogen species \u2014 may influence disease progression.",
+      "why_it_matters": "The finding that harboring multiple Klebsiella strains in the gut may actually be protective against systemic infection flips assumptions about pathogen colonization and could reshape how hospitals screen and manage high-risk patients.",
+      "caveats": "observational design, single-center, secondary analysis, small sample (N=171)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Counterintuitive human finding; gut colonization linked to clinical infection outcome.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Gut Colonized by One Klebsiella Strain? That May Be More Dangerous Than Carrying Many",
+          "hook": "A new study finds that hospital patients with only a single strain of Klebsiella pneumoniae in their gut are significantly more likely to develop a systemic Klebsiella infection than patients who harbor multiple strains simultaneously.",
+          "pitch_angle": "Using a novel sequencing tool called wzi-Seq, researchers analyzed rectal swabs from 171 hospitalized patients and found mono-colonization was linked to significantly higher infection risk \u2014 suggesting microbial diversity even within a single pathogen species may offer a form of colonization resistance. The findings could lead to new screening protocols that assess Klebsiella population structure, not just presence or absence, to better identify patients most at risk."
+        },
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "When It Comes to Dangerous Gut Bacteria, Variety Might Actually Be Protective",
+          "hook": "Carrying multiple strains of a hospital superbug in your gut appears to be safer than carrying just one \u2014 a finding that upends assumptions about how bacterial colonization leads to infection.",
+          "pitch_angle": "Researchers tested a new sequencing method on gut swabs from hospitalized patients and found that those colonized by a single Klebsiella strain were significantly more likely to develop a bloodstream or organ infection than those carrying multiple strains. The result hints that within-species microbial diversity in the gut may limit any single pathogen strain's ability to dominate and spread \u2014 a concept with broad implications for how we think about infection risk."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42910620",
+      "headline": "Blood Clots Nearly Double the Risk of Death in Severe Pancreatitis \u2014 and Clot Location Determines Which Organs Fail",
+      "journal": "Pancreas",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1097/MPA.0000000000002728",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers used the National Inpatient Sample (2016\u20132022) to analyze 110,225 hospitalizations for acute necrotizing pancreatitis (ANP), comparing in-hospital outcomes between patients who did and did not develop venous thromboembolism (VTE). ANP with VTE was associated with nearly double the in-hospital mortality (aOR 1.89), an average 10.7 additional hospital days, and $151,685 more in charges. Subtype analysis revealed that deep vein thrombosis (DVT) and portal vein thrombosis (PVT) drove higher mortality, while splenic vein thrombosis (SVT) was linked to distinct vascular complications including gastric varices.",
+      "why_it_matters": "The large-scale finding that blood clot type in acute necrotizing pancreatitis predicts dramatically different patterns of organ complications suggests that individualized anticoagulation strategies \u2014 tailored to clot location \u2014 could be an important area for future clinical trials.",
+      "caveats": "observational design, administrative database (ICD codes \u2014 no imaging or lab verification), no anticoagulation treatment data, short follow-up (in-hospital only)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large N, clinically relevant pancreatitis finding; observational database design limits causality.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "VTE Subtype Drives Distinct Complication Profiles in Acute Necrotizing Pancreatitis, Nationwide Data Show",
+          "hook": "An analysis of over 110,000 acute necrotizing pancreatitis hospitalizations finds that blood clot type \u2014 not just presence \u2014 determines which life-threatening complications patients face, pointing toward a need for phenotype-specific anticoagulation strategies.",
+          "pitch_angle": "While DVT in ANP was most strongly associated with systemic complications and mortality (aOR 2.39), portal vein thrombosis drove mesenteric ischemia (aOR 8.28) and splenic vein thrombosis was most associated with gastric varices (aOR 11.37) \u2014 a pattern of vascular territory-specific risk that has been poorly characterized in prior literature. The authors call for prospective trials evaluating anticoagulation strategies tailored to VTE subtype in ANP."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42911030",
+      "headline": "A newly discovered 'jumbo' virus can infect drug-resistant bacteria that stump other viruses \u2014 by hiding a key target protein",
+      "journal": "Microbiology Spectrum",
+      "pubdate": "2026 Oct 22",
+      "doi": "10.1128/spectrum.02068-26",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated a novel jumbo bacteriophage (\u03a6BRkr) from sewage water in Japan and characterized it genomically, finding it could infect 62% of 100 diverse clinical Pseudomonas aeruginosa isolates \u2014 a multidrug-resistant opportunistic pathogen. Compared to a related jumbo phage (\u03a6NK1, 40% host range), \u03a6BRkr showed broader infectivity, apparently because it lacks a protein that triggers the bacteria's 'Jumbo phage killer' (JukAB) defense system. The study is in vitro/genomic characterization with no human subjects.",
+      "why_it_matters": "Understanding how certain phages naturally evade bacterial immune defenses could accelerate the development of phage therapies for drug-resistant infections \u2014 a growing global health crisis.",
+      "caveats": "animal or cell study, in vitro genomic characterization only, no clinical outcomes, single-center, Japan-derived isolates",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Phage therapy science; in vitro only, no gut/digestive health link.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News / General health",
+          "headline": "A 'Stealth' Virus That Evades Drug-Resistant Bacteria Could Advance Phage Therapy",
+          "hook": "A newly isolated giant virus can infect nearly two-thirds of clinical drug-resistant bacterial strains by hiding the one protein bacteria use to destroy it.",
+          "pitch_angle": "Researchers discovered that the jumbo phage \u03a6BRkr naturally lacks a protein that triggers Pseudomonas aeruginosa's most robust antiviral defense, giving it a broader kill range than similar viruses tested. The finding suggests that natural phage 'stealth' strategies could be leveraged to design more effective phage therapies for infections that no longer respond to antibiotics."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42906761",
+      "headline": "Your mouth harbors methane-producing microbes that may shape oral disease \u2014 and we're just learning how to see them",
+      "journal": "Journal of Microbiological Methods",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1016/j.mimet.2026.107755",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a comprehensive review of advanced microscopy and molecular imaging techniques used to study methanogenic archaea \u2014 methane-producing microorganisms \u2014 in the human oral microbiome. The review synthesizes established and emerging imaging approaches, comparing them on specificity, resolution, and clinical feasibility. Key finding: oral methanogens are functionally significant in periodontal disease and other oral-systemic conditions, but critical imaging and standardization gaps remain.",
+      "why_it_matters": "Methane-producing microbes in the mouth may play an overlooked role in gum disease and systemic health, and better imaging tools could eventually help clinicians detect and target them.",
+      "caveats": "review article, no primary human data, microbiome data only (no clinical outcomes), small field with limited prior validation",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Niche oral microbiome methods review; no primary data or clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / science-forward outlets",
+          "headline": "Your mouth has methane-producing microbes \u2014 and scientists are finally learning how to find them",
+          "hook": "Methanogenic archaea \u2014 the same microbes that produce methane in swamps \u2014 live in your mouth and may be driving gum disease, but until now we lacked the tools to even see them clearly.",
+          "pitch_angle": "A new review maps the state of the science for imaging these elusive oral microbes, finding that critical gaps in detection technology have left their role in periodontal disease and systemic health almost entirely unexplored. Better microscopy tools could eventually reveal whether targeting these archaea improves dental or broader health outcomes."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42770715",
+      "headline": "A newly identified Legionella variant is more inflammatory than known strains \u2014 and may be flying under diagnostic radar",
+      "journal": "Applied and Environmental Microbiology",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1128/aem.01109-26",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers performed pan-genomic analysis of 242 Legionella longbeachae isolates and identified a phylogenetically distinct lineage (putative serogroup 3, sg3), recovered from Chinese environmental samples, characterized by genome reduction and loss of plasmids. In vitro infection models using multiple human cell lines found that sg3 induced significantly higher host cell death and elevated proinflammatory cytokine expression compared to canonical serogroups 1 and 2. Unexpectedly, this enhanced inflammatory phenotype was associated not with individual virulence genes but with expansion of mobile genetic elements (mobilome).",
+      "why_it_matters": "This counterintuitive finding \u2014 that a bacteria with a smaller genome can be more inflammatory than larger-genome relatives \u2014 suggests current Legionella surveillance and diagnostic frameworks may miss a potentially more dangerous strain.",
+      "caveats": "animal or cell study, single-center, study population limited to China (environmental isolates)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Counterintuitive microbiology finding; no direct gut health or diet relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "A Legionella Strain With a Shrunk Genome Is Somehow More Dangerous \u2014 and We May Not Be Testing for It",
+          "hook": "Scientists found a new variant of the bacterium behind Legionnaires' disease that has a smaller genome than known strains but triggers a fiercer inflammatory response in human cells.",
+          "pitch_angle": "The finding upends the intuitive assumption that a stripped-down bacterial genome means reduced threat \u2014 and raises concerns that standard diagnostic tools could miss this lineage entirely if surveillance criteria aren't updated."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42906735",
+      "headline": "Banned industrial chemicals found in teens' blood are still driving obesity risk decades after regulation",
+      "journal": "Food and Chemical Toxicology",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1016/j.fct.2026.116468",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed serum levels of 97 environmental chemicals in 665 adolescents and used epidemiological modeling, toxicogenomics, and benchmark dose analysis to assess obesity risk. Two legacy pollutants \u2014 hexachlorobenzene (HCB) and pentachlorophenol (PCP) \u2014 were consistently linked to overweight and obesity, with approximately 4% of participants showing high-risk PCP exposure. Mechanistic analyses suggest both chemicals disrupt hormonal and metabolic pathways through key regulators including PPAR\u03b3 and insulin signaling.",
+      "why_it_matters": "Even decades after widespread regulation, legacy industrial pollutants detectable in everyday food chains may still be quietly influencing metabolic health and obesity risk in young people.",
+      "caveats": "small sample (N<100 disqualified \u2014 N=665 so not small), observational design, single-center, cross-sectional design (no causal inference), adolescent population only (China-based, Wuhan), in vitro validation component",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Metabolic/obesity relevance, human data, but limited gut-health direct tie.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "The Long Shadow of Banned Chemicals: Legacy Pollutants Are Still Making Teenagers Fat",
+          "hook": "Chemicals outlawed generations ago are still showing up in adolescents' blood \u2014 and may still be fueling the obesity epidemic.",
+          "pitch_angle": "Despite decades of regulatory bans, industrial pollutants like hexachlorobenzene and pentachlorophenol persist in the food supply and human bodies, and new research in 665 teens suggests they may still be disrupting the hormonal systems that regulate weight. The finding raises uncomfortable questions about whether our chemical past is quietly shaping health outcomes we're blaming on diet and lifestyle."
+        },
+        {
+          "publication_type": "Everyday Health",
+          "headline": "Old Toxic Chemicals Banned Decades Ago May Still Be Linked to Obesity Risk in Teens",
+          "hook": "A new study found that two long-banned industrial chemicals still detectable in teenagers' blood are associated with higher rates of overweight and obesity.",
+          "pitch_angle": "Researchers measuring 97 chemicals in adolescents' serum found that hexachlorobenzene and pentachlorophenol \u2014 both heavily regulated or banned \u2014 were the strongest chemical predictors of obesity, acting by disrupting hormone and insulin signaling pathways. The findings suggest that the cumulative chemical burden carried through food and environmental exposure may be an underappreciated factor in metabolic health."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42906827",
+      "headline": "Gut Bacteria Turn Dietary Fiber Into a Gut-Healing Signal \u2014 and Scientists Found the Exact Molecular Step",
+      "journal": "Gastroenterology",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1053/j.gastro.2026.09.028",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Juntendo University and Keio University (Japan) investigated how dietary fiber promotes mucosal healing in the gut, using a combination of mouse models, in vitro experiments, and human data from patients with gastrointestinal conditions. They identified a microbiota-taurine pathway in which gut bacteria metabolize fiber-derived compounds that ultimately boost taurine availability, which in turn supports intestinal mucosal repair. The study pinpoints a specific molecular mechanism linking fiber intake to gut lining healing, with potential implications for conditions like ulcerative colitis where mucosal healing is a key treatment target.",
+      "why_it_matters": "Identifying the precise microbial-metabolic pathway through which dietary fiber supports gut lining repair could eventually inform targeted nutritional or microbiome-based strategies for people with inflammatory bowel disease.",
+      "caveats": "animal or cell study (mechanistic components), human data extent unclear from truncated abstract, single-center (Japan), microbiome data only (no clinical outcomes confirmed from abstract)",
+      "fact_check_note": "Abstract was truncated; summary reflects available information. Human component details \u2014 including N and study design \u2014 could not be fully verified. Caveats reflect this uncertainty.",
+      "relevance_score": 8,
+      "relevance_score_reason": "Fiber-microbiome-IBD link with novel mechanism; Gastroenterology journal; partially human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Scientists Just Figured Out Exactly How Fiber Heals Your Gut Lining \u2014 and It Involves Your Microbiome",
+          "hook": "New research suggests the gut-healing power of dietary fiber doesn't work directly \u2014 it works through your gut bacteria, which convert fiber into a compound that repairs your intestinal lining.",
+          "pitch_angle": "The study identified a microbiota-taurine pathway as the molecular middleman between eating fiber and achieving mucosal healing, a finding that adds nuance to why fiber matters for gut health beyond just regularity. For people with inflammatory gut conditions, it suggests that the health of your microbiome may determine how well dietary fiber actually works for you."
+        },
+        {
+          "publication_type": "EatingWell",
+          "headline": "Here's the Molecular Reason Why High-Fiber Foods Are So Good for Your Gut",
+          "hook": "A new study traces exactly how dietary fiber repairs the gut lining \u2014 and the answer runs through your gut bacteria.",
+          "pitch_angle": "Researchers found that gut microbes convert fiber into compounds that boost taurine, an amino acid that helps heal the intestinal mucosal layer, explaining a key biological mechanism behind fiber's gut-health benefits. The finding suggests that the type and diversity of your gut bacteria may influence how much healing benefit you get from a high-fiber diet."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Microbiota-Taurine Axis Identified as Key Mediator of Dietary Fiber\u2013Induced Mucosal Healing",
+          "hook": "A new study in Gastroenterology maps a specific microbial-metabolic pathway through which dietary fiber promotes intestinal mucosal repair \u2014 a mechanistic finding with direct relevance to IBD treatment targets.",
+          "pitch_angle": "Using mouse models and human data, researchers at Juntendo and Keio Universities identified that gut bacteria metabolize fiber-derived substrates to elevate taurine levels, which drives mucosal healing \u2014 establishing a potential gut-microbiome-based explanation for why high-fiber diets are associated with better outcomes in ulcerative colitis. If validated in larger human trials, this pathway could become a therapeutic target for microbiome-based or dietary interventions aimed at achieving mucosal remission."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42905967",
+      "headline": "Ulcerative Colitis Drugs Heal the Upper Colon First \u2014 the Rectum Stubbornly Lags Behind",
+      "journal": "Inflammatory Bowel Diseases",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1093/ibd/izag184",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed endoscopic and histologic data from 76\u201379 patients with moderate-to-severe ulcerative colitis enrolled in the SERENE UC clinical trial of adalimumab, assessing segmental colon healing at weeks 8 and 52. They found that score reductions were consistently and significantly greater in the ascending, transverse, and descending colon compared to the rectum at both time points. The results challenge the longstanding assumption that UC mucosal healing follows a proximal-to-distal pattern, instead showing the rectum is the most treatment-resistant segment.",
+      "why_it_matters": "The finding suggests that standard clinical endpoints focused on rectal healing may actually capture the colon's most treatment-resistant site, which has implications for how remission is defined and how biologics are evaluated in UC trials.",
+      "caveats": "small sample (N<100), secondary analysis, single biologic (adalimumab) \u2014 may not generalize to other UC therapies, industry funding [AbbVie \u2014 Laroux FS listed as AbbVie affiliation]",
+      "fact_check_note": "One co-author (Laroux FS) is affiliated with AbbVie Bioresearch Center; adalimumab is an AbbVie product. This represents potential industry conflict not explicitly labeled as 'funding' in the abstract but relevant to interpretation.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive IBD finding with clinical trial data; small N and industry affiliation limit score.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Rectal Segment Lags Farthest Behind in UC Mucosal Healing \u2014 Upending the Proximal-to-Distal Model",
+          "hook": "A secondary analysis of the SERENE UC trial finds that adalimumab heals the ascending and transverse colon significantly better than the rectum \u2014 directly contradicting the widely held proximal-to-distal healing model in ulcerative colitis.",
+          "pitch_angle": "Endoscopic and histologic score reductions were consistently greater in proximal colonic segments versus the rectum at both week 8 and week 52, suggesting that persistent rectosigmoiditis may be a common and underappreciated treatment challenge. The findings raise questions about whether rectal-centric endpoints in UC trials adequately reflect the full spectrum of colonic healing."
+        },
+        {
+          "publication_type": "Everyday Health",
+          "headline": "Why Ulcerative Colitis Is So Hard to Treat in One Specific Part of the Colon",
+          "hook": "Scientists studying a common ulcerative colitis drug found that it heals the upper colon much more effectively than the rectum \u2014 a finding that surprises even experts.",
+          "pitch_angle": "The study found that patients receiving adalimumab showed significantly greater healing in the ascending and transverse colon compared to the rectum over a year of treatment, suggesting the lower end of the colon is uniquely resistant to therapy. For people living with UC, this could help explain why symptoms sometimes persist even after treatment appears to be working."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42905346",
+      "headline": "Rectal Cancer Came Back 23 Years After Surgery \u2014 Hidden as a Benign-Looking Lump",
+      "journal": "Clinical Journal of Gastroenterology",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1007/s12328-026-02469-z",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Clinicians in Japan report a single case of a patient whose rectal cancer recurred at the surgical anastomosis site 23 years after curative resection and adjuvant chemotherapy with 5-fluorouracil. The recurrence appeared endoscopically as a 15 mm submucosal tumor-like lesion rather than a typical ulcerating cancer, and was identified via colonoscopy triggered by a positive fecal occult blood test. Endoscopic ultrasound elastography and tissue biopsy confirmed adenocarcinoma with histology matching the original tumor.",
+      "why_it_matters": "This case suggests that even patients considered long-term colorectal cancer survivors \u2014 decades beyond the standard five-year follow-up window \u2014 may harbor late recurrences detectable by routine screening tools like fecal occult blood testing.",
+      "caveats": "small sample (N<100), single-center, case report (N=1)",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Colorectal cancer relevance, but N=1 case report limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "A Patient's Colon Cancer Came Back After 23 Years \u2014 Here's What Doctors Say It Means for Survivors",
+          "hook": "A new case report describes rectal cancer recurring more than two decades after surgery \u2014 disguised as a non-cancerous-looking lump.",
+          "pitch_angle": "Doctors in Japan identified adenocarcinoma at a rectal surgical scar 23 years after the patient was treated and considered cured, detected only because a routine stool test flagged hidden blood. While a single case cannot change guidelines, it raises questions about whether 'cured' colorectal cancer patients need lifelong surveillance beyond the standard five-year window."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42905336",
+      "headline": "A little-known probiotic yeast is being touted as the next S. boulardii \u2014 but the evidence is still mostly from test tubes and farm animals",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Oct 21",
+      "doi": "10.1007/s12602-026-11278-2",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a review comparing the probiotic yeast Pichia kudriavzevii to the well-established Saccharomyces cerevisiae var. boulardii, evaluating its gastrointestinal adaptability, antimicrobial activity, immune effects, and mycotoxin-binding potential across poultry, swine, ruminant, and aquaculture studies. No human trials were reviewed. Key finding: P. kudriavzevii shows promising functional properties but evidence is largely strain-specific, in vitro, or from limited animal studies, and biosafety concerns including its status as an opportunistic pathogen in immunocompromised hosts require resolution before human application.",
+      "why_it_matters": "As interest in yeast-based probiotics grows, this review cautions that a trendy emerging candidate still lacks the human safety and efficacy data needed to position it alongside proven probiotic yeasts \u2014 an important check on hype in the probiotic supplement space.",
+      "caveats": "review article, animal or cell study, no human data, in vitro evidence predominates, biosafety concerns flagged by authors",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Probiotic topic fit; animal/in vitro only, no human data, review format.",
+      "pitch_angles": [
+        {
+          "publication_type": "Verywell Health / Everyday Health",
+          "headline": "A New Probiotic Yeast Is Getting Buzz \u2014 But Scientists Say It's Not Ready for Human Use Yet",
+          "hook": "Pichia kudriavzevii is being researched as the next big probiotic yeast, but a new review finds its evidence base is almost entirely from test tubes and livestock studies \u2014 and it can act as an opportunistic pathogen in vulnerable people.",
+          "pitch_angle": "Researchers comparing P. kudriavzevii to the well-validated probiotic yeast S. boulardii found that while the newcomer shows promising stress tolerance and antimicrobial properties, no human safety or efficacy trials support its use and it carries real biosafety concerns in immunocompromised individuals. The review is a useful reality check for consumers and practitioners navigating an increasingly crowded probiotic supplement market."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775881",
+      "headline": "Parasitic worms carry their own gut microbiomes \u2014 and those microbes may help the worms survive inside us",
+      "journal": "mSystems",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1128/msystems.00569-26",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers reviewed current evidence on the microbiomes carried by the intestinal parasites Ascaris lumbricoides and Trichuris trichiura (roundworm and whipworm), which infect hundreds of millions of people globally. Rather than focusing on how parasites alter the host gut microbiome, the review examines the parasites' own associated microbial communities. Key finding: these parasite-associated microbiomes are largely transient and host-derived, but may support parasite survival and immune evasion \u2014 and reproductive tissues may harbor a stable, conserved microbiota worth investigating for therapeutic targeting.",
+      "why_it_matters": "If parasitic worms rely on their own internal microbiome to survive inside human hosts, disrupting that parasite microbiome could offer a new strategy to control some of the world's most common intestinal infections.",
+      "caveats": "review article, no primary human data, animal or cell study data referenced, microbiome data only (no clinical outcomes), largely in vitro or experimental models",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Emerging microbiome concept; review only, no clinical data, global health framing needed.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "Parasites Have Their Own Gut Microbiomes \u2014 and That Changes How We Might Fight Them",
+          "hook": "Intestinal parasites that infect over a billion people worldwide don't just disrupt your gut microbiome \u2014 they carry their own microbial communities that may be essential to their survival.",
+          "pitch_angle": "A new review synthesizes early evidence suggesting that roundworms and whipworms harbor their own associated microbiota, possibly acquired from their human hosts, which may help them evade immune attacks. If confirmed, the parasite microbiome could become a novel target for treating some of the world's most neglected infectious diseases."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775892",
+      "headline": "A gut bacterium never seen before appears to fight colorectal cancer \u2014 without triggering harmful inflammation",
+      "journal": "mSystems",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1128/msystems.00528-26",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated and characterized a novel gut-derived Streptomyces strain (CGMCC 17111) from human gut microbiota and tested its effects on colorectal cancer in both cell-based and animal models. The strain is genetically distinct from its closest known relative, Streptomyces albidoflavus DSM 40455T, which showed no anticancer activity. Early evidence suggests CGMCC 17111 suppresses colorectal cancer by inducing apoptosis while preserving gut homeostasis and avoiding excessive inflammation.",
+      "why_it_matters": "The discovery that a naturally resident gut bacterium may hold antitumor properties suggests the gut microbiome could harbor yet-uncharacterized microbial species relevant to colorectal cancer biology.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, microbiome data only (no clinical outcomes)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Novel gut microbiome-colorectal cancer link, but no human clinical outcomes yet.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Scientists Found a Gut Microbe That Might Fight Colorectal Cancer \u2014 And It Was There All Along",
+          "hook": "A bacterium already living in the human gut appears to suppress colorectal cancer cells without triggering the kind of inflammation that makes conventional treatments so brutal.",
+          "pitch_angle": "Researchers isolated a never-before-described Streptomyces strain from human gut microbiota and found it induces cancer cell death in lab and animal models while preserving gut balance \u2014 raising provocative questions about what else the microbiome might be doing against cancer that science hasn't yet noticed."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Novel Gut-Derived Streptomyces Strain Shows Antitumor Activity in Colorectal Cancer Models",
+          "hook": "A newly characterized gut bacterial species suppressed colorectal cancer in vitro and in vivo without eliciting inflammatory injury \u2014 a potential avenue for microbiome-based oncology research.",
+          "pitch_angle": "The strain CGMCC 17111, phylogenetically distinct from its nearest known relative, induced apoptosis in colorectal cancer models while maintaining gut homeostasis, offering a preliminary mechanistic rationale for microbiome-modulation strategies in CRC management \u2014 though human trial data are absent."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42734327",
+      "headline": "One Gut Microbe Is Depleted in Colorectal Cancer, Crohn's, and Liver Cirrhosis \u2014 a Possible Shared Vulnerability",
+      "journal": "mSystems",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1128/msystems.00836-26",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers applied a novel 'maximin' pipeline-selection method to benchmark 1,152 preprocessing-model configurations across gut metagenomics and serum metabolomics data from three diseases (colorectal cancer, Crohn's disease, and liver cirrhosis) in a secondary cross-sectional analysis of public datasets. The analysis identified a 19-species microbiome signature shared across all three conditions, with one taxon \u2014 Firmicutes bacterium CAG:41 \u2014 consistently depleted regardless of analytical approach. While microbiome pathway signals converged on sulfur-selenium redox metabolism and B-vitamin biosynthesis, the metabolomic responses to these shared microbial changes were largely disease-specific.",
+      "why_it_matters": "The finding of a single gut microbe depleted across three serious gut-associated diseases suggests there may be shared microbial vulnerabilities worth targeting, even as the body responds to each disease differently \u2014 an early but conceptually important step toward cross-disease microbiome diagnostics.",
+      "caveats": "observational design, secondary analysis, microbiome data only (no clinical outcomes), single-center, small validation cohort for CD and LC",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Cross-disease microbiome finding is novel; secondary analysis with no clinical outcomes limits score.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Scientists Found One Gut Microbe Missing in Three Different Serious Diseases. What Does That Mean?",
+          "hook": "A single bacterial species \u2014 depleted in colorectal cancer, Crohn's disease, and liver cirrhosis alike \u2014 hints at a shared microbial vulnerability hiding beneath very different illnesses.",
+          "pitch_angle": "A new analytical framework applied to public microbiome data found one gut bacterium, Firmicutes CAG:41, consistently missing across three distinct gut-associated diseases, raising the question of whether some gut microbial losses are universal stress signals. While early and based on existing datasets rather than a new clinical trial, the finding challenges the prevailing assumption that each gut disease has a wholly unique microbial fingerprint."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Cross-Disease Metagenomics Analysis Identifies Candidate Shared Microbial Taxon Depleted in CRC, Crohn's, and Liver Cirrhosis",
+          "hook": "A 'maximin' optimization framework applied to 1,152 preprocessing pipelines reveals that analytical choices alone can swing microbiome classification performance from near-random to near-perfect \u2014 and that one taxon survives that scrutiny across all three diseases.",
+          "pitch_angle": "Applying a decision-theoretic pipeline-selection method to gut metagenomics and serum metabolomics data from colorectal cancer, Crohn's disease, and liver cirrhosis, researchers identified Firmicutes bacterium CAG:41 as the sole threshold-stable cross-disease taxon, with enriched pathways in sulfur-selenium redox metabolism. The study is a secondary cross-sectional analysis of public data requiring prospective validation, but it offers a methodological template for more reliable cross-disease microbiome comparisons."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42897786",
+      "headline": "Gastric cancer removal by endoscopy carries a 16.6% bleeding risk in real-world practice \u2014 far higher than expert-center data suggest",
+      "journal": "Gut and Liver",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.5009/gnl260159",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed nationwide South Korean insurance claims data for 83,871 gastric endoscopic submucosal dissection (ESD) procedures performed between 2013 and 2017. The study found a post-procedure bleeding rate of 16.6% \u2014 substantially higher than rates typically reported from high-volume expert centers \u2014 with perforation, pneumonia, and ICU admission each occurring in under 1% of cases. Procedures at general hospitals (vs. tertiary centers) and use of anticoagulants like warfarin were associated with higher complication risks.",
+      "why_it_matters": "Real-world complication rates for a common stomach cancer removal procedure appear significantly higher than those reported in specialized center trials, suggesting patients and clinicians may be working from underestimated risk figures.",
+      "caveats": "observational design, single-center (single country \u2014 South Korea), claims-based data (cannot capture lesion- or procedure-specific risk factors), retrospective cohort",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Large real-world N, gastroenterology procedure safety; limited diet/microbiome relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Real-World Bleeding After Gastric ESD Tops 16% \u2014 Far Above Expert-Center Benchmarks",
+          "hook": "A nationwide analysis of nearly 84,000 procedures finds post-ESD bleeding occurs more than twice as often in routine clinical practice as elite center data imply.",
+          "pitch_angle": "Using South Korean insurance claims covering five years and over 83,000 gastric ESD cases, researchers found bleeding rates of 16.6% \u2014 a figure that may reset expectations for informed consent and quality benchmarking outside high-volume centers. Institution type and anticoagulant use were key modifiable risk factors, pointing to targets for quality improvement."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42899947",
+      "headline": "Where insulin resistance sits in your body \u2014 muscle, fat, or liver \u2014 predicts very different liver disease outcomes",
+      "journal": "Journal of the American Nutrition Association",
+      "pubdate": "2026 Oct 20",
+      "doi": "10.1080/27697061.2026.2742270",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 2,306 patients (1,067 with MASLD, 1,239 without) who underwent oral glucose tolerance testing and comprehensive metabolic evaluations at a single Chinese medical center. Using tissue-specific insulin resistance indices for muscle, fat, liver, and whole-body, they found that each type of IR predicted a distinct MASLD complication: hepatic IR drove fat accumulation, adipose IR drove fibrosis, systemic IR drove liver injury, and lower muscle IR was paradoxically associated with cardiovascular disease risk. The study suggests that the 'location' of insulin resistance \u2014 not just its presence \u2014 may explain why fatty liver disease looks so different from patient to patient.",
+      "why_it_matters": "Understanding that different tissue-specific patterns of insulin resistance map to different MASLD complications could eventually help clinicians tailor metabolic interventions more precisely for liver disease patients.",
+      "caveats": "observational design, single-center, retrospective design, cross-sectional (no causal inference), China-based population, no dietary intake data",
+      "fact_check_note": "The abstract states muscle IR was inversely associated with CVD (OR: 2.87), meaning lower muscle IR was associated with higher CVD odds \u2014 this counterintuitive direction should be noted carefully; the summary reflects this accurately.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Large human cohort, strong liver/metabolic disease relevance, counterintuitive IR finding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline",
+          "headline": "Fatty Liver Disease Isn't One-Size-Fits-All \u2014 And Your Type of Insulin Resistance May Explain Why",
+          "hook": "New research in over 2,000 patients found that where insulin resistance occurs in the body \u2014 liver, fat tissue, or muscle \u2014 predicts entirely different complications of fatty liver disease.",
+          "pitch_angle": "A large retrospective study found that hepatic insulin resistance was most strongly tied to fat buildup in the liver, adipose insulin resistance to scarring (fibrosis), and lower muscle insulin resistance to cardiovascular risk \u2014 suggesting MASLD is not a single condition but a cluster of metabolic phenotypes. This could reshape how doctors assess and eventually treat what is now the world's most common liver disease."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Tissue-Specific Insulin Resistance Profiles Distinguish MASLD Phenotypes Across Steatosis, Fibrosis, and CVD Risk",
+          "hook": "A 2,306-patient retrospective cohort study shows that hepatic, adipose, muscle, and systemic insulin resistance each associate with distinct MASLD manifestations \u2014 challenging the field to move beyond aggregate IR measures.",
+          "pitch_angle": "Using oral glucose tolerance test-derived indices, investigators at Sun Yat-sen University found that hepatic IR conferred a 16-fold increased odds of moderate-severe steatosis, adipose IR nearly 6-fold odds of significant fibrosis, and lower muscle IR paradoxically associated with elevated cardiovascular disease risk. The findings argue for tissue-resolved IR profiling as a potential tool for stratifying MASLD severity and personalizing metabolic interventions."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42895324",
+      "headline": "A Virus Living Inside a Deadly Brain Fungus Has Been Found for the First Time \u2014 and It May Change How the Fungus Kills",
+      "journal": "mBio",
+      "pubdate": "2026 Oct 19",
+      "doi": "10.1128/mbio.02060-26",
+      "groundbreaking": "First-in-class human study / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers searched publicly available transcriptomic data from Cryptococcus neoformans \u2014 the fungus responsible for cryptococcal meningitis, a leading killer of people with HIV/AIDS \u2014 and identified Totiviridae viral genomes in six clinical isolates, all from the cerebrospinal fluid of HIV-positive patients in Botswana. RT-PCR confirmed the virus's continued presence in three isolates, and genomic analysis identified two genotypes of a single novel Totivirus species. This is the first mycovirus (a virus that infects fungi) ever characterized in C. neoformans, though its effect on fungal virulence in humans is not yet known.",
+      "why_it_matters": "Discovering that a fungus causing a frequently fatal brain infection can itself harbor a virus opens an entirely new line of inquiry into what controls \u2014 or amplifies \u2014 the pathogen's lethality in immunocompromised people.",
+      "caveats": "small sample (N<100), observational design, microbiome data only (no clinical outcomes), animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Novel first-in-class finding in clinically important pathogen; no gut/diet relevance, very early stage.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "A Deadly Brain Fungus Has Its Own Virus. Scientists Have No Idea What It Does \u2014 Yet.",
+          "hook": "For the first time, researchers have found a virus living inside Cryptococcus neoformans, the fungus that kills hundreds of thousands of people with HIV every year through a lethal brain infection.",
+          "pitch_angle": "The discovery of a previously unknown mycovirus embedded in clinical samples of C. neoformans \u2014 pulled directly from the spinal fluid of patients with cryptococcal meningitis \u2014 raises the possibility that a viral hitchhiker may be influencing how dangerous the fungus becomes. While the functional consequences are completely unknown, the finding mirrors earlier discoveries in plant fungi where resident viruses dramatically altered host behavior, suggesting a new and entirely unexplored dimension of this neglected global killer."
+        }
+      ],
+      "run_date": "2026-10-25",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
     {
       "pmid": "42909608",
       "headline": "A Frailty Score Built From Insurance Claims Predicts Dangerous Complications in Older Adults Undergoing Stomach and Esophagus Cancer Removal",
@@ -33,120 +567,6 @@
       ],
       "run_date": "2026-10-24",
       "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42909627",
-      "headline": "Cordyceps Mushrooms Are Everywhere in Supplements \u2014 But the Science Still Has Major Gaps",
-      "journal": "Archives of Microbiology",
-      "pubdate": "2026 Oct 23",
-      "doi": "10.1007/s00203-026-05259-w",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a comprehensive narrative review of Cordyceps fungi \u2014 including Ophiocordyceps sinensis and Cordyceps militaris \u2014 synthesizing evidence on their bioactive compounds (cordycepin, polysaccharides, sterols), signaling pathway interactions (AMPK, NF-\u03baB, mTOR), and therapeutic potential. The review is not a primary study and includes no human subjects or animal experiments. Key finding: despite promising preclinical evidence for immunomodulatory, anti-inflammatory, and metabolic effects, the authors conclude that species authentication, chemical standardization, and rigorous clinical validation remain critical unresolved challenges.",
-      "why_it_matters": "As Cordyceps supplements flood the wellness market, this synthesis suggests the evidence base for their health claims is far ahead of validated clinical proof.",
-      "caveats": "review article (no primary data), no human or animal subjects, preclinical evidence predominates, no clinical outcomes assessed",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Timely wellness topic but review only; no clinical outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Everyday Health",
-          "headline": "You're Probably Taking Cordyceps Without Knowing If It Actually Works",
-          "hook": "A sweeping new scientific review finds that despite the mushroom supplement's explosive popularity, rigorous human clinical evidence is still largely missing.",
-          "pitch_angle": "The review maps out what Cordyceps compounds do in lab and preclinical settings \u2014 including effects on immune signaling and metabolism \u2014 but flags that species mislabeling, inconsistent dosing, and a lack of randomized trials mean consumers are largely experimenting on themselves. For readers spending money on functional mushroom products, this is a timely reality check."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42910930",
-      "headline": "When a Single Strain of Klebsiella Colonizes the Gut, Infection Risk Jumps \u2014 More Diversity May Be Protective",
-      "journal": "mSphere",
-      "pubdate": "2026 Oct 22",
-      "doi": "10.1128/msphere.00329-26",
-      "groundbreaking": "Counterintuitive finding / First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed a novel amplicon-based sequencing method called wzi-Seq to detect and quantify multiple Klebsiella pneumoniae strains from gut rectal swab samples. Applied to a case-control cohort of 171 hospitalized patients, the study found that 63.2% were colonized by a single Klebsiella strain and 36.8% by multiple strains. Counterintuitively, mono-colonization \u2014 not mixed colonization \u2014 was significantly associated with higher risk of developing a Klebsiella infection (P = 0.034).",
-      "why_it_matters": "The finding suggests that gut microbial diversity within a single pathogen species \u2014 not just across the broader microbiome \u2014 may influence whether a dangerous hospital-acquired infection takes hold.",
-      "caveats": "small sample (N<100 infection cases implied in case-control design), single-center, observational design, microbiome data only (no clinical outcomes beyond infection association)",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive gut colonization finding in humans; links microbiome structure to infection risk.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "Your Gut Bacteria's Diversity Might Protect You \u2014 Even Within a Single Species",
-          "hook": "Scientists found that hospital patients colonized by just one strain of a dangerous gut bacterium were significantly more likely to develop a serious infection than those harboring multiple strains.",
-          "pitch_angle": "A new sequencing tool revealed that within-species diversity of Klebsiella pneumoniae in the gut may be protective \u2014 a surprising twist on microbiome science that suggests the logic of 'diversity is good' extends even to individual bacterial species. The finding opens new questions about whether clinical interventions could manipulate strain diversity to prevent deadly hospital-acquired infections."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Novel wzi-Seq Tool Links Klebsiella Gut Mono-Colonization to Higher Infection Risk in Hospitalized Patients",
-          "hook": "A new amplicon sequencing method found that patients carrying a single Klebsiella strain in their gut faced significantly greater odds of extraintestinal infection than those with mixed-strain colonization.",
-          "pitch_angle": "The wzi-Seq assay achieved 93% sensitivity and 99.8% specificity for strain-level detection in complex gut samples, offering a practical tool for infection-risk stratification in inpatient settings. The counterintuitive association between mono-colonization and infection risk challenges assumptions about pathogen load and diversity in healthcare-associated infection prevention."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42906761",
-      "headline": "Methane-producing microbes live in your mouth \u2014 and they may be tied to gum disease and implant failure",
-      "journal": "Journal of Microbiological Methods",
-      "pubdate": "2026 Oct 21",
-      "doi": "10.1016/j.mimet.2026.107755",
-      "groundbreaking": "First-in-class human study / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This review synthesizes imaging and microscopy approaches used to study methanogenic archaea \u2014 methane-producing microorganisms \u2014 in the human oral microbiome, a group historically overlooked due to their low abundance and unusual cell wall structures. The authors compare established and emerging imaging techniques for visualizing these microbes within oral biofilms and describe their potential functional roles in periodontal disease, peri-implantitis, and endodontic infections. No new human subjects data are reported; the paper proposes a tiered imaging framework to guide future research on oral methanogens.",
-      "why_it_matters": "The discovery that methane-producing archaea \u2014 not just bacteria \u2014 may contribute to gum disease and dental implant failure suggests oral microbiology has been missing a major microbial kingdom in its models of disease.",
-      "caveats": "review article, microbiome data only (no clinical outcomes)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Interesting oral microbiome angle but review only; no clinical outcome data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good",
-          "headline": "Your Mouth Has Methane-Producing Microbes \u2014 and They May Be Wrecking Your Gums",
-          "hook": "A new review reveals that the microbes causing gum disease aren't just bacteria \u2014 methane-producing archaea may be in the mix, and we've barely started studying them.",
-          "pitch_angle": "Scientists have long focused on bacteria when studying gum disease, but a largely ignored group of methane-producing microorganisms called archaea appear to live in oral biofilms and may play a role in periodontal disease and implant failure. New imaging technology is finally making it possible to see these elusive microbes \u2014 which could eventually change how dentists think about oral health."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42770715",
-      "headline": "A Streamlined Bacterial Genome Turned Out to Be More Dangerous, Not Less \u2014 Upending Assumptions About Pathogen Evolution",
-      "journal": "Applied and Environmental Microbiology",
-      "pubdate": "2026 Oct 21",
-      "doi": "10.1128/aem.01109-26",
-      "groundbreaking": "Counterintuitive finding / Overturns prior research",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted pan-genomic analysis of 242 Legionella longbeachae isolates (including 39 newly sequenced from China) and identified a putative novel serogroup (sg3) with a smaller genome and no plasmids compared to canonical serogroups. In vitro infection assays across multiple human cell lines showed sg3 triggered greater cell death and higher proinflammatory cytokine expression than serogroups 1 and 2. Counterintuitively, this enhanced virulence was not linked to individual virulence genes but was statistically associated with expansion of mobile genetic elements (mobilome), suggesting genomic restructuring \u2014 not gene gain \u2014 may drive increased inflammatory potential.",
-      "why_it_matters": "The finding that a bacteria with a smaller, simpler genome can be more inflammatory than its larger-genome relatives challenges a foundational assumption in microbiology \u2014 with implications for how emerging respiratory pathogens like Legionella are monitored and diagnosed.",
-      "caveats": "in vitro (cell study) only \u2014 no animal or human infection outcomes, single-center, isolates from Chinese environments only (generalizability unclear), putative serogroup designation not yet formally validated",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Counterintuitive microbiology finding; in vitro only, no gut/digestive direct relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "Less DNA, More Dangerous: A Soil Bacterium Is Rewriting Rules of Pathogen Evolution",
-          "hook": "Scientists assumed bacteria with smaller, stripped-down genomes would be weaker pathogens \u2014 a new study of a Legionnaires' disease-causing microbe found the opposite.",
-          "pitch_angle": "A genomic analysis of 242 Legionella longbeachae isolates identified a lean new variant that, despite losing plasmids and shrinking its genome, provokes stronger inflammatory responses in human cells than its bulkier cousins. The finding suggests that mobile genetic elements \u2014 not individual virulence genes \u2014 may be quietly reshaping how dangerous emerging bacterial lineages become."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
       "chunk": "1/2",
       "status": "new"
     },
@@ -202,99 +622,6 @@
       "run_date": "2026-10-24",
       "category": "Microbiology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42775881",
-      "headline": "The parasites living in your gut have their own microbiomes \u2014 and we barely understand them",
-      "journal": "mSystems",
-      "pubdate": "2026 Oct 20",
-      "doi": "10.1128/msystems.00569-26",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This review summarizes existing evidence on the microbiomes harbored by the soil-transmitted helminth parasites Ascaris lumbricoides and Trichuris trichiura \u2014 the worms themselves, not just their host. Most research has focused on how parasites alter the host gut microbiome; this review highlights that the parasites carry their own bacterial communities, largely host-derived and transiently acquired, which may influence parasite survival and host interaction. Authors argue that studying parasite reproductive organ microbiomes \u2014 a largely unexplored site \u2014 could reveal stable, conserved microbial communities with therapeutic implications for controlling helminth infections.",
-      "why_it_matters": "Understanding that intestinal parasites carry their own microbiomes adds a new layer to gut health complexity and could open novel, microbiome-based strategies for treating helminth infections that affect over a billion people worldwide.",
-      "caveats": "review article, microbiome data only (no clinical outcomes), animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Niche microbiome review; no human clinical outcomes; low everyday reader relevance.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "The Worms in Your Gut Have Their Own Microbiomes. Scientists Are Just Starting to Care.",
-          "hook": "Intestinal parasites harboring their own bacterial ecosystems represent an almost entirely unexplored frontier of human gut biology.",
-          "pitch_angle": "A new review reveals that gut worms like Ascaris and Trichuris carry distinct microbial communities that may shape how they survive inside the human body \u2014 suggesting that the 'microbiome' conversation has been missing a critical character. For the billion-plus people globally infected with soil-transmitted helminths, this could eventually reframe treatment strategies."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42775892",
-      "headline": "A gut bacterium previously unknown to science may quietly suppress colorectal cancer \u2014 without triggering inflammation",
-      "journal": "mSystems",
-      "pubdate": "2026 Oct 20",
-      "doi": "10.1128/msystems.00528-26",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers isolated a novel gut bacterial strain, Streptomyces sp. CGMCC 17111, from the human gut microbiome and characterized it using genetic, phenotypic, and functional analyses; the strain was tested in vitro and in animal models. Unlike its closest known relative (S. albidoflavus DSM 40455T), this new species demonstrated potent suppressive effects on colorectal cancer cells and induced apoptosis without provoking strong inflammatory responses in the host. The findings suggest that anticancer bacteria may naturally reside in the gut but become suppressed under certain conditions, pointing to gut microbiome modulation as a potential cancer intervention strategy.",
-      "why_it_matters": "The discovery that a resident gut microbe may have inherent anti-tumor activity suggests that restoring a healthy gut ecology could one day be part of colorectal cancer prevention or treatment strategies.",
-      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), single-center",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Intriguing gut-cancer microbiome link, but preclinical only; no human clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Your Gut Might Already Contain Bacteria That Fight Cancer \u2014 If You Haven't Lost Them",
-          "hook": "A newly discovered gut bacterium may naturally suppress colorectal tumors \u2014 and scientists think modern gut dysbiosis could be silencing it.",
-          "pitch_angle": "Researchers have isolated a novel human gut Streptomyces strain that kills colorectal cancer cells in lab and animal models without triggering inflammation \u2014 raising the radical possibility that anticancer microbes are resident in our guts but suppressed by modern conditions. While the findings are strictly preclinical, they reframe gut microbiome health not just as digestion or immunity, but as a potential frontier in cancer biology."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Novel Human Gut Streptomyces Strain Shows Preclinical Antitumor Activity Against Colorectal Cancer",
-          "hook": "A newly characterized gut-derived Streptomyces species induced apoptosis in colorectal cancer models while preserving host homeostasis \u2014 suggesting a microbiome-based anticancer mechanism worthy of clinical exploration.",
-          "pitch_angle": "The strain, CGMCC 17111, is genetically distinct from any known Streptomyces species and demonstrated tumor-suppressive activity in both in vitro and in vivo models without eliciting marked inflammation. Authors hypothesize these anticancer bacteria may be broadly present in the human gut but functionally suppressed, opening a new avenue for microbiome-targeted oncology research."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42734327",
-      "headline": "One Gut Microbe May Be Depleted Across Colorectal Cancer, Crohn's Disease, and Liver Cirrhosis \u2014 Hinting at a Shared Microbial Vulnerability",
-      "journal": "mSystems",
-      "pubdate": "2026 Oct 20",
-      "doi": "10.1128/msystems.00836-26",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a secondary cross-sectional analysis of public gut metagenomics and serum metabolomics datasets spanning colorectal cancer (CRC), Crohn's disease (CD), and liver cirrhosis (LC), benchmarking 1,152 analytical pipeline configurations to find the most robust cross-disease microbial signals. A 19-species microbiome signature emerged, with Firmicutes bacterium CAG:41 as the only species consistently depleted across all three diseases; enriched pathways converged on sulfur-selenium redox metabolism and B-vitamin biosynthesis. External validation was adequately powered only for CRC (AUC = 0.769), and CD and LC assessments remain exploratory.",
-      "why_it_matters": "Early evidence suggests that despite their very different disease mechanisms, colorectal cancer, Crohn's disease, and liver cirrhosis may share a common microbial vulnerability \u2014 a finding that, if confirmed prospectively, could point toward shared microbiome-based screening or therapeutic targets.",
-      "caveats": "observational design, secondary analysis, microbiome data only (no clinical outcomes), short follow-up, cross-sectional design limits causal inference, CD and LC external validation underpowered",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Counterintuitive cross-disease microbiome signal across IBD, CRC, and cirrhosis; secondary analysis limits causal claims.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic / General health",
-          "headline": "Three Gut Diseases That Seem Very Different May Share One Hidden Microbial Weakness",
-          "hook": "A new analysis found that colorectal cancer, Crohn's disease, and liver cirrhosis \u2014 despite having distinct causes and symptoms \u2014 all appear to deplete the same obscure gut bacterium.",
-          "pitch_angle": "The finding, drawn from a rigorous re-analysis of thousands of gut microbiome configurations, suggests that a shared microbial disruption in sulfur and selenium metabolism may underlie disparate gut-related diseases. Scientists caution it is early-stage and associative, but the concept of a universal microbial 'weak link' across diseases could reshape how researchers think about gut health screening and intervention."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Cross-Disease Metagenomics Analysis Identifies Firmicutes bacterium CAG:41 as Threshold-Stable Taxon Depleted in CRC, Crohn's, and Liver Cirrhosis",
-          "hook": "A novel robustness-first analytical framework applied to public gut metagenomics datasets revealed a single bacterial species consistently depleted across colorectal cancer, Crohn's disease, and liver cirrhosis.",
-          "pitch_angle": "By benchmarking 1,152 preprocessing-model configurations to guard against pipeline-driven false signals, researchers identified a 19-species microbiome signature and a shared pathway enrichment in sulfur-selenium redox metabolism and B-vitamin biosynthesis across three major gut-associated diseases. The methodology addresses a long-standing reproducibility problem in cross-disease microbiome research, though prospective validation is needed before clinical translation."
-        }
-      ],
-      "run_date": "2026-10-24",
-      "category": "Microbiology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -495,66 +822,6 @@
       ],
       "run_date": "2026-10-24",
       "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42906735",
-      "headline": "Long-banned industrial chemicals may still be quietly driving obesity in today's teenagers",
-      "journal": "Food and Chemical Toxicology",
-      "pubdate": "2026 Oct 21",
-      "doi": "10.1016/j.fct.2026.116468",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers analyzed serum levels of 97 environmental chemicals in 665 adolescents in China, integrating epidemiological modeling, toxicogenomics, molecular docking, and in vitro experiments to assess the obesogenic potential of legacy pollutants. Hexachlorobenzene (HCB) and pentachlorophenol (PCP) \u2014 chemicals banned or heavily restricted for decades \u2014 were the strongest chemical predictors of overweight and obesity, converging on pathways involving PPAR\u03b3, estrogen receptors, insulin signaling, and oxidative stress. Margin-of-exposure analysis found that approximately 4% of participants showed high-risk PCP exposure levels.",
-      "why_it_matters": "The study suggests that persistent environmental pollutants accumulated in food chains and human tissue may be contributing to adolescent obesity independently of diet and lifestyle, complicating the conventional narrative that obesity is primarily a behavioral issue.",
-      "caveats": "observational design, single-center, adolescent population (China \u2014 may not generalize), self-reported dietary intake not described, short follow-up, in vitro validation only (no animal or human causal confirmation of mechanism), small sample (N<1000 but N=665)",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive environmental-obesity link in humans; observational design and single-region limit score.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Chemicals We Banned Decades Ago May Still Be Making Teenagers Fat",
-          "hook": "Despite being banned or heavily restricted for decades, two legacy industrial pollutants were the strongest chemical predictors of overweight and obesity in a study of 665 adolescents.",
-          "pitch_angle": "The finding challenges the dominant view that obesity is primarily driven by diet and inactivity, suggesting that persistent environmental contaminants \u2014 still circulating in food chains and human bodies long after regulation \u2014 may be quietly reshaping adolescent metabolic health in ways we haven't fully accounted for."
-        },
-        {
-          "publication_type": "Verywell Health",
-          "headline": "Banned Pesticides and Industrial Chemicals Still Linked to Higher Obesity Risk in Teens",
-          "hook": "A new study found that hexachlorobenzene and pentachlorophenol \u2014 chemicals restricted decades ago \u2014 were among the strongest predictors of overweight and obesity in adolescents whose blood was tested for nearly 100 environmental chemicals.",
-          "pitch_angle": "The research suggests legacy pollutants persist in the body at levels that may still disrupt hormones and metabolism, adding a layer of complexity to adolescent obesity that goes beyond food choices and physical activity."
-        }
-      ],
-      "run_date": "2026-10-23",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42895324",
-      "headline": "A virus living inside a deadly brain fungus could change how scientists fight cryptococcal meningitis",
-      "journal": "mBio",
-      "pubdate": "2026 Oct 19",
-      "doi": "10.1128/mbio.02060-26",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers searched publicly available transcriptomic data from Cryptococcus neoformans \u2014 the fungus responsible for life-threatening cryptococcal meningitis \u2014 and identified a previously unknown mycovirus (a virus that infects fungi) of the Totiviridae family in six clinical isolates from HIV-positive patients in Botswana. RT-PCR independently confirmed the virus's presence in three isolates. This is the first report of a mycovirus capable of infecting C. neoformans, opening questions about whether the virus affects fungal virulence.",
-      "why_it_matters": "Mycoviruses have been shown to alter the virulence of other disease-causing fungi, so the discovery of one inside a leading killer of immunocompromised people hints at a potential new angle for tackling a largely untreatable infection.",
-      "caveats": "small sample (N<100), single-center, animal or cell study (in vitro/genomic only \u2014 no clinical outcomes assessed), narrow geographic context (Botswana isolates)",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Scientifically novel but limited gut health relevance; in vitro/genomic only, no digestive disease angle.",
-      "pitch_angles": [
-        {
-          "publication_type": "General health",
-          "headline": "Scientists Find a Virus Lurking Inside a Deadly Brain Fungus \u2014 and It Could Be a Weapon Against It",
-          "hook": "A fungus that kills hundreds of thousands of HIV-positive people each year has just been found to harbor its own secret virus \u2014 and scientists think that could matter enormously.",
-          "pitch_angle": "Researchers discovered the first known mycovirus infecting Cryptococcus neoformans, the cause of cryptococcal meningitis, in clinical samples from patients in Botswana. If the virus alters fungal behavior the way similar viruses do in other pathogens, it could open a new front in fighting an infection with few treatment options."
-        }
-      ],
-      "run_date": "2026-10-23",
-      "category": "Microbiology",
       "chunk": "2/2",
       "status": "new"
     },
