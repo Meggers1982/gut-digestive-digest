@@ -1,32 +1,413 @@
 {
-  "last_updated": "2026-10-30T16:42:35.812334+00:00",
-  "total_studies": 496,
-  "new_this_run": 8,
+  "last_updated": "2026-10-31T15:47:10.693057+00:00",
+  "total_studies": 501,
+  "new_this_run": 5,
   "studies": [
     {
+      "pmid": "42680331",
+      "headline": "Glutamine supplements improved metabolic health in obese male mice but worsened gut inflammation in females",
+      "journal": "Food Research International",
+      "pubdate": "2026 Oct 31",
+      "doi": "10.1016/j.foodres.2026.120038",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers gave oral glutamine supplementation (2 g/kg/day) to male and female C57BL/6 mice fed a high-fat diet for 14 weeks to test whether it could improve obesity-related metabolic complications. In male mice, glutamine reduced glucose intolerance by ~15% and partially restored insulin and resistin levels; in female mice, the same supplementation increased colonic inflammatory markers (Il1b, Tlr4), worsened insulin resistance (HOMA-IR), and shifted gut microbiota composition toward higher Bacteroidota and Pseudomonadota. The study found strikingly opposite metabolic and gut outcomes by sex, suggesting that glutamine's effects on obesity-related gut and metabolic health are not universal.",
+      "why_it_matters": "The finding that the same amino acid supplement could protect against metabolic dysfunction in males while potentially harming gut health in females highlights why sex must be considered in nutritional intervention research.",
+      "caveats": "animal or cell study, small sample (N<100), microbiome data only (no clinical outcomes), industry funding [Nutricia Research Foundation]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Counterintuitive sex-divergent finding but animal-only study with industry funding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good / Women's Health",
+          "headline": "That Glutamine Supplement May Work Differently Depending on Your Sex, Mouse Research Suggests",
+          "hook": "A new animal study found that glutamine\u2014a popular gut-health supplement\u2014improved metabolic markers in male mice with obesity while worsening gut inflammation in females.",
+          "pitch_angle": "Researchers fed obese mice the same glutamine dose and got opposite outcomes by sex: metabolic protection for males, increased colonic inflammation and insulin resistance for females. While this is animal research, it raises important questions about whether sex is being adequately accounted for in supplement studies."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42680336",
+      "headline": "A plant oil encapsulated in a food-grade crystal framework showed antidepressant effects in mice by reshaping gut bacteria",
+      "journal": "Food Research International",
+      "pubdate": "2026 Oct 31",
+      "doi": "10.1016/j.foodres.2026.120043",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers encapsulated volatile oil from Alpiniae Oxyphyllae Fructus (a traditional Chinese medicinal herb) into gamma-cyclodextrin metal-organic frameworks (\u03b3-CD-MOFs) to stabilize the oil and tested the delivery system in a mouse model of depression. The encapsulated oil improved intestinal barrier integrity, reduced pro-inflammatory cytokines, and increased Ligilactobacillus abundance in the gut microbiota, which was associated with reduced neuroinflammation and antidepressant effects in vivo. This is a preclinical, animal-only study using multi-omics approaches to explore gut-brain axis mechanisms, with no human data.",
+      "why_it_matters": "Early evidence suggests that stabilizing plant-derived bioactive compounds through novel delivery systems could be a new avenue for targeting the gut-brain axis in depression research.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), narrow to single region context (traditional Chinese medicine herb), preprint not applicable but no human data",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut-brain axis angle is relevant but animal/in vitro only with no clinical data.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "Could a Crystalline Drug Delivery System Unlock a Plant Oil's Antidepressant Potential Through the Gut?",
+          "hook": "Scientists have engineered a food-grade crystal framework that stabilizes a volatile herbal oil and, in mice, appears to ease depression by remodeling gut bacteria and reducing brain inflammation.",
+          "pitch_angle": "The study is purely preclinical, but it represents an intriguing intersection of materials science, gut microbiome research, and mental health \u2014 pointing toward a future where the gut-brain axis is targeted with precision-delivered plant compounds. Human trials are far off, but the approach is novel enough to warrant watching."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Nutritional Sciences",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42963242",
+      "headline": "Counting beans for one minute could screen for hidden brain impairment in liver disease patients",
+      "journal": "Digestive and Liver Disease",
+      "pubdate": "2026 Oct 30",
+      "doi": "10.1016/j.dld.2026.10.025",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at two Chinese centers tested whether a simple 1-minute bean-clamping motor task could screen for covert hepatic encephalopathy (CHE) \u2014 a form of cognitive impairment that's difficult to detect in people with liver cirrhosis. The study enrolled 336 healthy individuals and 130 cirrhotic patients (two-center, prospective design). The bean test achieved an AUC of 0.799, with 74% sensitivity and 71.7% specificity, and positive results were associated with higher 1-year mortality and hospital readmission.",
+      "why_it_matters": "A cheap, 1-minute at-home motor task could help flag hidden cognitive impairment in people with liver cirrhosis before it progresses to overt and life-threatening hepatic encephalopathy.",
+      "caveats": "small sample (N<100 cirrhotic patients with CHE), single-region (China), short follow-up, secondary analysis of lactulose response subgroup extremely small (N=8)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Novel screening tool for CHE; human study but small, single-region, niche clinical audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "A 1-Minute Bean-Counting Task May Screen for Covert Hepatic Encephalopathy at Home",
+          "hook": "A simple motor task \u2014 counting how many beans a patient can clamp in one minute \u2014 matched the diagnostic accuracy of a standard multi-test psychometric battery for detecting hidden brain impairment in cirrhosis.",
+          "pitch_angle": "In a two-center Chinese study of 130 cirrhotic patients, the Clamping Bean Test outperformed the need for specialized equipment and correlated significantly with all five subtests of the gold-standard PHES battery; positive results also predicted 1-year mortality and readmission, suggesting real prognostic value for a condition that remains chronically underdiagnosed."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
       "pmid": "42956959",
-      "headline": "Patients at low-volume liver transplant centers wait longer and get fewer organs \u2014 even though their death rates on the waitlist look similar",
+      "headline": "Where you're waitlisted for a liver transplant may matter more than how sick you are",
       "journal": "Journal of Gastrointestinal Surgery",
       "pubdate": "2026 Oct 29",
       "doi": "10.1016/j.gassur.2026.102662",
       "groundbreaking": "Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Using Scientific Registry of Transplant Recipients data, researchers compared waitlist and transplant outcomes across U.S. liver transplant programs stratified into four volume quartiles. Low-volume centers had lower transplant rates, longer time-to-transplant, and lower organ offer acceptance ratios compared to high-volume centers, yet waitlist mortality percentages were similar across groups. The authors flag this as a 'waitlist paradox' \u2014 lower-volume centers appear to manage waitlist death by removing sicker patients for clinical deterioration rather than transplanting them, suggesting patients may have less realized access to transplantation than headline mortality figures imply.",
-      "why_it_matters": "This finding suggests that where a patient waits for a liver transplant may meaningfully affect their chances of actually receiving one, even when raw waitlist death rates look similar across programs.",
-      "caveats": "observational design, registry-based (no individual patient-level data on candidate selection or outcomes after removal), ecological comparison across program quartiles",
+      "summary": "Using Scientific Registry of Transplant Recipients data, researchers compared waitlist and transplant outcomes across all U.S. liver transplant programs stratified by center volume. Low-volume centers had markedly lower transplant rates, longer time-to-transplant, and much lower organ offer acceptance rates than high-volume centers, despite similar waitlist mortality percentages. The findings suggest that comparable death rates on the waitlist mask meaningfully lower realized access to transplantation at lower-volume programs.",
+      "why_it_matters": "Patients waitlisted at low-volume transplant centers may face longer waits and lower chances of actually receiving a liver, even if the raw death statistics look similar \u2014 a disparity with major implications for how patients choose transplant programs.",
+      "caveats": "observational design, registry-based (no individual-level clinical data), program-level analysis may mask patient-mix differences",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Clinically significant health equity finding; registry-based, observational, limited gut/diet/microbiome relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Low-Volume Liver Transplant Centers Have Lower Offer Acceptance and Longer Wait Times Despite Similar Waitlist Mortality",
+          "hook": "Similar waitlist death rates across U.S. transplant centers mask a troubling reality: patients at low-volume programs are far less likely to actually receive a liver.",
+          "pitch_angle": "A national registry analysis found that the lowest-volume U.S. liver transplant centers accepted organ offers at roughly half the rate of the highest-volume centers and transplanted only about 32% of waitlisted patients compared to 56% at top-volume programs \u2014 raising serious questions about how transplant access is measured and whether 'waitlist mortality' is the right metric for equity."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42951709",
+      "headline": "Gut bacteria living inside pancreatic tumors may be why a key chemo drug stops working \u2014 and antibiotics could reverse it",
+      "journal": "Digestive and Liver Disease",
+      "pubdate": "2026 Oct 28",
+      "doi": "10.1016/j.dld.2026.10.006",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "PANORAMIX is a multicenter French phase II trial (18 centers, 108 patients in Step 1, 92 in Step 2) designed to test two strategies in metastatic pancreatic ductal adenocarcinoma: whether maintenance 5-FU after initial NALIRIFOX chemotherapy preserves benefit with less toxicity, and whether the antibiotic ciprofloxacin can disrupt intratumoral Gammaproteobacteria to restore sensitivity to gemcitabine. The trial is built on preclinical evidence that bacteria living inside pancreatic tumors express an enzyme (cytidine deaminase) that chemically inactivates gemcitabine, contributing to drug resistance. This is a trial protocol publication, not results; outcomes data are not yet available.",
+      "why_it_matters": "If bacteria harbored inside pancreatic tumors are partly responsible for chemotherapy resistance, targeting the intratumoral microbiome with antibiotics could become a new strategy to extend survival in one of the deadliest cancers \u2014 a hypothesis this trial is designed to formally test.",
+      "caveats": "protocol/design publication only (no results yet), proof-of-concept phase II design, non-comparative, microbiome data only (no clinical outcomes yet)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Intratumoral microbiome-cancer chemo resistance angle; counterintuitive, high-impact disease, but protocol only.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Bacteria Living Inside Pancreatic Tumors May Be Sabotaging Chemotherapy",
+          "hook": "A new French clinical trial is testing whether an antibiotic can destroy bacteria hiding inside pancreatic tumors \u2014 bacteria that appear to chemically dismantle a frontline cancer drug before it can work.",
+          "pitch_angle": "The emerging science of the intratumoral microbiome suggests the gut isn't the only place bacteria influence human health in profound ways; the PANORAMIX trial represents one of the first rigorous attempts to exploit this biology therapeutically in pancreatic cancer, a disease with a five-year survival rate below 15%."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "French Phase II Trial Tests Ciprofloxacin to Overcome Gemcitabine Resistance via Intratumoral Microbiota Modulation in mPDAC",
+          "hook": "Gammaproteobacteria colonizing pancreatic tumors may inactivate gemcitabine via cytidine deaminase \u2014 and the PANORAMIX trial is the first prospective test of whether a fluoroquinolone antibiotic can restore drug sensitivity.",
+          "pitch_angle": "The multicenter PANORAMIX trial (18 French centers, up to 200 patients across two steps) also tests 5-FU maintenance after NALIRIFOX induction as a toxicity-sparing strategy, addressing two understudied but clinically pressing questions in the management of metastatic pancreatic ductal adenocarcinoma simultaneously."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Gastroenterology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42825548",
+      "headline": "Climate Change and Falling Human Body Temperatures May Be Creating the Perfect Conditions for Deadly Fungal Infections to Rise",
+      "journal": "mSphere",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1128/msphere.00109-26",
+      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "In this narrative review, computational biologists from the University of W\u00fcrzburg argue that Candida auris \u2014 a multidrug-resistant fungal pathogen with 30\u201360% mortality in invasive infections \u2014 emerged simultaneously on multiple continents because climate change is eroding the thermal barrier (elevated mammalian body temperature) that historically protected humans from fungal disease. The authors also highlight that documented declines in average human basal body temperature over the past two centuries are compounding this risk from the other direction, narrowing the temperature gap that keeps most fungi from thriving inside human hosts. No original data or human subjects were involved; this is a theoretical and literature synthesis paper.",
+      "why_it_matters": "The paper reframes Candida auris not as an isolated anomaly but as a possible preview of a coming wave of fungal pathogens \u2014 driven by twin pressures of warming environments and cooling human bodies \u2014 with implications for infection risk that extend far beyond hospital settings.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), observational design, preprint",
+      "fact_check_note": "The abstract does not specify whether this is a preprint; it appears peer-reviewed and indexed in PubMed. The 30\u201360% mortality figure and the multi-continent independent emergence claim are stated in the abstract. The decline in human basal body temperature is a documented research finding cited in context. Caveats updated to reflect review/theoretical design rather than original experimental data.",
+      "relevance_score": 7,
+      "relevance_score_reason": "Counterintuitive dual-mechanism framing; climate + body temp angle is highly pitchable.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Atlantic",
+          "headline": "Our Bodies Are Getting Cooler. That Could Make Us More Vulnerable to Deadly Fungi.",
+          "hook": "Human body temperature has been quietly falling for nearly two centuries \u2014 and a new scientific review argues that, combined with a warming planet, this biological shift may be opening the door to a new era of fungal disease.",
+          "pitch_angle": "A review in mSphere uses Candida auris \u2014 a drug-resistant fungus with up to 60% mortality that independently emerged on multiple continents \u2014 to argue that climate change is eroding the thermal defenses mammals evolved against fungi, while simultaneously documented drops in human basal body temperature are narrowing that same protective window from the inside; the authors suggest C. auris may be the first of many such pathogens to come."
+        },
+        {
+          "publication_type": "General health / Healthline",
+          "headline": "A Deadly, Drug-Resistant Fungus Keeps Spreading Worldwide \u2014 Scientists Think Climate Change and Cooling Human Bodies Explain Why",
+          "hook": "Candida auris kills up to 60% of people it infects and has appeared on every continent \u2014 and scientists now think two converging trends explain its rise.",
+          "pitch_angle": "A new review argues that rising global temperatures are allowing heat-adapted fungi like Candida auris to cross the thermal threshold that protected humans for millennia, while a lesser-known trend \u2014 declining average human body temperature \u2014 is simultaneously lowering our built-in resistance; together, these pressures may be ushering in a new era of hard-to-treat fungal infections."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42944857",
+      "headline": "Stopping biologic drugs in early pregnancy led to a disease flare in only 1 in 6 IBD patients \u2014 but the data are too limited to change practice",
+      "journal": "Scandinavian Journal of Gastroenterology",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1080/00365521.2026.2748849",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective single-center study of 185 pregnancies in 143 women with IBD followed at a Belgian university hospital from 2010\u20132023, examining outcomes when biologic therapy was discontinued before gestational week 20 versus continued. Among the 80 women who stopped biologics before GW20 while in remission, 17.5% experienced a disease flare, compared to 40% in the small group (n=10) who continued \u2014 though the difference was not statistically significant (p=0.11), and cord blood drug levels were near-undetectable in a small prospective subsample (n=5). The authors conclude that discontinuing biologics early in pregnancy may be a feasible option for women in sustained remission seeking to minimize fetal drug exposure, but caution that larger prospective studies are needed.",
+      "why_it_matters": "For pregnant women with IBD in remission who are concerned about fetal exposure to biologic drugs, this early-stage evidence suggests that stopping treatment before gestational week 20 may not dramatically increase relapse risk \u2014 though the small sample and retrospective design limit confidence.",
+      "caveats": "small sample (N<100), retrospective design, single-center, non-significant primary comparison (p=0.11), very small prospective subsample for drug-level data (n=5), observational design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Clinically relevant IBD-pregnancy topic, but retrospective, single-center, underpowered.",
+      "pitch_angles": [
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "Early Biologic Discontinuation in Pregnant IBD Patients: 17.5% Flare Rate Suggests Possible Feasibility, but Evidence Remains Weak",
+          "hook": "A retrospective Belgian cohort found that IBD patients in remission who stopped biologic therapy before gestational week 20 experienced disease flares in fewer than 1 in 5 pregnancies \u2014 but the study's small size and non-significant comparisons mean the data cannot yet support a practice change.",
+          "pitch_angle": "With guidelines recommending continuation of biologics through pregnancy and patients frequently expressing concern about fetal drug exposure, this study adds cautious observational data to a high-stakes clinical conversation \u2014 and underscores the urgent need for larger prospective trials to guide shared decision-making in this population."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42962336",
+      "headline": "Petting Ponies Could Expose Kids to Drug-Resistant Gut Bacteria, Study Warns",
+      "journal": "Veterinary Microbiology",
+      "pubdate": "2026 Oct 27",
+      "doi": "10.1016/j.vetmic.2026.111268",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Polish researchers screened Shetland ponies, tundra reindeer, and European mouflons for Yersinia enterocolitica \u2014 a zoonotic pathogen that causes intestinal infection in humans \u2014 and isolated multidrug-resistant strains from 71.4% of Shetland ponies tested (5 strains from 7 animals). This was a small veterinary surveillance study using culture and molecular characterization; no human subjects were enrolled. All isolated strains were resistant to multiple antimicrobial agents and susceptible only to ciprofloxacin, raising concern about zoonotic transmission risk from close human-animal contact.",
+      "why_it_matters": "Shetland ponies are popular petting-zoo animals that children frequently handle, and finding multidrug-resistant Yersinia enterocolitica \u2014 a known cause of human gastrointestinal illness \u2014 in these animals for the first time suggests a previously unrecognized zoonotic exposure risk.",
+      "caveats": "small sample (N<100), single-center, observational design, animal study",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Health systems/access finding; tangential to gut/digestive health editorial focus.",
+      "relevance_score_reason": "Zoonotic gut pathogen angle with public health hook; tiny sample limits impact.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health / Everyday Health",
+          "headline": "Drug-Resistant Gut Bacteria Found in Shetland Ponies for the First Time \u2014 and Kids May Be at Risk",
+          "hook": "A new study found multidrug-resistant Yersinia enterocolitica \u2014 a bacteria that causes human intestinal infections \u2014 in Shetland ponies, which children often pet at farms and zoos.",
+          "pitch_angle": "Researchers in Poland isolated multidrug-resistant strains of the gastrointestinal pathogen Yersinia enterocolitica from more than 70% of Shetland ponies tested, a species not previously known to harbor this organism; because these ponies are frequently handled by children, the finding suggests a need for greater awareness of hand hygiene after animal contact at petting facilities."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42933673",
+      "headline": "A specific diet cuts gut inflammation markers by 37% in people at high genetic risk for Crohn's disease \u2014 before the disease even starts",
+      "journal": "Gastroenterology",
+      "pubdate": "2026 Oct 26",
+      "doi": "10.1053/j.gastro.2026.10.376",
+      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a randomized crossover trial (PIONIR) testing whether the Tasty & Healthy (T&H) diet \u2014 a palatable anti-inflammatory eating pattern \u2014 could reduce intestinal inflammation in 29 high-risk first-degree relatives (FDRs) of Crohn's disease patients who had elevated fecal calprotectin but no confirmed disease. Over 8 weeks, fecal calprotectin dropped 61% with the T&H diet versus 38% on habitual diet, and 71% of T&H participants achieved a \u226550% reduction versus 27% on habitual diet. The findings suggest that gut inflammation in people at genetic risk for Crohn's disease may be modifiable through diet before clinical disease onset.",
+      "why_it_matters": "For people with a parent or sibling with Crohn's disease, early evidence suggests that a specific dietary pattern may help lower a key marker of intestinal inflammation before the disease ever develops.",
+      "caveats": "small sample (N<100), crossover design with potential carryover effects, short follow-up, single-center not specified but multi-center international, microbiome data only (no clinical outcomes for disease onset), surrogate biomarker endpoint (fecal calprotectin only)",
+      "fact_check_note": "",
+      "relevance_score": 9,
+      "relevance_score_reason": "RCT in humans, IBD prevention angle, diet-microbiome link, strong clinical relevance.",
+      "pitch_angles": [
+        {
+          "publication_type": "EatingWell / Well+Good",
+          "headline": "This Specific Diet May Help Prevent Crohn's Disease in People With a Family History",
+          "hook": "A randomized trial found that a palatable, anti-inflammatory diet cut a key gut inflammation marker by more than 60% in people genetically at risk for Crohn's disease \u2014 before they ever developed the condition.",
+          "pitch_angle": "Researchers tested a real-food diet \u2014 not a supplement \u2014 in relatives of Crohn's patients and found significant reductions in fecal calprotectin, a biomarker tied to intestinal inflammation; this is one of the first controlled trials to suggest diet could play a role in Crohn's disease prevention, not just management."
+        },
+        {
+          "publication_type": "Gastroenterology & Endoscopy News",
+          "headline": "PIONIR Trial: Dietary Intervention Lowers Fecal Calprotectin 61% in Pre-Symptomatic Crohn's High-Risk Relatives",
+          "hook": "The PIONIR crossover RCT demonstrates that the Tasty & Healthy diet significantly reduces fecal calprotectin in first-degree relatives of Crohn's patients with subclinical intestinal inflammation, raising the prospect of dietary IBD prevention strategies.",
+          "pitch_angle": "With 71% of T&H diet participants achieving \u226550% FC reduction versus 27% on habitual diet, and six microbial species differing between arms post-FDR correction, the trial provides preliminary mechanistic and biomarker evidence that intestinal inflammation is modifiable in the pre-diagnostic window \u2014 supporting the case for larger, longer prevention trials."
+        },
+        {
+          "publication_type": "The Atlantic / General health",
+          "headline": "Can You Eat Your Way Out of a Crohn's Disease Destiny?",
+          "hook": "A small but rigorously designed trial suggests that people born into families with Crohn's disease may be able to dial back smoldering gut inflammation through diet alone \u2014 long before symptoms appear.",
+          "pitch_angle": "The PIONIR trial is one of the first randomized efforts to test whether diet can intervene in the biological cascade leading to Crohn's disease, reframing the condition not just as something to treat but potentially something to prevent \u2014 and raising deeper questions about what it means to be 'at risk' for a disease you don't yet have."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Gastroenterology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42932085",
+      "headline": "Yeast postbiotics may be safer and more stable than probiotics \u2014 but the science is still catching up",
+      "journal": "World Journal of Microbiology & Biotechnology",
+      "pubdate": "2026 Oct 26",
+      "doi": "10.1007/s11274-026-05354-6",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review examines the emerging field of yeast-derived postbiotics \u2014 inanimate yeast cells and their metabolites from Saccharomyces and non-Saccharomyces species \u2014 as functional food ingredients and nutraceuticals. The authors survey production strategies, metabolite profiling, functional mechanisms, and potential applications, arguing that yeast postbiotics offer advantages over live probiotics in terms of safety, shelf life, and stability. No new human or animal study data were generated; this is a review of existing literature.",
+      "why_it_matters": "As consumer interest in gut health supplements grows, yeast postbiotics represent a potentially safer and more shelf-stable alternative to live probiotics \u2014 though human clinical trial data remain limited.",
+      "caveats": "observational design, microbiome data only (no clinical outcomes), preprint",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Probiotics/postbiotics topic fit; review only, no new human data or clinical outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "Move Over Probiotics \u2014 'Postbiotics' From Yeast Could Be the Next Big Gut Health Supplement",
+          "hook": "A new review suggests that dead yeast cells and their byproducts may deliver gut health benefits without the stability and safety concerns that come with live probiotic supplements.",
+          "pitch_angle": "Yeast postbiotics \u2014 the metabolites and components left behind after fermentation \u2014 are gaining attention as a potentially more shelf-stable and safer alternative to live probiotics, especially for vulnerable populations. Researchers say the science is promising but human clinical data are still limited, making this an area to watch rather than act on yet."
+        },
+        {
+          "publication_type": "EatingWell",
+          "headline": "What Are Yeast Postbiotics \u2014 and Should They Be in Your Diet?",
+          "hook": "Scientists are increasingly interested in the health-promoting compounds produced by fermentation yeasts, suggesting they may one day show up in functional foods near you.",
+          "pitch_angle": "A new review maps out how yeast-derived postbiotics \u2014 byproducts of fermentation \u2014 could be incorporated into functional foods and nutraceuticals as gut-friendly ingredients. The research is still early, with most evidence coming from lab settings rather than human trials, but the applications in everyday fermented foods and supplements are already being explored."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Microbiology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42932165",
+      "headline": "A Probiotic Enzyme Found in Fermented Curd May Break Down a Deadly Food Toxin",
+      "journal": "Probiotics and Antimicrobial Proteins",
+      "pubdate": "2026 Oct 26",
+      "doi": "10.1007/s12602-026-11279-1",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers isolated Lactiplantibacillus plantarum strain CD2 from home-fermented curd and characterized an enzyme in its cell-free supernatant capable of degrading aflatoxin B1 (AFB1), a potent carcinogenic mycotoxin that commonly contaminates grains, nuts, and other staple foods worldwide. This was an in vitro laboratory study (N=26 isolates screened); no human or animal subjects were involved. The purified enzyme (~62.4 kDa) degraded 57.63% of AFB1 under optimal conditions (pH 7.2, 37\u00b0C, 72 hours), suggesting a potential probiotic-based strategy for reducing dietary AFB1 exposure.",
+      "why_it_matters": "Aflatoxin B1 is one of the most potent naturally occurring carcinogens in the global food supply, and early evidence that a probiotic-derived enzyme can degrade it in a lab setting opens a potential new avenue for food safety \u2014 though human validation is still needed.",
+      "caveats": "animal or cell study, microbiome data only (no clinical outcomes), small sample (N<100), single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Interesting food-safety/probiotic angle but purely in vitro, no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Healthline / Verywell Health",
+          "headline": "A Probiotic Bacteria Found in Fermented Curd Produces an Enzyme That Breaks Down a Common Food Carcinogen",
+          "hook": "Aflatoxin B1 contaminates millions of tons of grain and nuts worldwide \u2014 and a probiotic enzyme found in fermented curd may be able to neutralize it.",
+          "pitch_angle": "Lab research suggests that Lactiplantibacillus plantarum, a probiotic strain found in fermented dairy, produces an enzyme that degrades over half of aflatoxin B1 under digestive-range conditions; while the finding is early and in vitro only, it raises the question of whether fermented foods could eventually play a role in reducing dietary carcinogen exposure."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Microbiology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42933653",
+      "headline": "A near-zero-calorie rare sugar found in figs may protect the aging brain \u2014 at least in rats",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Oct 26",
+      "doi": "10.1016/j.tjnut.2026.101903",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers in Thailand administered D-allulose (1.9 g/kg/day orally) or inulin to rats given D-galactose injections to accelerate aging, over 12 weeks (n=8 per group). Rats receiving D-allulose showed improved spatial learning and memory in the Morris water maze and restored hippocampal synaptic signaling, while inulin had no significant effect. D-allulose also reduced brain oxidative stress markers, suggesting neuroprotective potential in this accelerated-aging animal model.",
+      "why_it_matters": "D-allulose is already FDA-approved as a low-calorie sweetener, so early evidence of a neuroprotective effect \u2014 if it holds up in humans \u2014 could add a new dimension to how this sugar substitute is evaluated for diet and brain health.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up, D-galactose aging model does not replicate human aging, no gut microbiome data reported, no clinical outcomes",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Gut-brain axis angle weakened by animal-only design and very small groups.",
+      "pitch_angles": [
+        {
+          "publication_type": "Well+Good",
+          "headline": "A Zero-Calorie Sweetener Found in Figs Might Protect the Aging Brain \u2014 Here's What the Early Science Shows",
+          "hook": "Rats supplemented with D-allulose, a rare low-calorie sugar already approved as a food ingredient, showed sharper memory and healthier brain signaling compared to unsupplemented aging-model controls.",
+          "pitch_angle": "D-allulose reduced oxidative stress in brain tissue and restored hippocampal function in rats engineered to show accelerated aging \u2014 effects that the fiber prebiotic inulin failed to match. This is early-stage animal research, but given D-allulose's existing presence in sweetener products, it's a finding worth watching as human trials emerge."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42933651",
+      "headline": "Feeding sows a prebiotic fiber boosts piglets' gut defenses at weaning",
+      "journal": "The Journal of Nutrition",
+      "pubdate": "2026 Oct 26",
+      "doi": "10.1016/j.tjnut.2026.101906",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers supplemented 60 sows with 800 mg/kg of mannan-oligosaccharide (MOS) from late gestation through lactation day 21 and then challenged weaned piglets with an inflammatory agent (LPS). MOS-fed mothers produced colostrum with higher fat and IgA antibody levels, and their offspring had higher intestinal tight-junction protein (occludin) and lower gut inflammation markers after the LPS challenge. The study suggests maternal prebiotic intake can transfer immune and nutritional benefits to offspring through milk, improving intestinal resilience during the high-stress weaning period.",
+      "why_it_matters": "Early findings in pigs suggest that a mother's prebiotic intake during late pregnancy and breastfeeding may shape how well an infant's gut handles inflammatory stress \u2014 a concept with theoretical relevance to human maternal nutrition research.",
+      "caveats": "animal or cell study, small sample (N<100 per group for piglets), single-center, short follow-up, findings not yet tested in humans",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Prebiotic-gut-immunity link is relevant, but animal-only study limits score.",
       "pitch_angles": [
         {
           "publication_type": "General health",
-          "headline": "Where You Wait for a Liver Transplant May Matter More Than You Think",
-          "hook": "New research finds that patients at smaller liver transplant centers wait longer and receive transplants at lower rates than those at high-volume programs \u2014 even though death rates on the waitlist look nearly identical.",
-          "pitch_angle": "A national analysis of U.S. transplant registry data found that low-volume centers accepted organ offers at half the rate of high-volume centers and had far lower proportions of patients ultimately receiving transplants. The similar waitlist death rates appear to mask a troubling pattern: smaller programs may be removing more patients for clinical deterioration rather than getting them to transplant, raising important questions about equitable access to lifesaving care."
+          "headline": "Could What a Mother Eats During Pregnancy Shape Her Baby's Gut Immunity?",
+          "hook": "A pig study finds that feeding mothers a prebiotic fiber led to offspring with stronger gut barriers and lower inflammation at weaning.",
+          "pitch_angle": "Researchers found that mannan-oligosaccharide supplementation in sow diets raised IgA antibody levels in milk and improved gut-wall integrity in piglets challenged with an inflammatory agent. While this is animal research, it raises early questions about whether maternal prebiotic intake during pregnancy and lactation could similarly influence infant gut resilience in humans."
         }
       ],
-      "run_date": "2026-10-30",
-      "category": "Gastroenterology",
+      "run_date": "2026-10-31",
+      "category": "Nutritional Sciences",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42926059",
+      "headline": "Stroke patients who met their calorie targets in the first week left the hospital more functional and with fewer complications",
+      "journal": "Clinical Nutrition ESPEN",
+      "pubdate": "2026 Oct 24",
+      "doi": "10.1016/j.clnesp.2026.105210",
+      "groundbreaking": "Major dietary or microbiome implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This retrospective observational study of 304 acute stroke patients (median age 77; 46.7% male) at a Japanese university hospital measured the 'energy gap'\u2014the difference between actual calorie intake and estimated needs (25 kcal/kg/day) during the first 7 days of admission. A larger energy deficit was independently associated with lower Functional Independence Measure scores at discharge and higher odds of in-hospital complications in multivariable regression analyses. The findings suggest that closing the early calorie gap after stroke admission may be clinically meaningful for recovery outcomes.",
+      "why_it_matters": "Undernutrition in the acute phase after stroke appears to be associated with worse functional recovery and more in-hospital complications, suggesting early nutritional support deserves greater clinical attention.",
+      "caveats": "observational design, single-center, retrospective, short follow-up, self-reported dietary intake not applicable (clinical records used but estimation-based energy targets)",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Human clinical study (N=304) with functional outcomes; observational design limits causal inference.",
+      "pitch_angles": [
+        {
+          "publication_type": "Everyday Health / Verywell Health",
+          "headline": "Not Eating Enough After a Stroke May Slow Recovery, Study Finds",
+          "hook": "Stroke patients who fell short of their daily calorie needs in the first week of hospitalization left the hospital with worse physical functioning and more complications, a new study suggests.",
+          "pitch_angle": "Researchers tracked the calorie gap between what 304 stroke patients ate and what they needed in the first seven days after admission, finding that a larger deficit was linked to lower functional independence at discharge. While the study is observational and conducted in Japan, it highlights how early nutritional support could be an underutilized tool in stroke recovery."
+        }
+      ],
+      "run_date": "2026-10-31",
+      "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
     },
@@ -58,39 +439,6 @@
       "status": "new"
     },
     {
-      "pmid": "42951709",
-      "headline": "Scientists are testing whether a common antibiotic can outsmart pancreatic cancer's resistance to chemotherapy by targeting gut bacteria inside tumors",
-      "journal": "Digestive and Liver Disease",
-      "pubdate": "2026 Oct 28",
-      "doi": "10.1016/j.dld.2026.10.006",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "The PANORAMIX trial is a multicenter phase II proof-of-concept study enrolling up to 200 patients with metastatic pancreatic ductal adenocarcinoma across 18 French centers, with two sequential randomized steps. Step 1 tests whether maintenance 5-FU after 8 cycles of NALIRIFOX can preserve disease control while reducing toxicity; Step 2 tests whether ciprofloxacin, a fluoroquinolone antibiotic, can overcome gemcitabine resistance by targeting intratumoral Gammaproteobacteria that express cytidine deaminase \u2014 an enzyme that inactivates the drug. This is a trial protocol paper; no efficacy results are yet available.",
-      "why_it_matters": "The hypothesis that bacteria living inside pancreatic tumors may be undermining chemotherapy \u2014 and that a standard antibiotic could restore drug sensitivity \u2014 represents a potentially paradigm-shifting approach to one of the deadliest cancers.",
-      "caveats": "trial protocol only (no results), proof-of-concept phase II, non-comparative design, microbiome data only (no clinical outcomes yet), short follow-up anticipated, industry-adjacent investigator conflicts of interest",
-      "fact_check_note": "",
-      "relevance_score": 7,
-      "relevance_score_reason": "Microbiome-cancer-treatment intersection; strong translational hook; protocol only, no results yet.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "The Bacteria Living Inside Pancreatic Tumors May Be Sabotaging Chemotherapy",
-          "hook": "A new French clinical trial is testing the radical idea that a common antibiotic could make one of the deadliest cancers respond to chemotherapy again \u2014 by killing bacteria that have set up shop inside tumors.",
-          "pitch_angle": "Certain bacteria from the Gammaproteobacteria class appear to colonize pancreatic tumors and produce an enzyme that chemically disarms gemcitabine, a frontline drug, before it can do its job. The PANORAMIX trial will test whether adding ciprofloxacin to standard chemotherapy can neutralize this microbial resistance mechanism \u2014 a finding that, if confirmed, would fundamentally change how oncologists think about the tumor microbiome."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "PANORAMIX Trial Tests Antibiotic-Mediated Microbiota Modulation to Restore Gemcitabine Sensitivity in Metastatic PDAC",
-          "hook": "A multicenter French phase II trial is the first to prospectively randomize metastatic pancreatic cancer patients to ciprofloxacin alongside gemcitabine-based chemotherapy, targeting intratumoral bacteria implicated in drug resistance.",
-          "pitch_angle": "PANORAMIX addresses two underexplored questions in metastatic PDAC management: whether maintenance 5-FU can reduce cumulative NALIRIFOX toxicity without sacrificing disease control, and whether fluoroquinolone-mediated elimination of cytidine deaminase-expressing Gammaproteobacteria can restore gemcitabine efficacy in the second-line setting. With 6-month overall survival as the Step 2 primary endpoint, results from this 18-center trial will provide the first prospective human data on microbiota modulation as a chemosensitization strategy in pancreatic cancer."
-        }
-      ],
-      "run_date": "2026-10-30",
-      "category": "Gastroenterology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42949529",
       "headline": "Body fat may be a modifiable trigger for kidney disease in people with a high-risk genetic variant",
       "journal": "Nutrition and Health",
@@ -118,72 +466,6 @@
       "status": "new"
     },
     {
-      "pmid": "42825548",
-      "headline": "Climate change and declining human body temperatures may be opening the door to a new era of deadly fungal infections",
-      "journal": "mSphere",
-      "pubdate": "2026 Oct 27",
-      "doi": "10.1128/msphere.00109-26",
-      "groundbreaking": "Counterintuitive finding / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This review examines the evolutionary biology and clinical significance of Candida auris, a multidrug-resistant fungal pathogen that independently evolved thermotolerance on multiple continents \u2014 a pattern suggesting shared environmental selective pressures. The authors argue that anthropogenic climate change is raising ambient temperatures (training more fungi to survive at mammalian body heat) while documented declines in average human basal body temperature simultaneously lower the thermal barrier that protects us from fungal infection. C. auris, which tolerates up to 47\u00b0C, resists all three major antifungal drug classes, and carries 30\u201360% mortality in invasive infections, may represent only the first of many fungi poised to breach this shrinking thermal defense.",
-      "why_it_matters": "The convergence of rising environmental temperatures and falling human body temperatures suggests the window of thermal protection against fungal pathogens is narrowing \u2014 a systemic risk that extends far beyond C. auris.",
-      "caveats": "observational design, no primary data (review/commentary), no clinical outcomes measured",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Counterintuitive climate-body temperature convergence angle; review only, no primary data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Our Bodies Are Getting Cooler \u2014 and Fungi Are Noticing",
-          "hook": "Human basal body temperature has been quietly falling for over a century, and climate change is warming the world around us \u2014 together, these trends may be shrinking the thermal moat that keeps deadly fungi at bay.",
-          "pitch_angle": "Candida auris independently evolved on multiple continents at the same time, a pattern that points to a shared environmental pressure \u2014 rising heat \u2014 nudging fungi toward mammalian temperatures; paired with declining human body temps, this review argues we may be entering a new era of fungal disease."
-        },
-        {
-          "publication_type": "General health",
-          "headline": "The Deadly Fungus That Evolved on Four Continents Simultaneously \u2014 and What It Warns Us About Climate Change",
-          "hook": "Candida auris didn't spread from one place; it evolved independently on multiple continents at the same time, suggesting something in our changing world is driving fungi to become better at infecting humans.",
-          "pitch_angle": "A new review argues that C. auris \u2014 which kills up to 60% of patients it infects and resists every major antifungal drug class \u2014 may be a preview of a broader wave of thermotolerant fungal pathogens emerging as climate and human biology converge."
-        }
-      ],
-      "run_date": "2026-10-30",
-      "category": "Microbiology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42944857",
-      "headline": "Stopping Crohn's and Colitis Biologics Early in Pregnancy May Not Spike Relapse Risk",
-      "journal": "Scandinavian Journal of Gastroenterology",
-      "pubdate": "2026 Oct 27",
-      "doi": "10.1080/00365521.2026.2748849",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective single-center study at University Hospital of Li\u00e8ge (2010\u20132023) examining 185 pregnancies in 143 women with IBD. Among 80 women who discontinued biologic therapy before gestational week 20 while in remission, 17.5% experienced a disease flare \u2014 compared with 40% among the 10 who continued treatment, though the difference was not statistically significant (p=0.11). Fetal drug exposure appeared minimal, with low residual drug levels detected in cord blood in only one ustekinumab case.",
-      "why_it_matters": "For women with IBD who are concerned about fetal exposure to biologic drugs, early evidence suggests that stopping treatment before 20 weeks may not dramatically raise the risk of disease relapse \u2014 though larger studies are needed before this informs clinical decisions.",
-      "caveats": "small sample (N<100), observational design, single-center, short follow-up, secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Clinically meaningful IBD-pregnancy angle; limited by small N and retrospective design.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "Stopping Biologics Before Week 20 in IBD Pregnancies May Be Feasible, Retrospective Data Suggest",
-          "hook": "Only 17.5% of IBD patients who discontinued biologic therapy before gestational week 20 while in remission experienced a disease flare \u2014 raising questions about current guidelines recommending continuation throughout pregnancy.",
-          "pitch_angle": "A single-center Belgian retrospective study found that discontinuing biologics early in pregnancy was not statistically associated with increased relapse risk, and cord blood drug levels were minimal in tested cases. While the sample is small and findings are preliminary, the data support designing larger prospective trials to help clinicians and patients navigate this high-stakes decision."
-        },
-        {
-          "publication_type": "Everyday Health / Verywell Health",
-          "headline": "Should You Stop Your Crohn's or Colitis Medication When You're Pregnant? New Research Adds Nuance",
-          "hook": "Many women with IBD stop their biologic medications during pregnancy out of concern for their baby \u2014 and new data suggest that for those in remission, stopping early may not dramatically raise the risk of a flare.",
-          "pitch_angle": "A Belgian study tracking 185 pregnancies found a 17.5% flare rate among women who discontinued biologics before 20 weeks, and fetal drug exposure appeared low in the few cord blood samples tested. Experts caution the study is small and retrospective, and patients should never adjust treatment without their gastroenterologist's guidance."
-        }
-      ],
-      "run_date": "2026-10-30",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42945001",
       "headline": "A cancer immunotherapy drug produced durable responses in 60% of patients with no known primary tumor site",
       "journal": "Journal of Gastrointestinal Cancer",
@@ -208,78 +490,6 @@
       "run_date": "2026-10-30",
       "category": "Gastroenterology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42933673",
-      "headline": "A 'Tasty and Healthy' Diet Cuts Gut Inflammation Markers in People Genetically at Risk for Crohn's Disease",
-      "journal": "Gastroenterology",
-      "pubdate": "2026 Oct 26",
-      "doi": "10.1053/j.gastro.2026.10.376",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication / Counterintuitive finding",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "The PIONIR randomized crossover trial enrolled 29 first-degree relatives of Crohn's disease patients who had persistently elevated fecal calprotectin (a marker of gut inflammation) but no confirmed IBD diagnosis, assigning them to an 8-week anti-inflammatory 'Tasty & Healthy' (T&H) dietary pattern or their habitual diet before crossing over. Participants on the T&H diet saw fecal calprotectin fall by an estimated 61% versus 38% on the habitual diet, and 71% achieved a \u226550% reduction versus 27% on the habitual diet (RR=2.68). Six gut microbial species also differed significantly between diet groups, and adherence to the T&H diet was high, with 83% reporting good or complete compliance.",
-      "why_it_matters": "This is one of the first randomized trials to show that a specific dietary pattern can measurably reduce gut inflammation in healthy people who are genetically predisposed to Crohn's disease \u2014 suggesting diet may have a role in delaying or preventing IBD onset.",
-      "caveats": "small sample (N<100), short follow-up, microbiome data only (no clinical outcomes), secondary analysis",
-      "fact_check_note": "",
-      "relevance_score": 9,
-      "relevance_score_reason": "First RCT on dietary IBD prevention in at-risk relatives; counterintuitive, high topic fit.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News",
-          "headline": "RCT: Anti-Inflammatory Diet Cuts Fecal Calprotectin by 61% in High-Risk Crohn's Relatives",
-          "hook": "For the first time, a randomized controlled trial shows that a structured dietary intervention can significantly reduce intestinal inflammation markers in healthy first-degree relatives of Crohn's disease patients \u2014 before any diagnosis is made.",
-          "pitch_angle": "The PIONIR crossover trial (N=29) found the Tasty & Healthy diet reduced fecal calprotectin nearly twice as much as habitual diet over 8 weeks, with six gut microbial species shifting significantly between groups. The findings open a new frontier in IBD prevention research, though larger and longer trials are needed to determine whether reducing fecal calprotectin translates into lower rates of actual disease onset."
-        },
-        {
-          "publication_type": "EatingWell / Well+Good",
-          "headline": "Eating an Anti-Inflammatory Diet May Help People With a Family History of Crohn's Disease Protect Their Gut",
-          "hook": "If a parent or sibling has Crohn's disease, your gut inflammation may already be elevated \u2014 and a new clinical trial suggests the right diet could bring it back down.",
-          "pitch_angle": "The PIONIR trial found that adults with a family history of Crohn's who followed a structured anti-inflammatory eating pattern for 8 weeks saw gut inflammation markers drop by 61%, compared with 38% on their usual diet. The diet was rated acceptable by 79% of participants and showed high adherence, suggesting that eating for gut health is not just practical \u2014 it may eventually be a tool for delaying or preventing IBD in those most at risk."
-        },
-        {
-          "publication_type": "The Atlantic",
-          "headline": "Can You Eat Your Way Out of a Crohn's Disease Destiny?",
-          "hook": "A small but rigorous clinical trial suggests that for people born into families marked by Crohn's disease, what they eat may reshape the trajectory of their gut health before any disease ever begins.",
-          "pitch_angle": "The PIONIR trial is one of the first randomized studies to test whether diet can intervene in the biological cascade leading to IBD \u2014 targeting people who are genetically at risk but not yet sick. If larger trials confirm the results, it could shift how medicine thinks about inflammatory bowel disease: not just as something to treat, but something to prevent through food."
-        }
-      ],
-      "run_date": "2026-10-30",
-      "category": "Gastroenterology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42932085",
-      "headline": "Postbiotics Made From Yeast May Be Safer and More Shelf-Stable Than Traditional Probiotics",
-      "journal": "World Journal of Microbiology & Biotechnology",
-      "pubdate": "2026 Oct 26",
-      "doi": "10.1007/s11274-026-05354-6",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "This narrative review examines yeast-derived postbiotics \u2014 inanimate microorganisms and their metabolites from Saccharomyces and non-Saccharomyces species \u2014 as functional food and nutraceutical ingredients, covering production via fermentation, metabolite profiling, and proposed mechanisms of action. No original human or animal data were collected; this is a synthesis of existing literature. The authors suggest yeast postbiotics offer stability and safety advantages over live probiotics, particularly for vulnerable populations, and flag significant regulatory and reproducibility gaps.",
-      "why_it_matters": "As consumer interest in postbiotics grows, understanding whether yeast-derived versions could offer practical advantages over live probiotics \u2014 without the stability or safety trade-offs \u2014 has real relevance for the functional food and supplement space.",
-      "caveats": "observational design, no original data (review only), no clinical outcomes, preprint-adjacent (ahead of formal indexing), single-center authorship group",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Relevant postbiotic topic; review-only with no new human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / Everyday Health",
-          "headline": "Postbiotics Are Having a Moment \u2014 and Yeast May Be the Next Big Source",
-          "hook": "A new review suggests postbiotics derived from yeast could sidestep some of the biggest drawbacks of traditional probiotics, including instability and safety concerns for vulnerable people.",
-          "pitch_angle": "Yeast-based postbiotics \u2014 the inanimate byproducts of fermentation \u2014 may be more shelf-stable and suitable for a wider range of people than live probiotic supplements, according to a review of emerging research; experts say significant scientific and regulatory work remains before these products hit mainstream shelves."
-        },
-        {
-          "publication_type": "Gastroenterology & Endoscopy News / General health",
-          "headline": "Yeast Postbiotics: A Primer on the Science, Gaps, and Commercial Promise",
-          "hook": "A new review maps the science behind yeast-derived postbiotics, highlighting both their potential as safer probiotic alternatives and the reproducibility and regulatory hurdles still standing in the way.",
-          "pitch_angle": "For clinicians and researchers tracking the 'NextGen Biotics' space, this review synthesizes current knowledge on Saccharomyces and non-Saccharomyces yeast metabolites as functional food ingredients \u2014 while flagging that without standardized production and robust clinical trials, translating bench findings to patient-relevant outcomes remains a significant challenge."
-        }
-      ],
-      "run_date": "2026-10-30",
-      "category": "Microbiology",
-      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -514,33 +724,6 @@
       "run_date": "2026-10-29",
       "category": "Gastroenterology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42932165",
-      "headline": "A common probiotic bacterium found in fermented curd produces an enzyme that breaks down a potent food carcinogen",
-      "journal": "Probiotics and Antimicrobial Proteins",
-      "pubdate": "2026 Oct 26",
-      "doi": "10.1007/s12602-026-11279-1",
-      "groundbreaking": "First-in-class human study / Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers screened 26 bacterial isolates and identified a strain of Lactiplantibacillus plantarum (CD2), isolated from home-fermented curd, whose cell-free supernatant degraded 57.63% of aflatoxin B1 (AFB1) \u2014 a potent fungal carcinogen common in contaminated grains and legumes \u2014 under lab conditions at 37\u00b0C over 72 hours. The active agent was identified as a protein enzyme (~62.4 kDa), with activity reduced by heat and protease treatment. This is an in vitro study; no human or animal subjects were involved.",
-      "why_it_matters": "Aflatoxin B1 contamination is a major global food safety problem linked to liver cancer, and finding that a widely used probiotic species may enzymatically neutralize it could have implications for fermented food safety and probiotic applications \u2014 though human evidence is entirely absent.",
-      "caveats": "animal or cell study, small sample (N<100 isolates screened), single-center, short follow-up, in vitro conditions only \u2014 no human or animal data, no gut matrix testing",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Probiotic-food safety angle is relevant but entirely in vitro; no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "EatingWell",
-          "headline": "A Bacteria Found in Fermented Yogurt May Help Neutralize a Dangerous Food Toxin \u2014 Here's What We Know",
-          "hook": "Early lab research suggests that Lactiplantibacillus plantarum, a probiotic strain found in fermented dairy, produces an enzyme capable of breaking down aflatoxin B1 \u2014 a mold-derived carcinogen that contaminates peanuts, corn, and grains worldwide.",
-          "pitch_angle": "Scientists isolated the bacterial strain from home-fermented curd and found its secreted enzyme degraded more than half of AFB1 under simulated body conditions in the lab; while the findings are very preliminary and only tested in a dish, they add to growing interest in using food-grade bacteria as a natural food-safety tool."
-        }
-      ],
-      "run_date": "2026-10-29",
-      "category": "Microbiology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -797,33 +980,6 @@
           "headline": "Labor Induction Drug Linked to Breastfeeding Difficulties \u2014 Here's When the Risk Is Highest",
           "hook": "A sweeping review of more than 600,000 births found that synthetic oxytocin given during labor is most likely to interfere with breastfeeding in the first 48 hours \u2014 not in the weeks that follow.",
           "pitch_angle": "The review synthesizes 18 international studies showing a clear temporal pattern: the negative association between Pitocin and breastfeeding fades significantly after the first week. For parents and clinicians, this narrows the window where extra lactation support may matter most."
-        }
-      ],
-      "run_date": "2026-10-28",
-      "category": "Nutritional Sciences",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42933653",
-      "headline": "A Rare Sugar Found in Figs May Protect the Aging Brain \u2014 In Rats, at Least",
-      "journal": "The Journal of Nutrition",
-      "pubdate": "2026 Oct 26",
-      "doi": "10.1016/j.tjnut.2026.101903",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers administered D-allulose \u2014 a low-calorie rare sugar \u2014 orally to rats in a D-galactose-accelerated aging model (n=32 male Wistar rats, 8 per group) for 12 weeks, then assessed spatial learning, memory, and brain pathology. Rats given D-allulose showed significantly improved performance in the Morris Water Maze and restored hippocampal synaptic activity compared to the aging-model controls. D-allulose also reduced mitochondrial reactive oxygen species and brain oxidative stress markers, while the prebiotic fiber inulin showed no significant effect on these outcomes.",
-      "why_it_matters": "D-allulose, increasingly available as a sugar substitute, may have neuroprotective properties that go beyond calorie reduction, though these findings are entirely in animals and require human validation.",
-      "caveats": "animal or cell study, small sample (N<100), male animals only, single-center, short follow-up relative to human aging timescales",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Interesting rare-sugar angle but animal-only study with no human or clinical outcomes.",
-      "pitch_angles": [
-        {
-          "publication_type": "Well+Good / EatingWell",
-          "headline": "Could This Trendy Sugar Substitute Also Protect Your Brain? New Research Has Clues",
-          "hook": "D-allulose \u2014 the rare sugar showing up in keto snacks and alternative sweeteners \u2014 appears to shield aging rat brains from oxidative damage and memory loss, raising questions about what it might do in people.",
-          "pitch_angle": "The animal study found that D-allulose outperformed inulin, a well-regarded prebiotic fiber, at reversing brain dysfunction in an accelerated-aging model \u2014 a surprising result that puts a sugar substitute in unexpected territory. Experts would caution that rat studies rarely translate directly to humans, but the finding adds to a growing body of research suggesting D-allulose has biological effects well beyond sweetness."
         }
       ],
       "run_date": "2026-10-28",
@@ -1283,33 +1439,6 @@
         }
       ],
       "run_date": "2026-10-27",
-      "category": "Nutritional Sciences",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42926059",
-      "headline": "Stroke patients who get enough calories in the first week leave the hospital more functional and with fewer complications",
-      "journal": "Clinical Nutrition ESPEN",
-      "pubdate": "2026 Oct 24",
-      "doi": "10.1016/j.clnesp.2026.105210",
-      "groundbreaking": "Major dietary or microbiome implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers retrospectively analyzed 304 acute stroke patients (median age 77) admitted to a Japanese university hospital to examine whether the gap between calories delivered and estimated caloric needs in the first 7 days affected outcomes. Energy gap was defined as actual intake minus a target of 25 kcal/kg ideal body weight/day. A smaller energy deficit was associated with higher Functional Independence Measure scores at discharge and lower odds of in-hospital complications.",
-      "why_it_matters": "Early nutritional adequacy in the first week after stroke may be a clinically relevant, modifiable factor in functional recovery \u2014 though causality cannot be established from this observational design.",
-      "caveats": "observational design, single-center, retrospective, Japan-specific population, short follow-up (hospital stay only)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Clinical nutrition finding but limited gut-health angle; observational, single-center.",
-      "pitch_angles": [
-        {
-          "publication_type": "Gastroenterology & Endoscopy News / General health",
-          "headline": "Caloric Deficit in First Week After Stroke Linked to Worse Recovery and More In-Hospital Complications",
-          "hook": "Getting enough calories in the seven days after a stroke may be as important as any other early intervention, new research from Japan suggests.",
-          "pitch_angle": "A retrospective study of 304 stroke patients found that those who received closer to their estimated caloric needs in the first week were discharged with better functional independence and fewer complications \u2014 underscoring the often-overlooked role of early nutritional support in acute neurological care."
-        }
-      ],
-      "run_date": "2026-10-26",
       "category": "Nutritional Sciences",
       "chunk": "2/2",
       "status": "new"
